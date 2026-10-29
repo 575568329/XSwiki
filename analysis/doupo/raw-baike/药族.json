@@ -1,0 +1,98 @@
+{
+ "id": 5962160,
+ "subLemmaId": 6030643,
+ "newLemmaId": 7562815,
+ "key": "药族",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中远古八族之一",
+ "title": "药族",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "药族"
+   ],
+   "format": [
+    "药族"
+   ]
+  },
+  {
+   "key": "m25_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "玄幻小说《斗破苍穹》及其衍生作品"
+   ],
+   "format": [
+    "玄幻小说《斗破苍穹》及其衍生作品"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "族长",
+   "value": [
+    "药丹<sup>4</sup><a name=\"ref_4\"></a>"
+   ],
+   "format": [
+    "药丹<sup>4</sup><a name=\"ref_4\"></a>"
+   ]
+  },
+  {
+   "key": "m25_institutionType",
+   "name": "性质",
+   "value": [
+    "远古斗帝种族<sup>9</sup><a name=\"ref_9\"></a>"
+   ],
+   "format": [
+    "远古斗帝种族<sup>9</sup><a name=\"ref_9\"></a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "斗帝血脉",
+   "value": [
+    "药帝血脉<sup>10</sup><a name=\"ref_10\"></a>"
+   ],
+   "format": [
+    "药帝血脉<sup>10</sup><a name=\"ref_10\"></a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "传承异火",
+   "value": [
+    "九幽风炎、龟灵地火<sup>5</sup><a name=\"ref_5\"></a>"
+   ],
+   "format": [
+    "九幽风炎、龟灵地火<sup>5</sup><a name=\"ref_5\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/bba1cd11728b4710b91237926c98d4fdfc039245856c?x-bce-process=image/format,f_auto",
+ "src": "bba1cd11728b4710b91237926c98d4fdfc039245856c",
+ "imageHeight": 355,
+ "imageWidth": 462,
+ "isSummaryPic": "y",
+ "abstract": "药族，是天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的组织，远古八族之一，药丹为药族末代族长。是斗气大陆上尚存的八个拥有斗帝血脉的远古种族之一。药族拥有着大陆上数量最庞大的炼药师集团。因斗帝血脉的原因，族内炼丹成风，强者如云。",
+ "moduleIds": [
+  4668455672
+ ],
+ "url": "http://baike.baidu.com/view/5962160.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%8D%AF%E6%97%8F/7562815",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/5962160.htm#1'>组织经历</a>",
+  "<a href='http://baike.baidu.com/view/5962160.htm#2'>组织成员</a>",
+  "<a href='http://baike.baidu.com/view/5962160.htm#3'>组织活动</a>",
+  "<a href='http://baike.baidu.com/view/5962160.htm#4'>组织配置</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%8D%AF%E6%97%8F/7562815#1'>组织经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%8D%AF%E6%97%8F/7562815#2'>组织成员</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%8D%AF%E6%97%8F/7562815#3'>组织活动</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%8D%AF%E6%97%8F/7562815#4'>组织配置</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

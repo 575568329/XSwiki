@@ -1,0 +1,89 @@
+{
+ "id": 4056587,
+ "subLemmaId": 32012671,
+ "newLemmaId": 56577308,
+ "key": "魏渊",
+ "desc": "小说《大奉打更人》中的角色",
+ "title": "魏渊",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "魏渊"
+   ],
+   "format": [
+    "魏渊"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "魏公、魏青衣"
+   ],
+   "format": [
+    "魏公、魏青衣"
+   ]
+  },
+  {
+   "key": "m47_playrole",
+   "name": "饰演",
+   "value": [
+    "刘奕君"
+   ],
+   "format": [
+    "刘奕君"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "登场作品",
+   "value": [
+    "大奉打更人"
+   ],
+   "format": [
+    "大奉打更人"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/3ac79f3df8dcd100baa1f9b704da5010b912c8fc815e?x-bce-process=image/format,f_auto",
+ "src": "3ac79f3df8dcd100baa1f9b704da5010b912c8fc815e",
+ "imageHeight": 1404,
+ "imageWidth": 1080,
+ "isSummaryPic": "y",
+ "abstract": "魏渊是卖报小郎君所著网络小说《大奉打更人》及其衍生作品中的角色，担任打更人衙门统领，大宦官，元景帝亲信，掌控都察院并权倾朝野，江湖人称魏青衣，与许七安亦师亦友。身着天青色云纹衣衫，鬓角霜白且面容沧桑。魏渊因巫神教屠城家破人亡，投奔上官裴后与上官惜雪相恋。私奔失败后遭净身入宫，遭陷害为证清白立下军令状，因指挥山海关战役得胜获封军神。为保全皇后自废武道修为，多年后重修至二品合道境恢复实力。巫神教战役中战死沙场，经重塑身躯复活，协助许七安平定云州叛乱及超品危机。复活后魏渊放弃官职，携太后游历天下。其经历贯穿家国恩仇，角色涵盖武者、权臣、战略家等多重身份，最终归隐终结政治生涯。",
+ "moduleIds": [
+  5994808843
+ ],
+ "url": "http://baike.baidu.com/item/%E9%AD%8F%E6%B8%8A/56577308",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%AD%8F%E6%B8%8A/56577308",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/4056587.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E9%AD%8F%E6%B8%8A/56577308#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/item/%E9%AD%8F%E6%B8%8A/56577308#2'>角色形象</a>",
+  "<a href='http://baike.baidu.com/item/%E9%AD%8F%E6%B8%8A/56577308#3'>角色能力</a>",
+  "<a href='http://baike.baidu.com/item/%E9%AD%8F%E6%B8%8A/56577308#4'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%8F%E6%B8%8A/56577308#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%8F%E6%B8%8A/56577308#2'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%8F%E6%B8%8A/56577308#3'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%8F%E6%B8%8A/56577308#4'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

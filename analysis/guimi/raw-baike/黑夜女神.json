@@ -1,0 +1,85 @@
+{
+ "id": 8872675,
+ "subLemmaId": 8847500,
+ "newLemmaId": 7135255,
+ "key": "黑夜女神",
+ "desc": "恣嫣创作的网络小说",
+ "title": "黑夜女神",
+ "card": [
+  {
+   "key": "m151_name",
+   "name": "中文名",
+   "value": [
+    "黑夜女神"
+   ],
+   "format": [
+    "黑夜女神"
+   ]
+  },
+  {
+   "key": "m151_author",
+   "name": "作者",
+   "value": [
+    "恣嫣"
+   ],
+   "format": [
+    "恣嫣"
+   ]
+  },
+  {
+   "key": "m151_type",
+   "name": "作品类型",
+   "value": [
+    "东方玄幻类网络小说"
+   ],
+   "format": [
+    "东方玄幻类网络小说"
+   ]
+  },
+  {
+   "key": "m151_platform",
+   "name": "连载平台",
+   "value": [
+    "网络平台"
+   ],
+   "format": [
+    "网络平台"
+   ]
+  },
+  {
+   "key": "m151_customDefault",
+   "name": "驻入网站时间",
+   "value": [
+    "2008年"
+   ],
+   "format": [
+    "2008年"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/42166d224f4a20a44623667c220a8f22720e0cf37a4d?x-bce-process=image/format,f_auto",
+ "src": "42166d224f4a20a44623667c220a8f22720e0cf37a4d",
+ "imageHeight": 600,
+ "imageWidth": 476,
+ "isSummaryPic": "y",
+ "abstract": "《黑夜女神》是作家恣嫣创作的东方玄幻类网络小说，2008年开始连载于网络平台。该作讲述女主角为复仇堕身为妖，因守护挚友而放弃爱情与后位。因怨恨降临人间的黑夜女神选择隐匿自身，遵循天神旨意回归黑暗世界对抗恶魔，最终完成神格觉醒的故事脉络。作品围绕黑暗世界中神魔斗争的宿命展开，呈现角色在情感羁绊与命运抗争中的抉择。",
+ "moduleIds": [
+  5436951970
+ ],
+ "url": "http://baike.baidu.com/subview/8872675/8847500.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E/7135255",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/8872675.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/8872675/8847500.htm#1'>创作背景</a>",
+  "<a href='http://baike.baidu.com/subview/8872675/8847500.htm#2'>内容情节</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E/7135255#1'>创作背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E/7135255#2'>内容情节</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

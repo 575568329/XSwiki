@@ -1,0 +1,76 @@
+{
+ "id": 12721374,
+ "subLemmaId": 13193656,
+ "newLemmaId": 13485517,
+ "key": "帝焰",
+ "desc": "源寒衡创作的网络小说",
+ "title": "帝焰",
+ "card": [
+  {
+   "key": "m151_name",
+   "name": "中文名",
+   "value": [
+    "帝焰"
+   ],
+   "format": [
+    "帝焰"
+   ]
+  },
+  {
+   "key": "m151_author",
+   "name": "作者",
+   "value": [
+    "源寒衡"
+   ],
+   "format": [
+    "源寒衡"
+   ]
+  },
+  {
+   "key": "m151_type",
+   "name": "小说类型",
+   "value": [
+    "玄幻小说"
+   ],
+   "format": [
+    "玄幻小说"
+   ]
+  },
+  {
+   "key": "m151_state",
+   "name": "连载状态",
+   "value": [
+    "连载中"
+   ],
+   "format": [
+    "连载中"
+   ]
+  },
+  {
+   "key": "m151_platform",
+   "name": "连载平台",
+   "value": [
+    "起点中文网"
+   ],
+   "format": [
+    "起点中文网"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/8326cffc1e178a82b90175175c5b648da97739124249?x-bce-process=image/format,f_auto",
+ "src": "8326cffc1e178a82b90175175c5b648da97739124249",
+ "imageHeight": 2000,
+ "imageWidth": 1600,
+ "isSummaryPic": "y",
+ "abstract": "《帝焰》是连载于起点中文网的小说，作者是源寒衡。",
+ "moduleIds": [
+  5356676390
+ ],
+ "url": "http://baike.baidu.com/view/12721374.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%B8%9D%E7%84%B0/13485517",
+ "hasOther": 0,
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

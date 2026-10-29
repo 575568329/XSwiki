@@ -1,0 +1,97 @@
+{
+ "id": 848855,
+ "subLemmaId": 848855,
+ "newLemmaId": 2535750,
+ "key": "司天监",
+ "desc": "官署名",
+ "title": "司天监",
+ "card": [
+  {
+   "key": "m124_nameC",
+   "name": "中文名",
+   "value": [
+    "司天监"
+   ],
+   "format": [
+    "司天监"
+   ]
+  },
+  {
+   "key": "m124_nameE",
+   "name": "外文名",
+   "value": [
+    "Imperial Astronomer"
+   ],
+   "format": [
+    "Imperial Astronomer"
+   ]
+  },
+  {
+   "key": "m124_customDefault",
+   "name": "职位要求",
+   "value": [
+    "承担观察<a target=_blank href=\"/item/%E5%A4%A9%E8%B1%A1/6194151\" data-lemmaid=\"6194151\">天象</a>、颁布<a target=_blank href=\"/item/%E5%8E%86%E6%B3%95/151418\" data-lemmaid=\"151418\">历法</a>"
+   ],
+   "format": [
+    "承担观察<a target=_blank href=\"/item/%E5%A4%A9%E8%B1%A1/6194151\" data-lemmaid=\"6194151\">天象</a>、颁布<a target=_blank href=\"/item/%E5%8E%86%E6%B3%95/151418\" data-lemmaid=\"151418\">历法</a>"
+   ]
+  },
+  {
+   "key": "m124_customDefault",
+   "name": "职官品秩",
+   "value": [
+    "监正、监副"
+   ],
+   "format": [
+    "监正、监副"
+   ]
+  },
+  {
+   "key": "m124_customDefault",
+   "name": "设立",
+   "value": [
+    "宋朝"
+   ],
+   "format": [
+    "宋朝"
+   ]
+  },
+  {
+   "key": "m124_customDefault",
+   "name": "相关人物",
+   "value": [
+    "袁天罡"
+   ],
+   "format": [
+    "袁天罡"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/8435e5dde71190ef76c6cd6fc9478a16fdfaaf51ca75?x-bce-process=image/format,f_auto",
+ "src": "8435e5dde71190ef76c6cd6fc9478a16fdfaaf51ca75",
+ "imageHeight": 868,
+ "imageWidth": 1366,
+ "isSummaryPic": "y",
+ "abstract": "司天监是中国古代掌管天文历法的官署名，外文名Imperial Astronomer。元朝延佑元年（1314年）由司天台改置，秩正三品，设监正、监副等职，下设提学、教授及各科管勾，负责天象观测、历法编订及天文教学。金代始设司天台，隶属秘书监，置提点、监等职官，辖天文、算历、测验等科。元初沿袭金制，至元十一年（1274年）与回回司天台合并，招收生员教授天文，十五年（1278年）另置太史院专司观测。该机构前身为隋唐太史监、司天台，宋代沿用司天监，明代改为钦天监。元世祖时期，札马鲁丁主持大都观星台，进献西域仪象七件，构建回回天文观测体系；郭守敬参与编制《授时历》，废除上元积年法。机构兼具天文学校职能，保存《星占学导引》等典籍，明初沿用回回天文学遗产编修历法。",
+ "moduleIds": [
+  5645032806,
+  6984587891
+ ],
+ "url": "http://baike.baidu.com/view/848855.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%8F%B8%E5%A4%A9%E7%9B%91/2535750",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/848855.htm#1'>简介</a>",
+  "<a href='http://baike.baidu.com/view/848855.htm#2'>史料</a>",
+  "<a href='http://baike.baidu.com/view/848855.htm#3'>元朝司天监</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%B8%E5%A4%A9%E7%9B%91/2535750#1'>简介</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%B8%E5%A4%A9%E7%9B%91/2535750#2'>史料</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%B8%E5%A4%A9%E7%9B%91/2535750#3'>元朝司天监</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

@@ -1,0 +1,70 @@
+{
+  "name": "李曦治",
+  "oneLiner": "李渊蛟嫡子、李家'三曦'之一，入青池宗官至究天阁主，精于经营反哺家族",
+  "toProtagonist": "以入宗之身反哺李家的'三曦'之一，李曦明之兄、箓气随其紫府而愈显",
+  "visualLine": "成年男修，长枪引爆裂紫色雷电，周身霞光流转",
+  "role": "core",
+  "cultivation": "筑基（箓气【彩彻云衢】）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "嫡子幼年",
+      "chapterStart": 274,
+      "chapterEnd": 278,
+      "situation": "李渊蛟嫡子，四岁多乖巧可爱；母萧归鸾为其多谋势力依靠",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "入宗掌坊",
+      "chapterStart": 413,
+      "chapterEnd": 415,
+      "situation": "入青池宗为修士，接管屋埠坊仅三月即掌控全局，心系家族自得其乐",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "驻边历练",
+      "chapterStart": 488,
+      "chapterEnd": 544,
+      "situation": "以筑基目力初见世子李周巍暗金环眸；与李玄锋镇守边燕山偏东",
+      "cultivationAt": "筑基",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "地渊暗算",
+      "chapterStart": 660,
+      "chapterEnd": 693,
+      "situation": "地渊守备受紫府试探，礁海遭迟炙虎设阵暗算；李曦明突破紫府后箓气愈显",
+      "cultivationAt": "筑基",
+      "visual": "掐诀指尖冒起翠碧、棕黄、玄金三点霞彩",
+      "spoiler": false
+    },
+    {
+      "id": "stg5",
+      "title": "究天阁主",
+      "chapterStart": 812,
+      "chapterEnd": 840,
+      "situation": "任究天阁主十余年，闭关突破【五色沉广剑诀】；大倥海寺突访时朗声喝问",
+      "cultivationAt": "筑基",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg6",
+      "title": "虹霞闻名",
+      "chapterStart": 1562,
+      "chapterEnd": 1562,
+      "situation": "以'昭景真人之兄'见称于世，人所共知其修行正是虹霞之道",
+      "cultivationAt": "筑基",
+      "visual": null,
+      "spoiler": false
+    }
+  ]
+}

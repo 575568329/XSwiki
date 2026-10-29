@@ -1,0 +1,80 @@
+[
+ {
+  "seed": "黎明之剑",
+  "key": "黎明之剑",
+  "ok": true,
+  "desc": "远瞳创作的时空穿梭类网络小说"
+ },
+ {
+  "seed": "琥珀(黎明之剑)",
+  "key": null,
+  "ok": false,
+  "desc": ""
+ },
+ {
+  "seed": "皮特曼(黎明之剑)",
+  "key": null,
+  "ok": false,
+  "desc": ""
+ },
+ {
+  "seed": "弗朗西斯(黎明之剑)",
+  "key": null,
+  "ok": false,
+  "desc": ""
+ },
+ {
+  "seed": "琥珀(小说《黎明之剑》)",
+  "key": null,
+  "ok": false,
+  "desc": ""
+ },
+ {
+  "seed": "皮特曼·格雷",
+  "key": null,
+  "ok": false,
+  "desc": ""
+ },
+ {
+  "seed": "塞西尔家族",
+  "key": null,
+  "ok": false,
+  "desc": ""
+ },
+ {
+  "seed": "刚铎帝国",
+  "key": "刚铎帝国",
+  "ok": true,
+  "desc": "远瞳所著科幻小说《黎明之剑》国家"
+ },
+ {
+  "seed": "魔网",
+  "key": "魔网",
+  "ok": true,
+  "desc": "2003年河南文艺出版社出版的图书"
+ },
+ {
+  "seed": "大贤者",
+  "key": "大贤者",
+  "ok": true,
+  "desc": "轻小说《关于我转生变成史莱姆这档事》及其衍生作品中的角色"
+ },
+ {
+  "seed": "康德雷尔",
+  "key": null,
+  "ok": false,
+  "desc": ""
+ },
+ {
+  "seed": "提尔·米尔利尔",
+  "key": null,
+  "ok": false,
+  "desc": ""
+ },
+ {
+  "seed": "菲尔米林",
+  "key": null,
+  "ok": false,
+  "desc": ""
+ }
+]

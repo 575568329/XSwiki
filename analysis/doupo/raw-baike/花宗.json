@@ -1,0 +1,96 @@
+{
+ "id": 4620730,
+ "subLemmaId": 23923335,
+ "newLemmaId": 6963283,
+ "key": "花宗",
+ "desc": "玄幻小说《斗破苍穹》中的势力",
+ "title": "花宗",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "花宗"
+   ],
+   "format": [
+    "花宗"
+   ]
+  },
+  {
+   "key": "m25_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "宗主",
+   "value": [
+    "花玉（前）、云韵（现）"
+   ],
+   "format": [
+    "花玉（前）、云韵（现）"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "少宗主",
+   "value": [
+    "纳兰嫣然"
+   ],
+   "format": [
+    "纳兰嫣然"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "地位",
+   "value": [
+    "中州二宗之一"
+   ],
+   "format": [
+    "中州二宗之一"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "最终",
+   "value": [
+    "天府联盟”中的势力之一"
+   ],
+   "format": [
+    "天府联盟”中的势力之一"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/5882b2b7d0a20cf431ad14fd0f535c36acaf2edd33c4?x-bce-process=image/format,f_auto",
+ "src": "5882b2b7d0a20cf431ad14fd0f535c36acaf2edd33c4",
+ "imageHeight": 780,
+ "imageWidth": 1231,
+ "isSummaryPic": "y",
+ "abstract": "花宗，出自天蚕土豆所著玄幻小说《斗破苍穹》中的门派，萧炎组建的“天府联盟”中的四大势力之一。中州顶尖势力，与天冥宗齐名的二宗之一，只招收女性弟子。前代宗主花玉（斗尊巅峰修为）因受云韵两年送饭之恩，临终前将宗主之位与毕生斗气传授于她，现任宗主云韵（八星斗尊修为）继承后与两位太上长老青华二仙（高级半圣与中级半圣）共同执掌宗门。该宗门以隐士门派风格著称，不同于其他势力的侵略性，在星界大战后响应萧炎号召，经长老会商议同意加入天府联盟。最终与星陨阁、丹塔、焚炎谷共同组建联盟，由药尘担任盟主，火云老祖等三人为副盟主。花宗最初并无真正斗圣坐镇，核心战力主要为两位半圣级太上长老和数名斗尊长老，但凭借联盟力量得以保存宗门传承。后太上长老青仙子突破至斗圣层次，成为花宗第一强者。",
+ "moduleIds": [
+  5582260438
+ ],
+ "url": "http://baike.baidu.com/view/4620730.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%8A%B1%E5%AE%97/6963283",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/4620730.htm#1'>组织结构与重要人物</a>",
+  "<a href='http://baike.baidu.com/view/4620730.htm#2'>重要事件</a>",
+  "<a href='http://baike.baidu.com/view/4620730.htm#3'>势力关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%8A%B1%E5%AE%97/6963283#1'>组织结构与重要人物</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%8A%B1%E5%AE%97/6963283#2'>重要事件</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%8A%B1%E5%AE%97/6963283#3'>势力关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

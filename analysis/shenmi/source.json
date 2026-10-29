@@ -1,0 +1,26 @@
+[
+ {
+  "source": "http://www.yetianlian.net/",
+  "name": "我加载了神秘学面板",
+  "bookUrl": "http://www.yetianlian.net/yt144905/",
+  "chapters": 573,
+  "menu": ".listmain dl dd:gt(11) a",
+  "content": "#content"
+ },
+ {
+  "source": "http://www.biqusk.la/",
+  "name": "我加载了神秘学面板",
+  "bookUrl": "http://www.biqusk.info/155_155985/",
+  "chapters": 573,
+  "menu": "#list dl dd a",
+  "content": "#content"
+ },
+ {
+  "source": "http://www.yunxs.la/",
+  "name": "我加载了神秘学面板",
+  "bookUrl": "http://www.yunxs.la/wojiazaileshenmixuemianban/",
+  "chapters": 573,
+  "menu": ".list_box ul li a",
+  "content": ".box_box"
+ }
+]

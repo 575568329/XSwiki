@@ -1,0 +1,273 @@
+{
+ "id": 16749,
+ "subLemmaId": 5261552,
+ "newLemmaId": 5896427,
+ "key": "战神",
+ "desc": "日本2005年索尼发行的动作游戏",
+ "title": "战神",
+ "card": [
+  {
+   "key": "m9_nameC",
+   "name": "中文名",
+   "value": [
+    "战神"
+   ],
+   "format": [
+    "战神"
+   ]
+  },
+  {
+   "key": "m9_nameE",
+   "name": "原版名称",
+   "value": [
+    "God of War"
+   ],
+   "format": [
+    "God of War"
+   ]
+  },
+  {
+   "key": "m9_alternateName",
+   "name": "别名",
+   "value": [
+    "战神1"
+   ],
+   "format": [
+    "战神1"
+   ]
+  },
+  {
+   "key": "m9_class",
+   "name": "游戏类型",
+   "value": [
+    "第三人称动作角色扮演游戏"
+   ],
+   "format": [
+    "第三人称动作角色扮演游戏"
+   ]
+  },
+  {
+   "key": "m9_platform",
+   "name": "游戏平台",
+   "value": [
+    "PlayStation 2",
+    "PlayStation 3"
+   ],
+   "format": [
+    "PlayStation 2",
+    "PlayStation 3"
+   ]
+  },
+  {
+   "key": "m9_belongseires",
+   "name": "所属系列",
+   "value": [
+    "《战神》"
+   ],
+   "format": [
+    "《战神》"
+   ]
+  },
+  {
+   "key": "m9_district",
+   "name": "地区",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%97%A5%E6%9C%AC/111617\" data-lemmaid=\"111617\">日本</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%97%A5%E6%9C%AC/111617\" data-lemmaid=\"111617\">日本</a>"
+   ]
+  },
+  {
+   "key": "m9_game1",
+   "name": "开发商",
+   "value": [
+    "索尼电子娱乐"
+   ],
+   "format": [
+    "索尼电子娱乐"
+   ]
+  },
+  {
+   "key": "m9_publisherCompany",
+   "name": "发行公司",
+   "value": [
+    "索尼电子娱乐"
+   ],
+   "format": [
+    "索尼电子娱乐"
+   ]
+  },
+  {
+   "key": "m9_game3",
+   "name": "发行日期",
+   "value": [
+    "2005年3月22日"
+   ],
+   "format": [
+    "2005年3月22日"
+   ]
+  },
+  {
+   "key": "m9_gameproduce",
+   "name": "制作人",
+   "value": [
+    "Shannon Studstill"
+   ],
+   "format": [
+    "Shannon Studstill"
+   ]
+  },
+  {
+   "key": "m9_director",
+   "name": "总监",
+   "value": [
+    "David Jaffe"
+   ],
+   "format": [
+    "David Jaffe"
+   ]
+  },
+  {
+   "key": "m9_screenwriter",
+   "name": "编剧",
+   "value": [
+    "<a target=_blank href=\"/item/Marianne%20Krawczyk/19371733\" data-lemmaid=\"19371733\">Marianne Krawczyk</a>、Alexander Stein、David Jaffe、Keith Fay"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/Marianne%20Krawczyk/19371733\" data-lemmaid=\"19371733\">Marianne Krawczyk</a>、Alexander Stein、David Jaffe、Keith Fay"
+   ]
+  },
+  {
+   "key": "m9_majordub",
+   "name": "主要配音",
+   "value": [
+    "特伦斯·TC·卡森、<a target=_blank href=\"/item/Linda%20Hunt/4193707\" data-lemmaid=\"4193707\">Linda Hunt</a>、Steve Blum、Susanne Blakeslee、<a target=_blank href=\"/item/Carole%20Ruggier/18631894\" data-lemmaid=\"18631894\">Carole Ruggier</a>、<a target=_blank href=\"/item/Paul%20Eiding/19238110\" data-lemmaid=\"19238110\">Paul Eiding</a>"
+   ],
+   "format": [
+    "特伦斯·TC·卡森、<a target=_blank href=\"/item/Linda%20Hunt/4193707\" data-lemmaid=\"4193707\">Linda Hunt</a>、Steve Blum、Susanne Blakeslee、<a target=_blank href=\"/item/Carole%20Ruggier/18631894\" data-lemmaid=\"18631894\">Carole Ruggier</a>、<a target=_blank href=\"/item/Paul%20Eiding/19238110\" data-lemmaid=\"19238110\">Paul Eiding</a>"
+   ]
+  },
+  {
+   "key": "m9_backgroundMusic",
+   "name": "背景音乐",
+   "value": [
+    "<a target=_blank href=\"/item/Gerard%20Marino/9512531\" data-lemmaid=\"9512531\">Gerard Marino</a>、<a target=_blank href=\"/item/Mike%20Reagan/52102214\" data-lemmaid=\"52102214\">Mike Reagan</a>、Ron Fish、Winifred Phillips、Winnie Waldron、<a target=_blank href=\"/item/Cris%20Velasco/18640740\" data-lemmaid=\"18640740\">Cris Velasco</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/Gerard%20Marino/9512531\" data-lemmaid=\"9512531\">Gerard Marino</a>、<a target=_blank href=\"/item/Mike%20Reagan/52102214\" data-lemmaid=\"52102214\">Mike Reagan</a>、Ron Fish、Winifred Phillips、Winnie Waldron、<a target=_blank href=\"/item/Cris%20Velasco/18640740\" data-lemmaid=\"18640740\">Cris Velasco</a>"
+   ]
+  },
+  {
+   "key": "m9_contenttheme",
+   "name": "内容主题",
+   "value": [
+    "冒险"
+   ],
+   "format": [
+    "冒险"
+   ]
+  },
+  {
+   "key": "m9_playernum",
+   "name": "玩家人数",
+   "value": [
+    "单人"
+   ],
+   "format": [
+    "单人"
+   ]
+  },
+  {
+   "key": "m9_gamescreen",
+   "name": "游戏画面",
+   "value": [
+    "3D"
+   ],
+   "format": [
+    "3D"
+   ]
+  },
+  {
+   "key": "m9_gameengine",
+   "name": "游戏引擎",
+   "value": [
+    "Kinetica，Bluepoint Engine"
+   ],
+   "format": [
+    "Kinetica，Bluepoint Engine"
+   ]
+  },
+  {
+   "key": "m9_level",
+   "name": "游戏分级",
+   "value": [
+    "BBFC：18",
+    "OFLC：MA15+",
+    "CERO：18+",
+    "PEGI：18+",
+    "OFLC/NZ：R16+",
+    "USK：18",
+    "ESRB：Mature"
+   ],
+   "format": [
+    "BBFC：18",
+    "OFLC：MA15+",
+    "CERO：18+",
+    "PEGI：18+",
+    "OFLC/NZ：R16+",
+    "USK：18",
+    "ESRB：Mature"
+   ]
+  },
+  {
+   "key": "m9_endingnum",
+   "name": "结局数",
+   "value": [
+    "1 个"
+   ],
+   "format": [
+    "1 个"
+   ]
+  },
+  {
+   "key": "m9_game4",
+   "name": "主要角色",
+   "value": [
+    "奎托斯"
+   ],
+   "format": [
+    "奎托斯"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/d6ca7bcb0a46f21fc6e8aaa2fd246b600d33ae67?x-bce-process=image/format,f_auto",
+ "src": "d6ca7bcb0a46f21fc6e8aaa2fd246b600d33ae67",
+ "imageHeight": 910,
+ "imageWidth": 640,
+ "isSummaryPic": "y",
+ "abstract": "《战神》（God Of War）是一款由索尼旗下圣莫尼卡工作室制作的第三人称动作角色扮演游戏，于2005年3月22日由索尼发行。游戏最初在PlayStation 2平台上推出，后续版本也在PlayStation 3平台上发布。游戏以希腊神话为背景，讲述由凡人成为战神的奎托斯成为战神并展开弑神屠杀的冒险历程。游戏的核心玩法包括连击战斗、平台构建和益智游戏元素。玩家控制的奎托斯将与来自希腊神话的敌人战斗，包括不死战士、鹰身女妖、牛头怪等。游戏中包含平台元素，要求玩家攀登墙壁、跳跃和解决谜题。玩家可以通过收集不同颜色的球体来补充生命值和魔法值，并通过经验值升级武器和魔法。游戏还包含了挑战模式和丰富的剧情，玩家在完成游戏后可以解锁额外的奖励和内容。战神受到了广泛好评，其中GameRankings总分为93.69%，Metacritic总分94分，他们将他们的得分描述为“普遍赞誉”。 ",
+ "moduleIds": [
+  6964017667
+ ],
+ "url": "http://baike.baidu.com/subview/16749/5261552.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%88%98%E7%A5%9E/5896427",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/16749.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/16749/5261552.htm#1'>背景设定</a>",
+  "<a href='http://baike.baidu.com/subview/16749/5261552.htm#2'>角色设定</a>",
+  "<a href='http://baike.baidu.com/subview/16749/5261552.htm#3'>物品道具</a>",
+  "<a href='http://baike.baidu.com/subview/16749/5261552.htm#4'>场景地图</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%88%98%E7%A5%9E/5896427#1'>背景设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%88%98%E7%A5%9E/5896427#2'>角色设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%88%98%E7%A5%9E/5896427#3'>物品道具</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%88%98%E7%A5%9E/5896427#4'>场景地图</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

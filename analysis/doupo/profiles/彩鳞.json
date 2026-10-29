@@ -1,0 +1,37 @@
+{
+  "name": "彩鳞",
+  "persona": {
+    "appearance": "妖艳绝色的蛇人族女王，眸光冰冷魅惑，身姿曼妙常着紫衣；与吞天蟒魂融合后周身隐透七彩光泽，冷艳中渐生柔情。",
+    "personality": ["冷艳高傲", "杀伐果决", "外冷内热", "坚韧忠诚"],
+    "motivation": "进化血脉重振蛇人族，守护萧炎与女儿萧潇，与其并肩立足于强者之林。",
+    "arc": "蛇人族女王与萧炎由争夺异火结缘，双魂渐融得名彩鳞，坐镇炎盟育女，终随其并肩巅峰。"
+  },
+  "evidence": [
+    "【第254章】竟然还真地突破斗皇障壁。进入斗宗级别了。",
+    "【第547章】要不叫彩鳞如何？这跟你很般配哦。",
+    "【第622章】美杜莎，你真要与我魂殿结仇不成？！",
+    "【第256章】妖艳眸子冰冷的盯着萧炎。"
+  ],
+  "timeline": [
+    {"chapter": 158, "event": "塔戈尔大沙漠蛇人族女王之名初现"},
+    {"chapter": 206, "event": "岩浆底与萧炎争夺青莲地心火结怨"},
+    {"chapter": 254, "event": "与吞天蟒魂融合，突破斗宗现身"},
+    {"chapter": 547, "event": "萧炎为其取名彩鳞，双魂渐融为一"},
+    {"chapter": 620, "event": "云岚宗大战力拦魂殿护法救护药老"},
+    {"chapter": 705, "event": "坐镇炎盟力战来犯的魂殿铁护法"},
+    {"chapter": 1174, "event": "携女萧潇现身中州与萧炎重逢"},
+    {"chapter": 1448, "event": "双帝之战紧护萧潇，终与萧炎成眷属"}
+  ],
+  "relationships": [
+    {"name": "萧炎", "relation": "伴侣"},
+    {"name": "萧薰儿", "relation": "姐妹"},
+    {"name": "小医仙", "relation": "姐妹"},
+    {"name": "魂天帝", "relation": "死敌"}
+  ],
+  "stages": [
+    {"chapterStart": 158, "chapterEnd": 249, "title": "蛇族女王", "cultivationAt": "斗皇巅峰", "situation": "塔戈尔蛇人族女王，为进化血脉争夺异火，追杀萧炎结怨。"},
+    {"chapterStart": 250, "chapterEnd": 546, "title": "双魂纠缠", "cultivationAt": "斗宗", "situation": "融合吞天蟒魂晋入斗宗，双魂纠缠人性渐苏，与萧炎恩怨交织。"},
+    {"chapterStart": 547, "chapterEnd": 1173, "title": "得名守盟", "cultivationAt": "斗宗升五星斗尊", "situation": "得名彩鳞留守加玛坐镇炎盟，力抗魂殿进犯，育有萧潇。"},
+    {"chapterStart": 1174, "chapterEnd": 1448, "title": "并肩巅峰", "cultivationAt": "斗尊（两年间自五星疾升）", "situation": "携女赴中州与萧炎重逢，随联军征战，双帝之战后终成眷属。"}
+  ]
+}

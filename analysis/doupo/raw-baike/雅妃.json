@@ -1,0 +1,124 @@
+{
+ "id": 4464409,
+ "subLemmaId": 4464409,
+ "newLemmaId": 4356068,
+ "key": "雅妃",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的角色",
+ "title": "雅妃",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "米特尔·雅妃"
+   ],
+   "format": [
+    "米特尔·雅妃"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "金之女皇、雅妃"
+   ],
+   "format": [
+    "金之女皇、雅妃"
+   ]
+  },
+  {
+   "key": "m47_dub",
+   "name": "配音",
+   "value": [
+    "祝俊（动画）"
+   ],
+   "format": [
+    "祝俊（动画）"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "女"
+   ],
+   "format": [
+    "女"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "《斗破苍穹》<sup>2</sup><a name=\"ref_2\"></a>"
+   ],
+   "format": [
+    "《斗破苍穹》<sup>2</sup><a name=\"ref_2\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属势力",
+   "value": [
+    "<a target=_blank href=\"/item/%E7%B1%B3%E7%89%B9%E5%B0%94%E5%AE%B6%E6%97%8F/23414443\" data-lemmaid=\"23414443\">米特尔家族</a>、炎盟"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E7%B1%B3%E7%89%B9%E5%B0%94%E5%AE%B6%E6%97%8F/23414443\" data-lemmaid=\"23414443\">米特尔家族</a>、炎盟"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "米特尔家族族长"
+   ],
+   "format": [
+    "米特尔家族族长"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "修为",
+   "value": [
+    "斗皇<sup>3</sup><a name=\"ref_3\"></a>"
+   ],
+   "format": [
+    "斗皇<sup>3</sup><a name=\"ref_3\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/adaf2edda3cc7cd9815a5fbc3601213fb80e915b?x-bce-process=image/format,f_auto",
+ "src": "adaf2edda3cc7cd9815a5fbc3601213fb80e915b",
+ "imageHeight": 952,
+ "imageWidth": 640,
+ "isSummaryPic": "y",
+ "abstract": "米特尔·雅妃，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的角色，萧炎的红颜知己之一，外号“金之女皇”，米特尔拍卖场首席拍卖师，米特尔家族族长。在乌坦城历练时遇到了萧炎，认为他是自己发现的最有价值的宝物，故与之交好。双帝之战后，被萧炎接回乌坦城居住。",
+ "moduleIds": [
+  6544461482,
+  3978587286,
+  5657420674,
+  5657420675,
+  5680257734,
+  5680257735
+ ],
+ "url": "http://baike.baidu.com/subview/4464409/4464409.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%9B%85%E5%A6%83/4356068",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/4464409.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/4464409/4464409.htm#1'>角色形象</a>",
+  "<a href='http://baike.baidu.com/subview/4464409/4464409.htm#2'>角色能力</a>",
+  "<a href='http://baike.baidu.com/subview/4464409/4464409.htm#3'>人际关系</a>",
+  "<a href='http://baike.baidu.com/subview/4464409/4464409.htm#4'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%9B%85%E5%A6%83/4356068#1'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%9B%85%E5%A6%83/4356068#2'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%9B%85%E5%A6%83/4356068#3'>人际关系</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%9B%85%E5%A6%83/4356068#4'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

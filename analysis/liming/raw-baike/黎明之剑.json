@@ -1,0 +1,186 @@
+{
+ "id": 9092947,
+ "subLemmaId": 23214446,
+ "newLemmaId": 22620866,
+ "key": "黎明之剑",
+ "desc": "远瞳创作的时空穿梭类网络小说",
+ "title": "黎明之剑",
+ "card": [
+  {
+   "key": "m151_name",
+   "name": "中文名",
+   "value": [
+    "黎明之剑"
+   ],
+   "format": [
+    "黎明之剑"
+   ]
+  },
+  {
+   "key": "m151_foreignName",
+   "name": "外文名",
+   "value": [
+    "The Sword of the dawn"
+   ],
+   "format": [
+    "The Sword of the dawn"
+   ]
+  },
+  {
+   "key": "m151_author",
+   "name": "作者",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%BF%9C%E7%9E%B3/5435293\" data-lemmaid=\"5435293\">远瞳</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%BF%9C%E7%9E%B3/5435293\" data-lemmaid=\"5435293\">远瞳</a>"
+   ]
+  },
+  {
+   "key": "m151_type",
+   "name": "作品类型",
+   "value": [
+    "<a target=_blank href=\"/item/%E7%A7%91%E5%B9%BB/265902\" data-lemmaid=\"265902\">科幻</a>，<a target=_blank href=\"/item/%E7%A9%BF%E8%B6%8A/14492031\" data-lemmaid=\"14492031\">穿越</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E7%A7%91%E5%B9%BB/265902\" data-lemmaid=\"265902\">科幻</a>，<a target=_blank href=\"/item/%E7%A9%BF%E8%B6%8A/14492031\" data-lemmaid=\"14492031\">穿越</a>"
+   ]
+  },
+  {
+   "key": "m151_language",
+   "name": "语言",
+   "value": [
+    "中文"
+   ],
+   "format": [
+    "中文"
+   ]
+  },
+  {
+   "key": "m151_Initial launch time",
+   "name": "首发时间",
+   "value": [
+    "2018年4月10日<sup>7</sup><a name=\"ref_7\"></a>"
+   ],
+   "format": [
+    "2018年4月10日<sup>7</sup><a name=\"ref_7\"></a>"
+   ]
+  },
+  {
+   "key": "m151_Over Time",
+   "name": "完结时间",
+   "value": [
+    "2022年3月16日<sup>8</sup><a name=\"ref_8\"></a>"
+   ],
+   "format": [
+    "2022年3月16日<sup>8</sup><a name=\"ref_8\"></a>"
+   ]
+  },
+  {
+   "key": "m151_platform",
+   "name": "连载平台",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%B5%B7%E7%82%B9%E4%B8%AD%E6%96%87%E7%BD%91/2374551\" data-lemmaid=\"2374551\">起点中文网</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%B5%B7%E7%82%B9%E4%B8%AD%E6%96%87%E7%BD%91/2374551\" data-lemmaid=\"2374551\">起点中文网</a>"
+   ]
+  },
+  {
+   "key": "m151_state",
+   "name": "连载状态",
+   "value": [
+    "已完结"
+   ],
+   "format": [
+    "已完结"
+   ]
+  },
+  {
+   "key": "m151_Total number of chapters",
+   "name": "总章节数",
+   "value": [
+    "1600章"
+   ],
+   "format": [
+    "1600章"
+   ]
+  },
+  {
+   "key": "m151_Total number of words",
+   "name": "总字数",
+   "value": [
+    "<i>633.27万</i><sup>2</sup><a name=\"ref_2\"></a>"
+   ],
+   "format": [
+    "<i>633.27万</i><sup>2</sup><a name=\"ref_2\"></a>"
+   ]
+  },
+  {
+   "key": "m151_majorRole",
+   "name": "主要角色",
+   "value": [
+    "<a target=_blank href=\"/item/%E9%AB%98%E6%96%87%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94/59266577\" data-lemmaid=\"59266577\">高文·塞西尔</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E9%AB%98%E6%96%87%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94/59266577\" data-lemmaid=\"59266577\">高文·塞西尔</a>"
+   ]
+  },
+  {
+   "key": "m151_chapter",
+   "name": "最新章节",
+   "value": [
+    "番外-边际漫游者<sup>2</sup><a name=\"ref_2\"></a>"
+   ],
+   "format": [
+    "番外-边际漫游者<sup>2</sup><a name=\"ref_2\"></a>"
+   ]
+  },
+  {
+   "key": "m151_Awards Received",
+   "name": "所获奖项",
+   "value": [
+    "第四届橙瓜网络文学奖年度百强作品<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "第四届橙瓜网络文学奖年度百强作品<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/fcfaaf51f3deb48f8c5449aa6c552d292df5e0fed226?x-bce-process=image/format,f_auto",
+ "src": "fcfaaf51f3deb48f8c5449aa6c552d292df5e0fed226",
+ "imageHeight": 800,
+ "imageWidth": 600,
+ "isSummaryPic": "y",
+ "abstract": "《黎明之剑》是远瞳在起点中文网所著的一部科幻，时空穿梭类网络小说，现已完结。连载于起点中文网的科幻分类，有漫画等衍生作品，但衍生番剧风评不佳。小说讲述了主角高文穿越到了一个异界大陆，并在那里经历了种种冒险。小说以其独特的西幻题材和魂穿类型吸引了大量读者。故事背景设定独特严谨，各方势力各有亮点，世界观丰富而立体。主角通过借尸还魂的方式切入故事，使得情节更加紧凑。远瞳的文笔流畅且富有画面感，能够带领读者沉浸其中。《黎明之剑》是一部充满奇幻元素和冒险精神的小说，通过在主角带领下对世界不断探索，展现了一个引人入胜的故事。《黎明之剑》获得第四届橙瓜网络文学奖年度百强作品。",
+ "moduleIds": [
+  5812564433,
+  6643038427,
+  6643038428,
+  6643038429,
+  6643038431,
+  6643038432,
+  6643038434,
+  5650905335
+ ],
+ "url": "http://baike.baidu.com/item/%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%91/22620866",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%91/22620866",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/9092947.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%91/22620866#1'>作品简介</a>",
+  "<a href='http://baike.baidu.com/item/%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%91/22620866#2'>作者简介</a>",
+  "<a href='http://baike.baidu.com/item/%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%91/22620866#3'>角色介绍</a>",
+  "<a href='http://baike.baidu.com/item/%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%91/22620866#4'>主要国家</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%91/22620866#1'>作品简介</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%91/22620866#2'>作者简介</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%91/22620866#3'>角色介绍</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%91/22620866#4'>主要国家</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

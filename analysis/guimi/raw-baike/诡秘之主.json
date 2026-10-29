@@ -1,0 +1,230 @@
+{
+ "id": 21255677,
+ "subLemmaId": 23076774,
+ "newLemmaId": 22466085,
+ "key": "诡秘之主",
+ "desc": "爱潜水的乌贼创作的长篇小说",
+ "title": "诡秘之主",
+ "card": [
+  {
+   "key": "m151_name",
+   "name": "中文名",
+   "value": [
+    "诡秘之主"
+   ],
+   "format": [
+    "诡秘之主"
+   ]
+  },
+  {
+   "key": "m151_foreignName",
+   "name": "外文名",
+   "value": [
+    "Lord of Mysteries"
+   ],
+   "format": [
+    "Lord of Mysteries"
+   ]
+  },
+  {
+   "key": "m151_author",
+   "name": "作者",
+   "value": [
+    "<a target=_blank href=\"/item/%E7%88%B1%E6%BD%9C%E6%B0%B4%E7%9A%84%E4%B9%8C%E8%B4%BC/8023388\" data-lemmaid=\"8023388\">爱潜水的乌贼</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E7%88%B1%E6%BD%9C%E6%B0%B4%E7%9A%84%E4%B9%8C%E8%B4%BC/8023388\" data-lemmaid=\"8023388\">爱潜水的乌贼</a>"
+   ]
+  },
+  {
+   "key": "m151_type",
+   "name": "作品类型",
+   "value": [
+    "玄幻·异世大陆·轻小说"
+   ],
+   "format": [
+    "玄幻·异世大陆·轻小说"
+   ]
+  },
+  {
+   "key": "m151_language",
+   "name": "语言",
+   "value": [
+    "中文"
+   ],
+   "format": [
+    "中文"
+   ]
+  },
+  {
+   "key": "m151_Initial launch time",
+   "name": "首发时间",
+   "value": [
+    "2018年4月1日"
+   ],
+   "format": [
+    "2018年4月1日"
+   ]
+  },
+  {
+   "key": "m151_Over Time",
+   "name": "完结时间",
+   "value": [
+    "2020年5月1日"
+   ],
+   "format": [
+    "2020年5月1日"
+   ]
+  },
+  {
+   "key": "m151_platform",
+   "name": "连载平台",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%B5%B7%E7%82%B9%E4%B8%AD%E6%96%87%E7%BD%91/2374551\" data-lemmaid=\"2374551\">起点中文网</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%B5%B7%E7%82%B9%E4%B8%AD%E6%96%87%E7%BD%91/2374551\" data-lemmaid=\"2374551\">起点中文网</a>"
+   ]
+  },
+  {
+   "key": "m151_state",
+   "name": "连载状态",
+   "value": [
+    "已完结"
+   ],
+   "format": [
+    "已完结"
+   ]
+  },
+  {
+   "key": "m151_Total number of chapters",
+   "name": "总章节数",
+   "value": [
+    "完本共1418章<sup>97</sup><a name=\"ref_97\"></a>"
+   ],
+   "format": [
+    "完本共1418章<sup>97</sup><a name=\"ref_97\"></a>"
+   ]
+  },
+  {
+   "key": "m151_Total number of words",
+   "name": "总字数",
+   "value": [
+    "446.77万<sup>2</sup><a name=\"ref_2\"></a>"
+   ],
+   "format": [
+    "446.77万<sup>2</sup><a name=\"ref_2\"></a>"
+   ]
+  },
+  {
+   "key": "m151_majorRole",
+   "name": "主要角色",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%85%8B%E8%8E%B1%E6%81%A9%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82/23200273\" data-lemmaid=\"23200273\">克莱恩·莫雷蒂</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%85%8B%E8%8E%B1%E6%81%A9%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82/23200273\" data-lemmaid=\"23200273\">克莱恩·莫雷蒂</a>"
+   ]
+  },
+  {
+   "key": "m151_Derivative works",
+   "name": "衍生作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%AE%BF%E5%91%BD%E4%B9%8B%E7%8E%AF/62709706\" data-lemmaid=\"62709706\">宿命之环</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%AE%BF%E5%91%BD%E4%B9%8B%E7%8E%AF/62709706\" data-lemmaid=\"62709706\">宿命之环</a>"
+   ]
+  },
+  {
+   "key": "m151_day",
+   "name": "出版日期",
+   "value": [
+    "2018年4月1日",
+    "2020年5月1日"
+   ],
+   "format": [
+    "2018年4月1日",
+    "2020年5月1日"
+   ]
+  },
+  {
+   "key": "m151_chapter",
+   "name": "最新章节",
+   "value": [
+    "12月1日《诡秘之主》新番外发布<sup>88</sup><a name=\"ref_88\"></a>"
+   ],
+   "format": [
+    "12月1日《诡秘之主》新番外发布<sup>88</sup><a name=\"ref_88\"></a>"
+   ]
+  },
+  {
+   "key": "m151_customDefault",
+   "name": "所获奖项",
+   "value": [
+    "第四届橙瓜网络文学奖年度十大作品，最具潜力十大游戏IP；被列入“中国网络文学影响力榜：海外影响力榜”<sup>8</sup><a name=\"ref_8\"></a>",
+    "；入选第二届“天马文学奖”<sup>9</sup><a name=\"ref_9\"></a>",
+    "；入藏大英图书馆<sup>64</sup><a name=\"ref_64\"></a>",
+    "；入选“2024网络文学神作榜”<sup>68</sup><a name=\"ref_68\"></a>",
+    "；入选2024阅文IP盛典阅文十周年20大荣耀IP<sup>72</sup><a name=\"ref_72\"></a>"
+   ],
+   "format": [
+    "第四届橙瓜网络文学奖年度十大作品，最具潜力十大游戏IP；被列入“中国网络文学影响力榜：海外影响力榜”<sup>8</sup><a name=\"ref_8\"></a>",
+    "；入选第二届“天马文学奖”<sup>9</sup><a name=\"ref_9\"></a>",
+    "；入藏大英图书馆<sup>64</sup><a name=\"ref_64\"></a>",
+    "；入选“2024网络文学神作榜”<sup>68</sup><a name=\"ref_68\"></a>",
+    "；入选2024阅文IP盛典阅文十周年20大荣耀IP<sup>72</sup><a name=\"ref_72\"></a>"
+   ]
+  },
+  {
+   "key": "m151_customDefault",
+   "name": "总推荐",
+   "value": [
+    "3601.17万<sup>2</sup><a name=\"ref_2\"></a>"
+   ],
+   "format": [
+    "3601.17万<sup>2</sup><a name=\"ref_2\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/2e2eb9389b504fc2d562ebcf1b87f01190ef77c6c7fc?x-bce-process=image/format,f_auto",
+ "src": "2e2eb9389b504fc2d562ebcf1b87f01190ef77c6c7fc",
+ "imageHeight": 1826,
+ "imageWidth": 1304,
+ "isSummaryPic": "y",
+ "abstract": "《诡秘之主》（Lord of Mysteries），是阅文集团白金作家爱潜水的乌贼创作的西方玄幻类小说，2018年4月1日至2020年5月1日连载于起点中文网，共8部，1418章，总计446.77万字。内容简介：以蒸汽与机械交织的异世界为背景，讲述周明瑞穿越为克莱恩·莫雷蒂后，借“转运仪式”登灰雾、以“愚者”之名建塔罗会，借扮演法消化魔药晋升序列，构建22条非凡者序列途径力量体系。人物介绍：克莱恩·莫雷蒂，主角，由现代人周明瑞穿越而来，源堡持有者，塔罗会的创立者，于异世探寻归乡之路。奥黛丽・霍尔，鲁恩王国贵族霍尔伯爵的女儿。善良、共情力极强，塔罗会创始成员。阿尔杰・威尔逊，风暴教会神职人员，“幽蓝复仇者”号船长，心思深沉。改编动漫：动画由腾讯视频与阅文集团联合出品，第一季于2025年播出并在全球190多个国家和地区同步上映，成国漫出海代表之作。作品评价：央广网评其“凭借卓越的想象力、严谨的...",
+ "moduleIds": [
+  6411613279,
+  6411613280,
+  6411613281,
+  6411613282,
+  6411613283,
+  6411613284,
+  6411613285,
+  6411613286,
+  6411613287,
+  5860935244,
+  5638901983,
+  5638901985
+ ],
+ "url": "http://baike.baidu.com/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/21255677.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085#1'>创作背景</a>",
+  "<a href='http://baike.baidu.com/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085#2'>内容情节</a>",
+  "<a href='http://baike.baidu.com/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085#3'>角色介绍</a>",
+  "<a href='http://baike.baidu.com/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085#4'>正神教会</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085#1'>创作背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085#2'>内容情节</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085#3'>角色介绍</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085#4'>正神教会</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

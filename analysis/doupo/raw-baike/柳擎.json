@@ -1,0 +1,115 @@
+{
+ "id": 4402765,
+ "subLemmaId": 4402765,
+ "newLemmaId": 3327071,
+ "key": "柳擎",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的角色",
+ "title": "柳擎",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "柳擎"
+   ],
+   "format": [
+    "柳擎"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "迦南学院内院裂山帮的帮主"
+   ],
+   "format": [
+    "迦南学院内院裂山帮的帮主"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "境界",
+   "value": [
+    "斗灵巅峰"
+   ],
+   "format": [
+    "斗灵巅峰"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "外号",
+   "value": [
+    "霸枪"
+   ],
+   "format": [
+    "霸枪"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属",
+   "value": [
+    "中州中域天黄城柳家"
+   ],
+   "format": [
+    "中州中域天黄城柳家"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "绝技",
+   "value": [
+    "裂山枪"
+   ],
+   "format": [
+    "裂山枪"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "亲属",
+   "value": [
+    "表妹柳菲<sup>2</sup><a name=\"ref_2\"></a>"
+   ],
+   "format": [
+    "表妹柳菲<sup>2</sup><a name=\"ref_2\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/a686c9177f3e6709c93d69a8b09e883df8dcd100ff69?x-bce-process=image/format,f_auto",
+ "src": "a686c9177f3e6709c93d69a8b09e883df8dcd100ff69",
+ "imageHeight": 506,
+ "imageWidth": 513,
+ "isSummaryPic": "y",
+ "abstract": "柳擎，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的角色，迦南学院内院裂山帮的帮主，在强榜上排名第三。他来自中州中域天黄城的柳家，家族势力雄厚。在强榜大赛中曾与萧炎死战至平手并列第十，后关系缓和。其实力达到斗灵巅峰，掌握家族传承绝技大裂劈棺爪与裂山枪，最终接管柳家。",
+ "moduleIds": [
+  5650593731,
+  6980267603
+ ],
+ "url": "http://baike.baidu.com/view/4402765.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%9F%B3%E6%93%8E/3327071",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/4402765.htm#1'>角色形象</a>",
+  "<a href='http://baike.baidu.com/view/4402765.htm#2'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%9F%B3%E6%93%8E/3327071#1'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9F%B3%E6%93%8E/3327071#2'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

@@ -1,0 +1,91 @@
+{
+ "id": 21370022,
+ "subLemmaId": 37887874,
+ "newLemmaId": 63955314,
+ "key": "监正",
+ "desc": "电视剧《大奉打更人》中的角色",
+ "title": "监正",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "监正"
+   ],
+   "format": [
+    "监正"
+   ]
+  },
+  {
+   "key": "m47_playrole",
+   "name": "饰演",
+   "value": [
+    "邱心志"
+   ],
+   "format": [
+    "邱心志"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA/57191879\" data-lemmaid=\"57191879\">大奉打更人</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA/57191879\" data-lemmaid=\"57191879\">大奉打更人</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "弟子",
+   "value": [
+    "孙玄机、许平峰、杨千幻、褚采薇"
+   ],
+   "format": [
+    "孙玄机、许平峰、杨千幻、褚采薇"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/30adcbef76094b36acaf4fe058966bd98d1001e93731?x-bce-process=image/format,f_auto",
+ "src": "30adcbef76094b36acaf4fe058966bd98d1001e93731",
+ "imageHeight": 1024,
+ "imageWidth": 1106,
+ "isSummaryPic": "y",
+ "abstract": "监正是古装电视剧《大奉打更人》中的角色，由邱心志饰演。作为大奉王朝司天监第二代领袖，其身份实为承载远古道门天宗分身之秘、融合历代天尊意志的天道意志具象化一品术士，奠定术士体系根基。承担守护人族与培育武神的使命，其存在因由众人族之心唤醒，故与人族命运共生共存。监正最初选定魏渊作为救世者，后因身负半数国运的许七安出现而改变计划。他通过税银案布局引导许七安成长，安排司天监术士协助办案，赠送武器与修炼法门，并派杨千幻暗中保护。在气运被夺后仍持续谋划古墓之行等事件，最终为助许七安化解大劫选择被荒吞噬，其终极谋划始终围绕整合资源引导超品强者归于天道、完善天地法则的核心目标展开。监正座下弟子包括孙玄机、许平峰、杨千幻、褚采薇，其智慧卓绝的布局既为培育武神，亦为守护世界安宁构建完整法则体系。",
+ "moduleIds": [
+  5829156322,
+  6994153554,
+  5560560590
+ ],
+ "url": "http://baike.baidu.com/item/%E7%9B%91%E6%AD%A3/63955314",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%9B%91%E6%AD%A3/63955314",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/21370022.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E7%9B%91%E6%AD%A3/63955314#1'>人物背景</a>",
+  "<a href='http://baike.baidu.com/item/%E7%9B%91%E6%AD%A3/63955314#2'>性格特点</a>",
+  "<a href='http://baike.baidu.com/item/%E7%9B%91%E6%AD%A3/63955314#3'>主要经历</a>",
+  "<a href='http://baike.baidu.com/item/%E7%9B%91%E6%AD%A3/63955314#4'>人物关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E7%9B%91%E6%AD%A3/63955314#1'>人物背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%9B%91%E6%AD%A3/63955314#2'>性格特点</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%9B%91%E6%AD%A3/63955314#3'>主要经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%9B%91%E6%AD%A3/63955314#4'>人物关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

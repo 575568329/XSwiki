@@ -1,0 +1,38 @@
+{
+  "name": "魏渊",
+  "persona": {
+    "appearance": "常着一袭青袍青衣、鬓角霜白的宦官，相貌才华皆是中老年中的魁首，气度温润深沉，广袖飘飘。",
+    "personality": ["深沉多智", "护短", "温雅从容", "杀伐果断", "忠悯苍生"],
+    "motivation": "护大奉国祚与苍生太平，布下身后棋局，护许七安成长。",
+    "arc": "青衣从军到大宦官执掌打更人，运筹朝堂数十年；山海关战死魂存，终复生归朝再扶社稷。"
+  },
+  "evidence": [
+    "【第64章】那位被江湖人称作“魏青衣”的大宦官便住在楼里。",
+    "【第394章】义父最初提出要打巫神教，是许七安死在云州。",
+    "【第402章】魏渊的身体已经重塑，但只有人魂，天地双魂缺失，若不能找回双魂，他永远都醒不过来。",
+    "【第742章】他的元神是二品层次，但肉身却是凡夫俗子"
+  ],
+  "timeline": [
+    {"chapter": 19, "event": "以打更人统领身份闻名京城"},
+    {"chapter": 64, "event": "亲自收录许七安为新晋铜锣"},
+    {"chapter": 399, "event": "亲赴前线主持对巫神教国战"},
+    {"chapter": 402, "event": "战死靖山城，仅存人魂待重塑"},
+    {"chapter": 679, "event": "借许七安气运复生归来"},
+    {"chapter": 815, "event": "终局大战压阵大奉一方"}
+  ],
+  "relationships": [
+    {"name": "许七安", "relation": "弟子"},
+    {"name": "监正", "relation": "同僚"},
+    {"name": "元景帝", "relation": "君臣"},
+    {"name": "杨砚", "relation": "上司"},
+    {"name": "王首辅", "relation": "对手"},
+    {"name": "许新年", "relation": "上司"}
+  ],
+  "stages": [
+    {"chapterStart": 19, "chapterEnd": 63, "title": "宦官权臣", "cultivationAt": "二品 元神（借国运）", "situation": "执掌打更人衙门，与王党制衡，暗中布局天下棋局。"},
+    {"chapterStart": 64, "chapterEnd": 398, "title": "布局操盘", "cultivationAt": "二品 元神", "situation": "收许七安为义子般栽培，借其手连破朝堂大案。"},
+    {"chapterStart": 399, "chapterEnd": 402, "title": "靖山死战", "cultivationAt": "二品 元神（燃身殉国）", "situation": "亲征巫神教联军，山海关一役战死，肉身尽毁。"},
+    {"chapterStart": 403, "chapterEnd": 678, "title": "魂存待归", "cultivationAt": "二品 元神（肉身凡夫）", "situation": "人魂被监正保存，肉身重塑但双魂缺失，沉眠待唤。"},
+    {"chapterStart": 679, "chapterEnd": 815, "title": "复生归朝", "cultivationAt": "二品 元神（肉身凡夫）", "situation": "借许七安气运复生，重掌大局，辅佐终战对抗神魔。"}
+  ]
+}

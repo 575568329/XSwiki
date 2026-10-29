@@ -1,0 +1,95 @@
+{
+ "id": 29596,
+ "subLemmaId": 7050720,
+ "newLemmaId": 667130,
+ "key": "九尾狐",
+ "desc": "中国古代神话中的动物",
+ "title": "九尾狐",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "九尾狐"
+   ],
+   "format": [
+    "九尾狐"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "相关地区",
+   "value": [
+    "中国、日本<sup>21</sup><a name=\"ref_21\"></a>"
+   ],
+   "format": [
+    "中国、日本<sup>21</sup><a name=\"ref_21\"></a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "形象特征",
+   "value": [
+    "有九尾，声音像婴儿，能吃人"
+   ],
+   "format": [
+    "有九尾，声音像婴儿，能吃人"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "引申含义",
+   "value": [
+    "祥瑞、食人、魅惑、奸诈"
+   ],
+   "format": [
+    "祥瑞、食人、魅惑、奸诈"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "神话体系",
+   "value": [
+    "中国神话"
+   ],
+   "format": [
+    "中国神话"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/6a63f6246b600c336202b116104c510fd8f9a1f1?x-bce-process=image/format,f_auto",
+ "src": "6a63f6246b600c336202b116104c510fd8f9a1f1",
+ "imageHeight": 644,
+ "imageWidth": 920,
+ "isSummaryPic": "y",
+ "abstract": "九尾狐是中国古代神话传说中的神异动物，经常以“狐狸精”的形象出现在各种影视及游戏作品中。据《山海经》记载：九尾狐住在青丘国，有四只脚和九只尾巴，声音像婴儿，能吃人。东汉《白虎通义》记载其作为象征子孙繁息的德兽，与白雉、麒麟等祥瑞并列。汉代画像石中九尾狐常与西王母、玉兔等形象共同出现，承载生殖崇拜寓意。《吴越春秋》将九尾狐与大禹治水娶涂山女娇相联系，认为涂山氏即以九尾狐为图腾。唐代《艺文类聚》引《吕氏春秋》记载九尾白狐现世促成大禹婚姻，被视为家室兴盛之兆。明清时期《封神演义》塑造九尾狐化身的妲己形象，强化其魅惑特性；《九尾狐》等清代小说则将九尾狐与娼妓相联系。该形象传播至日韩后演变为玉藻前等妖怪传说。当代影视作品如《封神三部曲》《三生三世十里桃花》及游戏《英雄联盟》等持续沿用九尾狐元素。",
+ "moduleIds": [
+  4609354085,
+  6153880540,
+  6153880541,
+  6153880546,
+  5583831404,
+  5583831405,
+  7088919764
+ ],
+ "url": "http://baike.baidu.com/subview/29596/7050720.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E4%B9%9D%E5%B0%BE%E7%8B%90/667130",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/29596.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/29596/7050720.htm#1'>历史渊源</a>",
+  "<a href='http://baike.baidu.com/subview/29596/7050720.htm#2'>文化特色</a>",
+  "<a href='http://baike.baidu.com/subview/29596/7050720.htm#3'>艺术形象</a>",
+  "<a href='http://baike.baidu.com/subview/29596/7050720.htm#4'>关系说明</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E4%B9%9D%E5%B0%BE%E7%8B%90/667130#1'>历史渊源</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%B9%9D%E5%B0%BE%E7%8B%90/667130#2'>文化特色</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%B9%9D%E5%B0%BE%E7%8B%90/667130#3'>艺术形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%B9%9D%E5%B0%BE%E7%8B%90/667130#4'>关系说明</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

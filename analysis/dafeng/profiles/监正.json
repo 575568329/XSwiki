@@ -1,0 +1,39 @@
+{
+  "name": "监正",
+  "persona": {
+    "appearance": "白衣白发的清癯老者，白胡垂胸，仙风道骨，常负手立于司天监八卦台边观星布局。",
+    "personality": ["深不可测", "算无遗策", "淡漠超然", "护短", "执念极深"],
+    "motivation": "以天下为棋局对抗神魔窥伺，护大奉气运，育许七安为破局之子。",
+    "arc": "司天监二代监正，一品天命师。布局数百年，陨落回归天道，终战自天门重临人间。"
+  },
+  "evidence": [
+    "【第117章】不是呀，师父是第二代监正。",
+    "【第234章】大奉京城的压箱底人物监正，也只是一品",
+    "【第519章】监正老师是天命师，最擅长的便是布局",
+    "【第814章】天门打开，原本回归天道的监正重临人间"
+  ],
+  "timeline": [
+    {"chapter": 73, "event": "地书碎片现世，一号落入许七安手中"},
+    {"chapter": 117, "event": "褚采薇道破师父乃第二代监正"},
+    {"chapter": 234, "event": "坐镇京城，压箱底一品威慑天下"},
+    {"chapter": 519, "event": "天命师善布局的身份得到明示"},
+    {"chapter": 631, "event": "力战强敌后陨落，回归天道"},
+    {"chapter": 814, "event": "天门重开，重临人间助终局大战"}
+  ],
+  "relationships": [
+    {"name": "许七安", "relation": "弟子"},
+    {"name": "褚采薇", "relation": "弟子"},
+    {"name": "杨千幻", "relation": "弟子"},
+    {"name": "宋卿", "relation": "弟子"},
+    {"name": "钟璃", "relation": "弟子"},
+    {"name": "魏渊", "relation": "同僚"},
+    {"name": "元景帝", "relation": "君臣"},
+    {"name": "洛玉衡", "relation": "同僚"}
+  ],
+  "stages": [
+    {"chapterStart": 1, "chapterEnd": 72, "title": "司天之主", "cultivationAt": "一品 天命师", "situation": "执掌司天监，借大奉国运境内无敌，暗中落子布局。"},
+    {"chapterStart": 73, "chapterEnd": 630, "title": "布局天下", "cultivationAt": "一品 天命师", "situation": "刻地书、授口诀，半师半棋地护许七安走向棋眼。"},
+    {"chapterStart": 631, "chapterEnd": 813, "title": "陨落归天", "cultivationAt": "一品 天命师（回归天道）", "situation": "力战强敌殒落，身合天道，大奉失最后脊梁。"},
+    {"chapterStart": 814, "chapterEnd": 815, "title": "天门重临", "cultivationAt": "一品 天命师（重临）", "situation": "天门打开重临人间，拍顶许七安共赴终战。"}
+  ]
+}

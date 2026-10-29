@@ -1,0 +1,104 @@
+{
+ "id": 34582700,
+ "subLemmaId": 38524908,
+ "newLemmaId": 64776953,
+ "key": "值夜者",
+ "desc": "小说《诡秘之主》中黑夜女神教会的非凡者组织",
+ "title": "值夜者",
+ "card": [
+  {
+   "key": "m122_customDefault",
+   "name": "中文名",
+   "value": [
+    "值夜者"
+   ],
+   "format": [
+    "值夜者"
+   ]
+  },
+  {
+   "key": "m122_customDefault",
+   "name": "所属教会",
+   "value": [
+    "黑夜女神教会"
+   ],
+   "format": [
+    "黑夜女神教会"
+   ]
+  },
+  {
+   "key": "m122_customDefault",
+   "name": "组织代称",
+   "value": [
+    "红手套"
+   ],
+   "format": [
+    "红手套"
+   ]
+  },
+  {
+   "key": "m122_customDefault",
+   "name": "最低序列要求",
+   "value": [
+    "序列7"
+   ],
+   "format": [
+    "序列7"
+   ]
+  },
+  {
+   "key": "m122_customDefault",
+   "name": "核心职责",
+   "value": [
+    "处理超自然事件、追踪追捕邪恶势力成员、看守重要设施查尼斯门"
+   ],
+   "format": [
+    "处理超自然事件、追踪追捕邪恶势力成员、看守重要设施查尼斯门"
+   ]
+  },
+  {
+   "key": "m122_customDefault",
+   "name": "重要地点",
+   "value": [
+    "查尼斯门"
+   ],
+   "format": [
+    "查尼斯门"
+   ]
+  },
+  {
+   "key": "m122_customDefault",
+   "name": "伪装机构",
+   "value": [
+    "黑荆棘安保公司"
+   ],
+   "format": [
+    "黑荆棘安保公司"
+   ]
+  }
+ ],
+ "imageHeight": null,
+ "imageWidth": null,
+ "isSummaryPic": "n",
+ "abstract": "值夜者是小说《诡秘之主》中黑夜女神教会的核心非凡者组织，代称为“红手套”的精英队伍是从值夜者中严格挑选出来的。其主要职责包括处理超自然事件、追踪追捕邪恶势力成员以及看守重要设施查尼斯门。组织架构由驻守各地的基础小队和精英“红手套”构成，其中精英队伍“红手套”的成员需至少达到序列7的非凡能力等级。该组织以黑荆棘安保公司为伪装机构开展行动，成员包含正式非凡者与文职人员。典型案例包括廷根小队处理封印物“艾丝特”事件，以及克雷斯泰·塞西玛等高级执事主导的跨地区支援行动。值夜者成员如邓恩·史密斯为守护民众安全不惜牺牲生命，体现了该组织“非凡世界守门员”的核心定位。",
+ "moduleIds": [],
+ "url": "http://baike.baidu.com/item/%E5%80%BC%E5%A4%9C%E8%80%85",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%80%BC%E5%A4%9C%E8%80%85",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E5%80%BC%E5%A4%9C%E8%80%85#1'>组织定义与背景</a>",
+  "<a href='http://baike.baidu.com/item/%E5%80%BC%E5%A4%9C%E8%80%85#2'>组织架构</a>",
+  "<a href='http://baike.baidu.com/item/%E5%80%BC%E5%A4%9C%E8%80%85#3'>核心职责</a>",
+  "<a href='http://baike.baidu.com/item/%E5%80%BC%E5%A4%9C%E8%80%85#4'>主要活动与案例</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%80%BC%E5%A4%9C%E8%80%85#1'>组织定义与背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%80%BC%E5%A4%9C%E8%80%85#2'>组织架构</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%80%BC%E5%A4%9C%E8%80%85#3'>核心职责</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%80%BC%E5%A4%9C%E8%80%85#4'>主要活动与案例</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

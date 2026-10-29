@@ -1,0 +1,116 @@
+{
+ "id": 6118281,
+ "subLemmaId": 6199521,
+ "newLemmaId": 10181291,
+ "key": "魔网",
+ "desc": "2003年河南文艺出版社出版的图书",
+ "title": "魔网",
+ "card": [
+  {
+   "key": "m18_bookname",
+   "name": "中文名",
+   "value": [
+    "魔网"
+   ],
+   "format": [
+    "魔网"
+   ]
+  },
+  {
+   "key": "m18_author",
+   "name": "作者",
+   "value": [
+    "张惠平"
+   ],
+   "format": [
+    "张惠平"
+   ]
+  },
+  {
+   "key": "m18_press",
+   "name": "出版社",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%B2%B3%E5%8D%97%E6%96%87%E8%89%BA%E5%87%BA%E7%89%88%E7%A4%BE\">河南文艺出版社</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%B2%B3%E5%8D%97%E6%96%87%E8%89%BA%E5%87%BA%E7%89%88%E7%A4%BE\">河南文艺出版社</a>"
+   ]
+  },
+  {
+   "key": "m18_pnum",
+   "name": "页数",
+   "value": [
+    "384 页"
+   ],
+   "format": [
+    "384 页"
+   ]
+  },
+  {
+   "key": "m18_isbn",
+   "name": "ISBN",
+   "value": [
+    "9787806233948"
+   ],
+   "format": [
+    "9787806233948"
+   ]
+  },
+  {
+   "key": "m18_price",
+   "name": "定价",
+   "value": [
+    "19.6 元<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "19.6 元<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m18_zz",
+   "name": "装帧",
+   "value": [
+    "平装"
+   ],
+   "format": [
+    "平装"
+   ]
+  },
+  {
+   "key": "m18_customDefault",
+   "name": "出版时间",
+   "value": [
+    "2003年1月"
+   ],
+   "format": [
+    "2003年1月"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/f636afc379310a55211d89a6b14543a9822610a2?x-bce-process=image/format,f_auto",
+ "src": "f636afc379310a55211d89a6b14543a9822610a2",
+ "imageHeight": 740,
+ "imageWidth": 500,
+ "isSummaryPic": "y",
+ "abstract": "《魔网》是中国作家张惠平创作的长篇小说，2003年由河南文艺出版社出版。小说以乘客萧永与出租车司机的对峙场景展开叙事，围绕“魔网”这一传递魔法能量的神秘网络，构建了沟通奥术与神术的架空世界。作者张惠平曾从事企业管理，其创作常结合职场经验与幻想元素，通过紧凑的情节设计展现现实与超自然力量的交织。",
+ "moduleIds": [
+  7110089024
+ ],
+ "url": "http://baike.baidu.com/view/6118281.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%AD%94%E7%BD%91/10181291",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/6118281.htm#1'>出版信息</a>",
+  "<a href='http://baike.baidu.com/view/6118281.htm#2'>作者简介</a>",
+  "<a href='http://baike.baidu.com/view/6118281.htm#3'>内容简介</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%94%E7%BD%91/10181291#1'>出版信息</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%94%E7%BD%91/10181291#2'>作者简介</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%94%E7%BD%91/10181291#3'>内容简介</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

@@ -1,0 +1,50 @@
+{
+  "name": "李绛迁",
+  "oneLiner": "李周巍次子、金瞳善谋的绛字辈实权修士，执掌族中机要，运筹北岸、周旋道统。",
+  "toProtagonist": "李家主线后期的中枢谋臣：执机要、换北岸任职、结交紫府道统，随父李周巍运筹。",
+  "visualLine": "成年男性修士，金澄澄的双眼，幼时即着暗红色衣袍，标志为金眼瞳术与南明心火。",
+  "role": "core",
+  "cultivation": "",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "金瞳降世",
+      "chapterStart": 626,
+      "chapterEnd": 659,
+      "situation": "降世时金瞳安静、身无金鳞，与凶暴兄长截然不同；六岁便有“岂有好坏之分”之思",
+      "cultivationAt": "-",
+      "visual": "金瞳婴孩，安静乖巧",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "执掌机要",
+      "chapterStart": 825,
+      "chapterEnd": 855,
+      "situation": "吊唁田仲青、瞳术察异；渐将北岸任职换成费家人与女修，提防槐魂殿变局",
+      "cultivationAt": "-",
+      "visual": "金眼瞳术运转",
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "周旋道统",
+      "chapterStart": 1204,
+      "chapterEnd": 1230,
+      "situation": "谢曲巳之劳、访过岭峰察棺椁之异，为妹剖析分神异体；李家大阵落成，得其主权",
+      "cultivationAt": "-",
+      "visual": "踏火而行",
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "心火新成",
+      "chapterStart": 1282,
+      "chapterEnd": 1616,
+      "situation": "神通南明心火新成，为李家除天乌并火外最强火焰；多年后仍随父伏案习“朱雀火弹”",
+      "cultivationAt": "-",
+      "visual": "掌腾南明心火",
+      "spoiler": false
+    }
+  ]
+}

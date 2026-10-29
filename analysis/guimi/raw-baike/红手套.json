@@ -1,0 +1,89 @@
+{
+ "id": 11983780,
+ "subLemmaId": 16756046,
+ "newLemmaId": 12915355,
+ "key": "红手套",
+ "desc": "多部奇幻魔法小说中的特殊组织或装备",
+ "title": "红手套",
+ "card": [
+  {
+   "key": "m151_nameO",
+   "name": "别名",
+   "value": [
+    "追迹者、猎狗"
+   ],
+   "format": [
+    "追迹者、猎狗"
+   ]
+  },
+  {
+   "key": "m151_gameSeries",
+   "name": "所属系列",
+   "value": [
+    "《诡秘之主》系列、《开局一本邪神之书》"
+   ],
+   "format": [
+    "《诡秘之主》系列、《开局一本邪神之书》"
+   ]
+  },
+  {
+   "key": "m151_customDefault",
+   "name": "所属类型",
+   "value": [
+    "非凡者组织"
+   ],
+   "format": [
+    "非凡者组织"
+   ]
+  },
+  {
+   "key": "m151_customDefault",
+   "name": "核心职责",
+   "value": [
+    "神秘事件调查<sup>5</sup><a name=\"ref_5\"></a><sup>6</sup><a name=\"ref_6\"></a>"
+   ],
+   "format": [
+    "神秘事件调查<sup>5</sup><a name=\"ref_5\"></a><sup>6</sup><a name=\"ref_6\"></a>"
+   ]
+  },
+  {
+   "key": "m151_customDefault",
+   "name": "象征意义",
+   "value": [
+    "复仇与权威<sup>2</sup><a name=\"ref_2\"></a><sup>5</sup><a name=\"ref_5\"></a>"
+   ],
+   "format": [
+    "复仇与权威<sup>2</sup><a name=\"ref_2\"></a><sup>5</sup><a name=\"ref_5\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/d439b6003af33a87e950bce17d0407385343faf21f8d?x-bce-process=image/format,f_auto",
+ "src": "d439b6003af33a87e950bce17d0407385343faf21f8d",
+ "imageHeight": 2132,
+ "imageWidth": 1600,
+ "isSummaryPic": "y",
+ "abstract": "红手套是半创作奇幻魔法小说中常见的多元设定元素。在《诡秘之主》系列中，其作为黑夜教会下辖值夜者内部的精英队伍“红手套”，由严格挑选的精英非凡者组成，最低要求为序列7，主要任务是增援发出信号的值夜者小队以及不受限制地追踪和抓捕被关注的邪恶者，成员包括克雷斯泰·塞西玛、索斯特、伦纳德·米切尔、戴莉·西蒙妮等；而在《开局一本邪神之书》等作品中，红手套则被描绘为帝国皇族直属的秘密执法者，介入权力斗争并执行隐秘任务。此外，部分作品将红手套融入角色装束设计，如守夜人的标志性服饰，或赋予其象征复仇、诅咒等叙事功能。反派角色红手套戈尔的设定进一步扩展了该元素的叙事维度。2024年，红手套曾试图招募声称“来自源堡”的李维，但因后者拒绝而未能达成合作。",
+ "moduleIds": [
+  5350868366
+ ],
+ "url": "http://baike.baidu.com/subview/11983780/16756046.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%BA%A2%E6%89%8B%E5%A5%97/12915355",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/11983780.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/11983780/16756046.htm#1'>作为组织装束</a>",
+  "<a href='http://baike.baidu.com/subview/11983780/16756046.htm#2'>黑夜教会非凡者小队</a>",
+  "<a href='http://baike.baidu.com/subview/11983780/16756046.htm#3'>皇族秘密执法者</a>",
+  "<a href='http://baike.baidu.com/subview/11983780/16756046.htm#4'>象征性叙事功能</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E7%BA%A2%E6%89%8B%E5%A5%97/12915355#1'>作为组织装束</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%BA%A2%E6%89%8B%E5%A5%97/12915355#2'>黑夜教会非凡者小队</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%BA%A2%E6%89%8B%E5%A5%97/12915355#3'>皇族秘密执法者</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%BA%A2%E6%89%8B%E5%A5%97/12915355#4'>象征性叙事功能</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

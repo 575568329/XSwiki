@@ -1,0 +1,39 @@
+{
+  "name": "小医仙",
+  "persona": {
+    "appearance": "白裙素衫的清丽少女，容貌绝美、气质出尘；厄难毒体爆发后气质转冷，清艳之中隐含毒韵，令强敌生惧。",
+    "personality": ["善良", "温柔", "隐忍", "重情", "外柔内韧"],
+    "motivation": "寻法驾驭厄难毒体，不牵连旁人，护住与萧炎的情谊。",
+    "arc": "青山镇医女因毒体离乡，立毒宗自保，随萧炎闯中州，终成天府联盟斗圣强者。"
+  },
+  "evidence": [
+    "【第108章】青山镇大半地佣兵，都被小医仙救治过，当心被别人听见",
+    "【第152章】有一种极其特殊的体质，这种体质，被人称为…",
+    "【第158章】我会回到这个小山谷。然后。等着这厄难毒体地命运终结。",
+    "【第1327章】一星斗圣,两年时间，她也是突破了那层障碍，并且跃过半圣层次,达到了一星斗圣"
+  ],
+  "timeline": [
+    {"chapter": 108, "event": "青山镇行医，受佣兵爱戴，与萧炎初识"},
+    {"chapter": 112, "event": "邀萧炎共探山洞秘宝，结伴历练"},
+    {"chapter": 152, "event": "厄难毒体身世被药老道破"},
+    {"chapter": 158, "event": "怕祸及旁人，不辞而别"},
+    {"chapter": 638, "event": "萧炎重游青山镇，忆及旧友"},
+    {"chapter": 654, "event": "以毒宗宗主身份现身，冷若冰霜"},
+    {"chapter": 701, "event": "厄难毒体全力爆发，大战万蝎门"},
+    {"chapter": 1327, "event": "两年跃过半圣，晋入一星斗圣"}
+  ],
+  "relationships": [
+    {"name": "萧炎", "relation": "青梅竹马"},
+    {"name": "紫妍", "relation": "姐妹"},
+    {"name": "彩鳞", "relation": "姐妹"},
+    {"name": "药尘", "relation": "盟友"}
+  ],
+  "stages": [
+    {"chapterStart": 108, "chapterEnd": 158, "title": "青山医女", "cultivationAt": "斗者", "situation": "行医济人，隐下厄难毒体之秘，恐祸及萧炎独自离乡。"},
+    {"chapterStart": 159, "chapterEnd": 627, "title": "避世立宗", "cultivationAt": "斗皇", "situation": "独行磨砺毒功，数年间于出云帝国创毒宗，心性转冷。"},
+    {"chapterStart": 628, "chapterEnd": 701, "title": "毒宗宗主", "cultivationAt": "斗皇", "situation": "掌毒宗抗万蝎门，厄难毒体彻底爆发，威震加玛帝国。"},
+    {"chapterStart": 702, "chapterEnd": 1021, "title": "伴行中州", "cultivationAt": "斗宗", "situation": "毒体圆满得控，随萧炎入中州历练，屡屡震慑强敌。"},
+    {"chapterStart": 1022, "chapterEnd": 1326, "title": "斗尊护道", "cultivationAt": "斗尊", "situation": "晋入斗尊未久，随行护萧炎周全，位列天府联盟高层。"},
+    {"chapterStart": 1327, "chapterEnd": null, "title": "斗圣之名", "cultivationAt": "一星斗圣", "situation": "两年跃过半圣晋一星斗圣，随联军扫荡魂殿直至终局。"}
+  ]
+}

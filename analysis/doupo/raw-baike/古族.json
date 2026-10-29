@@ -1,0 +1,100 @@
+{
+ "id": 4881735,
+ "subLemmaId": 4882490,
+ "newLemmaId": 10698285,
+ "key": "古族",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中远古八族之一",
+ "title": "古族",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "古族"
+   ],
+   "format": [
+    "古族"
+   ]
+  },
+  {
+   "key": "m25_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "玄幻小说《斗破苍穹》及其衍生作品"
+   ],
+   "format": [
+    "玄幻小说《斗破苍穹》及其衍生作品"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "族长",
+   "value": [
+    "古元<sup>19</sup><a name=\"ref_19\"></a>"
+   ],
+   "format": [
+    "古元<sup>19</sup><a name=\"ref_19\"></a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "传承之火",
+   "value": [
+    "金帝焚天炎<sup>14</sup><a name=\"ref_14\"></a>"
+   ],
+   "format": [
+    "金帝焚天炎<sup>14</sup><a name=\"ref_14\"></a>"
+   ]
+  },
+  {
+   "key": "m25_institutionType",
+   "name": "性质",
+   "value": [
+    "远古斗帝种族<sup>9</sup><a name=\"ref_9\"></a>"
+   ],
+   "format": [
+    "远古斗帝种族<sup>9</sup><a name=\"ref_9\"></a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "斗帝血脉",
+   "value": [
+    "古帝血脉<sup>17</sup><a name=\"ref_17\"></a>"
+   ],
+   "format": [
+    "古帝血脉<sup>17</sup><a name=\"ref_17\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/023b5bb5c9ea15ce36d34f5613562df33a87e950146f?x-bce-process=image/format,f_auto",
+ "src": "023b5bb5c9ea15ce36d34f5613562df33a87e950146f",
+ "imageHeight": 341,
+ "imageWidth": 481,
+ "isSummaryPic": "y",
+ "abstract": "古族，是天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的组织。古族，是斗气大陆上尚存的远古种族之一。总部坐落在中州东域，族内强者如云。是远古种族中的佼佼者，其实力深不可测，极为强大。",
+ "moduleIds": [
+  6359737209,
+  4655729353
+ ],
+ "url": "http://baike.baidu.com/subview/4881735/4882490.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%8F%A4%E6%97%8F/10698285",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/4881735.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/4881735/4882490.htm#1'>组织背景</a>",
+  "<a href='http://baike.baidu.com/subview/4881735/4882490.htm#2'>组织经历</a>",
+  "<a href='http://baike.baidu.com/subview/4881735/4882490.htm#3'>组织结构</a>",
+  "<a href='http://baike.baidu.com/subview/4881735/4882490.htm#4'>组织成员</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%A4%E6%97%8F/10698285#1'>组织背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%A4%E6%97%8F/10698285#2'>组织经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%A4%E6%97%8F/10698285#3'>组织结构</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%A4%E6%97%8F/10698285#4'>组织成员</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

@@ -1,0 +1,79 @@
+{
+ "id": 6263107,
+ "subLemmaId": 6355998,
+ "newLemmaId": 757262,
+ "key": "虚无吞炎",
+ "desc": "天蚕土豆所著小说《斗破苍穹》及其衍生作品中的角色",
+ "title": "虚无吞炎",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "虚无吞炎"
+   ],
+   "format": [
+    "虚无吞炎"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "虚无、虚无大人、吞天噬地之物"
+   ],
+   "format": [
+    "虚无、虚无大人、吞天噬地之物"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m47_age",
+   "name": "年龄",
+   "value": [
+    "上万岁"
+   ],
+   "format": [
+    "上万岁"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/30adcbef76094b36acaf090496956bd98d1000e9379b?x-bce-process=image/format,f_auto",
+ "src": "30adcbef76094b36acaf090496956bd98d1000e9379b",
+ "imageHeight": 734,
+ "imageWidth": 618,
+ "isSummaryPic": "y",
+ "abstract": "虚无吞炎，天蚕土豆所著小说《斗破苍穹》及其衍生作品中的角色，异火榜排名第二的异火，已存活上万年，曾被陀舍古帝、魂天帝、萧炎收服。其化形后全身缠绕黑炎且密布诡异符文，拥有吞噬万物之能。虚无吞炎在帝品雏丹帮助下逃离陀舍古帝洞府，后加入魂族，加入魂族时实力未知，在魂族的帮助下晋升至九星斗圣初期。因吞噬了吞灵族末代族长从而拥有了吞灵族的力量，可夺取其他种族血脉。参与屠灭灵族、石族并袭击药族，最终被晋入斗帝的魂天帝吞噬（未炼化，仅是被吞噬）。萧炎成帝后召唤异火时，虚无吞炎脱离魂天帝躯体并融入异火广场，凝聚异火恒古尺助其击败魂天帝。",
+ "moduleIds": [
+  3017294487,
+  7323698276,
+  7072149734,
+  7173529302
+ ],
+ "url": "http://baike.baidu.com/view/6263107.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%99%9A%E6%97%A0%E5%90%9E%E7%82%8E/757262",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/6263107.htm#1'>角色形象</a>",
+  "<a href='http://baike.baidu.com/view/6263107.htm#2'>角色能力</a>",
+  "<a href='http://baike.baidu.com/view/6263107.htm#3'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%99%9A%E6%97%A0%E5%90%9E%E7%82%8E/757262#1'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%99%9A%E6%97%A0%E5%90%9E%E7%82%8E/757262#2'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%99%9A%E6%97%A0%E5%90%9E%E7%82%8E/757262#3'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

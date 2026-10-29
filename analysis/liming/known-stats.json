@@ -1,0 +1,563 @@
+{
+ "files": 1593,
+ "known": [
+  {
+   "name": "高文·塞西尔",
+   "mentions": 23171,
+   "firstChapter": 1,
+   "lastChapter": 1593
+  },
+  {
+   "name": "琥珀",
+   "mentions": 5811,
+   "firstChapter": 4,
+   "lastChapter": 1593
+  },
+  {
+   "name": "瑞贝卡·塞西尔",
+   "mentions": 2975,
+   "firstChapter": 2,
+   "lastChapter": 1593
+  },
+  {
+   "name": "赫蒂·塞西尔",
+   "mentions": 2850,
+   "firstChapter": 2,
+   "lastChapter": 1592
+  },
+  {
+   "name": "贝尔提拉",
+   "mentions": 3864,
+   "firstChapter": 135,
+   "lastChapter": 1592
+  },
+  {
+   "name": "梅丽塔",
+   "mentions": 3165,
+   "firstChapter": 27,
+   "lastChapter": 1560
+  },
+  {
+   "name": "卡迈尔",
+   "mentions": 1544,
+   "firstChapter": 238,
+   "lastChapter": 1593
+  },
+  {
+   "name": "菲利普",
+   "mentions": 864,
+   "firstChapter": 4,
+   "lastChapter": 1425
+  },
+  {
+   "name": "皮特曼",
+   "mentions": 832,
+   "firstChapter": 68,
+   "lastChapter": 1586
+  },
+  {
+   "name": "罗塞塔",
+   "mentions": 1464,
+   "firstChapter": 113,
+   "lastChapter": 1570
+  },
+  {
+   "name": "拜伦",
+   "mentions": 1374,
+   "firstChapter": 2,
+   "lastChapter": 1593
+  },
+  {
+   "name": "提尔",
+   "mentions": 1336,
+   "firstChapter": 192,
+   "lastChapter": 1517
+  },
+  {
+   "name": "维多利亚",
+   "mentions": 1293,
+   "firstChapter": 32,
+   "lastChapter": 1568
+  },
+  {
+   "name": "阿莫恩",
+   "mentions": 1247,
+   "firstChapter": 240,
+   "lastChapter": 1593
+  },
+  {
+   "name": "莫迪尔",
+   "mentions": 1238,
+   "firstChapter": 629,
+   "lastChapter": 1568
+  },
+  {
+   "name": "维罗妮卡",
+   "mentions": 1151,
+   "firstChapter": 26,
+   "lastChapter": 1589
+  },
+  {
+   "name": "弥尔米娜",
+   "mentions": 1023,
+   "firstChapter": 64,
+   "lastChapter": 1592
+  },
+  {
+   "name": "丹尼尔",
+   "mentions": 995,
+   "firstChapter": 299,
+   "lastChapter": 1292
+  },
+  {
+   "name": "夜女士",
+   "mentions": 956,
+   "firstChapter": 21,
+   "lastChapter": 1593
+  },
+  {
+   "name": "莱特",
+   "mentions": 821,
+   "firstChapter": 152,
+   "lastChapter": 1550
+  },
+  {
+   "name": "安德莎",
+   "mentions": 819,
+   "firstChapter": 141,
+   "lastChapter": 1593
+  },
+  {
+   "name": "恩雅",
+   "mentions": 817,
+   "firstChapter": 828,
+   "lastChapter": 1591
+  },
+  {
+   "name": "索尔德林",
+   "mentions": 782,
+   "firstChapter": 243,
+   "lastChapter": 1373
+  },
+  {
+   "name": "贝尔塞提娅",
+   "mentions": 764,
+   "firstChapter": 536,
+   "lastChapter": 1592
+  },
+  {
+   "name": "卡珊德拉",
+   "mentions": 1092,
+   "firstChapter": 1052,
+   "lastChapter": 1593
+  },
+  {
+   "name": "赛琳娜",
+   "mentions": 698,
+   "firstChapter": 170,
+   "lastChapter": 1430
+  },
+  {
+   "name": "玛姬",
+   "mentions": 697,
+   "firstChapter": 36,
+   "lastChapter": 1568
+  },
+  {
+   "name": "赫拉戈尔",
+   "mentions": 600,
+   "firstChapter": 687,
+   "lastChapter": 1592
+  },
+  {
+   "name": "阿莎蕾娜",
+   "mentions": 526,
+   "firstChapter": 827,
+   "lastChapter": 1593
+  },
+  {
+   "name": "温莎",
+   "mentions": 713,
+   "firstChapter": 513,
+   "lastChapter": 1498
+  },
+  {
+   "name": "巴德",
+   "mentions": 515,
+   "firstChapter": 135,
+   "lastChapter": 1578
+  },
+  {
+   "name": "贝蒂",
+   "mentions": 515,
+   "firstChapter": 2,
+   "lastChapter": 1586
+  },
+  {
+   "name": "尤里",
+   "mentions": 468,
+   "firstChapter": 736,
+   "lastChapter": 1137
+  },
+  {
+   "name": "玛蒂尔达",
+   "mentions": 449,
+   "firstChapter": 754,
+   "lastChapter": 1568
+  },
+  {
+   "name": "玛丽",
+   "mentions": 439,
+   "firstChapter": 299,
+   "lastChapter": 1567
+  },
+  {
+   "name": "马里兰",
+   "mentions": 410,
+   "firstChapter": 417,
+   "lastChapter": 1169
+  },
+  {
+   "name": "裴迪南",
+   "mentions": 409,
+   "firstChapter": 113,
+   "lastChapter": 1593
+  },
+  {
+   "name": "奥菲莉亚",
+   "mentions": 553,
+   "firstChapter": 648,
+   "lastChapter": 1593
+  },
+  {
+   "name": "戴安娜",
+   "mentions": 403,
+   "firstChapter": 834,
+   "lastChapter": 1568
+  },
+  {
+   "name": "龙神",
+   "mentions": 402,
+   "firstChapter": 687,
+   "lastChapter": 1563
+  },
+  {
+   "name": "诺蕾塔",
+   "mentions": 390,
+   "firstChapter": 687,
+   "lastChapter": 1423
+  },
+  {
+   "name": "柏德文",
+   "mentions": 348,
+   "firstChapter": 32,
+   "lastChapter": 1402
+  },
+  {
+   "name": "戈洛什",
+   "mentions": 494,
+   "firstChapter": 755,
+   "lastChapter": 1144
+  },
+  {
+   "name": "马格南",
+   "mentions": 331,
+   "firstChapter": 736,
+   "lastChapter": 1162
+  },
+  {
+   "name": "葛兰",
+   "mentions": 325,
+   "firstChapter": 292,
+   "lastChapter": 1431
+  },
+  {
+   "name": "威尔士",
+   "mentions": 315,
+   "firstChapter": 26,
+   "lastChapter": 675
+  },
+  {
+   "name": "安达尔",
+   "mentions": 312,
+   "firstChapter": 687,
+   "lastChapter": 1498
+  },
+  {
+   "name": "罗佩妮",
+   "mentions": 302,
+   "firstChapter": 326,
+   "lastChapter": 1167
+  },
+  {
+   "name": "白银女皇",
+   "mentions": 301,
+   "firstChapter": 1042,
+   "lastChapter": 1592
+  },
+  {
+   "name": "索尼娅",
+   "mentions": 268,
+   "firstChapter": 554,
+   "lastChapter": 1431
+  },
+  {
+   "name": "诺里斯",
+   "mentions": 261,
+   "firstChapter": 54,
+   "lastChapter": 1159
+  },
+  {
+   "name": "巴洛格尔",
+   "mentions": 250,
+   "firstChapter": 755,
+   "lastChapter": 1592
+  },
+  {
+   "name": "娜瑞提尔",
+   "mentions": 233,
+   "firstChapter": 808,
+   "lastChapter": 1463
+  },
+  {
+   "name": "安德鲁子爵",
+   "mentions": 230,
+   "firstChapter": 17,
+   "lastChapter": 705
+  },
+  {
+   "name": "芬迪尔",
+   "mentions": 229,
+   "firstChapter": 723,
+   "lastChapter": 1441
+  },
+  {
+   "name": "桑提斯",
+   "mentions": 213,
+   "firstChapter": 109,
+   "lastChapter": 1143
+  },
+  {
+   "name": "罗伦",
+   "mentions": 208,
+   "firstChapter": 32,
+   "lastChapter": 917
+  },
+  {
+   "name": "雯娜",
+   "mentions": 197,
+   "firstChapter": 721,
+   "lastChapter": 1579
+  },
+  {
+   "name": "卡米拉",
+   "mentions": 195,
+   "firstChapter": 1012,
+   "lastChapter": 1579
+  },
+  {
+   "name": "埃德蒙",
+   "mentions": 192,
+   "firstChapter": 25,
+   "lastChapter": 1404
+  },
+  {
+   "name": "雀蜂",
+   "mentions": 166,
+   "firstChapter": 1468,
+   "lastChapter": 1479
+  },
+  {
+   "name": "菲尔娜",
+   "mentions": 162,
+   "firstChapter": 283,
+   "lastChapter": 1442
+  },
+  {
+   "name": "伊莲",
+   "mentions": 157,
+   "firstChapter": 1076,
+   "lastChapter": 1462
+  },
+  {
+   "name": "佩提亚",
+   "mentions": 152,
+   "firstChapter": 227,
+   "lastChapter": 1517
+  },
+  {
+   "name": "金娜",
+   "mentions": 151,
+   "firstChapter": 622,
+   "lastChapter": 1402
+  },
+  {
+   "name": "贝尔克",
+   "mentions": 150,
+   "firstChapter": 281,
+   "lastChapter": 860
+  },
+  {
+   "name": "蕾尔娜",
+   "mentions": 149,
+   "firstChapter": 283,
+   "lastChapter": 1442
+  },
+  {
+   "name": "帕德里克",
+   "mentions": 149,
+   "firstChapter": 183,
+   "lastChapter": 855
+  },
+  {
+   "name": "伯特莱姆",
+   "mentions": 147,
+   "firstChapter": 1306,
+   "lastChapter": 1349
+  },
+  {
+   "name": "博尔肯",
+   "mentions": 145,
+   "firstChapter": 986,
+   "lastChapter": 1394
+  },
+  {
+   "name": "威克里夫",
+   "mentions": 129,
+   "firstChapter": 1012,
+   "lastChapter": 1579
+  },
+  {
+   "name": "塞姆勒",
+   "mentions": 118,
+   "firstChapter": 809,
+   "lastChapter": 996
+  },
+  {
+   "name": "伊莱文",
+   "mentions": 111,
+   "firstChapter": 722,
+   "lastChapter": 1441
+  },
+  {
+   "name": "卡拉多尔",
+   "mentions": 104,
+   "firstChapter": 878,
+   "lastChapter": 1432
+  },
+  {
+   "name": "冬堡伯爵",
+   "mentions": 104,
+   "firstChapter": 113,
+   "lastChapter": 1568
+  },
+  {
+   "name": "夜枭",
+   "mentions": 104,
+   "firstChapter": 1470,
+   "lastChapter": 1479
+  },
+  {
+   "name": "凡妮莎",
+   "mentions": 104,
+   "firstChapter": 155,
+   "lastChapter": 1447
+  },
+  {
+   "name": "纳什·纳尔特",
+   "mentions": 188,
+   "firstChapter": 1097,
+   "lastChapter": 1554
+  },
+  {
+   "name": "薇兰妮亚",
+   "mentions": 103,
+   "firstChapter": 572,
+   "lastChapter": 1592
+  },
+  {
+   "name": "盖亚",
+   "mentions": 97,
+   "firstChapter": 55,
+   "lastChapter": 1588
+  },
+  {
+   "name": "贝娜黛朵",
+   "mentions": 93,
+   "firstChapter": 1099,
+   "lastChapter": 1540
+  },
+  {
+   "name": "戈登",
+   "mentions": 79,
+   "firstChapter": 92,
+   "lastChapter": 1431
+  },
+  {
+   "name": "哈迪伦",
+   "mentions": 77,
+   "firstChapter": 757,
+   "lastChapter": 1515
+  },
+  {
+   "name": "特里",
+   "mentions": 74,
+   "firstChapter": 92,
+   "lastChapter": 880
+  },
+  {
+   "name": "莫拉克",
+   "mentions": 70,
+   "firstChapter": 1317,
+   "lastChapter": 1323
+  },
+  {
+   "name": "杜勒伯爵",
+   "mentions": 68,
+   "firstChapter": 670,
+   "lastChapter": 993
+  },
+  {
+   "name": "奥德里斯",
+   "mentions": 65,
+   "firstChapter": 1337,
+   "lastChapter": 1460
+  },
+  {
+   "name": "罗莎莉亚",
+   "mentions": 43,
+   "firstChapter": 655,
+   "lastChapter": 1432
+  },
+  {
+   "name": "欧文伯爵",
+   "mentions": 27,
+   "firstChapter": 746,
+   "lastChapter": 875
+  }
+ ],
+ "aliasMap": {
+  "贝尔提拉": [
+   "贝尔提"
+  ],
+  "梅丽塔": [
+   "梅莉塔",
+   "老法师"
+  ],
+  "卡珊德拉": [
+   "卡珊德"
+  ],
+  "温莎": [
+   "温莎·玛佩尔"
+  ],
+  "奥菲莉亚": [
+   "奥菲利亚"
+  ],
+  "戈洛什": [
+   "戈洛什爵士"
+  ],
+  "纳什·纳尔特": [
+   "纳什亲王"
+  ]
+ }
+}

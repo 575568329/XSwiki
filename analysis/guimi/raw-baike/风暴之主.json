@@ -1,0 +1,89 @@
+{
+ "id": 1168674,
+ "subLemmaId": 1168674,
+ "newLemmaId": 7844198,
+ "key": "风暴之主",
+ "desc": "游戏《魔兽世界》中的人物",
+ "title": "风暴之主",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "风暴之主"
+   ],
+   "format": [
+    "风暴之主"
+   ]
+  },
+  {
+   "key": "m47_nameE",
+   "name": "外文名",
+   "value": [
+    "Torvald"
+   ],
+   "format": [
+    "Torvald"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "万王之王"
+   ],
+   "format": [
+    "万王之王"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "登场作品",
+   "value": [
+    "魔兽世界"
+   ],
+   "format": [
+    "魔兽世界"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/77c6a7efce1b9d1646da7f27f0deb48f8c546453?x-bce-process=image/format,f_auto",
+ "src": "77c6a7efce1b9d1646da7f27f0deb48f8c546453",
+ "imageHeight": 382,
+ "imageWidth": 600,
+ "isSummaryPic": "y",
+ "abstract": "风暴之主是暴雪娱乐旗下游戏《魔兽世界》中的虚拟角色，又名万王之王，外文名托瓦尔德（Torvald）。作为北方部族哈埃尔夫格里姆家族血亲，其核心设定围绕雷电之力的传承与对抗冰雪势力展开。该角色本名赫罗蒙德（Heromund），系霍罗蒙德之子（Hrothmund之子），以北方武士身份活跃于虚构世界观中，曾在斯特姆格拉姆斯托尔山顶向初代风暴之主托瓦尔德祈祷，试图通过闪电试炼获取雷霆之力击败冰雪之王弗瑞卡。其祷辞记载了十六次南征战绩和调解五氏族的经历。传承体系要求勇士在暴风雪中接受考验，通过者成为雷电掌控者，失败者则被闪电摧毁。该角色承载着托瓦尔德平息严冬女王、夺取神力建立试炼制度的遗产，构建了北方勇士通过极端考验追求力量的叙事框架，展现力量传承与自然法则的共生关系。闪电试炼既是力量授予机制，也象征着武士精神的终极考验。",
+ "moduleIds": [
+  3988384233
+ ],
+ "url": "http://baike.baidu.com/subview/1168674/1168674.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%A3%8E%E6%9A%B4%E4%B9%8B%E4%B8%BB/7844198",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/1168674.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/1168674/1168674.htm#1'>人物简介</a>",
+  "<a href='http://baike.baidu.com/subview/1168674/1168674.htm#2'>形象设定</a>",
+  "<a href='http://baike.baidu.com/subview/1168674/1168674.htm#3'>主要经历</a>",
+  "<a href='http://baike.baidu.com/subview/1168674/1168674.htm#4'>人物关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%A3%8E%E6%9A%B4%E4%B9%8B%E4%B8%BB/7844198#1'>人物简介</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%A3%8E%E6%9A%B4%E4%B9%8B%E4%B8%BB/7844198#2'>形象设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%A3%8E%E6%9A%B4%E4%B9%8B%E4%B8%BB/7844198#3'>主要经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%A3%8E%E6%9A%B4%E4%B9%8B%E4%B8%BB/7844198#4'>人物关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

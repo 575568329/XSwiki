@@ -1,0 +1,60 @@
+{
+  "name": "陆江仙",
+  "oneLiner": "现代残魂穿越附身铜镜『玄鉴』成器灵，随李家崛起道行日深，暗谋明阳以自保",
+  "toProtagonist": "本书主角",
+  "visualLine": "男（穿越者残魂）；本体为灰青色古铜镜，鉴中天地显白衣男子身形，月华凝成淡白月晕覆于镜面",
+  "role": "core",
+  "cultivation": "仙器『玄鉴』器灵（道行极深，可凭【明华煌阳御交性】模拟种种神通）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "镜醒入李家",
+      "chapterStart": 1,
+      "chapterEnd": 3,
+      "situation": "穿越成河底灰青铜镜，吞吐月华凝出气流，被李项平捞起带入黎泾村李家",
+      "cultivationAt": "-",
+      "visual": "灰青色铜镜静躺河底，月光汇成淡白月晕落于镜面",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "鉴中仙宫",
+      "chapterStart": 696,
+      "chapterEnd": 835,
+      "situation": "李曦明突破反哺仙鉴，鉴中天地扩大数倍、仙宫群落成形，道行可剖析吞指秘法",
+      "cultivationAt": "器灵",
+      "visual": "鉴中天中浮现身形，脚踏亮白通明的仙殿仙楼",
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "参悟道秘",
+      "chapterStart": 1056,
+      "chapterEnd": 1202,
+      "situation": "剖析证金与登位之别，接待真诰、收获灵宝道统，自陈欲促明阳以图自保",
+      "cultivationAt": "器灵",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "对质玄谙",
+      "chapterStart": 1460,
+      "chapterEnd": 1464,
+      "situation": "与玄谙正面对质，点破元府乃其空造；玄谙自尽，他抬手按上青铜大门",
+      "cultivationAt": "器灵",
+      "visual": "漫天金光雷霆中，白衣男子身影时隐时现",
+      "spoiler": true
+    },
+    {
+      "id": "stg5",
+      "title": "卦悟阴阳",
+      "chapterStart": 1474,
+      "chapterEnd": 1542,
+      "situation": "卜得阴阳流转、三一造化之卦，指向阴阳轮转之道，六阐之法已知其五",
+      "cultivationAt": "器灵",
+      "visual": null,
+      "spoiler": false
+    }
+  ]
+}

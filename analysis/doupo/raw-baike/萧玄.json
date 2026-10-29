@@ -1,0 +1,103 @@
+{
+ "id": 4881729,
+ "subLemmaId": 4882484,
+ "newLemmaId": 10698241,
+ "key": "萧玄",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的角色",
+ "title": "萧玄",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "萧玄"
+   ],
+   "format": [
+    "萧玄"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "玄幻小说《斗破苍穹》及其衍生作品"
+   ],
+   "format": [
+    "玄幻小说《斗破苍穹》及其衍生作品"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "境界",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%8D%8A%E6%AD%A5%E6%96%97%E5%B8%9D/53933788\" data-lemmaid=\"53933788\">半步斗帝</a><sup>14</sup><a name=\"ref_14\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%8D%8A%E6%AD%A5%E6%96%97%E5%B8%9D/53933788\" data-lemmaid=\"53933788\">半步斗帝</a><sup>14</sup><a name=\"ref_14\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "萧族族长<sup>13</sup><a name=\"ref_13\"></a>"
+   ],
+   "format": [
+    "萧族族长<sup>13</sup><a name=\"ref_13\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属势力",
+   "value": [
+    "远古八族之萧族<sup>13</sup><a name=\"ref_13\"></a>"
+   ],
+   "format": [
+    "远古八族之萧族<sup>13</sup><a name=\"ref_13\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/b219ebc4b74543a9822635f9f54e9d82b9014a90bef6?x-bce-process=image/format,f_auto",
+ "src": "b219ebc4b74543a9822635f9f54e9d82b9014a90bef6",
+ "imageHeight": 729,
+ "imageWidth": 733,
+ "isSummaryPic": "y",
+ "abstract": "萧玄，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的角色，斗气大陆远古八族之萧族的族长。萧玄生前已达半步斗帝的境界，为千年前斗气大陆斗帝之下最强者，五大至强者之首。因强行冲击斗帝境界失败身受重伤，被魂族强者偷袭围攻而死，直接导致萧族衰败。 ",
+ "moduleIds": [
+  7082522073,
+  6730751638,
+  5612098575,
+  5612098576,
+  6391029813
+ ],
+ "url": "http://baike.baidu.com/subview/4881729/4882484.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%90%A7%E7%8E%84/10698241",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/4881729.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/4881729/4882484.htm#1'>角色形象</a>",
+  "<a href='http://baike.baidu.com/subview/4881729/4882484.htm#2'>角色能力</a>",
+  "<a href='http://baike.baidu.com/subview/4881729/4882484.htm#3'>人际关系</a>",
+  "<a href='http://baike.baidu.com/subview/4881729/4882484.htm#4'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E7%8E%84/10698241#1'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E7%8E%84/10698241#2'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E7%8E%84/10698241#3'>人际关系</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E7%8E%84/10698241#4'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

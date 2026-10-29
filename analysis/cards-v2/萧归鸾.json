@@ -1,0 +1,60 @@
+{
+  "name": "萧归鸾",
+  "oneLiner": "萧家嫡脉庶出之女，外嫁李渊蛟为妻，低调治家、情深护子",
+  "toProtagonist": "萧李两家联姻的纽带，李渊蛟之妻，替夫治家理财撑起李家内宅",
+  "visualLine": "女，驻颜如二十来岁的修士；一双丹凤眼，简简单单着黑色束裙",
+  "role": "support",
+  "cultivation": "练气九层",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "许配渊蛟",
+      "chapterStart": 220,
+      "chapterEnd": 222,
+      "situation": "萧元思赞其品性相貌上上选，做主许配李渊蛟，李通崖随后定下婚期",
+      "cultivationAt": "胎息四层",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "出嫁李家",
+      "chapterStart": 260,
+      "chapterEnd": 268,
+      "situation": "出嫁前当掉玉镯替刻薄父亲补亏空；婚轿中一问一答，被赞『好聪明的女子』",
+      "cultivationAt": "胎息四层",
+      "visual": "青衣女子静静坐于婚轿之中",
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "治家知秘",
+      "chapterStart": 274,
+      "chapterEnd": 307,
+      "situation": "助李渊蛟治家五年琴瑟和鸣，谈成青乌矿买卖开源；点破萧家老祖之秘与夫共担",
+      "cultivationAt": "胎息巅峰",
+      "visual": "抱着李曦治的少妇，丹凤眼微微一眨温婉而笑",
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "山中修行",
+      "chapterStart": 377,
+      "chapterEnd": 456,
+      "situation": "低调着黑裙在山上修行，独力拉扯李月湘长大；练气九层停滞，习符箓自遣",
+      "cultivationAt": "练气九层",
+      "visual": "静室中修炼的女子，丹凤眼娇俏，简简单单着黑色束裙",
+      "spoiler": false
+    },
+    {
+      "id": "stg5",
+      "title": "陨于兽过",
+      "chapterStart": 1378,
+      "chapterEnd": 1378,
+      "situation": "巨兽振翅飞过南方，当场陨落，众人只道时运不济",
+      "cultivationAt": "练气九层",
+      "visual": null,
+      "spoiler": true
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "备海龙王",
+  "oneLiner": "东方游之子、最受宠三龙王之一的合天海备海龙王，白龙祧主人，为龙属求稳布局",
+  "toProtagonist": "亲采李周巍白麟血、盼其牵制北方的龙属大妖，对李氏示好又存算计",
+  "visualLine": "雄性龙属大妖，年岁古老，身躯庞大、迈步投下层层巨影，鼻息喷涌如白色气浪",
+  "role": "support",
+  "cultivation": "",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "渊源初显",
+      "chapterStart": 671,
+      "chapterEnd": 678,
+      "situation": "东方游之子、须唤魏恭帝世叔的渊源初显；紫霈有物予他",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "受宠备海",
+      "chapterStart": 735,
+      "chapterEnd": 816,
+      "situation": "封地备海近殷洲京畿、最受宠三龙王之一，兼白龙祧主人；多年无动作",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "采白麟血",
+      "chapterStart": 817,
+      "chapterEnd": 818,
+      "situation": "亲邀李周巍至长流山主持采其白麟血，许灵物补偿，将着手看护落霞山明阳降世",
+      "cultivationAt": "-",
+      "visual": "迈步登玉台，庞大身躯投下层层巨影",
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "求稳布局",
+      "chapterStart": 1029,
+      "chapterEnd": 1049,
+      "situation": "李周巍拱手见礼，断其求稳为主、盼白麟牵制北方；白龙太子鼎矫野心更盛",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg5",
+      "title": "示好李家",
+      "chapterStart": 1216,
+      "chapterEnd": 1336,
+      "situation": "复勋疑遭嗣海龙王吞吃，遣大将卢旭向李家示诚意；黑暗中终唤'李周巍'之名",
+      "cultivationAt": "-",
+      "visual": "鼻息喷涌如白色气浪，黑暗中飘散如烟",
+      "spoiler": false
+    }
+  ]
+}

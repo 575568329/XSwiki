@@ -1,0 +1,97 @@
+{
+ "id": 5075852,
+ "subLemmaId": 5088852,
+ "newLemmaId": 3043700,
+ "key": "慕青鸾",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的人物",
+ "title": "慕青鸾",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "慕青鸾"
+   ],
+   "format": [
+    "慕青鸾"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "女"
+   ],
+   "format": [
+    "女"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "师傅",
+   "value": [
+    "<a target=_blank href=\"/item/%E9%A3%8E%E5%B0%8A%E8%80%85/5342166\" data-lemmaid=\"5342166\">风尊者</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E9%A3%8E%E5%B0%8A%E8%80%85/5342166\" data-lemmaid=\"5342166\">风尊者</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属帮派",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%98%9F%E9%99%A8%E9%98%81/6112918\" data-lemmaid=\"6112918\">星陨阁</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%98%9F%E9%99%A8%E9%98%81/6112918\" data-lemmaid=\"6112918\">星陨阁</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "星陨阁大师姐"
+   ],
+   "format": [
+    "星陨阁大师姐"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/7acb0a46f21fbe09d7c98c1a64600c338744ad2d?x-bce-process=image/format,f_auto",
+ "src": "7acb0a46f21fbe09d7c98c1a64600c338744ad2d",
+ "imageHeight": 529,
+ "imageWidth": 390,
+ "isSummaryPic": "y",
+ "abstract": "慕青鸾是天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的虚拟角色，本体为魔兽天鸾一族成员，担任星陨阁大师姐，系风尊者之徒、萧炎的同门师姐。作为星陨阁年轻一代最强弟子，慕青鸾曾在天目山测试中通过鼠潮音波阵并压制噬金兽鸣叫，从天山血潭历练后达到半只脚踏入斗宗的境界。在2024年动漫改编中，她于天目山登场，以斗皇巅峰境界冲击斗宗，并在闯关时使用笛子应对鼠潮音波阵。据称其14岁便已达到斗皇级别，但后续戏份较少。她曾带领萧炎前往天鸾族聚居地，并参与护送萧炎前往斗圣遗迹，最终修为突破至斗尊层级。该角色从年轻天骄逐步成长为斗尊强者，展现了星陨阁核心弟子的修炼轨迹。",
+ "moduleIds": [
+  6868015165
+ ],
+ "url": "http://baike.baidu.com/subview/5075852/5088852.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%85%95%E9%9D%92%E9%B8%BE/3043700",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/5075852.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/5075852/5088852.htm#1'>形象设定</a>",
+  "<a href='http://baike.baidu.com/subview/5075852/5088852.htm#2'>人物关系</a>",
+  "<a href='http://baike.baidu.com/subview/5075852/5088852.htm#3'>人物影响</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%85%95%E9%9D%92%E9%B8%BE/3043700#1'>形象设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%85%95%E9%9D%92%E9%B8%BE/3043700#2'>人物关系</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%85%95%E9%9D%92%E9%B8%BE/3043700#3'>人物影响</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

@@ -1,0 +1,104 @@
+{
+ "id": 34418881,
+ "subLemmaId": 38302879,
+ "newLemmaId": 64491113,
+ "key": "魔女教派",
+ "desc": "小说《诡秘之主》中的超凡势力",
+ "title": "魔女教派",
+ "card": [
+  {
+   "key": "m25_customDefault",
+   "name": "中文名",
+   "value": [
+    "魔女教派"
+   ],
+   "format": [
+    "魔女教派"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "所属作品",
+   "value": [
+    "诡秘之主"
+   ],
+   "format": [
+    "诡秘之主"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "信仰对象",
+   "value": [
+    "原初魔女"
+   ],
+   "format": [
+    "原初魔女"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "活跃纪元",
+   "value": [
+    "第四纪"
+   ],
+   "format": [
+    "第四纪"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "创立时间",
+   "value": [
+    "第四纪"
+   ],
+   "format": [
+    "第四纪"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "关联组织",
+   "value": [
+    "灵知会"
+   ],
+   "format": [
+    "灵知会"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "首次登场",
+   "value": [
+    "小说第66章"
+   ],
+   "format": [
+    "小说第66章"
+   ]
+  }
+ ],
+ "imageHeight": null,
+ "imageWidth": null,
+ "isSummaryPic": "n",
+ "abstract": "魔女教派，是小说《诡秘之主》中起源于第四纪的隐秘组织，由原初魔女的信徒建立。该教派以散播灾难为使命，高层成员均为女性，其序列途径与对原初魔女的信仰深度绑定。作为活跃于现实世界的超凡势力，魔女教派在第四纪众神纪元中扮演重要角色，与灵知会等组织存在关联。在小说情节发展中，该组织自第66章首次出现后，持续通过成员行动推动势力冲突与剧情演进。",
+ "moduleIds": [],
+ "url": "http://baike.baidu.com/item/%E9%AD%94%E5%A5%B3%E6%95%99%E6%B4%BE",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%AD%94%E5%A5%B3%E6%95%99%E6%B4%BE",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E9%AD%94%E5%A5%B3%E6%95%99%E6%B4%BE#1'>历史沿革</a>",
+  "<a href='http://baike.baidu.com/item/%E9%AD%94%E5%A5%B3%E6%95%99%E6%B4%BE#2'>信仰与教义</a>",
+  "<a href='http://baike.baidu.com/item/%E9%AD%94%E5%A5%B3%E6%95%99%E6%B4%BE#3'>序列途径</a>",
+  "<a href='http://baike.baidu.com/item/%E9%AD%94%E5%A5%B3%E6%95%99%E6%B4%BE#4'>组织结构</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%94%E5%A5%B3%E6%95%99%E6%B4%BE#1'>历史沿革</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%94%E5%A5%B3%E6%95%99%E6%B4%BE#2'>信仰与教义</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%94%E5%A5%B3%E6%95%99%E6%B4%BE#3'>序列途径</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%94%E5%A5%B3%E6%95%99%E6%B4%BE#4'>组织结构</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

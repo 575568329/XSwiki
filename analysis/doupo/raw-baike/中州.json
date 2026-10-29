@@ -1,0 +1,127 @@
+{
+ "id": 47532,
+ "subLemmaId": 5066155,
+ "newLemmaId": 1415,
+ "key": "中州",
+ "desc": "中国文明的发源地和发祥地",
+ "title": "中原",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "中原"
+   ],
+   "format": [
+    "中原"
+   ]
+  },
+  {
+   "key": "m25_nameE",
+   "name": "外文名",
+   "value": [
+    "the Central Plains"
+   ],
+   "format": [
+    "the Central Plains"
+   ]
+  },
+  {
+   "key": "m25_alternateName",
+   "name": "别名",
+   "value": [
+    "华夏、中土、<a target=_blank href=\"/item/%E4%B8%AD%E5%B7%9E/25997\" data-lemmaid=\"25997\">中州</a>等"
+   ],
+   "format": [
+    "华夏、中土、<a target=_blank href=\"/item/%E4%B8%AD%E5%B7%9E/25997\" data-lemmaid=\"25997\">中州</a>等"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "地位",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%98%8E/432445\" data-lemmaid=\"432445\">华夏文明</a>的发源地 "
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%98%8E/432445\" data-lemmaid=\"432445\">华夏文明</a>的发源地 "
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "古都",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%B4%9B%E9%98%B3/125712\" data-lemmaid=\"125712\">洛阳</a>、<a target=_blank href=\"/item/%E5%BC%80%E5%B0%81/122642\" data-lemmaid=\"122642\">开封</a>、<a target=_blank href=\"/item/%E5%AE%89%E9%98%B3/8202\" data-lemmaid=\"8202\">安阳</a>、<a target=_blank href=\"/item/%E9%83%91%E5%B7%9E/123948\" data-lemmaid=\"123948\">郑州</a>等"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%B4%9B%E9%98%B3/125712\" data-lemmaid=\"125712\">洛阳</a>、<a target=_blank href=\"/item/%E5%BC%80%E5%B0%81/122642\" data-lemmaid=\"122642\">开封</a>、<a target=_blank href=\"/item/%E5%AE%89%E9%98%B3/8202\" data-lemmaid=\"8202\">安阳</a>、<a target=_blank href=\"/item/%E9%83%91%E5%B7%9E/123948\" data-lemmaid=\"123948\">郑州</a>等"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "文化",
+   "value": [
+    "<a target=_blank href=\"/item/%E4%B8%AD%E5%8E%9F%E6%96%87%E5%8C%96/849297\" data-lemmaid=\"849297\">中原文化</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E4%B8%AD%E5%8E%9F%E6%96%87%E5%8C%96/849297\" data-lemmaid=\"849297\">中原文化</a>"
+   ]
+  },
+  {
+   "key": "m25_language",
+   "name": "语种",
+   "value": [
+    "<a target=_blank href=\"/item/%E4%B8%AD%E5%8E%9F%E5%AE%98%E8%AF%9D/1115854\" data-lemmaid=\"1115854\">中原官话</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E4%B8%AD%E5%8E%9F%E5%AE%98%E8%AF%9D/1115854\" data-lemmaid=\"1115854\">中原官话</a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/11385343fbf2b2119313f7c3cedc72380cd7902320b0?x-bce-process=image/format,f_auto",
+ "src": "11385343fbf2b2119313f7c3cedc72380cd7902320b0",
+ "imageHeight": 917,
+ "imageWidth": 1452,
+ "isSummaryPic": "y",
+ "abstract": "中原是中国核心地理与文化区域，又称华夏、中土、中州。中原的地域范围狭义指河南省，广义指黄河中下游地区。产生了中原文明。作为中华文明发祥地，自上古时代到唐宋时期，中华5000年文明有3000年以中原地区为主要承载区，中原地区一直是我国政治、经济和文化的中心，孕育了裴李岗文化、仰韶文化等史前文明。历史上夏、商、周至宋金等20余朝代、300余位帝王在此建都，形成洛阳、开封、安阳、郑州四大古都群，建都史超3600年，素有“得中原者得天下”之称。中原是汉字、农耕、中医、丝绸、龙文化的发源地，河洛文化辐射形成礼乐制度、儒家思想等中华文明主体框架。地理上北依太行，南屏伏牛，黄河穿境，兼具军事与交通枢纽地位。先秦至明清，中原人口迁徙推动经济、技术及文化扩散，促进民族融合与多元一体格局形成。现代中原经济区以郑汴洛为核心，承袭历史脉络，仍是国家战略腹地与文化标识。姓氏起源、龙图腾崇拜及“中国”概念皆根植于此，...",
+ "moduleIds": [
+  5583170618,
+  5583170619,
+  5583811223,
+  5583811225,
+  5583811226,
+  5584421285,
+  5584421286,
+  5585059472,
+  5585648097,
+  5634639649,
+  5634639660,
+  5634639662,
+  5634639663,
+  5634639664,
+  5634639666,
+  6929890302
+ ],
+ "url": "http://baike.baidu.com/subview/47532/5066155.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E4%B8%AD%E5%8E%9F/1415",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/47532.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/47532/5066155.htm#1'>词源释义</a>",
+  "<a href='http://baike.baidu.com/subview/47532/5066155.htm#2'>地理范围</a>",
+  "<a href='http://baike.baidu.com/subview/47532/5066155.htm#3'>历史沿革</a>",
+  "<a href='http://baike.baidu.com/subview/47532/5066155.htm#4'>历代都城</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E4%B8%AD%E5%8E%9F/1415#1'>词源释义</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%B8%AD%E5%8E%9F/1415#2'>地理范围</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%B8%AD%E5%8E%9F/1415#3'>历史沿革</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%B8%AD%E5%8E%9F/1415#4'>历代都城</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": {
+  "from": "中州",
+  "to": "中原"
+ }
+}

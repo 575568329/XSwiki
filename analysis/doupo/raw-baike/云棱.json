@@ -1,0 +1,84 @@
+{
+ "id": 34897074,
+ "subLemmaId": 39016853,
+ "newLemmaId": 65387744,
+ "key": "云棱",
+ "desc": "玄幻小说《斗破苍穹》及其衍生作品中的角色",
+ "title": "云棱",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "云棱"
+   ],
+   "format": [
+    "云棱"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "修为",
+   "value": [
+    "斗王"
+   ],
+   "format": [
+    "斗王"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "云岚宗首席大长老"
+   ],
+   "format": [
+    "云岚宗首席大长老"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/4afbfbedab64034f78f0c926319a6e310a55b319b7c0?x-bce-process=image/format,f_auto",
+ "src": "4afbfbedab64034f78f0c926319a6e310a55b319b7c0",
+ "imageHeight": 996,
+ "imageWidth": 747,
+ "isSummaryPic": "y",
+ "abstract": "云棱，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的角色，云岚宗大长老，拥有斗王修为。在萧炎与纳兰嫣然三年之约对决时，云棱通过曾去给墨承祝寿过的葛叶的指认，发现墨承是被萧炎所杀，想要将萧炎留下进行调查。萧炎不从，遂启动云烟覆日阵，并唤醒云山对抗凌影。萧炎离开后，云棱瞒着云山、云韵，擅自做主带人袭击萧家，致使萧炎父亲萧战失踪，引发萧炎携美杜莎二次攻山。最终因无法交出萧战，被萧炎以佛怒火莲击杀。",
+ "moduleIds": [
+  7014874423
+ ],
+ "url": "http://baike.baidu.com/item/%E4%BA%91%E6%A3%B1",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E4%BA%91%E6%A3%B1",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E4%BA%91%E6%A3%B1#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/item/%E4%BA%91%E6%A3%B1#2'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E4%BA%91%E6%A3%B1#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%BA%91%E6%A3%B1#2'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

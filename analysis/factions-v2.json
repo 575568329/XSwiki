@@ -1,0 +1,119 @@
+[
+  {
+    "id": "lijia",
+    "name": "李家",
+    "stance": "protagonist",
+    "stanceTxt": "主角家族·黎泾村凡人崛起、裂土建魏",
+    "one": "全书主角家族，黎泾村凡人起家，数代修持终裂土建魏、雄踞一方。",
+    "core": ["李曦明", "李周巍", "李玄宣"],
+    "stages": []
+  },
+  {
+    "id": "mingyang",
+    "name": "明阳",
+    "stance": "neutral",
+    "stanceTxt": "中立·与陆江仙渊源极深",
+    "one": "与陆江仙渊源极深的大道统，帝佛妖道并杂，与李家牵出通天大因果。",
+    "core": ["宋帝", "遮卢", "五目"],
+    "stages": []
+  },
+  {
+    "id": "qingchizong",
+    "name": "青池宗",
+    "stance": "neutral",
+    "stanceTxt": "中立·越国三宗、李曦治曾掌青穗峰",
+    "one": "越国三宗之一，迟、宁诸家为其羽翼，李曦治曾入宗掌青穗峰。",
+    "core": ["元乌真人", "元修", "迟符泊"],
+    "stages": []
+  },
+  {
+    "id": "jinyuzong",
+    "name": "金羽宗",
+    "stance": "neutral",
+    "stanceTxt": "中立·越国三宗、暗遭北方渗透",
+    "one": "越国三宗之一，紫府秋水坐镇，宗内暗为北方棋子所渗透。",
+    "core": ["秋水", "卫悬因", "江中清"],
+    "stages": []
+  },
+  {
+    "id": "yuanjia",
+    "name": "袁家",
+    "stance": "neutral",
+    "stanceTxt": "中立·邻境修仙家族、明争暗斗",
+    "one": "自北迁来、鼎盛一时却出不了一个紫府的修仙家族，与李家邻境周旋。",
+    "core": ["袁护独", "袁成照"],
+    "stages": []
+  },
+  {
+    "id": "yujia",
+    "name": "郁家",
+    "stance": "neutral",
+    "stanceTxt": "中立·与李家有雷火旧怨",
+    "one": "地方修仙家族，老祖郁玉封实已身死而族中隐瞒，与李家有雷火旧怨。",
+    "core": ["郁玉封"],
+    "stages": []
+  },
+  {
+    "id": "xiaojia",
+    "name": "萧家",
+    "stance": "ally",
+    "stanceTxt": "盟友·世交、扶持李家千年",
+    "one": "望月湖畔世交家族，老祖溪上翁为紫府钓翁、扶持李家千年，证道失败而中衰。",
+    "core": ["萧初庭", "萧衔忧"],
+    "stages": []
+  },
+  {
+    "id": "yueguo",
+    "name": "越国",
+    "stance": "neutral",
+    "stanceTxt": "中立·故国朝廷、后为李家所代",
+    "one": "李家所出的凡俗故国，越地三宗林立，终为李家裂土建魏所取代。",
+    "core": ["渌水", "杨将军"],
+    "stages": []
+  },
+  {
+    "id": "kongjia",
+    "name": "孔家",
+    "stance": "neutral",
+    "stanceTxt": "中立·玄岳门庭、宗灭家衰",
+    "one": "执掌玄岳的地方修仙家族，玄岳灭亡后家道败落，门主孔孤皙力战不屈。",
+    "core": ["孔孤皙", "孔孤漠"],
+    "stages": []
+  },
+  {
+    "id": "xiuyuezong",
+    "name": "修越宗",
+    "stance": "neutral",
+    "stanceTxt": "中立·越国三宗之一",
+    "one": "越国三宗之一，金丹之下唯一剑仙上元真人坐镇，萧衔忧死于其宗之手。",
+    "core": ["上元真人", "修越真君", "唐摄郡"],
+    "stages": []
+  },
+  {
+    "id": "feijia",
+    "name": "费家",
+    "stance": "neutral",
+    "stanceTxt": "中立·与李家亲善",
+    "one": "地方修仙家族，子弟寄身青池如履薄冰，受费清翊牵连而中落。",
+    "core": ["费清雅", "费清伊", "费桐啸"],
+    "stages": []
+  },
+  {
+    "id": "beihuanzong",
+    "name": "北寰宗",
+    "stance": "foe",
+    "stanceTxt": "敌对·北方大宗",
+    "one": "镇压北海的北方大宗，宗主臻涑为成名已久的大真人，与李家敌对。",
+    "core": ["臻涑", "谢家人"],
+    "stages": []
+  },
+  {
+    "id": "cuijia",
+    "name": "崔家",
+    "stance": "neutral",
+    "stanceTxt": "中立·地方修仙家族",
+    "one": "素材寥寥的地方修仙家族，关联人物散见他族他宗，事迹待考。",
+    "core": ["庆济方", "李乾元"],
+    "stages": []
+  }
+]

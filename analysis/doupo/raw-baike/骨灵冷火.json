@@ -1,0 +1,92 @@
+{
+ "id": 4987650,
+ "subLemmaId": 4989718,
+ "newLemmaId": 1404221,
+ "key": "骨灵冷火",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》之中的异火",
+ "title": "骨灵冷火",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "骨灵冷火"
+   ],
+   "format": [
+    "骨灵冷火"
+   ]
+  },
+  {
+   "key": "m233_source",
+   "name": "出处",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m233_type",
+   "name": "类型",
+   "value": [
+    "火焰"
+   ],
+   "format": [
+    "火焰"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "所属人物",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%8D%AF%E5%B0%98/11056743\" data-lemmaid=\"11056743\">药尘</a>、<a target=_blank href=\"/item/%E8%90%A7%E7%82%8E/5808896\" data-lemmaid=\"5808896\">萧炎</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%8D%AF%E5%B0%98/11056743\" data-lemmaid=\"11056743\">药尘</a>、<a target=_blank href=\"/item/%E8%90%A7%E7%82%8E/5808896\" data-lemmaid=\"5808896\">萧炎</a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "异火排行",
+   "value": [
+    "十一"
+   ],
+   "format": [
+    "十一"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "颜色",
+   "value": [
+    "森白色"
+   ],
+   "format": [
+    "森白色"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/c8ea15ce36d3d539b600be0187dcfe50352ac75c1ae7?x-bce-process=image/format,f_auto",
+ "src": "c8ea15ce36d3d539b600be0187dcfe50352ac75c1ae7",
+ "imageHeight": 1608,
+ "imageWidth": 3840,
+ "isSummaryPic": "y",
+ "abstract": "骨灵冷火是天蚕土豆所著玄幻小说《斗破苍穹》中的异火，位列异火榜第十一位。该火焰呈森白色，需在极寒之地经历日月交替时显现，兼具冰寒冻结与高温焚烧的双重特性。其特殊形态表现为雪白冰焰，能够造成冰封效果并产生灼烧伤害。此异火最初归属于药尘，后由其转赠弟子萧炎。",
+ "moduleIds": [
+  6818860107
+ ],
+ "url": "http://baike.baidu.com/view/4987650.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%AA%A8%E7%81%B5%E5%86%B7%E7%81%AB/1404221",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/4987650.htm#1'>简介</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%AA%A8%E7%81%B5%E5%86%B7%E7%81%AB/1404221#1'>简介</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

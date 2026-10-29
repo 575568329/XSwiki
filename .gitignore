@@ -1,0 +1,26 @@
+# 依赖
+node_modules/
+.venv/
+__pycache__/
+
+# 构建产物（克隆后恢复：node analysis/sync-data.mjs → cd plugin-src && npm run build）
+plugin-src/dist/
+plugin-src/public/data/
+server/data/
+
+# 版权与体量：原文全本/抓取原始件/第三方克隆不入库
+_tmp/
+analysis/raw/
+analysis/*/text/
+analysis/*/生图/
+tools/
+reference-xianzu-wiki/
+
+# 通道A 上游仓库（第三方，自带 .git），需要时重新克隆
+analysis/fanren/repo/
+analysis/guimi/repo/
+
+# 杂项
+*.log
+.DS_Store
+Thumbs.db

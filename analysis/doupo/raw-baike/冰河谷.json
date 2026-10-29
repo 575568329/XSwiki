@@ -1,0 +1,109 @@
+{
+ "id": 6015720,
+ "subLemmaId": 37066571,
+ "newLemmaId": 62841177,
+ "key": "冰河谷",
+ "desc": "《斗破苍穹》中斗气大陆中州的势力之一",
+ "title": "冰河谷",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "冰河谷"
+   ],
+   "format": [
+    "冰河谷"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "谷主",
+   "value": [
+    "冰尊者冰河"
+   ],
+   "format": [
+    "冰尊者冰河"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "斗气属性",
+   "value": [
+    "冰尊劲"
+   ],
+   "format": [
+    "冰尊劲"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "覆灭时间",
+   "value": [
+    "星陨阁一战"
+   ],
+   "format": [
+    "星陨阁一战"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "世仇势力",
+   "value": [
+    "焚炎谷"
+   ],
+   "format": [
+    "焚炎谷"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "势力徽章",
+   "value": [
+    "雪花图纹"
+   ],
+   "format": [
+    "雪花图纹"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "地位",
+   "value": [
+    "中州三谷之一"
+   ],
+   "format": [
+    "中州三谷之一"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/63d9f2d3572c11dfa9ec8fc3697e75d0f703908f6480?x-bce-process=image/format,f_auto",
+ "src": "63d9f2d3572c11dfa9ec8fc3697e75d0f703908f6480",
+ "imageHeight": 506,
+ "imageWidth": 802,
+ "isSummaryPic": "y",
+ "abstract": "冰河谷是玄幻小说《斗破苍穹》中斗气大陆中州的明面势力，位列\"三谷\"之一。谷主冰尊者冰河拥有后天厄难毒体，因觊觎小医仙的天生厄难毒体而对其展开疯狂追捕。冰河谷与焚炎谷为世仇，其独有的冰尊劲斗气可冻结对手经脉，曾与魂殿联手对抗主角萧炎，最终在星陨阁一战后被其覆灭。冰河谷对特殊体质极感兴趣，中州时期多次与小医仙交手。",
+ "moduleIds": [
+  6988428909
+ ],
+ "url": "http://baike.baidu.com/item/%E5%86%B0%E6%B2%B3%E8%B0%B7/62841177",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%86%B0%E6%B2%B3%E8%B0%B7/62841177",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/6015720.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E5%86%B0%E6%B2%B3%E8%B0%B7/62841177#1'>势力背景</a>",
+  "<a href='http://baike.baidu.com/item/%E5%86%B0%E6%B2%B3%E8%B0%B7/62841177#2'>组织成员</a>",
+  "<a href='http://baike.baidu.com/item/%E5%86%B0%E6%B2%B3%E8%B0%B7/62841177#3'>斗技与功法</a>",
+  "<a href='http://baike.baidu.com/item/%E5%86%B0%E6%B2%B3%E8%B0%B7/62841177#4'>重要事件</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%86%B0%E6%B2%B3%E8%B0%B7/62841177#1'>势力背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%86%B0%E6%B2%B3%E8%B0%B7/62841177#2'>组织成员</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%86%B0%E6%B2%B3%E8%B0%B7/62841177#3'>斗技与功法</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%86%B0%E6%B2%B3%E8%B0%B7/62841177#4'>重要事件</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

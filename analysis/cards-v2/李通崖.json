@@ -1,0 +1,50 @@
+{
+  "name": "李通崖",
+  "oneLiner": "李家二代最锋利的刀，勇毅杀伐、东侵西扩，为家族开疆拓土的柱石",
+  "toProtagonist": "执掌法鉴祭祀的李家二代柱石，其祭药机缘牵出主线明阳大道的大因果",
+  "visualLine": "男，相貌三十余岁的修士；着素白袍或灰衣白纹云袖，负剑，腰系储物袋与纳气瓶",
+  "role": "core",
+  "cultivation": "筑基",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "护镜起家",
+      "chapterStart": 3,
+      "chapterEnd": 5,
+      "situation": "黎泾村李家次子，闻『仇家上门』取双刀藤衣长棍戒备，力保仙镜之秘不泄",
+      "cultivationAt": "-",
+      "visual": "农家青年，披藤衣、提长棍戒备",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "入道练气",
+      "chapterStart": 99,
+      "chapterEnd": 116,
+      "situation": "服玉芽丹破练气三层；受赠封白色菱形碎片的宝珠，议矿脉分润、湖上截夺法剑",
+      "cultivationAt": "练气三层",
+      "visual": "白袍修士蒙灵布遮面，腰系储物袋与纳气瓶",
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "筑基杀伐",
+      "chapterStart": 199,
+      "chapterEnd": 265,
+      "situation": "三剑重创郁慕元；祠堂恭祀列祖、自省东侵西扩杀伐，端起石台法鉴执掌祭祀",
+      "cultivationAt": "筑基",
+      "visual": "灰衣白纹云袖，负剑徒步上黎泾山祠堂",
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "祭药因果",
+      "chapterStart": 1458,
+      "chapterEnd": 1463,
+      "situation": "仙府遗物中被放入祭药：既是崛起机缘，亦是陨落之因，更牵出明阳大因果",
+      "cultivationAt": "筑基",
+      "visual": null,
+      "spoiler": true
+    }
+  ]
+}

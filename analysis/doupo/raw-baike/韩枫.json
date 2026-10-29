@@ -1,0 +1,112 @@
+{
+ "id": 1500480,
+ "subLemmaId": 14772405,
+ "newLemmaId": 14899512,
+ "key": "韩枫",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的角色",
+ "title": "韩枫",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "韩枫"
+   ],
+   "format": [
+    "韩枫"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "药皇、丹皇<sup>16</sup><a name=\"ref_16\"></a>"
+   ],
+   "format": [
+    "药皇、丹皇<sup>16</sup><a name=\"ref_16\"></a>"
+   ]
+  },
+  {
+   "key": "m47_playrole",
+   "name": "饰演",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%87%8C%E6%BD%87%E8%82%83/1946239\" data-lemmaid=\"1946239\">凌潇肃</a>（电视剧）"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%87%8C%E6%BD%87%E8%82%83/1946239\" data-lemmaid=\"1946239\">凌潇肃</a>（电视剧）"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "《<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>》<sup>1</sup><a name=\"ref_1\"></a>",
+    "《斗破苍穹前传之药老传奇》"
+   ],
+   "format": [
+    "《<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>》<sup>1</sup><a name=\"ref_1\"></a>",
+    "《斗破苍穹前传之药老传奇》"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属",
+   "value": [
+    "星陨阁→枫城<sup>2</sup><a name=\"ref_2\"></a>"
+   ],
+   "format": [
+    "星陨阁→枫城<sup>2</sup><a name=\"ref_2\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "境界",
+   "value": [
+    "九星斗皇→四星斗宗<sup>3</sup><a name=\"ref_3\"></a>"
+   ],
+   "format": [
+    "九星斗皇→四星斗宗<sup>3</sup><a name=\"ref_3\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/bd315c6034a85edf8db1119be31c1e23dd54564edf78?x-bce-process=image/format,f_auto",
+ "src": "bd315c6034a85edf8db1119be31c1e23dd54564edf78",
+ "imageHeight": 917,
+ "imageWidth": 282,
+ "isSummaryPic": "y",
+ "abstract": "韩枫，天蚕土豆所著异世大陆类玄幻小说《斗破苍穹》及其衍生作品中的角色，六品炼药师，药尘首徒，萧炎的师兄。在背叛药尘致其死亡后到黑角域发展，号“药皇”，前后三次与萧炎较量，皆被其以佛怒火莲击败。后因将自己的海心焰贡献给魂殿尊老慕骨，得到一具斗宗躯体，将灵魂融入其中得以晋入斗宗。后被再度击杀，灵魂为萧炎所擒获。",
+ "moduleIds": [
+  6544485923,
+  7067974183
+ ],
+ "url": "http://baike.baidu.com/subview/1500480/14772405.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%9F%A9%E6%9E%AB/14899512",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/1500480.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/1500480/14772405.htm#1'>角色形象</a>",
+  "<a href='http://baike.baidu.com/subview/1500480/14772405.htm#2'>角色能力</a>",
+  "<a href='http://baike.baidu.com/subview/1500480/14772405.htm#3'>人际关系</a>",
+  "<a href='http://baike.baidu.com/subview/1500480/14772405.htm#4'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%9F%A9%E6%9E%AB/14899512#1'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%9F%A9%E6%9E%AB/14899512#2'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%9F%A9%E6%9E%AB/14899512#3'>人际关系</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%9F%A9%E6%9E%AB/14899512#4'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

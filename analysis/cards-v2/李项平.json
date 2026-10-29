@@ -1,0 +1,70 @@
+{
+  "name": "李项平",
+  "oneLiner": "眉尺河摸得法鉴的黎泾村少年，李家三子，后为家主、修至胎息巅峰的符师",
+  "toProtagonist": "全书仙缘起点——陆江仙（仙鉴）正是他自眉尺河底摸出携归李家的，后执掌李家家主",
+  "visualLine": "青年男修，眉眼清秀、眼神狡黠，样貌比实际年龄显年轻，怀中揣着青灰色法鉴",
+  "role": "core",
+  "cultivation": "胎息巅峰",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "摸鉴少年",
+      "chapterStart": 2,
+      "chapterEnd": 4,
+      "situation": "眉尺河抓鱼摸得背面绘怪符的鉴子携归李家，鉴夜凝月晕显异，全家初议仙缘",
+      "cultivationAt": "-",
+      "visual": "十三岁少年，眉眼清秀，眼神狡黠，挽裤腿跪进河泥摸鱼",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "开启修行",
+      "chapterStart": 21,
+      "chapterEnd": 56,
+      "situation": "读木简习《天元练气诀》开启修行，气海充盈却卡周行轮近四年；与二哥探空洞府拾碎玉盘",
+      "cultivationAt": "练气",
+      "visual": "青年男子捧读法诀，妻田芸有孕在身",
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "执掌家主",
+      "chapterStart": 66,
+      "chapterEnd": 68,
+      "situation": "执掌族务、接见李秋阳等晚辈；李玄宣迎其入院口称『家主』，长子玄锋呆坐墓碑旁",
+      "cultivationAt": "-",
+      "visual": "捧卷法诀靠石椅细读，样貌比实际年龄显年轻",
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "反杀老道",
+      "chapterStart": 73,
+      "chapterEnd": 75,
+      "situation": "遭强压伤势的老道追杀，符箓用尽，扣最后一枚金刚符拼死一搏反杀，重伤月余方归",
+      "cultivationAt": "-",
+      "visual": "脸色苍白，手中符箓燃尽，怀揣青灰色法鉴",
+      "spoiler": false
+    },
+    {
+      "id": "stg5",
+      "title": "胎息画符",
+      "chapterStart": 86,
+      "chapterEnd": 101,
+      "situation": "破玉京轮至胎息巅峰、可执笔画符，收用山越阿会剌，西境血战得与法鉴相关的宝珠",
+      "cultivationAt": "胎息巅峰",
+      "visual": "执符笔画符于布帛，腰间攥着剔透宝珠",
+      "spoiler": false
+    },
+    {
+      "id": "stg6",
+      "title": "身后入祀",
+      "chapterStart": 1292,
+      "chapterEnd": 1342,
+      "situation": "身后入祀享子孙香火，后人依例先供李木田，继供李通崖、李项平",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": true
+    }
+  ]
+}

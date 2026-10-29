@@ -1,0 +1,64 @@
+{
+ "id": 4874501,
+ "subLemmaId": 4874970,
+ "newLemmaId": 10629328,
+ "key": "天蛇府",
+ "desc": "玄幻小说《斗破苍穹》中的势力",
+ "title": "天蛇府",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "天蛇府"
+   ],
+   "format": [
+    "天蛇府"
+   ]
+  },
+  {
+   "key": "m233_source",
+   "name": "出处",
+   "value": [
+    "《<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>》"
+   ],
+   "format": [
+    "《<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>》"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "代表长老",
+   "value": [
+    "青长老"
+   ],
+   "format": [
+    "青长老"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/14ce36d3d539b600412fec3de350352ac75cb753?x-bce-process=image/format,f_auto",
+ "src": "14ce36d3d539b600412fec3de350352ac75cb753",
+ "imageHeight": 1082,
+ "imageWidth": 1732,
+ "isSummaryPic": "y",
+ "abstract": "天蛇府是起点玄幻小说《斗破苍穹》中出现的势力，坐落于西北大陆中心地带的天蛇帝国，西北大陆最顶尖势力之一，主要成员有绿蛮、白牙、青鳞和青长老。天蛇府的长老青长老，拥有斗王级别实力，购得了七品丹药“阴阳玄龙丹”。",
+ "moduleIds": [
+  3603992668
+ ],
+ "url": "http://baike.baidu.com/view/4874501.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%A4%A9%E8%9B%87%E5%BA%9C/10629328",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/4874501.htm#1'>背景介绍</a>",
+  "<a href='http://baike.baidu.com/view/4874501.htm#2'>出场人物</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%A4%A9%E8%9B%87%E5%BA%9C/10629328#1'>背景介绍</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%A4%A9%E8%9B%87%E5%BA%9C/10629328#2'>出场人物</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

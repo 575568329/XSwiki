@@ -1,0 +1,74 @@
+{
+ "id": 4402706,
+ "subLemmaId": 4402706,
+ "newLemmaId": 3326126,
+ "key": "法犸",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的角色",
+ "title": "法犸",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "法犸"
+   ],
+   "format": [
+    "法犸"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "《斗破苍穹》<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "《斗破苍穹》<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "等级",
+   "value": [
+    "斗皇"
+   ],
+   "format": [
+    "斗皇"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/6c224f4a20a4462309f71ebb0c7e650e0cf3d6ca79ef?x-bce-process=image/format,f_auto",
+ "src": "6c224f4a20a4462309f71ebb0c7e650e0cf3d6ca79ef",
+ "imageHeight": 968,
+ "imageWidth": 1436,
+ "isSummaryPic": "y",
+ "abstract": "法犸，天蚕土豆所著玄幻小说《斗破苍穹》中的角色，加玛帝国炼药师公会会长，五品巅峰炼药师，拥有斗皇修为。作为与海波东、加刑天同年代的老辈强者，其年轻时曾受药尊者药尘三天炼药术指导。法犸长期担任公会会长职务，主持炼药师大会并管理六品丹药融灵丹丹方等奖励事务。",
+ "moduleIds": [
+  6864397804
+ ],
+ "url": "http://baike.baidu.com/view/4402706.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%B3%95%E7%8A%B8/3326126",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/4402706.htm#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/view/4402706.htm#2'>角色关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%B3%95%E7%8A%B8/3326126#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%B3%95%E7%8A%B8/3326126#2'>角色关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

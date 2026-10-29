@@ -1,0 +1,38 @@
+{
+  "name": "魂天帝",
+  "persona": {
+    "appearance": "身影常携黑雾现世，神情淡漠倨傲；成帝之后双目泛血，举手投足间威压盖世，视众生如蝼蚁。",
+    "personality": ["枭雄", "隐忍", "狠辣", "傲然", "深谋"],
+    "motivation": "集齐陀舍古帝玉炼成帝品雏丹，踏入斗帝之境，君临大陆。",
+    "arc": "蛰伏千载的魂族族长，夺玉炼丹突破斗帝，横扫诸族联军，终被萧炎异火阵法封印。"
+  },
+  "evidence": [
+    "【第1383章】当年魂天帝也不会被萧玄拼死打得重伤",
+    "【第1402章】是用古玉换人，还是强抢？",
+    "【第1444章】为了庆祝我成为这万载之中的第一位斗帝强者",
+    "【第1448章】魂天帝那凄厉的咆哮之声，也是在天地间轰隆隆的响彻而起"
+  ],
+  "timeline": [
+    {"chapter": 1383, "event": "现身古界议局，图谋陀舍古帝玉"},
+    {"chapter": 1400, "event": "尽收三族古玉，逼萧炎以玉换人"},
+    {"chapter": 1405, "event": "率魂族与六族联军全面开战"},
+    {"chapter": 1436, "event": "夺得帝品雏丹，筹谋炼化登帝"},
+    {"chapter": 1444, "event": "取虚无吞炎本源之火，成首位斗帝"},
+    {"chapter": 1446, "event": "单骑碾压联军，视众生如蝼蚁"},
+    {"chapter": 1448, "event": "被萧炎异火阵法封印，浩劫终结"}
+  ],
+  "relationships": [
+    {"name": "萧炎", "relation": "死敌"},
+    {"name": "古元", "relation": "死敌"},
+    {"name": "萧玄", "relation": "死敌"},
+    {"name": "魂殿殿主", "relation": "下属"},
+    {"name": "虚无吞炎", "relation": "下属"},
+    {"name": "净莲妖火", "relation": "对手"}
+  ],
+  "stages": [
+    {"chapterStart": 1383, "chapterEnd": 1399, "title": "族长现世", "cultivationAt": "九星斗圣", "situation": "蛰伏多年后现身，觊觎陀舍古帝玉，威慑古族各族。"},
+    {"chapterStart": 1400, "chapterEnd": 1435, "title": "夺玉布局", "cultivationAt": "九星斗圣", "situation": "尽收灵药石三族古玉，挟萧战为质逼萧炎交出余玉。"},
+    {"chapterStart": 1436, "chapterEnd": 1443, "title": "谋丹成帝", "cultivationAt": "九星斗圣", "situation": "得帝品雏丹，屠戮生灵补足丹力，只待炼化登临斗帝。"},
+    {"chapterStart": 1444, "chapterEnd": 1448, "title": "斗帝浩劫", "cultivationAt": "斗帝", "situation": "吞虚无吞炎本源之火成帝，碾压联军，终遭萧炎封印。"}
+  ]
+}

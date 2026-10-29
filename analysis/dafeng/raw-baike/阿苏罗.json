@@ -1,0 +1,119 @@
+{
+ "id": 9242855,
+ "subLemmaId": 34665521,
+ "newLemmaId": 59417250,
+ "key": "阿苏罗",
+ "desc": "小说《大奉打更人》及其衍生作品中的角色",
+ "title": "阿苏罗",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "阿苏罗"
+   ],
+   "format": [
+    "阿苏罗"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "小说《大奉打更人》及其衍生作品"
+   ],
+   "format": [
+    "小说《大奉打更人》及其衍生作品"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "修罗王幼子"
+   ],
+   "format": [
+    "修罗王幼子"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "修为",
+   "value": [
+    "一品菩萨（原二品罗汉）"
+   ],
+   "format": [
+    "一品菩萨（原二品罗汉）"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属组织",
+   "value": [
+    "天地会八号"
+   ],
+   "format": [
+    "天地会八号"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "血脉",
+   "value": [
+    "修罗族王血"
+   ],
+   "format": [
+    "修罗族王血"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "结局",
+   "value": [
+    "重建修罗族（大劫后）"
+   ],
+   "format": [
+    "重建修罗族（大劫后）"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身高",
+   "value": [
+    "接近九尺（约2.7米）"
+   ],
+   "format": [
+    "接近九尺（约2.7米）"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/838ba61ea8d3fd1f4134f1870412321f95cad1c8f140?x-bce-process=image/format,f_auto",
+ "src": "838ba61ea8d3fd1f4134f1870412321f95cad1c8f140",
+ "imageHeight": 1878,
+ "imageWidth": 3537,
+ "isSummaryPic": "y",
+ "abstract": "阿苏罗是小说《大奉打更人》中具有多重身份的修罗族核心角色。阿苏罗是修罗王幼子，修罗族末代君主的直系后裔，千年前在族群战败后以领袖身份带领残余部众归顺佛门。其真实身份为神殊与修罗族王妃所生之子，是万妖国女王九尾天狐的同父异母兄长。进入佛门后，他苦修金刚神功成为三品金刚，之后转修禅师体系得证杀贼果位，明面展现二品罗汉修为，实际兼修三品金刚法相，并掌握道门一气化三清之术。阿苏罗暗中以天地会八号成员身份潜伏，随身携带地书八号碎片。在许七安前来南法寺释放神殊双腿时故意放水，以一气化三清之术骗过佛门问心，并为许七安拔除最后一根封魔钉使其恢复修为，之后帮金莲道长吞噬黑莲重回二品。在大乘教总坛决战中，用修罗王族血脉帮助许七安破除封魔钉封印，并作为主力参与对佛陀的终极封印。后来阿苏罗把修罗血脉融入金刚法相中，以此为根基，再化入杀贼果位，另辟蹊径，晋升为一品菩萨。在大劫平定后，阿苏罗最终重返西域主导修罗族重建...",
+ "moduleIds": [
+  6968776181
+ ],
+ "url": "http://baike.baidu.com/item/%E9%98%BF%E8%8B%8F%E7%BD%97/59417250",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%98%BF%E8%8B%8F%E7%BD%97/59417250",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/9242855.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E9%98%BF%E8%8B%8F%E7%BD%97/59417250#1'>身份背景</a>",
+  "<a href='http://baike.baidu.com/item/%E9%98%BF%E8%8B%8F%E7%BD%97/59417250#2'>形象设定</a>",
+  "<a href='http://baike.baidu.com/item/%E9%98%BF%E8%8B%8F%E7%BD%97/59417250#3'>修为体系</a>",
+  "<a href='http://baike.baidu.com/item/%E9%98%BF%E8%8B%8F%E7%BD%97/59417250#4'>主要事迹</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%98%BF%E8%8B%8F%E7%BD%97/59417250#1'>身份背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%98%BF%E8%8B%8F%E7%BD%97/59417250#2'>形象设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%98%BF%E8%8B%8F%E7%BD%97/59417250#3'>修为体系</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%98%BF%E8%8B%8F%E7%BD%97/59417250#4'>主要事迹</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

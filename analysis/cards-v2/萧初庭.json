@@ -1,0 +1,60 @@
+{
+  "name": "萧初庭",
+  "oneLiner": "萧家老祖、望月湖断崖垂钓的紫府钓翁『溪上翁』，扶持李家立足望月湖",
+  "toProtagonist": "扶持李家千年的萧家老祖，借围杀郁玉封之局替李家在望月湖开局",
+  "visualLine": "男，气息收敛如凡人的苍老单薄老者；披蓑衣斗笠，白发，持白玉钓竿",
+  "role": "core",
+  "cultivation": "紫府真人（晚年以道业一试『坎水』证道，未成陨落）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "筑基迎使",
+      "chapterStart": 49,
+      "chapterEnd": 50,
+      "situation": "以萧家老祖筑基之身在冠云峰迎仙宗上使、缴齐供奉，赠李通崖明神散助其突破玉京",
+      "cultivationAt": "筑基",
+      "visual": "含笑拱手的筑基老者，坐青石桌旁抿清茶",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "养蛊之论",
+      "chapterStart": 71,
+      "chapterEnd": 71,
+      "situation": "向萧雍灵点破三宗七门养世家如养蛊，青池前身乃青迟魔门，嘱其与李家修好",
+      "cultivationAt": "筑基",
+      "visual": "眯眼饮茶的萧家老祖，凑近晚辈耳边低语",
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "紫府垂钓",
+      "chapterStart": 235,
+      "chapterEnd": 236,
+      "situation": "已成紫府真人号『溪上翁』，断崖受李通崖拜见，承诺借围杀郁玉封之局扶持李家",
+      "cultivationAt": "紫府真人",
+      "visual": "披蓑衣斗笠的老钓翁，白玉钓竿抬起无饵玉钩",
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "决意试坎",
+      "chapterStart": 1291,
+      "chapterEnd": 1307,
+      "situation": "向年懿坦言不肯学司马伯休，欲以道业一试『坎水』，自述当年毁郁玉封道途旧局",
+      "cultivationAt": "紫府真人",
+      "visual": null,
+      "spoiler": true
+    },
+    {
+      "id": "stg5",
+      "title": "证道陨落",
+      "chapterStart": 1318,
+      "chapterEnd": 1326,
+      "situation": "西蜀大军压境仍蓑笠前行，白发披散、白玉长竿虚影出世，被兜玄山神雷法宝轰杀",
+      "cultivationAt": "紫府真人",
+      "visual": "白发披散的老人两手虚握，白玉长竿虚影随身，天地玄光直坠渊底",
+      "spoiler": true
+    }
+  ]
+}

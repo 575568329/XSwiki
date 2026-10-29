@@ -1,0 +1,200 @@
+[
+ {
+  "name": "沉吟",
+  "speaker": 6,
+  "verbKinds": 4,
+  "total": 483,
+  "first": 2,
+  "last": 809,
+  "she": 20,
+  "he": 81,
+  "gender": "男"
+ },
+ {
+  "name": "侍卫",
+  "speaker": 6,
+  "verbKinds": 5,
+  "total": 342,
+  "first": 50,
+  "last": 752,
+  "she": 20,
+  "he": 56,
+  "gender": "男"
+ },
+ {
+  "name": "蹙眉",
+  "speaker": 6,
+  "verbKinds": 3,
+  "total": 117,
+  "first": 4,
+  "last": 792,
+  "she": 14,
+  "he": 11,
+  "gender": ""
+ },
+ {
+  "name": "四号",
+  "speaker": 6,
+  "verbKinds": 6,
+  "total": 128,
+  "first": 82,
+  "last": 808,
+  "she": 6,
+  "he": 34,
+  "gender": "男"
+ },
+ {
+  "name": "度厄大师",
+  "speaker": 6,
+  "verbKinds": 6,
+  "total": 69,
+  "first": 253,
+  "last": 608,
+  "she": 0,
+  "he": 8,
+  "gender": "男"
+ },
+ {
+  "name": "低头",
+  "speaker": 6,
+  "verbKinds": 4,
+  "total": 329,
+  "first": 3,
+  "last": 809,
+  "she": 27,
+  "he": 51,
+  "gender": "男"
+ },
+ {
+  "name": "公羊宿",
+  "speaker": 6,
+  "verbKinds": 5,
+  "total": 29,
+  "first": 278,
+  "last": 283,
+  "she": 0,
+  "he": 4,
+  "gender": ""
+ },
+ {
+  "name": "平静",
+  "speaker": 6,
+  "verbKinds": 6,
+  "total": 339,
+  "first": 1,
+  "last": 814,
+  "she": 24,
+  "he": 91,
+  "gender": "男"
+ },
+ {
+  "name": "郑布政使",
+  "speaker": 6,
+  "verbKinds": 6,
+  "total": 68,
+  "first": 331,
+  "last": 357,
+  "she": 1,
+  "he": 20,
+  "gender": "男"
+ },
+ {
+  "name": "傅菁门",
+  "speaker": 6,
+  "verbKinds": 5,
+  "total": 71,
+  "first": 378,
+  "last": 681,
+  "she": 0,
+  "he": 7,
+  "gender": "男"
+ },
+ {
+  "name": "陈妃",
+  "speaker": 6,
+  "verbKinds": 6,
+  "total": 35,
+  "first": 229,
+  "last": 415,
+  "she": 8,
+  "he": 3,
+  "gender": "女"
+ },
+ {
+  "name": "公孙向阳",
+  "speaker": 6,
+  "verbKinds": 6,
+  "total": 107,
+  "first": 407,
+  "last": 477,
+  "she": 4,
+  "he": 19,
+  "gender": "男"
+ },
+ {
+  "name": "朱二",
+  "speaker": 6,
+  "verbKinds": 6,
+  "total": 47,
+  "first": 410,
+  "last": 411,
+  "she": 3,
+  "he": 15,
+  "gender": "男"
+ },
+ {
+  "name": "天宗圣子",
+  "speaker": 6,
+  "verbKinds": 6,
+  "total": 90,
+  "first": 359,
+  "last": 747,
+  "she": 7,
+  "he": 15,
+  "gender": "男"
+ },
+ {
+  "name": "橘猫安",
+  "speaker": 6,
+  "verbKinds": 6,
+  "total": 39,
+  "first": 441,
+  "last": 455,
+  "she": 0,
+  "he": 2,
+  "gender": ""
+ },
+ {
+  "name": "苍龙",
+  "speaker": 6,
+  "verbKinds": 5,
+  "total": 102,
+  "first": 464,
+  "last": 526,
+  "she": 3,
+  "he": 24,
+  "gender": "男"
+ },
+ {
+  "name": "青木护法",
+  "speaker": 6,
+  "verbKinds": 5,
+  "total": 59,
+  "first": 549,
+  "last": 562,
+  "she": 1,
+  "he": 8,
+  "gender": "男"
+ },
+ {
+  "name": "蛊神",
+  "speaker": 6,
+  "verbKinds": 4,
+  "total": 697,
+  "first": 65,
+  "last": 814,
+  "she": 30,
+  "he": 97,
+  "gender": "男"
+ }
+]

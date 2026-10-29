@@ -1,0 +1,76 @@
+{
+ "id": 4623894,
+ "subLemmaId": 4623894,
+ "newLemmaId": 7015630,
+ "key": "青莲地心火",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的异火",
+ "title": "青莲地心火",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "青莲地心火"
+   ],
+   "format": [
+    "青莲地心火"
+   ]
+  },
+  {
+   "key": "m233_source",
+   "name": "出处",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m233_type",
+   "name": "类型",
+   "value": [
+    "异火"
+   ],
+   "format": [
+    "异火"
+   ]
+  },
+  {
+   "key": "m233_owner",
+   "name": "拥有者",
+   "value": [
+    "<a target=_blank href=\"/item/%E9%99%80%E8%88%8D%E5%8F%A4%E5%B8%9D/10277241\" data-lemmaid=\"10277241\">陀舍古帝</a>、<a target=_blank href=\"/item/%E8%90%A7%E7%82%8E/5808896\" data-lemmaid=\"5808896\">萧炎</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E9%99%80%E8%88%8D%E5%8F%A4%E5%B8%9D/10277241\" data-lemmaid=\"10277241\">陀舍古帝</a>、<a target=_blank href=\"/item/%E8%90%A7%E7%82%8E/5808896\" data-lemmaid=\"5808896\">萧炎</a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/5bafa40f4bfbfbedab64467aeda9e036afc37931b127?x-bce-process=image/format,f_auto",
+ "src": "5bafa40f4bfbfbedab64467aeda9e036afc37931b127",
+ "imageHeight": 833,
+ "imageWidth": 622,
+ "isSummaryPic": "y",
+ "abstract": "青莲地心火，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的一种异火，是萧炎收服的第一种异火，萧炎在以它为蓝本的基础上开发出了佛怒火莲。顾名思义，即存在于地心熔岩之中的火焰，生于大地深处。此火威力莫测，在临近火山地带之处，甚至能够引发火山喷发。",
+ "moduleIds": [
+  3661375104,
+  5687968340,
+  6362413878
+ ],
+ "url": "http://baike.baidu.com/view/4623894.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%9D%92%E8%8E%B2%E5%9C%B0%E5%BF%83%E7%81%AB/7015630",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/4623894.htm#1'>基本设定</a>",
+  "<a href='http://baike.baidu.com/view/4623894.htm#2'>背景介绍</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%9D%92%E8%8E%B2%E5%9C%B0%E5%BF%83%E7%81%AB/7015630#1'>基本设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%9D%92%E8%8E%B2%E5%9C%B0%E5%BF%83%E7%81%AB/7015630#2'>背景介绍</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

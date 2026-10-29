@@ -1,0 +1,80 @@
+{
+ "id": 5372580,
+ "subLemmaId": 16352981,
+ "newLemmaId": 16401275,
+ "key": "萧战",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的角色",
+ "title": "萧战",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "萧战"
+   ],
+   "format": [
+    "萧战"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "父亲",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%90%A7%E6%9E%97/22499790\" data-lemmaid=\"22499790\">萧林</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%90%A7%E6%9E%97/22499790\" data-lemmaid=\"22499790\">萧林</a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/0df431adcbef76094b366601bf84b4cc7cd98c1030a1?x-bce-process=image/format,f_auto",
+ "src": "0df431adcbef76094b366601bf84b4cc7cd98c1030a1",
+ "imageHeight": 624,
+ "imageWidth": 468,
+ "isSummaryPic": "y",
+ "abstract": "萧战，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的角色，萧家当代族长，萧炎之父，初登场时为五星大斗师，斗气属性为风。其父萧林早亡后继承族长之位，在儿子萧炎陷入低谷时始终给予支持。云岚宗事件后遭魂殿掳至魂界，魂族为防止其受不了关押而陨落，故强行用高阶丹药将其修为提升至斗皇，后被魂天帝作为人质胁迫萧炎。萧炎将其救出后移居星陨阁，最终因萧炎晋升斗帝激活斗帝血脉。",
+ "moduleIds": [
+  6511995046,
+  6921928713
+ ],
+ "url": "http://baike.baidu.com/item/%E8%90%A7%E6%88%98/16401275",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%90%A7%E6%88%98/16401275",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/5372580.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E8%90%A7%E6%88%98/16401275#1'>角色形象</a>",
+  "<a href='http://baike.baidu.com/item/%E8%90%A7%E6%88%98/16401275#2'>角色能力</a>",
+  "<a href='http://baike.baidu.com/item/%E8%90%A7%E6%88%98/16401275#3'>角色经历</a>",
+  "<a href='http://baike.baidu.com/item/%E8%90%A7%E6%88%98/16401275#4'>角色关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E6%88%98/16401275#1'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E6%88%98/16401275#2'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E6%88%98/16401275#3'>角色经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E6%88%98/16401275#4'>角色关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

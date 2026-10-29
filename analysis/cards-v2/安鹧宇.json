@@ -1,0 +1,40 @@
+{
+  "name": "安鹧宇",
+  "oneLiner": "郁家扶持上位的安家傀儡家主，残暴嗜虐、睚眦必报，虐尸食人无恶不作",
+  "toProtagonist": "安鹧言请李家'拨乱反正'讨伐的逆主，被李通崖破阵攻灭、弹气打死",
+  "visualLine": "",
+  "role": "support",
+  "cultivation": "胎息五层（玉京轮）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "傀儡上位",
+      "chapterStart": 202,
+      "chapterEnd": 207,
+      "situation": "借郁家扶持登安家家主之位，宴间令剁安景明遗体，自陈几十年旧仇得报",
+      "cultivationAt": "胎息四层",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "破阵乞降",
+      "chapterStart": 242,
+      "chapterEnd": 244,
+      "situation": "安鹧言请李家'拨乱反正'，李通崖一剑破阵攻入骅中，他献宝乞降仍被打晕看押",
+      "cultivationAt": "胎息五层（玉京轮）",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "食罪伏诛",
+      "chapterStart": 246,
+      "chapterEnd": 252,
+      "situation": "食人之罪定谳受千刀万剐，被吊于梁上凌迟，李通崖屈指弹气将其打死",
+      "cultivationAt": "胎息五层（玉京轮）",
+      "visual": null,
+      "spoiler": true
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+ "id": 6180923,
+ "subLemmaId": 6267292,
+ "newLemmaId": 10872910,
+ "key": "净莲妖火",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的异火",
+ "title": "净莲妖火",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "净莲妖火"
+   ],
+   "format": [
+    "净莲妖火"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "小伊"
+   ],
+   "format": [
+    "小伊"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "异火榜排行",
+   "value": [
+    "第三"
+   ],
+   "format": [
+    "第三"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "颜色",
+   "value": [
+    "乳白色"
+   ],
+   "format": [
+    "乳白色"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "形状",
+   "value": [
+    "莲形"
+   ],
+   "format": [
+    "莲形"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "效果",
+   "value": [
+    "净化万物之效"
+   ],
+   "format": [
+    "净化万物之效"
+   ]
+  },
+  {
+   "key": "m47_owner",
+   "name": "拥有者",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%87%80%E8%8E%B2%E5%A6%96%E5%9C%A3/9096247\" data-lemmaid=\"9096247\">净莲妖圣</a>（前）、<a target=_blank href=\"/item/%E8%90%A7%E7%82%8E/5808896\" data-lemmaid=\"5808896\">萧炎</a>（现）"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%87%80%E8%8E%B2%E5%A6%96%E5%9C%A3/9096247\" data-lemmaid=\"9096247\">净莲妖圣</a>（前）、<a target=_blank href=\"/item/%E8%90%A7%E7%82%8E/5808896\" data-lemmaid=\"5808896\">萧炎</a>（现）"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/43a7d933c895d143ad4bf98cd9ac95025aafa40fa952?x-bce-process=image/format,f_auto",
+ "src": "43a7d933c895d143ad4bf98cd9ac95025aafa40fa952",
+ "imageHeight": 1608,
+ "imageWidth": 3840,
+ "isSummaryPic": "y",
+ "abstract": "净莲妖火，天蚕土豆所著小说《斗破苍穹》中的一种异火，排名第三。净莲妖火有净化万物的特效，任何东西，只要被其沾上丁点，就将会被净化成一片虚无。可以以人的情绪为引，进入人体，将肉体、灵魂和斗气全都净化为虚无，威力极为恐怖。曾先后被陀舍古帝 、净莲妖圣、 萧炎收服。",
+ "moduleIds": [
+  3666868410,
+  7072882740,
+  7072882741,
+  7072882742,
+  6912366056,
+  5627331305,
+  5627331306,
+  5627331307
+ ],
+ "url": "http://baike.baidu.com/view/6180923.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%87%80%E8%8E%B2%E5%A6%96%E7%81%AB/10872910",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/6180923.htm#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/view/6180923.htm#2'>角色能力</a>",
+  "<a href='http://baike.baidu.com/view/6180923.htm#3'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%87%80%E8%8E%B2%E5%A6%96%E7%81%AB/10872910#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%87%80%E8%8E%B2%E5%A6%96%E7%81%AB/10872910#2'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%87%80%E8%8E%B2%E5%A6%96%E7%81%AB/10872910#3'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

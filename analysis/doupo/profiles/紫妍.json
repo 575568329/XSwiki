@@ -1,0 +1,40 @@
+{
+  "name": "紫妍",
+  "persona": {
+    "appearance": "紫衣娇小女孩，淡紫双眸俏皮可爱；显化真身与成年形态后绝色高贵，举手投足间隐有龙威流转。",
+    "personality": ["贪吃", "调皮", "护短", "重情", "憨直"],
+    "motivation": "嗜食天材地宝壮大血脉，平定古龙族内乱，重振太虚古龙一族。",
+    "arc": "内院魔女随萧炎闯荡，天墓夺龙凰本源果，出关一统古龙族登龙皇位，参战灭魂。"
+  },
+  "evidence": [
+    "【第433章】私底下叫我“蛮力王”哼都以为我不知道",
+    "【第1278章】你们当年趁我父皇失踪，篡使太虚古龙一族分裂",
+    "【第1280章】而现在的紫研,不过才四星斗圣初期而已",
+    "【第1436章】魂天帝得到了帝品雏丹，若是让他顺利炼化的话，就真是大麻烦了"
+  ],
+  "timeline": [
+    {"chapter": 433, "event": "现身内院，自称紫研，位列强榜第一"},
+    {"chapter": 434, "event": "魔兽本体被识破，心智如小女孩"},
+    {"chapter": 1094, "event": "以古龙之血助萧炎收服三千焱炎火"},
+    {"chapter": 1211, "event": "天墓夺得龙凰本源果，力压天妖凰族"},
+    {"chapter": 1255, "event": "出关东龙岛，谋划一统古龙族"},
+    {"chapter": 1278, "event": "虚无空间迎战三大龙王，斥其篡权"},
+    {"chapter": 1284, "event": "龙皇身份揭晓，古龙一族归心"},
+    {"chapter": 1436, "event": "随联军决战魂天帝，忧帝品雏丹之患"}
+  ],
+  "relationships": [
+    {"name": "萧炎", "relation": "盟友"},
+    {"name": "小医仙", "relation": "姐妹"},
+    {"name": "彩鳞", "relation": "姐妹"},
+    {"name": "萧薰儿", "relation": "姐妹"},
+    {"name": "药尘", "relation": "盟友"},
+    {"name": "魂天帝", "relation": "死敌"}
+  ],
+  "stages": [
+    {"chapterStart": 433, "chapterEnd": 562, "title": "内院魔女", "cultivationAt": "斗宗（封印深藏）", "situation": "强榜第一蛮力王，贪吃顽皮，赖在萧炎身边讨丹药护短。"},
+    {"chapterStart": 563, "chapterEnd": 1093, "title": "随行闯荡", "cultivationAt": "斗尊", "situation": "伴萧炎南北历练，太虚古龙身世渐明，古龙之血屡建奇功。"},
+    {"chapterStart": 1094, "chapterEnd": 1253, "title": "天墓夺果", "cultivationAt": "斗尊", "situation": "天墓力压天妖凰族夺得龙凰本源果，归东龙岛闭关蜕变。"},
+    {"chapterStart": 1254, "chapterEnd": 1300, "title": "一统龙族", "cultivationAt": "四星斗圣", "situation": "出关迎战三大龙王，召屠龙剑定乾坤，登临龙皇之位。"},
+    {"chapterStart": 1301, "chapterEnd": null, "title": "龙皇参战", "cultivationAt": "四星斗圣", "situation": "率古龙族加入联盟，决战魂天帝，成为萧炎最强臂助。"}
+  ]
+}

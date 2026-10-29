@@ -1,0 +1,126 @@
+{
+ "name": "李察",
+ "persona": {
+  "appearance": "苍白瘦削的异界少年，先天体虚面少血色，眼神沉静早熟，惯穿学生装束，随身不离书稿与护身奇物。",
+  "personality": [
+   "谨慎多思",
+   "冷静务实",
+   "求知欲强",
+   "重情守诺",
+   "绵里藏针"
+  ],
+  "motivation": "凭面板稳步登阶，摸清帷幕后的世界，护住家人，在神秘侧立住脚。",
+  "arc": "穿越者白手起家，由病弱凡人修成从业者，周旋沙龙与学院两界，历经沉睡大劫，终承老教授遗业。"
+ },
+ "evidence": [
+  "【第1章】可在指尖碰到铜面的一瞬间，面板动了。",
+  "【第88章】凡人何敢以神名相称。",
+  "【第117章】如果赫卡忒真的是玛丽夫人，那神谱沙龙的对自己的危险等级会拉升一个档次。",
+  "【第257章】【李察·威廉士，新入者(Neophytus)→从业者(Practitioner)。】"
+ ],
+ "timeline": [
+  {
+   "chapter": 1,
+   "event": "穿越布里斯顿加载面板，吸尽挂饰点数"
+  },
+  {
+   "chapter": 3,
+   "event": "课堂拆解停止调查矛盾，获赫顿注意"
+  },
+  {
+   "chapter": 20,
+   "event": "自典籍习得日之座呼吸法"
+  },
+  {
+   "chapter": 88,
+   "event": "首赴神谱沙龙，获神名赫尔墨斯"
+  },
+  {
+   "chapter": 104,
+   "event": "过灵视天资检测，老比格允诺引路"
+  },
+  {
+   "chapter": 257,
+   "event": "署名斯芬克斯铜灯，晋升从业者"
+  },
+  {
+   "chapter": 291,
+   "event": "圆桌受授赫尔墨斯神格面具"
+  },
+  {
+   "chapter": 546,
+   "event": "异常沉睡初醒，随莫蒂默面见老会长"
+  }
+ ],
+ "relationships": [
+  {
+   "name": "赫卡忒",
+   "relation": "沙龙首座"
+  },
+  {
+   "name": "老比格",
+   "relation": "引路人"
+  },
+  {
+   "name": "赫顿先生",
+   "relation": "教师"
+  },
+  {
+   "name": "伊莎贝拉",
+   "relation": "小姨·导师"
+  },
+  {
+   "name": "莫蒂默",
+   "relation": "导师级前辈"
+  },
+  {
+   "name": "杰拉德",
+   "relation": "外祖父"
+  },
+  {
+   "name": "伊芙琳",
+   "relation": "姐妹"
+  },
+  {
+   "name": "科尔曼",
+   "relation": "挚友"
+  }
+ ],
+ "stages": [
+  {
+   "chapterStart": 1,
+   "chapterEnd": 19,
+   "title": "初临加载",
+   "cultivationAt": "凡人",
+   "situation": "穿越成病弱少年，面板开启，体智四项起步，点数靠吸奇物积攒。"
+  },
+  {
+   "chapterStart": 20,
+   "chapterEnd": 103,
+   "title": "修行筑基",
+   "cultivationAt": "凡人",
+   "situation": "修成日之座呼吸法，灵门开启，以学者锋芒进入神秘侧视野。"
+  },
+  {
+   "chapterStart": 104,
+   "chapterEnd": 256,
+   "title": "引路入门",
+   "cultivationAt": "新入者",
+   "situation": "过老比格检测入门，习灵视占卜，跻身神谱沙龙结识莫蒂默。"
+  },
+  {
+   "chapterStart": 257,
+   "chapterEnd": 528,
+   "title": "署名登阶",
+   "cultivationAt": "从业者",
+   "situation": "署名铜灯晋升从业者，执赫尔墨斯面具办事，七项技能冲高蓄力。"
+  },
+  {
+   "chapterStart": 529,
+   "chapterEnd": 558,
+   "title": "渡劫承业",
+   "cultivationAt": "从业者",
+   "situation": "随莫蒂默游历遭异常沉睡，醒后直面老会长，入圆顶阅览室承辞典遗业。"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+[
+ {
+  "source": "http://www.yunxs.la/",
+  "name": "我加载了神秘学面板",
+  "bookUrl": "http://www.yunxs.la/wojiazaileshenmixuemianban/",
+  "chapters": 573,
+  "menu": ".list_box ul li a",
+  "content": ".box_box"
+ }
+]

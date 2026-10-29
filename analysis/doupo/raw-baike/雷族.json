@@ -1,0 +1,143 @@
+{
+ "id": 1178792,
+ "subLemmaId": 13481052,
+ "newLemmaId": 8011672,
+ "key": "雷族",
+ "desc": "英国小说猫武士中的族群",
+ "title": "雷族",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "雷族"
+   ],
+   "format": [
+    "雷族"
+   ]
+  },
+  {
+   "key": "m47_nameE",
+   "name": "外文名",
+   "value": [
+    "ThunderClan"
+   ],
+   "format": [
+    "ThunderClan"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "创始者",
+   "value": [
+    "雷星（雷电）"
+   ],
+   "format": [
+    "雷星（雷电）"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "命名者",
+   "value": [
+    "银条"
+   ],
+   "format": [
+    "银条"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "著名族长",
+   "value": [
+    "蓝星、火星、黑莓星等"
+   ],
+   "format": [
+    "蓝星、火星、黑莓星等"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "著名巫医",
+   "value": [
+    "云斑、斑叶、叶池、松鸦羽等"
+   ],
+   "format": [
+    "云斑、斑叶、叶池、松鸦羽等"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "著名武士",
+   "value": [
+    "灰条、沙风、狮焰、藤池等"
+   ],
+   "format": [
+    "灰条、沙风、狮焰、藤池等"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f0708eabd4b3aeb24b899a901f254?x-bce-process=image/format,f_auto",
+ "src": "86d6277f9e2f0708eabd4b3aeb24b899a901f254",
+ "imageHeight": 533,
+ "imageWidth": 400,
+ "isSummaryPic": "y",
+ "abstract": "雷族是英国作家艾琳·亨特系列小说《猫武士》中的虚构猫族，属森林五大族群之一，由开族族长雷星建立。族群栖息地历经旧森林黑莓丛峡谷至湖区峭壁营地，擅长潜行追踪战术和攀爬技巧，猎物以鼠类、鸟类为主。现任族长为松鼠星，副族长藤池及巫医松鸦羽、赤杨心共同管理族群，文化强调战斗训练与武士法典的遵守，同时以和平包容的态度接纳独行猫和宠物猫，为他们提供帮助和避难所。族群历史包含火星从宠物猫成长为族长的典范，以及虎星、蜡毛等反叛者事件。族群成员包括条树皮，其曾因风暴族合并引发争端被剥夺领导权；鬃霜在对抗傀儡黑莓星时牺牲，被追封为“迷雾明光”之一。冬青簇、香薇歌、灰须、茎尾等武士名号源自牺牲族猫的纪念。雷族与影族、河族等存在领地纷争，曾因边界捕猎问题新增武士守则条款。族群猫死后加入星族，其灵魂会参与新任族长的九命授予仪式。现任营地以荆棘屏障防护，延续伏击演练传统，体现“为正义挑战传统”的精神内核。",
+ "moduleIds": [
+  6597129067,
+  6597129068,
+  6597129073,
+  6597129074,
+  6597129075,
+  6597129078,
+  6597129079,
+  6597129089,
+  6597129095,
+  7160665140,
+  7160665141,
+  7160665142,
+  7160665143,
+  7160665144,
+  7160665145,
+  7160665146,
+  7160665147,
+  7160665148,
+  7160665149,
+  7160665150,
+  7160665151,
+  7160665152,
+  7160665153,
+  7160665154,
+  7160665155,
+  7160665156,
+  7160665157,
+  7160665158,
+  7160665159,
+  7160665160,
+  7160665161,
+  7160665162,
+  7160665163,
+  7160665164,
+  2884011990
+ ],
+ "url": "http://baike.baidu.com/subview/1178792/13481052.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%9B%B7%E6%97%8F/8011672",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/1178792.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/1178792/13481052.htm#1'>简介</a>",
+  "<a href='http://baike.baidu.com/subview/1178792/13481052.htm#2'>历任领导</a>",
+  "<a href='http://baike.baidu.com/subview/1178792/13481052.htm#3'>主要角色</a>",
+  "<a href='http://baike.baidu.com/subview/1178792/13481052.htm#4'>作者声明</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%9B%B7%E6%97%8F/8011672#1'>简介</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%9B%B7%E6%97%8F/8011672#2'>历任领导</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%9B%B7%E6%97%8F/8011672#3'>主要角色</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%9B%B7%E6%97%8F/8011672#4'>作者声明</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

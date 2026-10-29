@@ -1,0 +1,46 @@
+{
+ "id": 34288960,
+ "subLemmaId": 38112860,
+ "newLemmaId": 64239380,
+ "key": "密修会",
+ "desc": "小说《诡秘之主》隐秘组织",
+ "title": "密修会",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "密修会"
+   ],
+   "format": [
+    "密修会"
+   ]
+  },
+  {
+   "key": "m25_source",
+   "name": "来源出处",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/c2cec3fdfc039245d688c5a024cfb3c27d1ed21b8f53?x-bce-process=image/format,f_auto",
+ "src": "c2cec3fdfc039245d688c5a024cfb3c27d1ed21b8f53",
+ "imageHeight": 1080,
+ "imageWidth": 1920,
+ "isSummaryPic": "y",
+ "abstract": "密修会是小说《诡秘之主》中的隐秘组织，由查拉图于第四纪建立并掌控愚者途径序列力量，主要目标为搜寻安提哥努斯家族遗留的非凡物品。该组织首领查拉图曾以奇迹师身份协助罗塞尔夺取安提哥努斯家族笔记，并与后者合作参与推翻因蒂斯王国索伦家族等事件。其继任者小查拉图因晋升诡秘侍者失控被困历史孔隙，黑铁纪元期间通过影像与本体融合后，协同乔治三世及玫瑰学派对抗克莱恩，最终被吞噬非凡特性。密修会成员安托万、无面人等多次因争夺遗物与克莱恩产生交集。",
+ "moduleIds": [
+  6339398400
+ ],
+ "url": "http://baike.baidu.com/item/%E5%AF%86%E4%BF%AE%E4%BC%9A",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%AF%86%E4%BF%AE%E4%BC%9A",
+ "hasOther": 0,
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

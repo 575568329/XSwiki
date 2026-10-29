@@ -1,0 +1,43 @@
+{
+  "name": "萧炎",
+  "persona": {
+    "appearance": "黑发黑眸，眉目清秀，少年时稚嫩瘦弱，常着黑袍背负玄重尺；成长后身姿挺拔，气质锋锐沉稳，眉宇间尽褪青涩，自显强者威压。",
+    "personality": ["隐忍坚毅", "重情重义", "睚眦必报", "果决沉稳", "永不服输"],
+    "motivation": "洗雪废柴之辱，救回药老与父亲，护住所爱之人，登顶斗气大陆之巅。",
+    "arc": "乌坦城废柴逆起，历三年之约、迦南学院、炎盟与中州争锋，救师复仇，终成斗帝。"
+  },
+  "evidence": [
+    "【第1章】斗之力，三段！",
+    "【第1章】哎，这废物真是把家族的脸都给丢光了。",
+    "【第7章】三十年河东，三十年河西，莫欺少年穷！",
+    "【第1447章】你的身上，有陀舍古帝的味道"
+  ],
+  "timeline": [
+    {"chapter": 1, "event": "魔石碑测验斗之力三段，沦为家族笑柄"},
+    {"chapter": 7, "event": "纳兰嫣然登门退婚，萧炎立下三年之约"},
+    {"chapter": 13, "event": "成人仪式崭露头角，实力回升震动乌坦城"},
+    {"chapter": 105, "event": "赴云岚宗履三年之约，击败纳兰嫣然"},
+    {"chapter": 206, "event": "塔戈尔沙漠岩浆底收服青莲地心火"},
+    {"chapter": 620, "event": "三上云岚宗之际，药老被魂殿护法擒走"},
+    {"chapter": 634, "event": "联合旧部在加玛帝国建立炎盟"},
+    {"chapter": 1448, "event": "双帝之战击杀魂天帝，成为斗帝"}
+  ],
+  "relationships": [
+    {"name": "药尘", "relation": "师父"},
+    {"name": "萧薰儿", "relation": "青梅竹马"},
+    {"name": "彩鳞", "relation": "伴侣"},
+    {"name": "云韵", "relation": "红颜"},
+    {"name": "萧战", "relation": "父亲"},
+    {"name": "萧厉", "relation": "兄弟"},
+    {"name": "纳兰嫣然", "relation": "对手"},
+    {"name": "魂天帝", "relation": "死敌"}
+  ],
+  "stages": [
+    {"chapterStart": 1, "chapterEnd": 12, "title": "废柴之辱", "cultivationAt": "斗之气三段", "situation": "测验垫底饱受嘲讽，遭纳兰嫣然退婚，立三年之约。"},
+    {"chapterStart": 13, "chapterEnd": 104, "title": "药老授业", "cultivationAt": "斗之气九段升斗者", "situation": "得戒指中药老传焚决，成人仪式一鸣惊人，魔兽山脉苦修。"},
+    {"chapterStart": 105, "chapterEnd": 205, "title": "三年之约", "cultivationAt": "斗者", "situation": "赴云岚宗击败纳兰嫣然，遭宗门追杀远走，转投迦南学院。"},
+    {"chapterStart": 206, "chapterEnd": 618, "title": "学院崛起", "cultivationAt": "斗者升斗王", "situation": "收青莲地心火，炼化陨落心炎，创磐门名震内院。"},
+    {"chapterStart": 619, "chapterEnd": 1235, "title": "建盟中州", "cultivationAt": "斗王升斗尊", "situation": "药老被魂殿擒走，建炎盟掌加玛，远赴中州抗魂殿救师。"},
+    {"chapterStart": 1236, "chapterEnd": 1448, "title": "双帝之战", "cultivationAt": "斗圣升斗帝", "situation": "破关而出晋斗圣，承陀舍古帝传承，双帝之战灭魂天帝。"}
+  ]
+}

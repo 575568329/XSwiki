@@ -1,0 +1,134 @@
+[
+ {
+  "name": "摩恩",
+  "speaker": 6,
+  "verbKinds": 4,
+  "total": 247,
+  "first": 25,
+  "last": 1436,
+  "she": 30,
+  "he": 81,
+  "gender": "男"
+ },
+ {
+  "name": "管家",
+  "speaker": 6,
+  "verbKinds": 3,
+  "total": 191,
+  "first": 17,
+  "last": 1580,
+  "she": 20,
+  "he": 64,
+  "gender": "男"
+ },
+ {
+  "name": "指挥官",
+  "speaker": 6,
+  "verbKinds": 5,
+  "total": 523,
+  "first": 141,
+  "last": 1593,
+  "she": 79,
+  "he": 154,
+  "gender": "男"
+ },
+ {
+  "name": "特里",
+  "speaker": 6,
+  "verbKinds": 4,
+  "total": 74,
+  "first": 92,
+  "last": 880,
+  "she": 1,
+  "he": 32,
+  "gender": "男"
+ },
+ {
+  "name": "罗伦",
+  "speaker": 6,
+  "verbKinds": 3,
+  "total": 208,
+  "first": 32,
+  "last": 917,
+  "she": 6,
+  "he": 80,
+  "gender": "男"
+ },
+ {
+  "name": "威尔士平静",
+  "speaker": 6,
+  "verbKinds": 3,
+  "total": 5,
+  "first": 634,
+  "last": 645,
+  "she": 0,
+  "he": 3,
+  "gender": ""
+ },
+ {
+  "name": "准备",
+  "speaker": 6,
+  "verbKinds": 3,
+  "total": 1857,
+  "first": 2,
+  "last": 1593,
+  "she": 230,
+  "he": 628,
+  "gender": "男"
+ },
+ {
+  "name": "肃然",
+  "speaker": 6,
+  "verbKinds": 3,
+  "total": 77,
+  "first": 324,
+  "last": 1493,
+  "she": 6,
+  "he": 22,
+  "gender": "男"
+ },
+ {
+  "name": "自言自语般",
+  "speaker": 6,
+  "verbKinds": 3,
+  "total": 106,
+  "first": 112,
+  "last": 1587,
+  "she": 26,
+  "he": 34,
+  "gender": ""
+ },
+ {
+  "name": "杜勒伯爵",
+  "speaker": 6,
+  "verbKinds": 3,
+  "total": 68,
+  "first": 670,
+  "last": 993,
+  "she": 3,
+  "he": 28,
+  "gender": "男"
+ },
+ {
+  "name": "哈迪伦",
+  "speaker": 6,
+  "verbKinds": 3,
+  "total": 77,
+  "first": 757,
+  "last": 1515,
+  "she": 12,
+  "he": 23,
+  "gender": "男"
+ },
+ {
+  "name": "薇兰妮亚",
+  "speaker": 6,
+  "verbKinds": 4,
+  "total": 103,
+  "first": 572,
+  "last": 1592,
+  "she": 36,
+  "he": 19,
+  "gender": "女"
+ }
+]

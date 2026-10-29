@@ -1,0 +1,76 @@
+{
+ "id": 7446878,
+ "subLemmaId": 7546024,
+ "newLemmaId": 8583339,
+ "key": "炎族",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的远古八族之一",
+ "title": "炎族",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "炎族"
+   ],
+   "format": [
+    "炎族"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "传承功法",
+   "value": [
+    "《火帝玄典》"
+   ],
+   "format": [
+    "《火帝玄典》"
+   ]
+  },
+  {
+   "key": "m25_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "玄幻小说《斗破苍穹》及其衍生作品"
+   ],
+   "format": [
+    "玄幻小说《斗破苍穹》及其衍生作品"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "族长",
+   "value": [
+    "炎烬"
+   ],
+   "format": [
+    "炎烬"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/d01373f082025aafa40f5ce73bbbbc64034f78f0acdb?x-bce-process=image/format,f_auto",
+ "src": "d01373f082025aafa40f5ce73bbbbc64034f78f0acdb",
+ "imageHeight": 422,
+ "imageWidth": 909,
+ "isSummaryPic": "y",
+ "abstract": "炎族是作家天蚕土豆所著玄幻小说《斗破苍穹》中的远古八族之一，系远古斗帝血脉传承的隐世族群，以额头燃烧的火焰印记为显著特征。其族地炎界与古族、魂界齐名，整体实力位居八族上游，仅次于古族与魂族，与雷族相当。族人擅长火焰操控，掌握五种异火资源，对异火的掌控力超越药族等专精炼药的族群。该族通过融合异火技术形成独特优势，族长炎烬将火山石焰与九幽金祖火融合创造新型异火，实力达八星斗圣后期。在后期剧情中作为对抗魂族的核心势力之一，凭借异火储备与血脉优势维持族群地位。火炫等年轻一代继承火焰天赋，延续着族群战力传承。",
+ "moduleIds": [
+  4936703422
+ ],
+ "url": "http://baike.baidu.com/view/7446878.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%82%8E%E6%97%8F/8583339",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/7446878.htm#1'>简介</a>",
+  "<a href='http://baike.baidu.com/view/7446878.htm#2'>组织成员</a>",
+  "<a href='http://baike.baidu.com/view/7446878.htm#3'>组织配置</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E7%82%8E%E6%97%8F/8583339#1'>简介</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%82%8E%E6%97%8F/8583339#2'>组织成员</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%82%8E%E6%97%8F/8583339#3'>组织配置</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

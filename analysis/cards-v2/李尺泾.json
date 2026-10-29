@@ -1,0 +1,70 @@
+{
+  "name": "李尺泾",
+  "oneLiner": "李家幼弟，青池宗青穗峰剑修，南疆搏杀成名『小剑仙』，化六轮为道基湖月秋",
+  "toProtagonist": "黎泾李家四兄弟最幼者、家族首入仙宗的弟子，传自创『月阙剑弧』回家反哺家族",
+  "visualLine": "青年剑修，脸庞俊俏，着白衣或淡青衣袍，腰悬青锋长剑，身侧青白月华如流水萦绕",
+  "role": "core",
+  "cultivation": "筑基（道基『湖月秋』）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "得符种",
+      "chapterStart": 3,
+      "chapterEnd": 9,
+      "situation": "黎泾李家幼弟，焚香三拜九叩恭请玄明妙法，玄珠符种没入泥丸宫得传承",
+      "cultivationAt": "-",
+      "visual": "村中少年，后山摘桑养蚕，粮袋里闷着肥田鼠",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "凝轮入宗",
+      "chapterStart": 11,
+      "chapterEnd": 22,
+      "situation": "夏至以八十一缕月华凝聚玄景轮，随司元白乘飞梭入青池宗，拜入青穗峰",
+      "cultivationAt": "练气",
+      "visual": "俊俏少年着淡青衣袍，汗水滑落，气海中月华聚成清潭",
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "省亲传诀",
+      "chapterStart": 52,
+      "chapterEnd": 62,
+      "situation": "宗途遇袭果决拔剑；省亲归家传自创『月阙剑弧』，教三哥符术、为父调理身子",
+      "cultivationAt": "练气",
+      "visual": "腰悬青锋长剑，身前浮现湛蓝色灵网",
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "南疆扬名",
+      "chapterStart": 76,
+      "chapterEnd": 98,
+      "situation": "奉师命赴南疆御妖，倚山城厮杀五年剑法纯熟，成名『小剑仙』，压境迟迟不筑基",
+      "cultivationAt": "练气巅峰",
+      "visual": "白衣立于灰白城墙，抹去长剑血迹，吐出纯白灵气",
+      "spoiler": false
+    },
+    {
+      "id": "stg5",
+      "title": "化轮成基",
+      "chapterStart": 120,
+      "chapterEnd": 121,
+      "situation": "六轮化作道基『湖月秋』，其气青白、真元澄澈；比试点到为止，剑意白光拂面",
+      "cultivationAt": "筑基（道基湖月秋）",
+      "visual": "腰间长剑炽白光芒流淌，剑意白光如月光拂面",
+      "spoiler": false
+    },
+    {
+      "id": "stg6",
+      "title": "早逝坐化",
+      "chapterStart": 1442,
+      "chapterEnd": 1448,
+      "situation": "早逝身后，仇敌参渌馥旧事被提及；后人至坐化之地寻访，终究什么也没找到",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": true
+    }
+  ]
+}

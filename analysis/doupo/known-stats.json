@@ -1,0 +1,652 @@
+{
+ "files": 1409,
+ "known": [
+  {
+   "name": "萧炎",
+   "mentions": 38570,
+   "firstChapter": 1,
+   "lastChapter": 1409
+  },
+  {
+   "name": "药尘",
+   "mentions": 3088,
+   "firstChapter": 9,
+   "lastChapter": 1379
+  },
+  {
+   "name": "萧薰儿",
+   "mentions": 2781,
+   "firstChapter": 1,
+   "lastChapter": 1409
+  },
+  {
+   "name": "小医仙",
+   "mentions": 2122,
+   "firstChapter": 108,
+   "lastChapter": 1366
+  },
+  {
+   "name": "彩鳞",
+   "mentions": 1745,
+   "firstChapter": 158,
+   "lastChapter": 1409
+  },
+  {
+   "name": "云韵",
+   "mentions": 843,
+   "firstChapter": 4,
+   "lastChapter": 1216
+  },
+  {
+   "name": "魂天帝",
+   "mentions": 468,
+   "firstChapter": 1347,
+   "lastChapter": 1409
+  },
+  {
+   "name": "紫妍",
+   "mentions": 5,
+   "firstChapter": 1042,
+   "lastChapter": 1254
+  },
+  {
+   "name": "纳兰嫣然",
+   "mentions": 2528,
+   "firstChapter": 3,
+   "lastChapter": 1387
+  },
+  {
+   "name": "苏千",
+   "mentions": 1091,
+   "firstChapter": 421,
+   "lastChapter": 1392
+  },
+  {
+   "name": "海波东",
+   "mentions": 947,
+   "firstChapter": 177,
+   "lastChapter": 1147
+  },
+  {
+   "name": "韩枫",
+   "mentions": 935,
+   "firstChapter": 281,
+   "lastChapter": 1197
+  },
+  {
+   "name": "陀舍古帝",
+   "mentions": 214,
+   "firstChapter": 348,
+   "lastChapter": 1408
+  },
+  {
+   "name": "慕青鸾",
+   "mentions": 81,
+   "firstChapter": 858,
+   "lastChapter": 902
+  },
+  {
+   "name": "云山",
+   "mentions": 776,
+   "firstChapter": 225,
+   "lastChapter": 950
+  },
+  {
+   "name": "萧厉",
+   "mentions": 734,
+   "firstChapter": 180,
+   "lastChapter": 1407
+  },
+  {
+   "name": "柳擎",
+   "mentions": 591,
+   "firstChapter": 355,
+   "lastChapter": 1408
+  },
+  {
+   "name": "古元",
+   "mentions": 504,
+   "firstChapter": 1106,
+   "lastChapter": 1409
+  },
+  {
+   "name": "萧玉",
+   "mentions": 492,
+   "firstChapter": 37,
+   "lastChapter": 1387
+  },
+  {
+   "name": "雅妃",
+   "mentions": 480,
+   "firstChapter": 22,
+   "lastChapter": 600
+  },
+  {
+   "name": "法犸",
+   "mentions": 479,
+   "firstChapter": 200,
+   "lastChapter": 691
+  },
+  {
+   "name": "天火尊者",
+   "mentions": 464,
+   "firstChapter": 768,
+   "lastChapter": 1383
+  },
+  {
+   "name": "林焱",
+   "mentions": 439,
+   "firstChapter": 351,
+   "lastChapter": 932
+  },
+  {
+   "name": "吴昊",
+   "mentions": 420,
+   "firstChapter": 312,
+   "lastChapter": 1383
+  },
+  {
+   "name": "林修崖",
+   "mentions": 415,
+   "firstChapter": 352,
+   "lastChapter": 885
+  },
+  {
+   "name": "古河",
+   "mentions": 414,
+   "firstChapter": 6,
+   "lastChapter": 1173
+  },
+  {
+   "name": "萧战",
+   "mentions": 404,
+   "firstChapter": 2,
+   "lastChapter": 1407
+  },
+  {
+   "name": "萧玄",
+   "mentions": 377,
+   "firstChapter": 930,
+   "lastChapter": 1409
+  },
+  {
+   "name": "加刑天",
+   "mentions": 487,
+   "firstChapter": 198,
+   "lastChapter": 844
+  },
+  {
+   "name": "云棱",
+   "mentions": 350,
+   "firstChapter": 230,
+   "lastChapter": 544
+  },
+  {
+   "name": "叶重",
+   "mentions": 336,
+   "firstChapter": 935,
+   "lastChapter": 1076
+  },
+  {
+   "name": "风尊者",
+   "mentions": 328,
+   "firstChapter": 292,
+   "lastChapter": 1323
+  },
+  {
+   "name": "魂殿殿主",
+   "mentions": 327,
+   "firstChapter": 805,
+   "lastChapter": 1368
+  },
+  {
+   "name": "白程",
+   "mentions": 324,
+   "firstChapter": 339,
+   "lastChapter": 442
+  },
+  {
+   "name": "欣蓝",
+   "mentions": 309,
+   "firstChapter": 739,
+   "lastChapter": 1076
+  },
+  {
+   "name": "范痨",
+   "mentions": 307,
+   "firstChapter": 295,
+   "lastChapter": 563
+  },
+  {
+   "name": "白山",
+   "mentions": 297,
+   "firstChapter": 229,
+   "lastChapter": 741
+  },
+  {
+   "name": "玄空子",
+   "mentions": 285,
+   "firstChapter": 1017,
+   "lastChapter": 1217
+  },
+  {
+   "name": "莫天行",
+   "mentions": 281,
+   "firstChapter": 703,
+   "lastChapter": 799
+  },
+  {
+   "name": "妖瞑",
+   "mentions": 271,
+   "firstChapter": 1224,
+   "lastChapter": 1311
+  },
+  {
+   "name": "唐震",
+   "mentions": 266,
+   "firstChapter": 913,
+   "lastChapter": 1208
+  },
+  {
+   "name": "天蛇",
+   "mentions": 261,
+   "firstChapter": 288,
+   "lastChapter": 1309
+  },
+  {
+   "name": "鹜护法",
+   "mentions": 251,
+   "firstChapter": 570,
+   "lastChapter": 971
+  },
+  {
+   "name": "若琳导师",
+   "mentions": 249,
+   "firstChapter": 96,
+   "lastChapter": 412
+  },
+  {
+   "name": "韩雪",
+   "mentions": 237,
+   "firstChapter": 813,
+   "lastChapter": 1207
+  },
+  {
+   "name": "地魔老鬼",
+   "mentions": 222,
+   "firstChapter": 735,
+   "lastChapter": 905
+  },
+  {
+   "name": "鹰山老人",
+   "mentions": 219,
+   "firstChapter": 713,
+   "lastChapter": 788
+  },
+  {
+   "name": "奥托",
+   "mentions": 218,
+   "firstChapter": 160,
+   "lastChapter": 561
+  },
+  {
+   "name": "纳兰桀",
+   "mentions": 213,
+   "firstChapter": 4,
+   "lastChapter": 610
+  },
+  {
+   "name": "琥嘉",
+   "mentions": 213,
+   "firstChapter": 313,
+   "lastChapter": 1382
+  },
+  {
+   "name": "韩月",
+   "mentions": 205,
+   "firstChapter": 332,
+   "lastChapter": 1207
+  },
+  {
+   "name": "姚盛",
+   "mentions": 200,
+   "firstChapter": 416,
+   "lastChapter": 452
+  },
+  {
+   "name": "穆蛇",
+   "mentions": 198,
+   "firstChapter": 120,
+   "lastChapter": 158
+  },
+  {
+   "name": "加列毕",
+   "mentions": 191,
+   "firstChapter": 22,
+   "lastChapter": 256
+  },
+  {
+   "name": "沈云",
+   "mentions": 188,
+   "firstChapter": 831,
+   "lastChapter": 892
+  },
+  {
+   "name": "青鳞",
+   "mentions": 178,
+   "firstChapter": 183,
+   "lastChapter": 1322
+  },
+  {
+   "name": "魂玉",
+   "mentions": 172,
+   "firstChapter": 1180,
+   "lastChapter": 1402
+  },
+  {
+   "name": "洪辰",
+   "mentions": 168,
+   "firstChapter": 818,
+   "lastChapter": 892
+  },
+  {
+   "name": "萧晨",
+   "mentions": 168,
+   "firstChapter": 1268,
+   "lastChapter": 1366
+  },
+  {
+   "name": "古妖",
+   "mentions": 166,
+   "firstChapter": 1092,
+   "lastChapter": 1351
+  },
+  {
+   "name": "方言",
+   "mentions": 165,
+   "firstChapter": 695,
+   "lastChapter": 789
+  },
+  {
+   "name": "金石",
+   "mentions": 164,
+   "firstChapter": 867,
+   "lastChapter": 1306
+  },
+  {
+   "name": "古青阳",
+   "mentions": 161,
+   "firstChapter": 1112,
+   "lastChapter": 1355
+  },
+  {
+   "name": "魂崖",
+   "mentions": 157,
+   "firstChapter": 1089,
+   "lastChapter": 1180
+  },
+  {
+   "name": "费天",
+   "mentions": 156,
+   "firstChapter": 850,
+   "lastChapter": 945
+  },
+  {
+   "name": "骨幽",
+   "mentions": 156,
+   "firstChapter": 1193,
+   "lastChapter": 1254
+  },
+  {
+   "name": "夭夜",
+   "mentions": 154,
+   "firstChapter": 200,
+   "lastChapter": 604
+  },
+  {
+   "name": "柳翎",
+   "mentions": 152,
+   "firstChapter": 195,
+   "lastChapter": 991
+  },
+  {
+   "name": "魂虚子",
+   "mentions": 141,
+   "firstChapter": 1327,
+   "lastChapter": 1342
+  },
+  {
+   "name": "凌影",
+   "mentions": 138,
+   "firstChapter": 247,
+   "lastChapter": 1365
+  },
+  {
+   "name": "穆力",
+   "mentions": 132,
+   "firstChapter": 112,
+   "lastChapter": 147
+  },
+  {
+   "name": "曹单",
+   "mentions": 125,
+   "firstChapter": 933,
+   "lastChapter": 1015
+  },
+  {
+   "name": "烛坤",
+   "mentions": 121,
+   "firstChapter": 1393,
+   "lastChapter": 1409
+  },
+  {
+   "name": "雷赢",
+   "mentions": 119,
+   "firstChapter": 1349,
+   "lastChapter": 1408
+  },
+  {
+   "name": "炎利",
+   "mentions": 118,
+   "firstChapter": 209,
+   "lastChapter": 1006
+  },
+  {
+   "name": "弗兰克",
+   "mentions": 116,
+   "firstChapter": 160,
+   "lastChapter": 560
+  },
+  {
+   "name": "柳席",
+   "mentions": 116,
+   "firstChapter": 80,
+   "lastChapter": 347
+  },
+  {
+   "name": "木铁",
+   "mentions": 114,
+   "firstChapter": 275,
+   "lastChapter": 562
+  },
+  {
+   "name": "魂魔老人",
+   "mentions": 110,
+   "firstChapter": 1277,
+   "lastChapter": 1302
+  },
+  {
+   "name": "琥乾",
+   "mentions": 109,
+   "firstChapter": 314,
+   "lastChapter": 738
+  },
+  {
+   "name": "莫崖",
+   "mentions": 108,
+   "firstChapter": 698,
+   "lastChapter": 778
+  },
+  {
+   "name": "韩冲",
+   "mentions": 107,
+   "firstChapter": 812,
+   "lastChapter": 847
+  },
+  {
+   "name": "卡岗",
+   "mentions": 100,
+   "firstChapter": 142,
+   "lastChapter": 620
+  },
+  {
+   "name": "齐山",
+   "mentions": 100,
+   "firstChapter": 692,
+   "lastChapter": 735
+  },
+  {
+   "name": "腾山",
+   "mentions": 99,
+   "firstChapter": 196,
+   "lastChapter": 548
+  },
+  {
+   "name": "熊战",
+   "mentions": 97,
+   "firstChapter": 1039,
+   "lastChapter": 1060
+  },
+  {
+   "name": "韩池",
+   "mentions": 94,
+   "firstChapter": 822,
+   "lastChapter": 1207
+  },
+  {
+   "name": "丘陵",
+   "mentions": 92,
+   "firstChapter": 1062,
+   "lastChapter": 1080
+  },
+  {
+   "name": "罗布",
+   "mentions": 86,
+   "firstChapter": 96,
+   "lastChapter": 188
+  },
+  {
+   "name": "炎烬",
+   "mentions": 85,
+   "firstChapter": 1349,
+   "lastChapter": 1409
+  },
+  {
+   "name": "通玄长老",
+   "mentions": 80,
+   "firstChapter": 1102,
+   "lastChapter": 1196
+  },
+  {
+   "name": "谷尼",
+   "mentions": 79,
+   "firstChapter": 21,
+   "lastChapter": 103
+  },
+  {
+   "name": "盛长老",
+   "mentions": 79,
+   "firstChapter": 1009,
+   "lastChapter": 1021
+  },
+  {
+   "name": "赤火长老",
+   "mentions": 75,
+   "firstChapter": 908,
+   "lastChapter": 924
+  },
+  {
+   "name": "纳兰肃",
+   "mentions": 71,
+   "firstChapter": 5,
+   "lastChapter": 592
+  },
+  {
+   "name": "古南海",
+   "mentions": 70,
+   "firstChapter": 1261,
+   "lastChapter": 1283
+  },
+  {
+   "name": "火炫",
+   "mentions": 67,
+   "firstChapter": 1090,
+   "lastChapter": 1355
+  },
+  {
+   "name": "古真",
+   "mentions": 63,
+   "firstChapter": 1091,
+   "lastChapter": 1350
+  },
+  {
+   "name": "血刀圣者",
+   "mentions": 59,
+   "firstChapter": 1122,
+   "lastChapter": 1377
+  },
+  {
+   "name": "雪岚",
+   "mentions": 56,
+   "firstChapter": 181,
+   "lastChapter": 187
+  },
+  {
+   "name": "严浩",
+   "mentions": 54,
+   "firstChapter": 341,
+   "lastChapter": 464
+  },
+  {
+   "name": "葛叶",
+   "mentions": 53,
+   "firstChapter": 5,
+   "lastChapter": 240
+  },
+  {
+   "name": "邙天尺",
+   "mentions": 50,
+   "firstChapter": 749,
+   "lastChapter": 1383
+  },
+  {
+   "name": "多玛",
+   "mentions": 41,
+   "firstChapter": 281,
+   "lastChapter": 302
+  },
+  {
+   "name": "罗成",
+   "mentions": 41,
+   "firstChapter": 808,
+   "lastChapter": 809
+  }
+ ],
+ "aliasMap": {
+  "萧薰儿": [
+   "熏儿"
+  ],
+  "云韵": [
+   "云芝"
+  ],
+  "纳兰嫣然": [
+   "嫣然"
+  ],
+  "海波东": [
+   "海老"
+  ],
+  "加刑天": [
+   "加老"
+  ]
+ }
+}

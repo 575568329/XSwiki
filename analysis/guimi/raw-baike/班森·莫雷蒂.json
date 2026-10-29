@@ -1,0 +1,50 @@
+{
+ "id": 33941270,
+ "subLemmaId": 37646728,
+ "newLemmaId": 63642685,
+ "key": "班森·莫雷蒂",
+ "desc": "网络小说《诡秘之主》中的角色",
+ "title": "班森·莫雷蒂",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "班森·莫雷蒂"
+   ],
+   "format": [
+    "班森·莫雷蒂"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>"
+   ]
+  }
+ ],
+ "imageHeight": null,
+ "imageWidth": null,
+ "isSummaryPic": "n",
+ "abstract": "班森·莫雷蒂，男，起点中文网连载的网络小说《诡秘之主》中的角色。班森是莫雷蒂家的长兄。在父母去世后，年仅二十出头的他毅然承担起养家糊口的重担，一手将弟弟克莱恩和妹妹梅丽莎抚养长大，让家庭免于陷入贫困。",
+ "moduleIds": [],
+ "url": "http://baike.baidu.com/item/%E7%8F%AD%E6%A3%AE%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%8F%AD%E6%A3%AE%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E7%8F%AD%E6%A3%AE%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82#1'>人物经历</a>",
+  "<a href='http://baike.baidu.com/item/%E7%8F%AD%E6%A3%AE%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82#2'>外貌与性格</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E7%8F%AD%E6%A3%AE%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82#1'>人物经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%8F%AD%E6%A3%AE%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82#2'>外貌与性格</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

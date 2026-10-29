@@ -1,0 +1,275 @@
+{
+ "files": 558,
+ "known": [
+  {
+   "name": "李察",
+   "mentions": 12361,
+   "firstChapter": 1,
+   "lastChapter": 557
+  },
+  {
+   "name": "莫蒂默",
+   "mentions": 731,
+   "firstChapter": 221,
+   "lastChapter": 554
+  },
+  {
+   "name": "赫卡忒",
+   "mentions": 655,
+   "firstChapter": 87,
+   "lastChapter": 546
+  },
+  {
+   "name": "杰拉德",
+   "mentions": 568,
+   "firstChapter": 41,
+   "lastChapter": 553
+  },
+  {
+   "name": "麦克菲伊",
+   "mentions": 448,
+   "firstChapter": 179,
+   "lastChapter": 546
+  },
+  {
+   "name": "马修",
+   "mentions": 310,
+   "firstChapter": 451,
+   "lastChapter": 550
+  },
+  {
+   "name": "密涅瓦",
+   "mentions": 103,
+   "firstChapter": 365,
+   "lastChapter": 521
+  },
+  {
+   "name": "穆勒",
+   "mentions": 29,
+   "firstChapter": 309,
+   "lastChapter": 508
+  },
+  {
+   "name": "伊莎贝拉",
+   "mentions": 1638,
+   "firstChapter": 44,
+   "lastChapter": 552
+  },
+  {
+   "name": "克拉拉",
+   "mentions": 1283,
+   "firstChapter": 155,
+   "lastChapter": 545
+  },
+  {
+   "name": "伊芙琳",
+   "mentions": 987,
+   "firstChapter": 1,
+   "lastChapter": 555
+  },
+  {
+   "name": "赫顿先生",
+   "mentions": 744,
+   "firstChapter": 2,
+   "lastChapter": 555
+  },
+  {
+   "name": "菲利普斯",
+   "mentions": 603,
+   "firstChapter": 55,
+   "lastChapter": 546
+  },
+  {
+   "name": "凯萨琳",
+   "mentions": 590,
+   "firstChapter": 168,
+   "lastChapter": 543
+  },
+  {
+   "name": "麦克尼尔夫人",
+   "mentions": 563,
+   "firstChapter": 7,
+   "lastChapter": 511
+  },
+  {
+   "name": "猎主",
+   "mentions": 516,
+   "firstChapter": 384,
+   "lastChapter": 546
+  },
+  {
+   "name": "索菲亚",
+   "mentions": 467,
+   "firstChapter": 136,
+   "lastChapter": 546
+  },
+  {
+   "name": "格蕾",
+   "mentions": 463,
+   "firstChapter": 3,
+   "lastChapter": 546
+  },
+  {
+   "name": "老比格",
+   "mentions": 456,
+   "firstChapter": 78,
+   "lastChapter": 528
+  },
+  {
+   "name": "莉莉安",
+   "mentions": 380,
+   "firstChapter": 3,
+   "lastChapter": 542
+  },
+  {
+   "name": "蒙塔古",
+   "mentions": 360,
+   "firstChapter": 55,
+   "lastChapter": 556
+  },
+  {
+   "name": "科尔曼",
+   "mentions": 326,
+   "firstChapter": 140,
+   "lastChapter": 541
+  },
+  {
+   "name": "洛基",
+   "mentions": 304,
+   "firstChapter": 295,
+   "lastChapter": 542
+  },
+  {
+   "name": "西奥多",
+   "mentions": 281,
+   "firstChapter": 146,
+   "lastChapter": 352
+  },
+  {
+   "name": "涅墨西斯",
+   "mentions": 266,
+   "firstChapter": 86,
+   "lastChapter": 535
+  },
+  {
+   "name": "沃伦",
+   "mentions": 240,
+   "firstChapter": 2,
+   "lastChapter": 471
+  },
+  {
+   "name": "玛姬",
+   "mentions": 236,
+   "firstChapter": 146,
+   "lastChapter": 532
+  },
+  {
+   "name": "玛格丽特",
+   "mentions": 231,
+   "firstChapter": 1,
+   "lastChapter": 555
+  },
+  {
+   "name": "唐纳",
+   "mentions": 226,
+   "firstChapter": 46,
+   "lastChapter": 534
+  },
+  {
+   "name": "爱德蒙",
+   "mentions": 180,
+   "firstChapter": 146,
+   "lastChapter": 461
+  },
+  {
+   "name": "馆长",
+   "mentions": 170,
+   "firstChapter": 262,
+   "lastChapter": 518
+  },
+  {
+   "name": "文森特",
+   "mentions": 169,
+   "firstChapter": 1,
+   "lastChapter": 445
+  },
+  {
+   "name": "温特沃斯",
+   "mentions": 168,
+   "firstChapter": 77,
+   "lastChapter": 513
+  },
+  {
+   "name": "克罗夫特",
+   "mentions": 161,
+   "firstChapter": 249,
+   "lastChapter": 512
+  },
+  {
+   "name": "罗杰斯",
+   "mentions": 155,
+   "firstChapter": 1,
+   "lastChapter": 545
+  },
+  {
+   "name": "霍兰德",
+   "mentions": 150,
+   "firstChapter": 6,
+   "lastChapter": 471
+  },
+  {
+   "name": "黑猫",
+   "mentions": 128,
+   "firstChapter": 51,
+   "lastChapter": 543
+  },
+  {
+   "name": "彭德尔顿",
+   "mentions": 111,
+   "firstChapter": 243,
+   "lastChapter": 524
+  },
+  {
+   "name": "格里尔",
+   "mentions": 107,
+   "firstChapter": 252,
+   "lastChapter": 543
+  },
+  {
+   "name": "夏洛特",
+   "mentions": 104,
+   "firstChapter": 83,
+   "lastChapter": 545
+  },
+  {
+   "name": "科尔宾",
+   "mentions": 83,
+   "firstChapter": 378,
+   "lastChapter": 502
+  },
+  {
+   "name": "奥德中校",
+   "mentions": 76,
+   "firstChapter": 198,
+   "lastChapter": 430
+  },
+  {
+   "name": "弗雷泽",
+   "mentions": 52,
+   "firstChapter": 128,
+   "lastChapter": 196
+  },
+  {
+   "name": "普拉特",
+   "mentions": 38,
+   "firstChapter": 348,
+   "lastChapter": 352
+  }
+ ],
+ "aliasMap": {
+  "李察": [
+   "李嘉",
+   "墨丘利"
+  ]
+ }
+}

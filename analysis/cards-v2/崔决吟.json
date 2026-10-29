@@ -1,0 +1,60 @@
+{
+  "name": "崔决吟",
+  "oneLiner": "落魄崇州崔氏嫡系，随李曦明入湖当差，证紫府【清凤】，为魏王治蜀",
+  "toProtagonist": "受李曦明知遇入湖修行，后成魏王李周巍之臣，随其征战江淮中原终治蜀",
+  "visualLine": "青年男修，文质彬彬、气度儒雅；证紫府后气度如仙人，腰悬墨笔",
+  "role": "core",
+  "cultivation": "紫府真人（道号【清凤】，修『长明阶』，明阳一系）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "入湖当差",
+      "chapterStart": 722,
+      "chapterEnd": 724,
+      "situation": "经崔仙谒引见李曦明，以筑基中期入望月湖，拜认李周巍帝裔血统",
+      "cultivationAt": "筑基中期",
+      "visual": "文质彬彬、气度儒雅的青年修士",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "湖中护法",
+      "chapterStart": 782,
+      "chapterEnd": 853,
+      "situation": "为失踪同僚遍寻大漠东海，以崔护法身份向家主李周洛禀报玄钉进度",
+      "cultivationAt": "筑基",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "证道清凤",
+      "chapterStart": 1258,
+      "chapterEnd": 1267,
+      "situation": "闭关证神通无惧成道，出关自号【清凤】，与李曦明论『长明阶』",
+      "cultivationAt": "紫府真人",
+      "visual": "气度出于众如仙人，腰悬墨笔",
+      "spoiler": true
+    },
+    {
+      "id": "stg4",
+      "title": "迎王劝降",
+      "chapterStart": 1279,
+      "chapterEnd": 1279,
+      "situation": "自陈故魏关陇崔氏之后，请大赵守军开阵迎王免遭杀伤",
+      "cultivationAt": "紫府真人",
+      "visual": null,
+      "spoiler": true
+    },
+    {
+      "id": "stg5",
+      "title": "治蜀之臣",
+      "chapterStart": 1420,
+      "chapterEnd": 1593,
+      "situation": "被李周巍安置治蜀，自省只充魏王臣属的一面旗帜，仍在世辅佐",
+      "cultivationAt": "紫府真人",
+      "visual": null,
+      "spoiler": true
+    }
+  ]
+}

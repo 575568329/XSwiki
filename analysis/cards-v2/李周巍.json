@@ -1,0 +1,60 @@
+{
+  "name": "李周巍",
+  "oneLiner": "金眸持戟的李家魏王，从襁褓异象起步，成长为攻城拓土的家族最强战力",
+  "toProtagonist": "李家魏王与最强战力，面上渐显的『明阳』气象与主角明阳大局直接相扣",
+  "visualLine": "男，青年战修；标志特征金眸（暗金流金红），持长戟，眉心现外白内黑的日食之兆",
+  "role": "core",
+  "cultivation": "紫府（金眸天门，面上渐显『明阳』气象）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "襁褓异象",
+      "chapterStart": 476,
+      "chapterEnd": 479,
+      "situation": "初生襁褓中盯视落日，眸中暗金光彩流淌金红，异象惊心动魄",
+      "cultivationAt": "-",
+      "visual": "襁褓婴儿，眸盯落日、泛暗金金红光彩",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "隐忍蓄锋",
+      "chapterStart": 665,
+      "chapterEnd": 730,
+      "situation": "自修《明华煌元经》，隐忍结好龙太子鼎矫；以戟兵术压制紫府亲传管龚霄",
+      "cultivationAt": "-",
+      "visual": "阵前长戟横扫，乌漆法焰层层加持",
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "明阳渐显",
+      "chapterStart": 979,
+      "chapterEnd": 1029,
+      "situation": "渌水雨中护灵物、破『厥阴』算计；妖龙杀气踏亭，脱身后面上纹路渐亮显『明阳』",
+      "cultivationAt": "-",
+      "visual": "金眸昭昭，眉心现外白内黑的日食之兆",
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "魏王驰援",
+      "chapterStart": 1112,
+      "chapterEnd": 1160,
+      "situation": "都仙攻克后隐收『都仙大道』青令；负伤驰援救下庭州，立明光璀璨天门之上",
+      "cultivationAt": "紫府",
+      "visual": "负伤立明光天门之上，贯穿之伤流出金灿灿的血",
+      "spoiler": false
+    },
+    {
+      "id": "stg5",
+      "title": "破军对峙",
+      "chapterStart": 1398,
+      "chapterEnd": 1601,
+      "situation": "横穿大漠亲破灵山，月余破定漠一军数郡；火焰另一侧持戟对峙八世摩诃孔雀血裔",
+      "cultivationAt": "紫府",
+      "visual": "持戟而立，与孔雀血裔隔火焰对峙",
+      "spoiler": false
+    }
+  ]
+}

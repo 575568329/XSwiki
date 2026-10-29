@@ -1,0 +1,94 @@
+{
+ "id": 4402797,
+ "subLemmaId": 4402797,
+ "newLemmaId": 3327606,
+ "key": "纳兰桀",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的人物",
+ "title": "纳兰桀",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "纳兰桀"
+   ],
+   "format": [
+    "纳兰桀"
+   ]
+  },
+  {
+   "key": "m47_dub",
+   "name": "配音",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%88%98%E5%BD%AC/2209866\" data-lemmaid=\"2209866\">刘彬</a>(动画)"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%88%98%E5%BD%AC/2209866\" data-lemmaid=\"2209866\">刘彬</a>(动画)"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m47_nationality",
+   "name": "国籍",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%8A%A0%E7%8E%9B%E5%B8%9D%E5%9B%BD/6926230\" data-lemmaid=\"6926230\">加玛帝国</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%8A%A0%E7%8E%9B%E5%B8%9D%E5%9B%BD/6926230\" data-lemmaid=\"6926230\">加玛帝国</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "家族",
+   "value": [
+    "纳兰家"
+   ],
+   "format": [
+    "纳兰家"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/b151f8198618367adab48dfa032e9cd4b31c87014fdc?x-bce-process=image/format,f_auto",
+ "src": "b151f8198618367adab48dfa032e9cd4b31c87014fdc",
+ "imageHeight": 1012,
+ "imageWidth": 1248,
+ "isSummaryPic": "y",
+ "abstract": "纳兰桀，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的角色，加玛帝国狮心元帅，斗王强者，纳兰嫣然的爷爷，和萧炎的爷爷萧林是生死好友。",
+ "moduleIds": [
+  7150654712
+ ],
+ "url": "http://baike.baidu.com/view/4402797.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%BA%B3%E5%85%B0%E6%A1%80/3327606",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/4402797.htm#1'>角色经历</a>",
+  "<a href='http://baike.baidu.com/view/4402797.htm#2'>角色关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E7%BA%B3%E5%85%B0%E6%A1%80/3327606#1'>角色经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%BA%B3%E5%85%B0%E6%A1%80/3327606#2'>角色关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

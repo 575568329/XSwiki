@@ -1,0 +1,89 @@
+{
+ "id": 4402747,
+ "subLemmaId": 4402747,
+ "newLemmaId": 3326773,
+ "key": "林修崖",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的角色",
+ "title": "林修崖",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "林修崖"
+   ],
+   "format": [
+    "林修崖"
+   ]
+  },
+  {
+   "key": "m47_playrole",
+   "name": "饰演",
+   "value": [
+    "肖战"
+   ],
+   "format": [
+    "肖战"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "迦南学院内院学生"
+   ],
+   "format": [
+    "迦南学院内院学生"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/34fae6cd7b899e510fb34e4dc9fece33c895d143a76b?x-bce-process=image/format,f_auto",
+ "src": "34fae6cd7b899e510fb34e4dc9fece33c895d143a76b",
+ "imageHeight": 615,
+ "imageWidth": 457,
+ "isSummaryPic": "y",
+ "abstract": "林修崖，男，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的角色，迦南学院内院强榜前第二高手，和萧炎关系不错，在萧炎回加玛帝国时跟随其去云岚宗复仇。",
+ "moduleIds": [
+  6864470962
+ ],
+ "url": "http://baike.baidu.com/subview/4402747/4402747.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%9E%97%E4%BF%AE%E5%B4%96/3326773",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/4402747.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/4402747/4402747.htm#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/subview/4402747/4402747.htm#2'>形象设定</a>",
+  "<a href='http://baike.baidu.com/subview/4402747/4402747.htm#3'>角色经历</a>",
+  "<a href='http://baike.baidu.com/subview/4402747/4402747.htm#4'>角色能力</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%9E%97%E4%BF%AE%E5%B4%96/3326773#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9E%97%E4%BF%AE%E5%B4%96/3326773#2'>形象设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9E%97%E4%BF%AE%E5%B4%96/3326773#3'>角色经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9E%97%E4%BF%AE%E5%B4%96/3326773#4'>角色能力</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

@@ -1,0 +1,14 @@
+{
+ "人气榜": {
+  "error": "TypeError: fetch failed"
+ },
+ "畅销榜": {
+  "error": "TypeError: fetch failed"
+ },
+ "阅读指数": {
+  "error": "TypeError: fetch failed"
+ },
+ "月票榜": {
+  "error": "TypeError: fetch failed"
+ }
+}

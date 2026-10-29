@@ -1,0 +1,787 @@
+{
+ "files": 814,
+ "known": [
+  {
+   "name": "许七安",
+   "mentions": 19120,
+   "firstChapter": 1,
+   "lastChapter": 814
+  },
+  {
+   "name": "监正",
+   "mentions": 2230,
+   "firstChapter": 2,
+   "lastChapter": 814
+  },
+  {
+   "name": "魏渊",
+   "mentions": 2131,
+   "firstChapter": 19,
+   "lastChapter": 814
+  },
+  {
+   "name": "神殊",
+   "mentions": 1754,
+   "firstChapter": 152,
+   "lastChapter": 814
+  },
+  {
+   "name": "李妙真",
+   "mentions": 1703,
+   "firstChapter": 195,
+   "lastChapter": 814
+  },
+  {
+   "name": "元景帝",
+   "mentions": 1240,
+   "firstChapter": 58,
+   "lastChapter": 721
+  },
+  {
+   "name": "巫神",
+   "mentions": 724,
+   "firstChapter": 65,
+   "lastChapter": 814
+  },
+  {
+   "name": "许新年",
+   "mentions": 2579,
+   "firstChapter": 1,
+   "lastChapter": 803
+  },
+  {
+   "name": "怀庆",
+   "mentions": 2929,
+   "firstChapter": 3,
+   "lastChapter": 814
+  },
+  {
+   "name": "李灵素",
+   "mentions": 1704,
+   "firstChapter": 84,
+   "lastChapter": 812
+  },
+  {
+   "name": "楚元缜",
+   "mentions": 1012,
+   "firstChapter": 144,
+   "lastChapter": 814
+  },
+  {
+   "name": "阿苏罗",
+   "mentions": 827,
+   "firstChapter": 550,
+   "lastChapter": 814
+  },
+  {
+   "name": "褚采薇",
+   "mentions": 523,
+   "firstChapter": 6,
+   "lastChapter": 814
+  },
+  {
+   "name": "杨砚",
+   "mentions": 478,
+   "firstChapter": 64,
+   "lastChapter": 694
+  },
+  {
+   "name": "白姬",
+   "mentions": 344,
+   "firstChapter": 422,
+   "lastChapter": 814
+  },
+  {
+   "name": "洛玉衡",
+   "mentions": 1409,
+   "firstChapter": 136,
+   "lastChapter": 814
+  },
+  {
+   "name": "临安",
+   "mentions": 1196,
+   "firstChapter": 98,
+   "lastChapter": 809
+  },
+  {
+   "name": "度厄",
+   "mentions": 1155,
+   "firstChapter": 253,
+   "lastChapter": 808
+  },
+  {
+   "name": "浮香",
+   "mentions": 1120,
+   "firstChapter": 15,
+   "lastChapter": 803
+  },
+  {
+   "name": "金莲道长",
+   "mentions": 1066,
+   "firstChapter": 73,
+   "lastChapter": 814
+  },
+  {
+   "name": "许平志",
+   "mentions": 1037,
+   "firstChapter": 1,
+   "lastChapter": 802
+  },
+  {
+   "name": "慕南栀",
+   "mentions": 891,
+   "firstChapter": 335,
+   "lastChapter": 814
+  },
+  {
+   "name": "九尾天狐",
+   "mentions": 1199,
+   "firstChapter": 85,
+   "lastChapter": 814
+  },
+  {
+   "name": "太子",
+   "mentions": 1172,
+   "firstChapter": 42,
+   "lastChapter": 786
+  },
+  {
+   "name": "丽娜",
+   "mentions": 762,
+   "firstChapter": 133,
+   "lastChapter": 800
+  },
+  {
+   "name": "许平峰",
+   "mentions": 750,
+   "firstChapter": 401,
+   "lastChapter": 795
+  },
+  {
+   "name": "蛊神",
+   "mentions": 697,
+   "firstChapter": 65,
+   "lastChapter": 814
+  },
+  {
+   "name": "恒远",
+   "mentions": 681,
+   "firstChapter": 85,
+   "lastChapter": 808
+  },
+  {
+   "name": "许铃音",
+   "mentions": 633,
+   "firstChapter": 7,
+   "lastChapter": 802
+  },
+  {
+   "name": "姬玄",
+   "mentions": 613,
+   "firstChapter": 401,
+   "lastChapter": 718
+  },
+  {
+   "name": "伽罗树",
+   "mentions": 607,
+   "firstChapter": 422,
+   "lastChapter": 812
+  },
+  {
+   "name": "许玲月",
+   "mentions": 550,
+   "firstChapter": 7,
+   "lastChapter": 802
+  },
+  {
+   "name": "孙玄机",
+   "mentions": 550,
+   "firstChapter": 204,
+   "lastChapter": 812
+  },
+  {
+   "name": "赵守",
+   "mentions": 538,
+   "firstChapter": 40,
+   "lastChapter": 814
+  },
+  {
+   "name": "杨千幻",
+   "mentions": 514,
+   "firstChapter": 141,
+   "lastChapter": 792
+  },
+  {
+   "name": "宋廷风",
+   "mentions": 512,
+   "firstChapter": 62,
+   "lastChapter": 795
+  },
+  {
+   "name": "钟璃",
+   "mentions": 508,
+   "firstChapter": 231,
+   "lastChapter": 801
+  },
+  {
+   "name": "苗有方",
+   "mentions": 502,
+   "firstChapter": 471,
+   "lastChapter": 795
+  },
+  {
+   "name": "宋卿",
+   "mentions": 483,
+   "firstChapter": 24,
+   "lastChapter": 814
+  },
+  {
+   "name": "白帝",
+   "mentions": 437,
+   "firstChapter": 156,
+   "lastChapter": 709
+  },
+  {
+   "name": "曹青阳",
+   "mentions": 427,
+   "firstChapter": 368,
+   "lastChapter": 718
+  },
+  {
+   "name": "柴贤",
+   "mentions": 417,
+   "firstChapter": 438,
+   "lastChapter": 577
+  },
+  {
+   "name": "王首辅",
+   "mentions": 400,
+   "firstChapter": 139,
+   "lastChapter": 691
+  },
+  {
+   "name": "净心",
+   "mentions": 386,
+   "firstChapter": 147,
+   "lastChapter": 709
+  },
+  {
+   "name": "橘猫",
+   "mentions": 347,
+   "firstChapter": 136,
+   "lastChapter": 795
+  },
+  {
+   "name": "天机",
+   "mentions": 328,
+   "firstChapter": 79,
+   "lastChapter": 813
+  },
+  {
+   "name": "柴杏儿",
+   "mentions": 326,
+   "firstChapter": 438,
+   "lastChapter": 753
+  },
+  {
+   "name": "袁护法",
+   "mentions": 325,
+   "firstChapter": 550,
+   "lastChapter": 812
+  },
+  {
+   "name": "杨恭",
+   "mentions": 306,
+   "firstChapter": 19,
+   "lastChapter": 814
+  },
+  {
+   "name": "南宫倩柔",
+   "mentions": 300,
+   "firstChapter": 85,
+   "lastChapter": 814
+  },
+  {
+   "name": "许元霜",
+   "mentions": 291,
+   "firstChapter": 402,
+   "lastChapter": 786
+  },
+  {
+   "name": "裱裱",
+   "mentions": 289,
+   "firstChapter": 120,
+   "lastChapter": 504
+  },
+  {
+   "name": "蓉蓉",
+   "mentions": 289,
+   "firstChapter": 244,
+   "lastChapter": 723
+  },
+  {
+   "name": "净缘",
+   "mentions": 281,
+   "firstChapter": 421,
+   "lastChapter": 542
+  },
+  {
+   "name": "天蛊婆婆",
+   "mentions": 275,
+   "firstChapter": 133,
+   "lastChapter": 807
+  },
+  {
+   "name": "姜律中",
+   "mentions": 272,
+   "firstChapter": 83,
+   "lastChapter": 716
+  },
+  {
+   "name": "李玉春",
+   "mentions": 265,
+   "firstChapter": 2,
+   "lastChapter": 718
+  },
+  {
+   "name": "褚相龙",
+   "mentions": 254,
+   "firstChapter": 290,
+   "lastChapter": 463
+  },
+  {
+   "name": "郑兴怀",
+   "mentions": 233,
+   "firstChapter": 331,
+   "lastChapter": 548
+  },
+  {
+   "name": "纳兰天禄",
+   "mentions": 226,
+   "firstChapter": 415,
+   "lastChapter": 787
+  },
+  {
+   "name": "孙尚书",
+   "mentions": 224,
+   "firstChapter": 26,
+   "lastChapter": 662
+  },
+  {
+   "name": "苏苏",
+   "mentions": 224,
+   "firstChapter": 219,
+   "lastChapter": 727
+  },
+  {
+   "name": "张慎",
+   "mentions": 220,
+   "firstChapter": 19,
+   "lastChapter": 796
+  },
+  {
+   "name": "朱广孝",
+   "mentions": 220,
+   "firstChapter": 62,
+   "lastChapter": 795
+  },
+  {
+   "name": "龙图",
+   "mentions": 216,
+   "firstChapter": 134,
+   "lastChapter": 814
+  },
+  {
+   "name": "张巡抚",
+   "mentions": 213,
+   "firstChapter": 180,
+   "lastChapter": 357
+  },
+  {
+   "name": "许元槐",
+   "mentions": 209,
+   "firstChapter": 402,
+   "lastChapter": 795
+  },
+  {
+   "name": "度难金刚",
+   "mentions": 209,
+   "firstChapter": 421,
+   "lastChapter": 541
+  },
+  {
+   "name": "王思慕",
+   "mentions": 208,
+   "firstChapter": 272,
+   "lastChapter": 795
+  },
+  {
+   "name": "东方婉蓉",
+   "mentions": 207,
+   "firstChapter": 413,
+   "lastChapter": 787
+  },
+  {
+   "name": "陈贵妃",
+   "mentions": 199,
+   "firstChapter": 98,
+   "lastChapter": 786
+  },
+  {
+   "name": "李慕白",
+   "mentions": 198,
+   "firstChapter": 19,
+   "lastChapter": 796
+  },
+  {
+   "name": "王贞文",
+   "mentions": 181,
+   "firstChapter": 139,
+   "lastChapter": 808
+  },
+  {
+   "name": "柳红棉",
+   "mentions": 178,
+   "firstChapter": 436,
+   "lastChapter": 661
+  },
+  {
+   "name": "广贤菩萨",
+   "mentions": 171,
+   "firstChapter": 422,
+   "lastChapter": 814
+  },
+  {
+   "name": "萧月奴",
+   "mentions": 168,
+   "firstChapter": 372,
+   "lastChapter": 720
+  },
+  {
+   "name": "鸾钰",
+   "mentions": 166,
+   "firstChapter": 571,
+   "lastChapter": 814
+  },
+  {
+   "name": "琉璃菩萨",
+   "mentions": 164,
+   "firstChapter": 421,
+   "lastChapter": 812
+  },
+  {
+   "name": "曹国公",
+   "mentions": 163,
+   "firstChapter": 290,
+   "lastChapter": 501
+  },
+  {
+   "name": "葛文宣",
+   "mentions": 157,
+   "firstChapter": 568,
+   "lastChapter": 691
+  },
+  {
+   "name": "戚广伯",
+   "mentions": 155,
+   "firstChapter": 555,
+   "lastChapter": 700
+  },
+  {
+   "name": "净尘",
+   "mentions": 151,
+   "firstChapter": 233,
+   "lastChapter": 766
+  },
+  {
+   "name": "吕青",
+   "mentions": 149,
+   "firstChapter": 67,
+   "lastChapter": 795
+  },
+  {
+   "name": "淳嫣",
+   "mentions": 148,
+   "firstChapter": 573,
+   "lastChapter": 804
+  },
+  {
+   "name": "冰夷元君",
+   "mentions": 147,
+   "firstChapter": 408,
+   "lastChapter": 812
+  },
+  {
+   "name": "萨伦阿古",
+   "mentions": 132,
+   "firstChapter": 548,
+   "lastChapter": 791
+  },
+  {
+   "name": "姬远",
+   "mentions": 128,
+   "firstChapter": 606,
+   "lastChapter": 689
+  },
+  {
+   "name": "尤尸",
+   "mentions": 124,
+   "firstChapter": 575,
+   "lastChapter": 804
+  },
+  {
+   "name": "银发妖姬",
+   "mentions": 121,
+   "firstChapter": 605,
+   "lastChapter": 812
+  },
+  {
+   "name": "白虎",
+   "mentions": 117,
+   "firstChapter": 431,
+   "lastChapter": 676
+  },
+  {
+   "name": "东方婉清",
+   "mentions": 114,
+   "firstChapter": 413,
+   "lastChapter": 788
+  },
+  {
+   "name": "公孙秀",
+   "mentions": 113,
+   "firstChapter": 404,
+   "lastChapter": 475
+  },
+  {
+   "name": "誉王",
+   "mentions": 110,
+   "firstChapter": 127,
+   "lastChapter": 789
+  },
+  {
+   "name": "王捕头",
+   "mentions": 110,
+   "firstChapter": 10,
+   "lastChapter": 795
+  },
+  {
+   "name": "紫阳居士",
+   "mentions": 110,
+   "firstChapter": 19,
+   "lastChapter": 795
+  },
+  {
+   "name": "净思",
+   "mentions": 107,
+   "firstChapter": 254,
+   "lastChapter": 790
+  },
+  {
+   "name": "四皇子",
+   "mentions": 107,
+   "firstChapter": 150,
+   "lastChapter": 711
+  },
+  {
+   "name": "公孙向阳",
+   "mentions": 107,
+   "firstChapter": 407,
+   "lastChapter": 477
+  },
+  {
+   "name": "苍龙",
+   "mentions": 102,
+   "firstChapter": 464,
+   "lastChapter": 526
+  },
+  {
+   "name": "伊尔布",
+   "mentions": 98,
+   "firstChapter": 421,
+   "lastChapter": 787
+  },
+  {
+   "name": "杨川南",
+   "mentions": 97,
+   "firstChapter": 177,
+   "lastChapter": 725
+  },
+  {
+   "name": "陈捕头",
+   "mentions": 95,
+   "firstChapter": 319,
+   "lastChapter": 392
+  },
+  {
+   "name": "柳公子",
+   "mentions": 93,
+   "firstChapter": 246,
+   "lastChapter": 532
+  },
+  {
+   "name": "玄诚道长",
+   "mentions": 92,
+   "firstChapter": 408,
+   "lastChapter": 812
+  },
+  {
+   "name": "钱青书",
+   "mentions": 89,
+   "firstChapter": 241,
+   "lastChapter": 808
+  },
+  {
+   "name": "袁义",
+   "mentions": 86,
+   "firstChapter": 422,
+   "lastChapter": 433
+  },
+  {
+   "name": "杨崔雪",
+   "mentions": 83,
+   "firstChapter": 370,
+   "lastChapter": 681
+  },
+  {
+   "name": "李少云",
+   "mentions": 83,
+   "firstChapter": 423,
+   "lastChapter": 434
+  },
+  {
+   "name": "刘洪",
+   "mentions": 82,
+   "firstChapter": 241,
+   "lastChapter": 789
+  },
+  {
+   "name": "陈府尹",
+   "mentions": 80,
+   "firstChapter": 2,
+   "lastChapter": 290
+  },
+  {
+   "name": "仇谦",
+   "mentions": 80,
+   "firstChapter": 373,
+   "lastChapter": 378
+  },
+  {
+   "name": "朱县令",
+   "mentions": 80,
+   "firstChapter": 11,
+   "lastChapter": 795
+  },
+  {
+   "name": "钱友",
+   "mentions": 75,
+   "firstChapter": 275,
+   "lastChapter": 283
+  },
+  {
+   "name": "姬白晴",
+   "mentions": 72,
+   "firstChapter": 695,
+   "lastChapter": 789
+  },
+  {
+   "name": "傅菁门",
+   "mentions": 71,
+   "firstChapter": 378,
+   "lastChapter": 681
+  },
+  {
+   "name": "陈泰",
+   "mentions": 70,
+   "firstChapter": 37,
+   "lastChapter": 796
+  },
+  {
+   "name": "郑布政使",
+   "mentions": 68,
+   "firstChapter": 331,
+   "lastChapter": 357
+  },
+  {
+   "name": "赵晋",
+   "mentions": 63,
+   "firstChapter": 337,
+   "lastChapter": 357
+  },
+  {
+   "name": "张开泰",
+   "mentions": 61,
+   "firstChapter": 165,
+   "lastChapter": 716
+  },
+  {
+   "name": "刘御史",
+   "mentions": 60,
+   "firstChapter": 326,
+   "lastChapter": 352
+  },
+  {
+   "name": "青木护法",
+   "mentions": 59,
+   "firstChapter": 549,
+   "lastChapter": 562
+  },
+  {
+   "name": "怒浪岛主",
+   "mentions": 54,
+   "firstChapter": 756,
+   "lastChapter": 770
+  },
+  {
+   "name": "朱二",
+   "mentions": 47,
+   "firstChapter": 410,
+   "lastChapter": 411
+  },
+  {
+   "name": "病夫帮主",
+   "mentions": 40,
+   "firstChapter": 277,
+   "lastChapter": 283
+  },
+  {
+   "name": "陈妃",
+   "mentions": 35,
+   "firstChapter": 229,
+   "lastChapter": 415
+  },
+  {
+   "name": "公羊宿",
+   "mentions": 29,
+   "firstChapter": 278,
+   "lastChapter": 283
+  }
+ ],
+ "aliasMap": {
+  "神殊": [
+   "神殊和尚"
+  ],
+  "许新年": [
+   "许二郎"
+  ],
+  "怀庆": [
+   "长公主"
+  ],
+  "度厄": [
+   "度厄罗汉"
+  ],
+  "浮香": [
+   "夜姬"
+  ],
+  "许平志": [
+   "许二叔"
+  ],
+  "九尾天狐": [
+   "九尾狐"
+  ],
+  "太子": [
+   "永兴帝"
+  ]
+ }
+}

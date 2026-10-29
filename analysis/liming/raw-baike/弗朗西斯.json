@@ -1,0 +1,196 @@
+{
+ "id": 114107,
+ "subLemmaId": 114107,
+ "newLemmaId": 2059980,
+ "key": "弗朗西斯",
+ "desc": "美国前职业篮球运动员",
+ "title": "史蒂夫·弗朗西斯",
+ "card": [
+  {
+   "key": "m2_nameC",
+   "name": "中文名",
+   "value": [
+    "史蒂夫·弗朗西斯<sup>41</sup><a name=\"ref_41\"></a>"
+   ],
+   "format": [
+    "史蒂夫·弗朗西斯<sup>41</sup><a name=\"ref_41\"></a>"
+   ]
+  },
+  {
+   "key": "m2_nameE",
+   "name": "外文名",
+   "value": [
+    "Steve Francis<sup>10</sup><a name=\"ref_10\"></a>"
+   ],
+   "format": [
+    "Steve Francis<sup>10</sup><a name=\"ref_10\"></a>"
+   ]
+  },
+  {
+   "key": "m2_nameOther",
+   "name": "别名",
+   "value": [
+    "Steven D'Shawn “Steve” Francis<sup>10</sup><a name=\"ref_10\"></a>(全名)、The Franchise<sup>10</sup><a name=\"ref_10\"></a>、弗老大<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "Steven D'Shawn “Steve” Francis<sup>10</sup><a name=\"ref_10\"></a>(全名)、The Franchise<sup>10</sup><a name=\"ref_10\"></a>、弗老大<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m2_nation",
+   "name": "国籍",
+   "value": [
+    "<a target=_blank href=\"/item/%E7%BE%8E%E5%9B%BD/125486\" data-lemmaid=\"125486\">美国</a><sup>10</sup><a name=\"ref_10\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E7%BE%8E%E5%9B%BD/125486\" data-lemmaid=\"125486\">美国</a><sup>10</sup><a name=\"ref_10\"></a>"
+   ]
+  },
+  {
+   "key": "m2_bornPlace",
+   "name": "出生地",
+   "value": [
+    "美国马里兰州塔科马帕克<sup>10</sup><a name=\"ref_10\"></a>"
+   ],
+   "format": [
+    "美国马里兰州塔科马帕克<sup>10</sup><a name=\"ref_10\"></a>"
+   ]
+  },
+  {
+   "key": "m2_bornDay",
+   "name": "出生日期",
+   "value": [
+    "1977年2月21日<sup>10</sup><a name=\"ref_10\"></a>"
+   ],
+   "format": [
+    "1977年2月21日<sup>10</sup><a name=\"ref_10\"></a>"
+   ]
+  },
+  {
+   "key": "m2_height",
+   "name": "身高",
+   "value": [
+    "1.90 m<sup>10</sup><a name=\"ref_10\"></a>"
+   ],
+   "format": [
+    "1.90 m<sup>10</sup><a name=\"ref_10\"></a>"
+   ]
+  },
+  {
+   "key": "m2_weight",
+   "name": "体重",
+   "value": [
+    "88 kg<sup>10</sup><a name=\"ref_10\"></a>"
+   ],
+   "format": [
+    "88 kg<sup>10</sup><a name=\"ref_10\"></a>"
+   ]
+  },
+  {
+   "key": "m2_school",
+   "name": "毕业院校",
+   "value": [
+    "<a target=_blank href=\"/item/%E9%A9%AC%E9%87%8C%E5%85%B0%E5%A4%A7%E5%AD%A6/2610778\" data-lemmaid=\"2610778\">马里兰大学</a><sup>10</sup><a name=\"ref_10\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E9%A9%AC%E9%87%8C%E5%85%B0%E5%A4%A7%E5%AD%A6/2610778\" data-lemmaid=\"2610778\">马里兰大学</a><sup>10</sup><a name=\"ref_10\"></a>"
+   ]
+  },
+  {
+   "key": "m2_item",
+   "name": "运动项目",
+   "value": [
+    "篮球<sup>10</sup><a name=\"ref_10\"></a>"
+   ],
+   "format": [
+    "篮球<sup>10</sup><a name=\"ref_10\"></a>"
+   ]
+  },
+  {
+   "key": "m2_teacher",
+   "name": "所属运动队",
+   "value": [
+    "已退役<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "已退役<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m2_award",
+   "name": "主要奖项",
+   "value": [
+    "1999-00赛季NBA最佳新秀<sup>10</sup><a name=\"ref_10\"></a>",
+    "1999-00赛季NBA最佳新秀阵容一阵<sup>10</sup><a name=\"ref_10\"></a>",
+    "3届NBA全明星阵容<sup>10</sup><a name=\"ref_10\"></a>"
+   ],
+   "format": [
+    "1999-00赛季NBA最佳新秀<sup>10</sup><a name=\"ref_10\"></a>",
+    "1999-00赛季NBA最佳新秀阵容一阵<sup>10</sup><a name=\"ref_10\"></a>",
+    "3届NBA全明星阵容<sup>10</sup><a name=\"ref_10\"></a>"
+   ]
+  },
+  {
+   "key": "m2_customDefault",
+   "name": "NBA选秀",
+   "value": [
+    "1999年第一轮第二位被温哥华灰熊队选中<sup>10</sup><a name=\"ref_10\"></a>"
+   ],
+   "format": [
+    "1999年第一轮第二位被温哥华灰熊队选中<sup>10</sup><a name=\"ref_10\"></a>"
+   ]
+  },
+  {
+   "key": "m2_customDefault",
+   "name": "场上位置",
+   "value": [
+    "控球后卫<sup>10</sup><a name=\"ref_10\"></a>"
+   ],
+   "format": [
+    "控球后卫<sup>10</sup><a name=\"ref_10\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/1b4c510fd9f9d72a958c74c0dd2a2834359bbb07?x-bce-process=image/format,f_auto",
+ "src": "1b4c510fd9f9d72a958c74c0dd2a2834359bbb07",
+ "imageHeight": 612,
+ "imageWidth": 408,
+ "isSummaryPic": "y",
+ "abstract": "史蒂夫·弗朗西斯（Steve Francis），男，1977年2月21日出生于美国马里兰州塔科马帕克，美国前职业篮球运动员，司职控球后卫，曾效力于NBA联盟休斯顿火箭队。史蒂夫·弗朗西斯在贫民窟长大，曾因母亲病故放弃高中学业并一度混迹街头。在辗转就读两家社区学院后，1998年，史蒂夫·弗朗西斯转学至马里兰大学，征战NCAA赛事，率领球队打入1999年NCAA全美锦标赛十六强。1999年NBA选秀大会，弗朗西斯在首轮第二顺位被温哥华灰熊队选中，随后被交易至休斯敦火箭队。1999-00赛季，弗朗西斯当选赛季最佳新秀，入选最佳新秀阵容一阵。2002年休赛期，弗朗西斯在选秀大会乐透抽签仪式上抽中状元签，随即休斯顿火箭队用该签位选中了姚明。2003-04赛季，弗朗西斯连续三个赛季入选NBA全明星阵容，并首次进入季后赛。该赛季，弗朗西斯与主教练杰夫·范甘迪关系恶化。2004年6月，弗朗西斯被交易至奥兰...",
+ "moduleIds": [
+  5969472234,
+  5969472236,
+  5969472237,
+  5969472238,
+  6305821941,
+  6305821945,
+  6305821946,
+  6305821947,
+  6429780821,
+  7121295674,
+  5969472241
+ ],
+ "url": "http://baike.baidu.com/subview/114107/114107.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%8F%B2%E8%92%82%E5%A4%AB%C2%B7%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF/2059980",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/114107.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/114107/114107.htm#1'>早年经历</a>",
+  "<a href='http://baike.baidu.com/subview/114107/114107.htm#2'>职业生涯</a>",
+  "<a href='http://baike.baidu.com/subview/114107/114107.htm#3'>个人生活</a>",
+  "<a href='http://baike.baidu.com/subview/114107/114107.htm#4'>生涯数据</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%B2%E8%92%82%E5%A4%AB%C2%B7%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF/2059980#1'>早年经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%B2%E8%92%82%E5%A4%AB%C2%B7%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF/2059980#2'>职业生涯</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%B2%E8%92%82%E5%A4%AB%C2%B7%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF/2059980#3'>个人生活</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%B2%E8%92%82%E5%A4%AB%C2%B7%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF/2059980#4'>生涯数据</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": {
+  "from": "弗朗西斯",
+  "to": "史蒂夫·弗朗西斯"
+ }
+}

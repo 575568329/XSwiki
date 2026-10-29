@@ -1,0 +1,109 @@
+{
+ "id": 1439251,
+ "subLemmaId": 33466828,
+ "newLemmaId": 58125460,
+ "key": "度厄",
+ "desc": "《大奉打更人》中的佛门二品罗汉角色",
+ "title": "度厄",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "度厄"
+   ],
+   "format": [
+    "度厄"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "别名",
+   "value": [
+    "度厄罗汉、度厄国师"
+   ],
+   "format": [
+    "度厄罗汉、度厄国师"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "修为",
+   "value": [
+    "二品罗汉（杀贼果位）"
+   ],
+   "format": [
+    "二品罗汉（杀贼果位）"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属势力",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%A4%A7%E4%B9%98%E4%BD%9B%E6%95%99/409239\" data-lemmaid=\"409239\">大乘佛教</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%A4%A7%E4%B9%98%E4%BD%9B%E6%95%99/409239\" data-lemmaid=\"409239\">大乘佛教</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "大奉国师"
+   ],
+   "format": [
+    "大奉国师"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "登场作品",
+   "value": [
+    "《<a target=_blank href=\"/item/%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA/24672309\" data-lemmaid=\"24672309\">大奉打更人</a>》"
+   ],
+   "format": [
+    "《<a target=_blank href=\"/item/%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA/24672309\" data-lemmaid=\"24672309\">大奉打更人</a>》"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/622762d0f703918fa0eccb730361319759ee3d6d6e4f?x-bce-process=image/format,f_auto",
+ "src": "622762d0f703918fa0eccb730361319759ee3d6d6e4f",
+ "imageHeight": 536,
+ "imageWidth": 592,
+ "isSummaryPic": "y",
+ "abstract": "度厄是网络小说《大奉打更人》中的重要角色，佛门二品罗汉修为，持有\"杀贼果位\"，原为西域佛陀弟子。因佛门分裂，他率众脱离西域并创立大乘佛教，被大奉王朝奉为国师。该角色以枯瘦老僧形象出现，曾因神殊事件介入大奉事务，在与主角许七安论道后彻底皈依大乘佛法，尊许七安为佛子。其角色转变体现了西域佛门与大奉佛教势力的博弈。",
+ "moduleIds": [
+  7053623458
+ ],
+ "url": "http://baike.baidu.com/item/%E5%BA%A6%E5%8E%84/58125460",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%BA%A6%E5%8E%84/58125460",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/1439251.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E5%BA%A6%E5%8E%84/58125460#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/item/%E5%BA%A6%E5%8E%84/58125460#2'>修为与能力</a>",
+  "<a href='http://baike.baidu.com/item/%E5%BA%A6%E5%8E%84/58125460#3'>主要经历</a>",
+  "<a href='http://baike.baidu.com/item/%E5%BA%A6%E5%8E%84/58125460#4'>人物关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%BA%A6%E5%8E%84/58125460#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%BA%A6%E5%8E%84/58125460#2'>修为与能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%BA%A6%E5%8E%84/58125460#3'>主要经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%BA%A6%E5%8E%84/58125460#4'>人物关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

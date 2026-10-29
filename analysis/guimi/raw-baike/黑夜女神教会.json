@@ -1,0 +1,58 @@
+{
+ "id": 34419928,
+ "subLemmaId": 38304512,
+ "newLemmaId": 64493172,
+ "key": "黑夜女神教会",
+ "desc": "小说《诡秘之主》正神教会",
+ "title": "黑夜女神教会",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "黑夜女神教会"
+   ],
+   "format": [
+    "黑夜女神教会"
+   ]
+  },
+  {
+   "key": "m25_source",
+   "name": "来源出处",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/8b82b9014a90f603738de834924ba41bb051f8194734?x-bce-process=image/format,f_auto",
+ "src": "8b82b9014a90f603738de834924ba41bb051f8194734",
+ "imageHeight": 946,
+ "imageWidth": 690,
+ "isSummaryPic": "y",
+ "abstract": "黑夜女神教会是爱潜水的乌贼小说《诡秘之主》中七大正神教会之一，以“守护、安眠与隐秘”为核心教义，执掌黑夜、隐秘与厄难权柄，总部位于鲁恩王国凛冬郡宁静教堂，信徒遍布北大陆。据《夜之启示录》记载，黑夜女神阿曼妮西斯源于造物主一只眼睛所化的红月，于第二纪末苏醒并协助人类渡过“灾变纪元”。教会由教宗（地上天使）统领，下设十三位大主教与九位高级执事，半数成员为半神层次。其标志为深黑底色簇拥半边绯红之月的黑暗圣徽，信徒通过胸前勾勒绯红之月的仪轨进行祈祷。主要节日包括冬礼日与为亡者举行的大弥撒（月亮弥撒），教会掌握一条完整序列途径及三条不完整序列。",
+ "moduleIds": [
+  6999398138
+ ],
+ "url": "http://baike.baidu.com/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E%E6%95%99%E4%BC%9A",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E%E6%95%99%E4%BC%9A",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E%E6%95%99%E4%BC%9A#1'>组织经历</a>",
+  "<a href='http://baike.baidu.com/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E%E6%95%99%E4%BC%9A#2'>组织结构</a>",
+  "<a href='http://baike.baidu.com/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E%E6%95%99%E4%BC%9A#3'>教义与信仰</a>",
+  "<a href='http://baike.baidu.com/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E%E6%95%99%E4%BC%9A#4'>组织文化</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E%E6%95%99%E4%BC%9A#1'>组织经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E%E6%95%99%E4%BC%9A#2'>组织结构</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E%E6%95%99%E4%BC%9A#3'>教义与信仰</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E%E6%95%99%E4%BC%9A#4'>组织文化</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

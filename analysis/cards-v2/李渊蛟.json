@@ -1,0 +1,50 @@
+{
+  "name": "李渊蛟",
+  "oneLiner": "执掌李家的渊字辈筑基修士，机警善营，结外援、布大阵，为家族奔走半生。",
+  "toProtagonist": "与堂妹李清虹同被仙鉴（陆江仙）选中授玄珠符种，是李家崛起主线的执行者与中坚。",
+  "visualLine": "",
+  "role": "core",
+  "cultivation": "筑基初期（练就仙基，身藏玄珠符种）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "受符历险",
+      "chapterStart": 159,
+      "chapterEnd": 354,
+      "situation": "少年与堂妹李清虹同获仙鉴玄珠符种；遭迟家紫府迟步梓搜魂式盘问，周旋保住法鉴之秘",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "筑基执掌",
+      "chapterStart": 368,
+      "chapterEnd": 404,
+      "situation": "猎杀核心魔修大有所获，突破筑基练就仙基，青殷殷大阵落成青杜山，自此执掌李家",
+      "cultivationAt": "筑基初期",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "诀别青杜",
+      "chapterStart": 456,
+      "chapterEnd": 482,
+      "situation": "归山探幼女李月湘，自言入青松观遗址“恐怕凶多吉少”；李清虹赴东海收其遗物",
+      "cultivationAt": "筑基初期",
+      "visual": null,
+      "spoiler": true
+    },
+    {
+      "id": "stg4",
+      "title": "身后追忆",
+      "chapterStart": 1309,
+      "chapterEnd": 1309,
+      "situation": "老妖李乌梢见故人触景生情，泣忆其当年笑声，言“小妖不敢看”",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": true
+    }
+  ]
+}

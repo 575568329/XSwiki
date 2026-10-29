@@ -1,0 +1,109 @@
+{
+ "id": 12179226,
+ "subLemmaId": 12594082,
+ "newLemmaId": 13073882,
+ "key": "阴影之主",
+ "desc": "CoAl创作的网络小说",
+ "title": "阴影之主",
+ "card": [
+  {
+   "key": "m151_name",
+   "name": "中文名",
+   "value": [
+    "阴影之主"
+   ],
+   "format": [
+    "阴影之主"
+   ]
+  },
+  {
+   "key": "m151_platform",
+   "name": "连载平台",
+   "value": [
+    "起点中文网"
+   ],
+   "format": [
+    "起点中文网"
+   ]
+  },
+  {
+   "key": "m151_state",
+   "name": "连载状态",
+   "value": [
+    "已完结"
+   ],
+   "format": [
+    "已完结"
+   ]
+  },
+  {
+   "key": "m151_Total number of words",
+   "name": "总字数",
+   "value": [
+    "88.95万字"
+   ],
+   "format": [
+    "88.95万字"
+   ]
+  },
+  {
+   "key": "m151_customDefault",
+   "name": "作者",
+   "value": [
+    "CoAl"
+   ],
+   "format": [
+    "CoAl"
+   ]
+  },
+  {
+   "key": "m151_customDefault",
+   "name": "小说类型",
+   "value": [
+    "网络小说、玄幻、异世大陆"
+   ],
+   "format": [
+    "网络小说、玄幻、异世大陆"
+   ]
+  },
+  {
+   "key": "m151_customDefault",
+   "name": "完结时间",
+   "value": [
+    "2017年10月5日"
+   ],
+   "format": [
+    "2017年10月5日"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/5bafa40f4bfbfbeda8d8ed157af0f736aec31fd2?x-bce-process=image/format,f_auto",
+ "src": "5bafa40f4bfbfbeda8d8ed157af0f736aec31fd2",
+ "imageHeight": 220,
+ "imageWidth": 176,
+ "isSummaryPic": "y",
+ "abstract": "《阴影之主》是CoAl写的网络小说连载于起点中文网。该作品为签约VIP作品，类型为玄幻、异世大陆，字数88.95万字，已完结，最后更新于2017年10月5日。小说讲述了自小体弱、不能习练剑术的男爵之子赛德·维·加斯，从另一个方向开辟人生之路的故事。",
+ "moduleIds": [
+  3727734803
+ ],
+ "url": "http://baike.baidu.com/subview/12179226/12594082.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%98%B4%E5%BD%B1%E4%B9%8B%E4%B8%BB/13073882",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/12179226.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/12179226/12594082.htm#1'>创作背景</a>",
+  "<a href='http://baike.baidu.com/subview/12179226/12594082.htm#2'>内容情节</a>",
+  "<a href='http://baike.baidu.com/subview/12179226/12594082.htm#3'>角色介绍</a>",
+  "<a href='http://baike.baidu.com/subview/12179226/12594082.htm#4'>出版历史</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%98%B4%E5%BD%B1%E4%B9%8B%E4%B8%BB/13073882#1'>创作背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%98%B4%E5%BD%B1%E4%B9%8B%E4%B8%BB/13073882#2'>内容情节</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%98%B4%E5%BD%B1%E4%B9%8B%E4%B8%BB/13073882#3'>角色介绍</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%98%B4%E5%BD%B1%E4%B9%8B%E4%B8%BB/13073882#4'>出版历史</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

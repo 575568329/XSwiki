@@ -1,0 +1,79 @@
+[
+ {
+  "name": "然後",
+  "speaker": 3,
+  "verbKinds": 2,
+  "total": 485,
+  "first": 87,
+  "last": 546,
+  "she": 57,
+  "he": 108,
+  "gender": "男"
+ },
+ {
+  "name": "有人",
+  "speaker": 3,
+  "verbKinds": 3,
+  "total": 995,
+  "first": 2,
+  "last": 557,
+  "she": 35,
+  "he": 150,
+  "gender": "男"
+ },
+ {
+  "name": "奥德中校",
+  "speaker": 3,
+  "verbKinds": 3,
+  "total": 76,
+  "first": 198,
+  "last": 430,
+  "she": 4,
+  "he": 6,
+  "gender": ""
+ },
+ {
+  "name": "索菲亚",
+  "speaker": 3,
+  "verbKinds": 3,
+  "total": 467,
+  "first": 136,
+  "last": 546,
+  "she": 44,
+  "he": 28,
+  "gender": "女"
+ },
+ {
+  "name": "普拉特",
+  "speaker": 3,
+  "verbKinds": 3,
+  "total": 38,
+  "first": 348,
+  "last": 352,
+  "she": 0,
+  "he": 8,
+  "gender": "男"
+ },
+ {
+  "name": "白发巨人",
+  "speaker": 3,
+  "verbKinds": 3,
+  "total": 60,
+  "first": 253,
+  "last": 546,
+  "she": 2,
+  "he": 7,
+  "gender": "男"
+ },
+ {
+  "name": "管理员",
+  "speaker": 3,
+  "verbKinds": 3,
+  "total": 106,
+  "first": 14,
+  "last": 549,
+  "she": 2,
+  "he": 21,
+  "gender": "男"
+ }
+]

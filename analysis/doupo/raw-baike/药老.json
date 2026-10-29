@@ -1,0 +1,170 @@
+{
+ "id": 3493310,
+ "subLemmaId": 3493310,
+ "newLemmaId": 11056743,
+ "key": "药老",
+ "desc": "玄幻小说《斗破苍穹》中的角色",
+ "title": "药尘",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "药尘"
+   ],
+   "format": [
+    "药尘"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "药老、药尊者、药圣"
+   ],
+   "format": [
+    "药老、药尊者、药圣"
+   ]
+  },
+  {
+   "key": "m47_playrole",
+   "name": "饰演",
+   "value": [
+    "<a target=_blank href=\"/item/%E9%99%88%E6%A5%9A%E6%B2%B3\">陈楚河</a>（电视剧）"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E9%99%88%E6%A5%9A%E6%B2%B3\">陈楚河</a>（电视剧）"
+   ]
+  },
+  {
+   "key": "m47_dub",
+   "name": "配音",
+   "value": [
+    "黑石稔（动画）、北炎（动态漫画）、王凯（电视剧）"
+   ],
+   "format": [
+    "黑石稔（动画）、北炎（动态漫画）、王凯（电视剧）"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "《斗破苍穹》及其衍生作品<sup>11</sup><a name=\"ref_11\"></a>",
+    "《斗破苍穹前传之药老传奇》及其衍生作品",
+    "《大主宰》及其衍生作品<sup>12</sup><a name=\"ref_12\"></a>"
+   ],
+   "format": [
+    "《斗破苍穹》及其衍生作品<sup>11</sup><a name=\"ref_11\"></a>",
+    "《斗破苍穹前传之药老传奇》及其衍生作品",
+    "《大主宰》及其衍生作品<sup>12</sup><a name=\"ref_12\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "种族",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%8D%AF%E6%97%8F\">药族</a><sup>13</sup><a name=\"ref_13\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%8D%AF%E6%97%8F\">药族</a><sup>13</sup><a name=\"ref_13\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属势力",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%98%9F%E9%99%A8%E9%98%81\">星陨阁</a>、<a target=_blank href=\"/item/%E5%A4%A9%E5%BA%9C%E8%81%94%E7%9B%9F\">天府联盟</a>、<a target=_blank href=\"/item/%E6%97%A0%E5%B0%BD%E7%81%AB%E5%9F%9F\">无尽火域</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%98%9F%E9%99%A8%E9%98%81\">星陨阁</a>、<a target=_blank href=\"/item/%E5%A4%A9%E5%BA%9C%E8%81%94%E7%9B%9F\">天府联盟</a>、<a target=_blank href=\"/item/%E6%97%A0%E5%B0%BD%E7%81%AB%E5%9F%9F\">无尽火域</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "天府联盟盟主、无尽火域太上长老"
+   ],
+   "format": [
+    "天府联盟盟主、无尽火域太上长老"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "灵力境界",
+   "value": [
+    "仙品天至尊后期<sup>14</sup><a name=\"ref_14\"></a>"
+   ],
+   "format": [
+    "仙品天至尊后期<sup>14</sup><a name=\"ref_14\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "灵魂境界",
+   "value": [
+    "天境中期（斗破时期）<sup>16</sup><a name=\"ref_16\"></a>"
+   ],
+   "format": [
+    "天境中期（斗破时期）<sup>16</sup><a name=\"ref_16\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "收服异火",
+   "value": [
+    "<a target=_blank href=\"/item/%E9%AA%A8%E7%81%B5%E5%86%B7%E7%81%AB\">骨灵冷火</a>（后赠予萧炎）<sup>6</sup><a name=\"ref_6\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E9%AA%A8%E7%81%B5%E5%86%B7%E7%81%AB\">骨灵冷火</a>（后赠予萧炎）<sup>6</sup><a name=\"ref_6\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/e7cd7b899e510fb355ea3d77d433c895d0430c5a?x-bce-process=image/format,f_auto",
+ "src": "e7cd7b899e510fb355ea3d77d433c895d0430c5a",
+ "imageHeight": 1024,
+ "imageWidth": 640,
+ "isSummaryPic": "y",
+ "abstract": "药尘，天蚕土豆所著异世大陆类玄幻小说《斗破苍穹》及其衍生作品中的角色，《斗破苍穹前传之药老传奇》的主角，《大主宰》中为客串角色，人称药尊者、药圣。大陆第一炼药师，八品高级炼药宗师，后为九品宝丹炼药宗师。中州星陨阁阁主、天府联盟盟主，拥有异火榜排名十一的骨灵冷火，后转赠萧炎。九转斗尊巅峰强者，在萧炎的帮助下重获肉身，突破至半圣，后又借助萧炎所带回的黄泉妖圣精血突破至一星斗圣。来到大千世界后成为无尽火域太上长老，修为达到仙品天至尊后期。萧炎的老师，视萧炎为子，是萧炎修炼道路上最为重要的引路人，可以说，没有药尘，就不会有“炎帝”。",
+ "moduleIds": [
+  2975672781,
+  2975672782,
+  4039197149,
+  4039197150,
+  2975672789
+ ],
+ "url": "http://baike.baidu.com/subview/3493310/3493310.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%8D%AF%E5%B0%98/11056743",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/3493310.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/3493310/3493310.htm#1'>角色形象</a>",
+  "<a href='http://baike.baidu.com/subview/3493310/3493310.htm#2'>角色能力</a>",
+  "<a href='http://baike.baidu.com/subview/3493310/3493310.htm#3'>人际关系</a>",
+  "<a href='http://baike.baidu.com/subview/3493310/3493310.htm#4'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%8D%AF%E5%B0%98/11056743#1'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%8D%AF%E5%B0%98/11056743#2'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%8D%AF%E5%B0%98/11056743#3'>人际关系</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%8D%AF%E5%B0%98/11056743#4'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": {
+  "from": "药老",
+  "to": "药尘"
+ }
+}

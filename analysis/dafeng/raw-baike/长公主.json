@@ -1,0 +1,102 @@
+{
+ "id": 450455,
+ "subLemmaId": 450455,
+ "newLemmaId": 8208228,
+ "key": "长公主",
+ "desc": "中国古代皇室女子称呼",
+ "title": "长公主",
+ "card": [
+  {
+   "key": "m128_nameC",
+   "name": "中文名",
+   "value": [
+    "长公主"
+   ],
+   "format": [
+    "长公主"
+   ]
+  },
+  {
+   "key": "m128_nameE",
+   "name": "外文名",
+   "value": [
+    "Grand Princess"
+   ],
+   "format": [
+    "Grand Princess"
+   ]
+  },
+  {
+   "key": "m128_alternateName",
+   "name": "别名",
+   "value": [
+    "长帝姬"
+   ],
+   "format": [
+    "长帝姬"
+   ]
+  },
+  {
+   "key": "m128_customDefault",
+   "name": "身份",
+   "value": [
+    "皇帝嫡长女或姐妹"
+   ],
+   "format": [
+    "皇帝嫡长女或姐妹"
+   ]
+  },
+  {
+   "key": "m128_customDefault",
+   "name": "代表人物",
+   "value": [
+    "馆陶长公主、平阳长公主"
+   ],
+   "format": [
+    "馆陶长公主、平阳长公主"
+   ]
+  },
+  {
+   "key": "m128_customDefault",
+   "name": "地位",
+   "value": [
+    "通常高于<a target=_blank href=\"/item/%E5%A6%83%E5%AB%94/6873349\" data-lemmaid=\"6873349\">妃嫔</a>，低于皇后"
+   ],
+   "format": [
+    "通常高于<a target=_blank href=\"/item/%E5%A6%83%E5%AB%94/6873349\" data-lemmaid=\"6873349\">妃嫔</a>，低于皇后"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/962bd40735fae6cda28f62b201b30f2442a70f2e?x-bce-process=image/format,f_auto",
+ "src": "962bd40735fae6cda28f62b201b30f2442a70f2e",
+ "imageHeight": 868,
+ "imageWidth": 1366,
+ "isSummaryPic": "y",
+ "abstract": "长公主是中国古代皇室女性的尊贵封号。通常指皇帝的姐妹，或皇帝特别恩宠的女儿，地位尊崇，仪制比肩诸侯王。汉朝时，此封号制度逐渐形成，皇帝的姐妹或格外受宠的帝女可获封，如馆陶长公主刘嫖与汉武帝之女卫长公主。东汉末期，封皇帝姐妹为长公主成为常制。唐代，长公主为皇帝姐妹，视一品。宋代徽宗时曾改称长帝姬。明清时期，长公主的政治功能减弱，更多作为联姻的象征。",
+ "moduleIds": [
+  3079409119,
+  5643831281,
+  5643831282,
+  5643831283
+ ],
+ "url": "http://baike.baidu.com/subview/450455/450455.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%95%BF%E5%85%AC%E4%B8%BB/8208228",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/450455.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/450455/450455.htm#1'>历史演变</a>",
+  "<a href='http://baike.baidu.com/subview/450455/450455.htm#2'>地位与影响</a>",
+  "<a href='http://baike.baidu.com/subview/450455/450455.htm#3'>著名长公主事例</a>",
+  "<a href='http://baike.baidu.com/subview/450455/450455.htm#4'>艺术形象</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%95%BF%E5%85%AC%E4%B8%BB/8208228#1'>历史演变</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%95%BF%E5%85%AC%E4%B8%BB/8208228#2'>地位与影响</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%95%BF%E5%85%AC%E4%B8%BB/8208228#3'>著名长公主事例</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%95%BF%E5%85%AC%E4%B8%BB/8208228#4'>艺术形象</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

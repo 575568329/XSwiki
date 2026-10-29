@@ -1,0 +1,74 @@
+{
+ "id": 5978410,
+ "subLemmaId": 6048868,
+ "newLemmaId": 7885734,
+ "key": "海心焰",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的异火",
+ "title": "海心焰",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "海心焰"
+   ],
+   "format": [
+    "海心焰"
+   ]
+  },
+  {
+   "key": "m233_source",
+   "name": "出处",
+   "value": [
+    "斗破苍穹"
+   ],
+   "format": [
+    "斗破苍穹"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "排行",
+   "value": [
+    "十五"
+   ],
+   "format": [
+    "十五"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "颜色",
+   "value": [
+    "蓝"
+   ],
+   "format": [
+    "蓝"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/e1fe9925bc315c6034a845b0eaeadc1349540923d963?x-bce-process=image/format,f_auto",
+ "src": "e1fe9925bc315c6034a845b0eaeadc1349540923d963",
+ "imageHeight": 888,
+ "imageWidth": 1580,
+ "isSummaryPic": "y",
+ "abstract": "海心焰，小说《斗破苍穹》中的一种异火，在异火榜上排名第十五。该火焰诞生于海洋深处，颜色呈蓝色，具有溶于水的特性。其最初拥有者为韩枫，韩枫因灵魂被魂殿捕获而将火焰交给慕骨老人件，最终被萧炎炼化为自身第五种异火，与其他异火共存于体内。",
+ "moduleIds": [
+  6365392024
+ ],
+ "url": "http://baike.baidu.com/view/5978410.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%B5%B7%E5%BF%83%E7%84%B0/7885734",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/5978410.htm#1'>设定资料</a>",
+  "<a href='http://baike.baidu.com/view/5978410.htm#2'>相关人物</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%B5%B7%E5%BF%83%E7%84%B0/7885734#1'>设定资料</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%B5%B7%E5%BF%83%E7%84%B0/7885734#2'>相关人物</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

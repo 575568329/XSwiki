@@ -1,0 +1,140 @@
+{
+ "id": 4054243,
+ "subLemmaId": 4054243,
+ "newLemmaId": 8825242,
+ "key": "小医仙",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的角色",
+ "title": "小医仙",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "小医仙"
+   ],
+   "format": [
+    "小医仙"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "天毒女、医仙"
+   ],
+   "format": [
+    "天毒女、医仙"
+   ]
+  },
+  {
+   "key": "m47_playrole",
+   "name": "饰演",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%9D%8E%E6%B2%81/7055\" data-lemmaid=\"7055\">李沁</a>（《斗破苍穹》电视剧）"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%9D%8E%E6%B2%81/7055\" data-lemmaid=\"7055\">李沁</a>（《斗破苍穹》电视剧）"
+   ]
+  },
+  {
+   "key": "m47_dub",
+   "name": "配音",
+   "value": [
+    "醋醋（《斗破苍穹》动画）"
+   ],
+   "format": [
+    "醋醋（《斗破苍穹》动画）"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "女"
+   ],
+   "format": [
+    "女"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "《斗破苍穹》<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "《斗破苍穹》<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属",
+   "value": [
+    "毒宗、<a target=_blank href=\"/item/%E6%98%9F%E9%99%A8%E9%98%81/6112918\" data-lemmaid=\"6112918\">星陨阁</a>、<a target=_blank href=\"/item/%E5%A4%A9%E5%BA%9C%E8%81%94%E7%9B%9F/5391144\" data-lemmaid=\"5391144\">天府联盟</a>"
+   ],
+   "format": [
+    "毒宗、<a target=_blank href=\"/item/%E6%98%9F%E9%99%A8%E9%98%81/6112918\" data-lemmaid=\"6112918\">星陨阁</a>、<a target=_blank href=\"/item/%E5%A4%A9%E5%BA%9C%E8%81%94%E7%9B%9F/5391144\" data-lemmaid=\"5391144\">天府联盟</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "毒宗宗主、星陨阁长老"
+   ],
+   "format": [
+    "毒宗宗主、星陨阁长老"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "体质",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%8E%84%E9%9A%BE%E6%AF%92%E4%BD%93/10451857\" data-lemmaid=\"10451857\">厄难毒体</a><sup>2</sup><a name=\"ref_2\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%8E%84%E9%9A%BE%E6%AF%92%E4%BD%93/10451857\" data-lemmaid=\"10451857\">厄难毒体</a><sup>2</sup><a name=\"ref_2\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "境界",
+   "value": [
+    "一星斗圣<sup>3</sup><a name=\"ref_3\"></a>"
+   ],
+   "format": [
+    "一星斗圣<sup>3</sup><a name=\"ref_3\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/9f2f070828381f301682b7faa5014c086f06f0ce?x-bce-process=image/format,f_auto",
+ "src": "9f2f070828381f301682b7faa5014c086f06f0ce",
+ "imageHeight": 220,
+ "imageWidth": 137,
+ "isSummaryPic": "y",
+ "abstract": "小医仙，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的角色，身负厄难毒体，食毒修炼，万毒不侵，通体毒气。这种会无意识地杀死别人的体质让天性善良的小医仙成为人憎鬼厌的天毒女，在萧炎多次帮助下得以控制。",
+ "moduleIds": [
+  3053933737,
+  3053933743
+ ],
+ "url": "http://baike.baidu.com/subview/4054243/4054243.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%B0%8F%E5%8C%BB%E4%BB%99/8825242",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/4054243.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/4054243/4054243.htm#1'>角色形象</a>",
+  "<a href='http://baike.baidu.com/subview/4054243/4054243.htm#2'>角色能力</a>",
+  "<a href='http://baike.baidu.com/subview/4054243/4054243.htm#3'>人际关系</a>",
+  "<a href='http://baike.baidu.com/subview/4054243/4054243.htm#4'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%B0%8F%E5%8C%BB%E4%BB%99/8825242#1'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%B0%8F%E5%8C%BB%E4%BB%99/8825242#2'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%B0%8F%E5%8C%BB%E4%BB%99/8825242#3'>人际关系</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%B0%8F%E5%8C%BB%E4%BB%99/8825242#4'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

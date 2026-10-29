@@ -1,0 +1,74 @@
+{
+ "id": 29564970,
+ "subLemmaId": 32012696,
+ "newLemmaId": 56577335,
+ "key": "李灵素",
+ "desc": "小说《大奉打更人》中的角色",
+ "title": "李灵素",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "李灵素"
+   ],
+   "format": [
+    "李灵素"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "七号、天宗圣子、海王、卧龙"
+   ],
+   "format": [
+    "七号、天宗圣子、海王、卧龙"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "登场作品",
+   "value": [
+    "大奉打更人"
+   ],
+   "format": [
+    "大奉打更人"
+   ]
+  }
+ ],
+ "imageHeight": null,
+ "imageWidth": null,
+ "isSummaryPic": "n",
+ "abstract": "李灵素，别名七号、天宗圣子、海王、卧龙，是卖报小郎君所著网络小说《大奉打更人》中的角色，天地会七号成员，道门天宗圣子，李妙真的师兄。李灵素是四品元婴，外表俊美无俦，为人风流好色，其红颜知己数百人，分布于九州各地。为了体悟太上忘情之道下山历练，因被老相好追捕而将地书碎片交由二号李妙真保管。被巫神教双胞胎（桃花债之一）千里追捕并擒拿，日日榨干，后被许七安救出，后转修武道。因怒斥天尊在大劫降临时袖手旁观而被逐出天宗。大劫平定后在京城自立门户，创立神霄派，广收弟子，主修雷法和双修之术，很受达官显贵的青睐，已拥有二十个儿女。",
+ "moduleIds": [],
+ "url": "http://baike.baidu.com/item/%E6%9D%8E%E7%81%B5%E7%B4%A0",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%9D%8E%E7%81%B5%E7%B4%A0",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E6%9D%8E%E7%81%B5%E7%B4%A0#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/item/%E6%9D%8E%E7%81%B5%E7%B4%A0#2'>角色形象</a>",
+  "<a href='http://baike.baidu.com/item/%E6%9D%8E%E7%81%B5%E7%B4%A0#3'>角色能力</a>",
+  "<a href='http://baike.baidu.com/item/%E6%9D%8E%E7%81%B5%E7%B4%A0#4'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%9D%8E%E7%81%B5%E7%B4%A0#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9D%8E%E7%81%B5%E7%B4%A0#2'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9D%8E%E7%81%B5%E7%B4%A0#3'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9D%8E%E7%81%B5%E7%B4%A0#4'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

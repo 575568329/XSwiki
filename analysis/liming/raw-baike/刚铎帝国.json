@@ -1,0 +1,54 @@
+{
+ "id": 34022526,
+ "subLemmaId": 37754328,
+ "newLemmaId": 63784462,
+ "key": "刚铎帝国",
+ "desc": "远瞳所著科幻小说《黎明之剑》国家",
+ "title": "刚铎帝国",
+ "card": [
+  {
+   "key": "m7_name",
+   "name": "中文名",
+   "value": [
+    "刚铎帝国"
+   ],
+   "format": [
+    "刚铎帝国"
+   ]
+  },
+  {
+   "key": "m7_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%91/22620866\" data-lemmaid=\"22620866\">黎明之剑</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%91/22620866\" data-lemmaid=\"22620866\">黎明之剑</a>"
+   ]
+  }
+ ],
+ "imageHeight": null,
+ "imageWidth": null,
+ "isSummaryPic": "n",
+ "abstract": "刚铎帝国是远瞳所著科幻小说《黎明之剑》中的人类古代魔法帝国，以掌控星球动力系统\"深蓝之井\"为核心，凭借无限魔力发展出高度依赖能源的魔法文明，疆域受限于深蓝之井辐射范围，国力达到本季人类文明顶峰。帝国因深蓝之井爆炸引发的魔潮于1740年覆灭，导致全大陆文明倒退。灭亡前曾实施\"忤逆计划\"，通过解析自然之神尸体进行基因改造，其技术为后世幸存者逃离废土提供可能。覆灭后，战斗傀儡与畸变体游荡废土，遗留的维普兰顿天文台等设施成为后续文明探索的关键遗迹。作为首个突破神明桎梏的文明，刚铎帝国在对抗神权与技术失控中终结，其深蓝之井遗址与忤逆要塞等遗产持续影响《黎明之剑》主线剧情。",
+ "moduleIds": [],
+ "url": "http://baike.baidu.com/item/%E5%88%9A%E9%93%8E%E5%B8%9D%E5%9B%BD",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%88%9A%E9%93%8E%E5%B8%9D%E5%9B%BD",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E5%88%9A%E9%93%8E%E5%B8%9D%E5%9B%BD#1'>国家概况</a>",
+  "<a href='http://baike.baidu.com/item/%E5%88%9A%E9%93%8E%E5%B8%9D%E5%9B%BD#2'>历史沿革</a>",
+  "<a href='http://baike.baidu.com/item/%E5%88%9A%E9%93%8E%E5%B8%9D%E5%9B%BD#3'>覆灭与大衰退</a>",
+  "<a href='http://baike.baidu.com/item/%E5%88%9A%E9%93%8E%E5%B8%9D%E5%9B%BD#4'>重要计划与科技</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%88%9A%E9%93%8E%E5%B8%9D%E5%9B%BD#1'>国家概况</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%88%9A%E9%93%8E%E5%B8%9D%E5%9B%BD#2'>历史沿革</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%88%9A%E9%93%8E%E5%B8%9D%E5%9B%BD#3'>覆灭与大衰退</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%88%9A%E9%93%8E%E5%B8%9D%E5%9B%BD#4'>重要计划与科技</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

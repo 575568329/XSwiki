@@ -1,0 +1,68 @@
+{
+ "id": 33717619,
+ "subLemmaId": 37324034,
+ "newLemmaId": 63218122,
+ "key": "极光会",
+ "desc": "网络小说《诡秘之主》及其衍生作品登场的隐秘组织之一",
+ "title": "极光会",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "极光会"
+   ],
+   "format": [
+    "极光会"
+   ]
+  },
+  {
+   "key": "m25_alternateName",
+   "name": "别名",
+   "value": [
+    "背锅会、极锅会"
+   ],
+   "format": [
+    "背锅会、极锅会"
+   ]
+  },
+  {
+   "key": "m25_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/a50f4bfbfbedab64034f5c63406ab8c379310a55b046?x-bce-process=image/format,f_auto",
+ "src": "a50f4bfbfbedab64034f5c63406ab8c379310a55b046",
+ "imageHeight": 1197,
+ "imageWidth": 950,
+ "isSummaryPic": "y",
+ "abstract": "极光会是爱潜水的乌贼所著网络小说《诡秘之主》及其衍生作品中的隐秘组织，成立于近一两百年间，以倒吊巨人为象征符号，崇拜真实造物主。该组织主张万物皆有神性，认为通过承受精神考验可积累神性成为天使，主要掌握\"倒吊人\"非凡途径，成员以秘祈人、倾听者序列为主（其中倾听者普遍存在精神异常）。长期与风暴之主、永恒烈阳、知识与智慧之神教会处于敌对状态。极光会在《诡秘之主》时期设有五位圣者和二十二位以字母为代号的神使（序列7至序列5），至《宿命之环》阶段圣者数量增至七位。随着格局变化，该组织发展为兼具情报搜集、神秘学研究和知识整理的多重职能体系，通过监视世界动态、剖析神秘规律、挖掘古代遗迹等方式服务于真实造物主。",
+ "moduleIds": [
+  6927399196
+ ],
+ "url": "http://baike.baidu.com/item/%E6%9E%81%E5%85%89%E4%BC%9A",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%9E%81%E5%85%89%E4%BC%9A",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E6%9E%81%E5%85%89%E4%BC%9A#1'>组织介绍</a>",
+  "<a href='http://baike.baidu.com/item/%E6%9E%81%E5%85%89%E4%BC%9A#2'>组织成员</a>",
+  "<a href='http://baike.baidu.com/item/%E6%9E%81%E5%85%89%E4%BC%9A#3'>相关物品</a>",
+  "<a href='http://baike.baidu.com/item/%E6%9E%81%E5%85%89%E4%BC%9A#4'>登场作品</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%9E%81%E5%85%89%E4%BC%9A#1'>组织介绍</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9E%81%E5%85%89%E4%BC%9A#2'>组织成员</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9E%81%E5%85%89%E4%BC%9A#3'>相关物品</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9E%81%E5%85%89%E4%BC%9A#4'>登场作品</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

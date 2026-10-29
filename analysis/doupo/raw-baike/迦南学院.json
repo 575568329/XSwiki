@@ -1,0 +1,144 @@
+{
+ "id": 5497842,
+ "subLemmaId": 5535363,
+ "newLemmaId": 10101678,
+ "key": "迦南学院",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的学院",
+ "title": "迦南学院",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%BF%A6%E5%8D%97%E5%AD%A6%E9%99%A2\">迦南学院</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%BF%A6%E5%8D%97%E5%AD%A6%E9%99%A2\">迦南学院</a>"
+   ]
+  },
+  {
+   "key": "m233_source",
+   "name": "出处",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/5132173\" data-lemmaid=\"5132173\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/5132173\" data-lemmaid=\"5132173\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m233_type",
+   "name": "类型",
+   "value": [
+    "私立学院"
+   ],
+   "format": [
+    "私立学院"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "知名学员",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%9E%97%E4%BF%AE%E5%B4%96/3326773\" data-lemmaid=\"3326773\">林修崖</a>、<a target=_blank href=\"/item/%E6%9F%B3%E6%93%8E\">柳擎</a>、<a target=_blank href=\"/item/%E4%B8%A5%E7%9A%93\">严皓</a>、<a target=_blank href=\"/item/%E6%9E%97%E7%84%B1/22930037\" data-lemmaid=\"22930037\">林焱</a>、<a target=_blank href=\"/item/%E7%90%A5%E5%98%89\">琥嘉</a>、<a target=_blank href=\"/item/%E5%90%B4%E6%98%8A/13199101\" data-lemmaid=\"13199101\">吴昊</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%9E%97%E4%BF%AE%E5%B4%96/3326773\" data-lemmaid=\"3326773\">林修崖</a>、<a target=_blank href=\"/item/%E6%9F%B3%E6%93%8E\">柳擎</a>、<a target=_blank href=\"/item/%E4%B8%A5%E7%9A%93\">严皓</a>、<a target=_blank href=\"/item/%E6%9E%97%E7%84%B1/22930037\" data-lemmaid=\"22930037\">林焱</a>、<a target=_blank href=\"/item/%E7%90%A5%E5%98%89\">琥嘉</a>、<a target=_blank href=\"/item/%E5%90%B4%E6%98%8A/13199101\" data-lemmaid=\"13199101\">吴昊</a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "执法队统领",
+   "value": [
+    "吴天狼（原著仅提及其名）"
+   ],
+   "format": [
+    "吴天狼（原著仅提及其名）"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "学院守护者",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%8D%83%E6%9C%A8/13053182\" data-lemmaid=\"13053182\">千木</a>、<a target=_blank href=\"/item/%E7%99%BE%E7%83%88/55943476\" data-lemmaid=\"55943476\">百烈</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%8D%83%E6%9C%A8/13053182\" data-lemmaid=\"13053182\">千木</a>、<a target=_blank href=\"/item/%E7%99%BE%E7%83%88/55943476\" data-lemmaid=\"55943476\">百烈</a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "内院院长",
+   "value": [
+    "<a target=_blank href=\"/item/%E9%82%99%E5%A4%A9%E5%B0%BA\">邙天尺</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E9%82%99%E5%A4%A9%E5%B0%BA\">邙天尺</a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "内院长老",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%8B%8F%E5%8D%83\">苏千</a>、柳长老、赫长老等"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%8B%8F%E5%8D%83\">苏千</a>、柳长老、赫长老等"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "外院副院长",
+   "value": [
+    "<a target=_blank href=\"/item/%E7%90%A5%E4%B9%BE\">琥乾</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E7%90%A5%E4%B9%BE\">琥乾</a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "外院导师",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%8B%A5%E7%90%B3/55943481\" data-lemmaid=\"55943481\">若琳</a>、<a target=_blank href=\"/item/%E9%9C%8D%E5%BE%B7/61611640\" data-lemmaid=\"61611640\">霍德</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%8B%A5%E7%90%B3/55943481\" data-lemmaid=\"55943481\">若琳</a>、<a target=_blank href=\"/item/%E9%9C%8D%E5%BE%B7/61611640\" data-lemmaid=\"61611640\">霍德</a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/1e30e924b899a9014c081cc08fcc1d7b02087af45f89?x-bce-process=image/format,f_auto",
+ "src": "1e30e924b899a9014c081cc08fcc1d7b02087af45f89",
+ "imageHeight": 1016,
+ "imageWidth": 1527,
+ "isSummaryPic": "y",
+ "abstract": "迦南学院，玄幻小说《斗破苍穹》及其衍生作品中的私立学院，由雷族长老、总院长邙天尺创建于斗气大陆西北地域的黑角域中部迦南城，分为外院与内院。外院由琥乾管理，内院由苏千等长老主持，守护者千百二老常年驻守。学院核心设施天焚炼气塔内置异火陨落心炎（学院成立之根本），可加速学员修炼。藏书阁需特殊空间手法开启，存放大量珍宝且仅限选拔赛前五名学员进入。萧炎曾夺得选拔赛冠军并带领新生反抢老生火能。陨落心炎暴动引发韩枫联合黑角域势力入侵，被学院击退。黑盟覆灭后萧门依托学院关系崛起，魔炎谷势力遭萧炎联合千百二老剿灭，期间萧炎为学院寻回幼生期陨落心炎，重启天焚炼气塔。魂族为夺取古帝洞府袭击学院时，萧炎赶回化解危机。",
+ "moduleIds": [
+  5639603390,
+  5639603391,
+  5639603394,
+  5639603395,
+  5639603396,
+  5639603398,
+  6570221713
+ ],
+ "url": "http://baike.baidu.com/view/5497842.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%BF%A6%E5%8D%97%E5%AD%A6%E9%99%A2/10101678",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/5497842.htm#1'>背景介绍</a>",
+  "<a href='http://baike.baidu.com/view/5497842.htm#2'>组织结构</a>",
+  "<a href='http://baike.baidu.com/view/5497842.htm#3'>组织成员</a>",
+  "<a href='http://baike.baidu.com/view/5497842.htm#4'>组织文化</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%BF%A6%E5%8D%97%E5%AD%A6%E9%99%A2/10101678#1'>背景介绍</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%BF%A6%E5%8D%97%E5%AD%A6%E9%99%A2/10101678#2'>组织结构</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%BF%A6%E5%8D%97%E5%AD%A6%E9%99%A2/10101678#3'>组织成员</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%BF%A6%E5%8D%97%E5%AD%A6%E9%99%A2/10101678#4'>组织文化</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

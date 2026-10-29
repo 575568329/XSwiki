@@ -1,0 +1,60 @@
+{
+  "name": "李遂宁",
+  "oneLiner": "身历三世重生的李家伯脉青年，凭前世记忆以阵法术算之能辅佐家族，执掌宝阵阁",
+  "toProtagonist": "昭景真人李曦明亲手提拔的伯脉阵法师，凭重生记忆与术算多次辅佐李家渡劫兴族",
+  "visualLine": "青年男修，双眸灿若明星，双手洁白如玉、不似人属，持长光掩星阵旗",
+  "role": "support",
+  "cultivation": "紫府一级的存在（凝法躯立境）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "重生入洲",
+      "chapterStart": 993,
+      "chapterEnd": 995,
+      "situation": "重生归返，经弟弟暗告得见太姑奶李明宫入洲，以阵道获李曦明赏识亲赐阵旗",
+      "cultivationAt": "胎息四层",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "蛰伏修行",
+      "chapterStart": 1026,
+      "chapterEnd": 1120,
+      "situation": "明面求学问道，实则埋头修行补前世之缺；练气五层乘风弄光，刻玉盘练阵",
+      "cultivationAt": "练气五层",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "春冻血劫",
+      "chapterStart": 1121,
+      "chapterEnd": 1259,
+      "situation": "春冻血之难目睹亲族横死，直面姚大人质问『置宋帝于何地』，泣言只求一条活路",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "魏王识秘",
+      "chapterStart": 1260,
+      "chapterEnd": 1396,
+      "situation": "第三世之秘被李绛迁三两下瞧出端倪；东陵之乱后自省识人，主持大局遣人迎客",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg5",
+      "title": "凝躯立境",
+      "chapterStart": 1397,
+      "chapterEnd": 1604,
+      "situation": "入洞天秘境凝法躯立境，掌中现神雷，以术算辅佐族务惊动湖上",
+      "cultivationAt": "紫府一级的存在",
+      "visual": "双眸灿若明星，双手洁白如玉不似人属，掌心神雷闪烁",
+      "spoiler": true
+    }
+  ]
+}

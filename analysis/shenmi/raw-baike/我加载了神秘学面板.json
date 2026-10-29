@@ -1,0 +1,94 @@
+{
+ "id": 36680293,
+ "subLemmaId": 41266279,
+ "newLemmaId": 67935647,
+ "key": "我加载了神秘学面板",
+ "desc": "雨中有秋云所著小说",
+ "title": "我加载了神秘学面板",
+ "card": [
+  {
+   "key": "m151_name",
+   "name": "中文名",
+   "value": [
+    "我加载了神秘学面板"
+   ],
+   "format": [
+    "我加载了神秘学面板"
+   ]
+  },
+  {
+   "key": "m151_author",
+   "name": "作者",
+   "value": [
+    "雨中有秋云"
+   ],
+   "format": [
+    "雨中有秋云"
+   ]
+  },
+  {
+   "key": "m151_language",
+   "name": "语言",
+   "value": [
+    "中文"
+   ],
+   "format": [
+    "中文"
+   ]
+  },
+  {
+   "key": "m151_platform",
+   "name": "连载平台",
+   "value": [
+    "起点中文网"
+   ],
+   "format": [
+    "起点中文网"
+   ]
+  },
+  {
+   "key": "m151_state",
+   "name": "连载状态",
+   "value": [
+    "连载中"
+   ],
+   "format": [
+    "连载中"
+   ]
+  },
+  {
+   "key": "m151_publish",
+   "name": "是否出版",
+   "value": [
+    "否"
+   ],
+   "format": [
+    "否"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/f7246b600c338744ebf817437552cef9d72a60590ac5?x-bce-process=image/format,f_auto",
+ "src": "f7246b600c338744ebf817437552cef9d72a60590ac5",
+ "imageHeight": 800,
+ "imageWidth": 600,
+ "isSummaryPic": "y",
+ "abstract": "《我加载了神秘学面板》是一本连载于起点中文网的小说，作者是雨中有秋云。",
+ "moduleIds": [
+  7043739680
+ ],
+ "url": "http://baike.baidu.com/item/%E6%88%91%E5%8A%A0%E8%BD%BD%E4%BA%86%E7%A5%9E%E7%A7%98%E5%AD%A6%E9%9D%A2%E6%9D%BF",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%88%91%E5%8A%A0%E8%BD%BD%E4%BA%86%E7%A5%9E%E7%A7%98%E5%AD%A6%E9%9D%A2%E6%9D%BF",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E6%88%91%E5%8A%A0%E8%BD%BD%E4%BA%86%E7%A5%9E%E7%A7%98%E5%AD%A6%E9%9D%A2%E6%9D%BF#1'>作品简介</a>",
+  "<a href='http://baike.baidu.com/item/%E6%88%91%E5%8A%A0%E8%BD%BD%E4%BA%86%E7%A5%9E%E7%A7%98%E5%AD%A6%E9%9D%A2%E6%9D%BF#2'>章节目录</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%88%91%E5%8A%A0%E8%BD%BD%E4%BA%86%E7%A5%9E%E7%A7%98%E5%AD%A6%E9%9D%A2%E6%9D%BF#1'>作品简介</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%88%91%E5%8A%A0%E8%BD%BD%E4%BA%86%E7%A5%9E%E7%A7%98%E5%AD%A6%E9%9D%A2%E6%9D%BF#2'>章节目录</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

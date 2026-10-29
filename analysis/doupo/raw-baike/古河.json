@@ -1,0 +1,84 @@
+{
+ "id": 6863192,
+ "subLemmaId": 6997564,
+ "newLemmaId": 10373146,
+ "key": "古河",
+ "desc": "日本关东地区茨城县西端的市",
+ "title": "古河市",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "古河市"
+   ],
+   "format": [
+    "古河市"
+   ]
+  },
+  {
+   "key": "m25_nameE",
+   "name": "外文名",
+   "value": [
+    "こがし"
+   ],
+   "format": [
+    "こがし"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "设立时间",
+   "value": [
+    "2005年9月12日"
+   ],
+   "format": [
+    "2005年9月12日"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "人口数",
+   "value": [
+    "约14.4万人"
+   ],
+   "format": [
+    "约14.4万人"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/1f178a82b9014a90f8319d6ca1773912b21beed0?x-bce-process=image/format,f_auto",
+ "src": "1f178a82b9014a90f8319d6ca1773912b21beed0",
+ "imageHeight": 768,
+ "imageWidth": 1024,
+ "isSummaryPic": "y",
+ "abstract": "古河市是日本茨城县西端的市级行政区，地处关东内陆地区，2005年9月12日由原古河市、总和町及三和町合并设立，面积123.58平方公里，人口约14.4万。属内陆型气候，夏季高温、冬季寒冷，曾观测到日最高气温39.5°C。该市以制造业为特色，积水化成品工业的泡沫树脂生产构成其企业镇模式核心，2011年日野汽车耗资500-600亿日元将总厂迁入，建成66万平方米生产基地。市内设有NHK国际广播电台发射站，覆盖亚洲及大洋洲地区。教育体系涵盖多所初高中及小学，历史遗迹包括古河城遗址、雀神社等，并与中国三河市等四地缔结友好城市关系。2019年10月，以市长针谷力为团长的古河市友好交流团访问中国三河市，正值两市成为国际友好交流城市二十周年，双方签订了友好往来协议书。",
+ "moduleIds": [
+  7055847564,
+  7055847565,
+  3578629962
+ ],
+ "url": "http://baike.baidu.com/subview/6863192/6997564.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%8F%A4%E6%B2%B3%E5%B8%82/10373146",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/6863192.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/6863192/6997564.htm#1'>历史沿革</a>",
+  "<a href='http://baike.baidu.com/subview/6863192/6997564.htm#2'>城市介绍</a>",
+  "<a href='http://baike.baidu.com/subview/6863192/6997564.htm#3'>气候概况</a>",
+  "<a href='http://baike.baidu.com/subview/6863192/6997564.htm#4'>行政区划</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%A4%E6%B2%B3%E5%B8%82/10373146#1'>历史沿革</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%A4%E6%B2%B3%E5%B8%82/10373146#2'>城市介绍</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%A4%E6%B2%B3%E5%B8%82/10373146#3'>气候概况</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%8F%A4%E6%B2%B3%E5%B8%82/10373146#4'>行政区划</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": {
+  "from": "古河",
+  "to": "古河市"
+ }
+}

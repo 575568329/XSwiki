@@ -1,0 +1,84 @@
+{
+ "id": 33656317,
+ "subLemmaId": 37233418,
+ "newLemmaId": 63071722,
+ "key": "巴德海尔",
+ "desc": "小说《诡秘之主》中的角色之一",
+ "title": "巴德海尔",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "巴德海尔"
+   ],
+   "format": [
+    "巴德海尔"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "晨曦之神、战神"
+   ],
+   "format": [
+    "晨曦之神、战神"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "种族",
+   "value": [
+    "巨人"
+   ],
+   "format": [
+    "巨人"
+   ]
+  }
+ ],
+ "imageHeight": null,
+ "imageWidth": null,
+ "isSummaryPic": "n",
+ "abstract": "巴德海尔是爱潜水的乌贼所著小说《诡秘之主》中的虚拟角色，巨人王奥尔米尔长子，被称为“晨曦之神”及“战神”，属巨人种族，其名称可能参考北欧神话元素。形象表现为身着重甲的战士，神话形态为青黑虬结的独眼巨人，圣徽包含黄昏符号与剑型标志。巴德海尔在第二纪继承巨人王权柄登临神位，第三纪末参与黑夜女神组建的救赎蔷薇组织刺杀远古太阳神。第四纪与六神结盟成为七大正神之一，终结苍白之灾。第五纪因黑夜女神与大地母神联手暗算而陨落，其教会大牧首疑似留有复活后手。该角色所属序列途径为“黄昏巨人”，涵盖战士至神明之手的晋升体系，最终在神战中被黑夜女神与大地母神联手暗算而陨落。",
+ "moduleIds": [],
+ "url": "http://baike.baidu.com/item/%E5%B7%B4%E5%BE%B7%E6%B5%B7%E5%B0%94",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%B7%B4%E5%BE%B7%E6%B5%B7%E5%B0%94",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E5%B7%B4%E5%BE%B7%E6%B5%B7%E5%B0%94#1'>创作背景</a>",
+  "<a href='http://baike.baidu.com/item/%E5%B7%B4%E5%BE%B7%E6%B5%B7%E5%B0%94#2'>角色形象</a>",
+  "<a href='http://baike.baidu.com/item/%E5%B7%B4%E5%BE%B7%E6%B5%B7%E5%B0%94#3'>角色经历</a>",
+  "<a href='http://baike.baidu.com/item/%E5%B7%B4%E5%BE%B7%E6%B5%B7%E5%B0%94#4'>人物关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%B7%B4%E5%BE%B7%E6%B5%B7%E5%B0%94#1'>创作背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%B7%B4%E5%BE%B7%E6%B5%B7%E5%B0%94#2'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%B7%B4%E5%BE%B7%E6%B5%B7%E5%B0%94#3'>角色经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%B7%B4%E5%BE%B7%E6%B5%B7%E5%B0%94#4'>人物关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

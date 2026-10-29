@@ -1,0 +1,99 @@
+{
+ "id": 34418991,
+ "subLemmaId": 38303094,
+ "newLemmaId": 64491396,
+ "key": "生命学派",
+ "desc": "《诡秘之主》中掌握怪物途径的隐秘组织",
+ "title": "生命学派",
+ "card": [
+  {
+   "key": "m233_customDefault",
+   "name": "所属作品",
+   "value": [
+    "《诡秘之主》"
+   ],
+   "format": [
+    "《诡秘之主》"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "成立时间",
+   "value": [
+    "第五纪初期"
+   ],
+   "format": [
+    "第五纪初期"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "领导结构",
+   "value": [
+    "命运议会（七议员制）"
+   ],
+   "format": [
+    "命运议会（七议员制）"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "核心能力",
+   "value": [
+    "怪物途径序列能力"
+   ],
+   "format": [
+    "怪物途径序列能力"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "分裂事件",
+   "value": [
+    "月亮派系与命运派系冲突"
+   ],
+   "format": [
+    "月亮派系与命运派系冲突"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "敌对势力",
+   "value": [
+    "玫瑰学派"
+   ],
+   "format": [
+    "玫瑰学派"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/37d12f2eb9389b504fc20b3c086ef2dde71190efc013?x-bce-process=image/format,f_auto",
+ "src": "37d12f2eb9389b504fc20b3c086ef2dde71190efc013",
+ "imageHeight": 1080,
+ "imageWidth": 1920,
+ "isSummaryPic": "y",
+ "abstract": "生命学派是小说《诡秘之主》世界观中的隐秘组织，第五纪初期由信奉命运绝对理性的非凡者与崇拜原始月亮的灵性信徒联合成立。该组织采用师徒传承制度，最高决策机构为由七位议员组成的\"命运议会\"，完整掌握\"怪物途径\"序列并持有部分\"药师途径\"知识。其成员擅长占星术，主张通过药物、音乐、光、酒与芳香等手段调和灵魂以消除灾祸。因议长威尔·昂赛汀失踪导致内部派系分裂，信仰原始月亮的派系被玫瑰学派利用后遭受重创。",
+ "moduleIds": [
+  6331885515
+ ],
+ "url": "http://baike.baidu.com/item/%E7%94%9F%E5%91%BD%E5%AD%A6%E6%B4%BE/64491396",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%94%9F%E5%91%BD%E5%AD%A6%E6%B4%BE/64491396",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/34418991.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E7%94%9F%E5%91%BD%E5%AD%A6%E6%B4%BE/64491396#1'>组织架构</a>",
+  "<a href='http://baike.baidu.com/item/%E7%94%9F%E5%91%BD%E5%AD%A6%E6%B4%BE/64491396#2'>非凡途径体系</a>",
+  "<a href='http://baike.baidu.com/item/%E7%94%9F%E5%91%BD%E5%AD%A6%E6%B4%BE/64491396#3'>世界观认知</a>",
+  "<a href='http://baike.baidu.com/item/%E7%94%9F%E5%91%BD%E5%AD%A6%E6%B4%BE/64491396#4'>分裂与衰落</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E7%94%9F%E5%91%BD%E5%AD%A6%E6%B4%BE/64491396#1'>组织架构</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%94%9F%E5%91%BD%E5%AD%A6%E6%B4%BE/64491396#2'>非凡途径体系</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%94%9F%E5%91%BD%E5%AD%A6%E6%B4%BE/64491396#3'>世界观认知</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%94%9F%E5%91%BD%E5%AD%A6%E6%B4%BE/64491396#4'>分裂与衰落</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

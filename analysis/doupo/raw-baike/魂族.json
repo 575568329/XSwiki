@@ -1,0 +1,100 @@
+{
+ "id": 5611014,
+ "subLemmaId": 5653085,
+ "newLemmaId": 826298,
+ "key": "魂族",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中远古八族之一",
+ "title": "魂族",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "魂族"
+   ],
+   "format": [
+    "魂族"
+   ]
+  },
+  {
+   "key": "m25_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "玄幻小说《斗破苍穹》及其衍生作品"
+   ],
+   "format": [
+    "玄幻小说《斗破苍穹》及其衍生作品"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "族长",
+   "value": [
+    "<a target=_blank href=\"/item/%E9%AD%82%E5%A4%A9%E5%B8%9D/7113642\" data-lemmaid=\"7113642\">魂天帝</a><sup>21</sup><a name=\"ref_21\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E9%AD%82%E5%A4%A9%E5%B8%9D/7113642\" data-lemmaid=\"7113642\">魂天帝</a><sup>21</sup><a name=\"ref_21\"></a>"
+   ]
+  },
+  {
+   "key": "m25_institutionType",
+   "name": "性质",
+   "value": [
+    "远古斗帝种族<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "远古斗帝种族<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "斗帝血脉",
+   "value": [
+    "魂帝血脉<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "魂帝血脉<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "拥有异火",
+   "value": [
+    "虚无吞炎<sup>21</sup><a name=\"ref_21\"></a>"
+   ],
+   "format": [
+    "虚无吞炎<sup>21</sup><a name=\"ref_21\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/cc11728b4710b912c8fcc1f36eabeb039245d688843a?x-bce-process=image/format,f_auto",
+ "src": "cc11728b4710b912c8fcc1f36eabeb039245d688843a",
+ "imageHeight": 388,
+ "imageWidth": 588,
+ "isSummaryPic": "y",
+ "abstract": "魂族，是天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的族群，远古八族之一，是斗气大陆上实力最强的势力，魂天帝晋升斗帝前拥有两位九星斗圣以及上百名斗圣强者（能以一己之力对抗三大远古种族和天府联盟的联手）。魂族因虚无吞炎吞噬了吞灵族的末代族长，从而拥有吞噬其他种族血脉之力的能力，使得魂族数万年来斗帝血脉一直延绵不绝，从未衰落。魂族拥有称霸斗气大陆的野心，为此将其他七族视作障碍。",
+ "moduleIds": [
+  4664710615,
+  5632703005
+ ],
+ "url": "http://baike.baidu.com/subview/5611014/5653085.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%AD%82%E6%97%8F/826298",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/5611014.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/5611014/5653085.htm#1'>组织成员</a>",
+  "<a href='http://baike.baidu.com/subview/5611014/5653085.htm#2'>组织经历</a>",
+  "<a href='http://baike.baidu.com/subview/5611014/5653085.htm#3'>组织文化</a>",
+  "<a href='http://baike.baidu.com/subview/5611014/5653085.htm#4'>组织关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%82%E6%97%8F/826298#1'>组织成员</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%82%E6%97%8F/826298#2'>组织经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%82%E6%97%8F/826298#3'>组织文化</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%82%E6%97%8F/826298#4'>组织关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

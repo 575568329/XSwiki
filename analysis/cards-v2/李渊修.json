@@ -1,0 +1,50 @@
+{
+  "name": "李渊修",
+  "oneLiner": "李玄宣嫡长子、望月李氏少家主，少年代父持家精明强硬，陨落于大世相争",
+  "toProtagonist": "李玄宣嫡长子，父闭关时代掌李家的少家主，经手李家实控东山越的诸般事务",
+  "visualLine": "怯生生的男童，望人拘谨，爱抱长辈大腿、伸手抓剑鞘",
+  "role": "support",
+  "cultivation": "",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "嫡长出生",
+      "chapterStart": 101,
+      "chapterEnd": 129,
+      "situation": "李玄宣为其取名，三岁拜见李通崖，抱其大腿抓剑鞘",
+      "cultivationAt": "-",
+      "visual": "怯生生的男童，伸手抓叔祖父的剑鞘",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "少主持家",
+      "chapterStart": 160,
+      "chapterEnd": 165,
+      "situation": "父闭关后代掌家事查处族务，审山越王子被视为东人王国继承人",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "折冲山越",
+      "chapterStart": 171,
+      "chapterEnd": 194,
+      "situation": "主理族正院，接山越使者续姻亲，入王宫扶赏李妃若、压服族亲",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "大世陨落",
+      "chapterStart": 1448,
+      "chapterEnd": 1448,
+      "situation": "后人提及大伯李渊修已陨落，引为李家大世相争之憾",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": true
+    }
+  ]
+}

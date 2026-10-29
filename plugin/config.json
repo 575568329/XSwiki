@@ -1,0 +1,4 @@
+{
+  "dataServer": "http://101.201.107.139:8300",
+  "checkTtlMin": 30
+}

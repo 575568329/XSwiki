@@ -1,0 +1,96 @@
+{
+ "id": 5124670,
+ "subLemmaId": 5150651,
+ "newLemmaId": 4050988,
+ "key": "金帝焚天炎",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的异火",
+ "title": "金帝焚天炎",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "金帝焚天炎"
+   ],
+   "format": [
+    "金帝焚天炎"
+   ]
+  },
+  {
+   "key": "m233_source",
+   "name": "出处",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "异火榜排行",
+   "value": [
+    "第四"
+   ],
+   "format": [
+    "第四"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "颜色",
+   "value": [
+    "金色"
+   ],
+   "format": [
+    "金色"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "收服者",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%90%A7%E8%96%B0%E5%84%BF/7534550\" data-lemmaid=\"7534550\">萧薰儿</a>、<a target=_blank href=\"/item/%E8%90%A7%E7%82%8E/5808896\" data-lemmaid=\"5808896\">萧炎</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%90%A7%E8%96%B0%E5%84%BF/7534550\" data-lemmaid=\"7534550\">萧薰儿</a>、<a target=_blank href=\"/item/%E8%90%A7%E7%82%8E/5808896\" data-lemmaid=\"5808896\">萧炎</a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "所属势力",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%8F%A4%E6%97%8F/10698285\" data-lemmaid=\"10698285\">古族</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%8F%A4%E6%97%8F/10698285\" data-lemmaid=\"10698285\">古族</a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/8435e5dde71190ef76c67a175a478a16fdfaae51cafc?x-bce-process=image/format,f_auto",
+ "src": "8435e5dde71190ef76c67a175a478a16fdfaae51cafc",
+ "imageHeight": 888,
+ "imageWidth": 636,
+ "isSummaryPic": "y",
+ "abstract": "金帝焚天炎，天蚕土豆所著玄幻小说《斗破苍穹》中的异火，在异火榜排名第四，为古族传承之火，通体呈金色，能燃烧斗气，传说其第一任主人曾用此火将斗圣创造的空间烧为虚无。该异火由古族赋予萧薰儿，最终随剧情发展被萧炎收服。",
+ "moduleIds": [
+  6861480793
+ ],
+ "url": "http://baike.baidu.com/view/5124670.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%87%91%E5%B8%9D%E7%84%9A%E5%A4%A9%E7%82%8E/4050988",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/5124670.htm#1'>背景设定</a>",
+  "<a href='http://baike.baidu.com/view/5124670.htm#2'>出处</a>",
+  "<a href='http://baike.baidu.com/view/5124670.htm#3'>收服者</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%87%91%E5%B8%9D%E7%84%9A%E5%A4%A9%E7%82%8E/4050988#1'>背景设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%87%91%E5%B8%9D%E7%84%9A%E5%A4%A9%E7%82%8E/4050988#2'>出处</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%87%91%E5%B8%9D%E7%84%9A%E5%A4%A9%E7%82%8E/4050988#3'>收服者</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

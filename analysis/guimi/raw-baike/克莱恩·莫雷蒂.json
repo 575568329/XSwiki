@@ -1,0 +1,155 @@
+{
+ "id": 21846869,
+ "subLemmaId": 23754825,
+ "newLemmaId": 23200273,
+ "key": "克莱恩·莫雷蒂",
+ "desc": "爱潜水的乌贼所著网络小说《诡秘之主》及其衍生作品中的神灵",
+ "title": "克莱恩·莫雷蒂",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "<b>周明瑞</b>"
+   ],
+   "format": [
+    "<b>周明瑞</b>"
+   ]
+  },
+  {
+   "key": "m25_nameE",
+   "name": "外文名",
+   "value": [
+    "Klein Moretti"
+   ],
+   "format": [
+    "Klein Moretti"
+   ]
+  },
+  {
+   "key": "m25_alternateName",
+   "name": "别名",
+   "value": [
+    "小克、克怂、克总、克喵、从心之人、愚者、穷神、盥洗室之主、套娃之主、二五仔之主、举报之主、报销之主、猫猫虫"
+   ],
+   "format": [
+    "小克、克怂、克总、克喵、从心之人、愚者、穷神、盥洗室之主、套娃之主、二五仔之主、举报之主、报销之主、猫猫虫"
+   ]
+  },
+  {
+   "key": "m25_dubber",
+   "name": "配音",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%90%B4%E7%A3%8A/9868940\" data-lemmaid=\"9868940\">吴磊</a>(诡秘之主官方漫画、官方卡牌)、<a target=_blank href=\"/item/%E9%87%91%E5%BC%A6/7321333\" data-lemmaid=\"7321333\">金弦</a>(官方广播剧)、<a target=_blank href=\"/item/%E5%94%90%E5%AD%90%E6%99%B0/63708965\" data-lemmaid=\"63708965\">唐子晰</a>(有声书)、Joshua Waters(TV英配)<sup>27</sup><a name=\"ref_27\"></a>、<a target=_blank href=\"/item/%E6%9D%A8%E5%87%AF%E7%A5%BA/62118645\" data-lemmaid=\"62118645\">杨凯祺</a>(诡秘之主动画、王者荣耀联动配音)"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%90%B4%E7%A3%8A/9868940\" data-lemmaid=\"9868940\">吴磊</a>(诡秘之主官方漫画、官方卡牌)、<a target=_blank href=\"/item/%E9%87%91%E5%BC%A6/7321333\" data-lemmaid=\"7321333\">金弦</a>(官方广播剧)、<a target=_blank href=\"/item/%E5%94%90%E5%AD%90%E6%99%B0/63708965\" data-lemmaid=\"63708965\">唐子晰</a>(有声书)、Joshua Waters(TV英配)<sup>27</sup><a name=\"ref_27\"></a>、<a target=_blank href=\"/item/%E6%9D%A8%E5%87%AF%E7%A5%BA/62118645\" data-lemmaid=\"62118645\">杨凯祺</a>(诡秘之主动画、王者荣耀联动配音)"
+   ]
+  },
+  {
+   "key": "m25_gender",
+   "name": "性别",
+   "value": [
+    "男（序列2以后没有严格意义的性别）"
+   ],
+   "format": [
+    "男（序列2以后没有严格意义的性别）"
+   ]
+  },
+  {
+   "key": "m25_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>",
+    "<a target=_blank href=\"/item/%E5%AE%BF%E5%91%BD%E4%B9%8B%E7%8E%AF/62709706\" data-lemmaid=\"62709706\">宿命之环</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>",
+    "<a target=_blank href=\"/item/%E5%AE%BF%E5%91%BD%E4%B9%8B%E7%8E%AF/62709706\" data-lemmaid=\"62709706\">宿命之环</a>"
+   ]
+  },
+  {
+   "key": "m25_birthday",
+   "name": "生日",
+   "value": [
+    "3月4日(周明瑞与克莱恩生日一致)"
+   ],
+   "format": [
+    "3月4日(周明瑞与克莱恩生日一致)"
+   ]
+  },
+  {
+   "key": "m25_bodyHeight",
+   "name": "身高",
+   "value": [
+    "172cm→180cm（晋升天使后）"
+   ],
+   "format": [
+    "172cm→180cm（晋升天使后）"
+   ]
+  },
+  {
+   "key": "m25_bodyWeight",
+   "name": "体重",
+   "value": [
+    "偏瘦"
+   ],
+   "format": [
+    "偏瘦"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "信仰",
+   "value": [
+    "<a target=_blank href=\"/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E/62027707\" data-lemmaid=\"62027707\">黑夜女神</a>、自己"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E9%BB%91%E5%A4%9C%E5%A5%B3%E7%A5%9E/62027707\" data-lemmaid=\"62027707\">黑夜女神</a>、自己"
+   ]
+  },
+  {
+   "key": "m25_birthPlace",
+   "name": "出生地",
+   "value": [
+    "中国偏西南地域、鲁恩王国阿霍瓦郡廷根市"
+   ],
+   "format": [
+    "中国偏西南地域、鲁恩王国阿霍瓦郡廷根市"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/aec379310a55b319ebc4d569c3ff9526cffc1e17b92b?x-bce-process=image/format,f_auto",
+ "src": "aec379310a55b319ebc4d569c3ff9526cffc1e17b92b",
+ "imageHeight": 2422,
+ "imageWidth": 1080,
+ "isSummaryPic": "y",
+ "abstract": "克莱恩·莫雷蒂（Klein Moretti，本名周明瑞），爱潜水的乌贼所著网络小说《诡秘之主》及其衍生作品中的主角，途径为愚者，拥有“黑皇帝”夏洛克·莫里亚蒂、“世界”格尔曼·斯帕罗等身份，尊名包括“不属于这个时代的愚者，灰雾之上的神秘主宰，执掌好运的黄黑之王”。官方广播剧中由金弦配音，有声小说中由唐子晰配音。克莱恩·莫雷蒂出生于鲁恩王国廷根市，毕业于霍伊大学历史系，性格谨慎严谨，乐善好施。曾任廷根值夜者小队队员，因卷入封印物“0-08”计划被因斯·赞格威尔杀害后借助灰雾复活，创立塔罗会并代号“愚者”。晋升序列6“无面人”后获得改变容貌能力，破坏极光会“真实造物主”降临仪式时拖延A先生至“0-17”来援，拯救贝克兰德数十万生命。遭遇阿蒙追杀时躲入《格罗塞尔游记》，被亚当揭露其为“源堡”第三苏醒者后借助阿里安娜的“隐秘”逃脱。克莱恩发现穿越真相后通过安提哥努斯家族笔记占卜获得“奇迹师”魔药配...",
+ "moduleIds": [
+  7121240598,
+  7121240609,
+  5580825612,
+  5808033510,
+  5808033512
+ ],
+ "url": "http://baike.baidu.com/item/%E5%85%8B%E8%8E%B1%E6%81%A9%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82/23200273",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%85%8B%E8%8E%B1%E6%81%A9%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82/23200273",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/21846869.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E5%85%8B%E8%8E%B1%E6%81%A9%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82/23200273#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/item/%E5%85%8B%E8%8E%B1%E6%81%A9%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82/23200273#2'>角色生活</a>",
+  "<a href='http://baike.baidu.com/item/%E5%85%8B%E8%8E%B1%E6%81%A9%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82/23200273#3'>角色能力</a>",
+  "<a href='http://baike.baidu.com/item/%E5%85%8B%E8%8E%B1%E6%81%A9%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82/23200273#4'>经历（诡秘之主）</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%85%8B%E8%8E%B1%E6%81%A9%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82/23200273#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%85%8B%E8%8E%B1%E6%81%A9%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82/23200273#2'>角色生活</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%85%8B%E8%8E%B1%E6%81%A9%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82/23200273#3'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%85%8B%E8%8E%B1%E6%81%A9%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82/23200273#4'>经历（诡秘之主）</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

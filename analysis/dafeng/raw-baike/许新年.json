@@ -1,0 +1,90 @@
+{
+ "id": 29564953,
+ "subLemmaId": 32012664,
+ "newLemmaId": 56577299,
+ "key": "许新年",
+ "desc": "小说《大奉打更人》中的角色",
+ "title": "许新年",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "许新年"
+   ],
+   "format": [
+    "许新年"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "许辞旧、许二郎"
+   ],
+   "format": [
+    "许辞旧、许二郎"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA/24672309\" data-lemmaid=\"24672309\">大奉打更人</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA/24672309\" data-lemmaid=\"24672309\">大奉打更人</a>"
+   ]
+  },
+  {
+   "key": "m47_age",
+   "name": "年龄",
+   "value": [
+    "18~20"
+   ],
+   "format": [
+    "18~20"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/472309f790529822720ebcdca29b6ccb0a46f21f7e28?x-bce-process=image/format,f_auto",
+ "src": "472309f790529822720ebcdca29b6ccb0a46f21f7e28",
+ "imageHeight": 1260,
+ "imageWidth": 1080,
+ "isSummaryPic": "y",
+ "abstract": "许新年，别名许辞旧、许二郎，是网络小说《大奉打更人》及其衍生作品中的角色，性别男，年龄18至20岁。作为许七安的堂弟，他出身云鹿书院，师从张慎专修兵法，性格傲娇毒舌，擅长策论却疏于诗词。因税银案牵连被革除功名，一度试图自尽后被救，在许七安协助下考取会元，与首辅之女王思慕相恋订婚。后参与平定云州叛乱立下战功，突破至儒家六品儒生境，最终与王思慕成婚并育有子嗣。许新年自幼天资聪颖，因外貌俊美常被称道。其命运转折始于税银案后的功名革除，经家族支持重获新生。随军出征期间展现军事才能，并在浔州城战役中实现修为突破。大劫平息后回归平静生活，完成婚姻大事。",
+ "moduleIds": [
+  5651238357,
+  5997203453
+ ],
+ "url": "http://baike.baidu.com/item/%E8%AE%B8%E6%96%B0%E5%B9%B4/56577299",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%AE%B8%E6%96%B0%E5%B9%B4/56577299",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/29564953.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E8%AE%B8%E6%96%B0%E5%B9%B4/56577299#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/item/%E8%AE%B8%E6%96%B0%E5%B9%B4/56577299#2'>角色形象</a>",
+  "<a href='http://baike.baidu.com/item/%E8%AE%B8%E6%96%B0%E5%B9%B4/56577299#3'>角色能力</a>",
+  "<a href='http://baike.baidu.com/item/%E8%AE%B8%E6%96%B0%E5%B9%B4/56577299#4'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%AE%B8%E6%96%B0%E5%B9%B4/56577299#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%AE%B8%E6%96%B0%E5%B9%B4/56577299#2'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%AE%B8%E6%96%B0%E5%B9%B4/56577299#3'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%AE%B8%E6%96%B0%E5%B9%B4/56577299#4'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

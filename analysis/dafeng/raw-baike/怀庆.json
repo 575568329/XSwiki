@@ -1,0 +1,94 @@
+{
+ "id": 810296,
+ "subLemmaId": 810296,
+ "newLemmaId": 1891429,
+ "key": "怀庆",
+ "desc": "明清行政区划",
+ "title": "怀庆府",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "怀庆府"
+   ],
+   "format": [
+    "怀庆府"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "年代",
+   "value": [
+    "明清"
+   ],
+   "format": [
+    "明清"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "驻地",
+   "value": [
+    "府治<a target=_blank href=\"/item/%E6%B2%B3%E5%86%85%E5%8E%BF\">河内县</a>"
+   ],
+   "format": [
+    "府治<a target=_blank href=\"/item/%E6%B2%B3%E5%86%85%E5%8E%BF\">河内县</a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "位置",
+   "value": [
+    "河南焦作、济源和原阳县"
+   ],
+   "format": [
+    "河南焦作、济源和原阳县"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "成立时间",
+   "value": [
+    "1368年"
+   ],
+   "format": [
+    "1368年"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/d058ccbf6c81800a61388e40b03533fa838b479a?x-bce-process=image/format,f_auto",
+ "src": "d058ccbf6c81800a61388e40b03533fa838b479a",
+ "imageHeight": 537,
+ "imageWidth": 800,
+ "isSummaryPic": "y",
+ "abstract": "怀庆府为明清时期河南北部行政区划，府治河内县（今河南沁阳市）。明初辖五县，洪武十年（1377年）增为六县，清末扩至八县，辖境相当于今河南省焦作市、济源市和新乡市原阳县。东接卫辉府，南邻河南府，北连山西泽州府，地处太行山南麓，境内有沁水、丹水等河流流经。民国二年（1913年）废府改置沁阳县，属豫北道。其名源于元仁宗延祐六年（1319年）改怀孟路为怀庆路，因仁宗曾奉母居怀州并取“皇庆”之“庆”字得名。乾隆二十六年（1761年）遭遇特大洪水，城厢损毁民房十五六万间，淹毙千余人。民间流传元末明初“朱元璋血洗怀庆府”传说，但据《明史纪事本末》记载，明军攻克怀庆时未发生大规模屠戮。该地商业繁荣，怀商以经营“四大怀药”著称，并在多地建怀庆会馆。清嘉庆年间甘肃东乡人马六七曾在此学习牛肉面技艺，后经改良形成兰州牛肉面\"一清二白三绿四红五黄\"标准，成为该府重要饮食文化遗产。",
+ "moduleIds": [
+  4054453195,
+  4054453196,
+  4054453198
+ ],
+ "url": "http://baike.baidu.com/subview/810296/810296.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%80%80%E5%BA%86%E5%BA%9C/1891429",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/810296.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/810296/810296.htm#1'>历史沿革</a>",
+  "<a href='http://baike.baidu.com/subview/810296/810296.htm#2'>行政区划</a>",
+  "<a href='http://baike.baidu.com/subview/810296/810296.htm#3'>自然地理</a>",
+  "<a href='http://baike.baidu.com/subview/810296/810296.htm#4'>经济</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%80%80%E5%BA%86%E5%BA%9C/1891429#1'>历史沿革</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%80%80%E5%BA%86%E5%BA%9C/1891429#2'>行政区划</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%80%80%E5%BA%86%E5%BA%9C/1891429#3'>自然地理</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%80%80%E5%BA%86%E5%BA%9C/1891429#4'>经济</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": {
+  "from": "怀庆",
+  "to": "怀庆府"
+ }
+}

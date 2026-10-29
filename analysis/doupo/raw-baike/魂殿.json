@@ -1,0 +1,99 @@
+{
+ "id": 4575673,
+ "subLemmaId": 4575673,
+ "newLemmaId": 6210872,
+ "key": "魂殿",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的势力",
+ "title": "魂殿",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "魂殿"
+   ],
+   "format": [
+    "魂殿"
+   ]
+  },
+  {
+   "key": "m233_source",
+   "name": "出处",
+   "value": [
+    "玄幻小说《<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>》及其衍生作品<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "玄幻小说《<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>》及其衍生作品<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "殿主",
+   "value": [
+    "魂灭生<sup>10</sup><a name=\"ref_10\"></a>"
+   ],
+   "format": [
+    "魂灭生<sup>10</sup><a name=\"ref_10\"></a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "总部",
+   "value": [
+    "天罡殿之天殿<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "天罡殿之天殿<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "归属",
+   "value": [
+    "魂族"
+   ],
+   "format": [
+    "魂族"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "宗门任务",
+   "value": [
+    "搜集灵魂体<sup>11</sup><a name=\"ref_11\"></a>"
+   ],
+   "format": [
+    "搜集灵魂体<sup>11</sup><a name=\"ref_11\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/a8773912b31bb051f819b2d68b2ccdb44aed2f734a8c?x-bce-process=image/format,f_auto",
+ "src": "a8773912b31bb051f819b2d68b2ccdb44aed2f734a8c",
+ "imageHeight": 800,
+ "imageWidth": 1388,
+ "isSummaryPic": "y",
+ "abstract": "魂殿，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的组织，斗气大陆中州明面上最强大的势力（远古八族和太虚古龙族属于隐世势力），是远古八族之一魂族创建的附属势力。由于与主角萧炎有恩怨，遭到疯狂报复，现已覆灭。",
+ "moduleIds": [
+  5639070546,
+  7006086355
+ ],
+ "url": "http://baike.baidu.com/view/4575673.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%AD%82%E6%AE%BF/6210872",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/4575673.htm#1'>组织背景</a>",
+  "<a href='http://baike.baidu.com/view/4575673.htm#2'>组织经历</a>",
+  "<a href='http://baike.baidu.com/view/4575673.htm#3'>组织结构</a>",
+  "<a href='http://baike.baidu.com/view/4575673.htm#4'>组织成员</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%82%E6%AE%BF/6210872#1'>组织背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%82%E6%AE%BF/6210872#2'>组织经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%82%E6%AE%BF/6210872#3'>组织结构</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%82%E6%AE%BF/6210872#4'>组织成员</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

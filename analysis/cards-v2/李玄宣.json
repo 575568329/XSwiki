@@ -1,0 +1,60 @@
+{
+  "name": "李玄宣",
+  "oneLiner": "李家家主、玄字辈老长辈，遗腹子出身，持重精明，定族规、执族政、护李家香火。",
+  "toProtagonist": "仙鉴所寄李家的家主老长辈，执掌族政、申明族规，为李家主线护住传承与幼辈。",
+  "visualLine": "老年男性，捻须而行的李家老长辈，老脸常带凝重，标志物为御魔大斧。",
+  "role": "core",
+  "cultivation": "胎息五层（玉京轮）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "遗腹降世",
+      "chapterStart": 18,
+      "chapterEnd": 30,
+      "situation": "李长湖身死后的遗腹子，降生令祖父李木田重振精神；师从韩文许，聪明伶俐",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "协理族务",
+      "chapterStart": 94,
+      "chapterEnd": 340,
+      "situation": "长成管族中事务，李谢文相随辅助；已是胎息五层玉京轮，看家护族",
+      "cultivationAt": "胎息五层（玉京轮）",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "坊市御魔",
+      "chapterStart": 341,
+      "chapterEnd": 347,
+      "situation": "冠云峰坊市乱中，以瞳术秘法索价、大斧劈杀魔修负伤；归家毁魔功玉简嘱密存",
+      "cultivationAt": "胎息五层（玉京轮）",
+      "visual": "捻须而坐，持大斧",
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "定规持家",
+      "chapterStart": 582,
+      "chapterEnd": 815,
+      "situation": "深夜理族务，立嫡系凡人不得经商掌权之族规；定大宗子弟规约，被称家主",
+      "cultivationAt": "胎息五层（玉京轮）",
+      "visual": "老人之姿，捻须理事",
+      "spoiler": false
+    },
+    {
+      "id": "stg5",
+      "title": "憾恨而逝",
+      "chapterStart": 1443,
+      "chapterEnd": 1447,
+      "situation": "憾恨李氏两百年伤亡、恶蛟碾灭自家希望；周行辈长兄连丧后“失了老长辈李玄宣”",
+      "cultivationAt": "胎息五层（玉京轮）",
+      "visual": "老脸凝重，憾恨疲惫",
+      "spoiler": true
+    }
+  ]
+}

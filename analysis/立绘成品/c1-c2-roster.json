@@ -1,0 +1,460 @@
+{
+ "date": "2026-10-28",
+ "book": "guimizhizhu",
+ "gate1_merges": [
+  {
+   "keep": "meidiqi",
+   "keep_name": "梅迪奇",
+   "fold": "suolunaiyinhuoenmeidiqi",
+   "fold_name": "索伦·艾因霍恩·梅迪奇",
+   "keep_mentions": 1111,
+   "fold_mentions": 920,
+   "why": "identity 互证：索伦·艾因霍恩·梅迪奇=梅迪奇全名（同一牛顿·梅迪奇）"
+  }
+ ],
+ "gate1_rejected_pairs": [
+  {
+   "pair": "suoluomen / nasitesuoluomen",
+   "why": "证伪：所罗门=黑皇帝真神，纳斯特·所罗门=四王七将\"五海之王\"，两个实体"
+  },
+  {
+   "pair": "lanerwusi / ruierbibo",
+   "why": "证伪：途径/身份/外貌全不同"
+  },
+  {
+   "pair": "antigenusi / fuleigela",
+   "why": "证伪（2026-10-28 建档代理复核）：identity 字段截断误读，原文=\"祂是毁灭魔狼弗雷格拉的儿子\"；六处独立铁证为父子（幼子/古神之子/石像兄弟/后裔/天之母亲之父女/终章并列）。弗雷格拉回归池，但其零正面出场零外形描写，闸②预判挂起"
+  }
+ ],
+ "C1": [
+  {
+   "seq": 1,
+   "id": "boteliyabolahan",
+   "name": "伯特利·亚伯拉罕",
+   "mentions": 2951
+  },
+  {
+   "seq": 2,
+   "id": "antigenusi",
+   "name": "安提哥努斯",
+   "mentions": 2576
+  },
+  {
+   "seq": 3,
+   "id": "danizidibuwa",
+   "name": "达尼兹·迪布瓦",
+   "mentions": 2503
+  },
+  {
+   "seq": 4,
+   "id": "xiansheng",
+   "name": "A先生",
+   "mentions": 2439
+  },
+  {
+   "seq": 5,
+   "id": "yuangutaiyangshen",
+   "name": "远古太阳神",
+   "mentions": 2185
+  },
+  {
+   "seq": 6,
+   "id": "beiernadaigusitafu",
+   "name": "贝尔纳黛·古斯塔夫",
+   "mentions": 2156
+  },
+  {
+   "seq": 7,
+   "id": "maligaier",
+   "name": "玛丽·盖尔",
+   "mentions": 2058
+  },
+  {
+   "seq": 8,
+   "id": "lilisi",
+   "name": "莉莉丝",
+   "mentions": 1921
+  },
+  {
+   "seq": 9,
+   "id": "lanerwusi",
+   "name": "兰尔乌斯",
+   "mentions": 1737
+  },
+  {
+   "seq": 10,
+   "id": "telisi",
+   "name": "特莉丝",
+   "mentions": 1689
+  },
+  {
+   "seq": 11,
+   "id": "telunsuosite",
+   "name": "特伦索斯特",
+   "mentions": 1591
+  },
+  {
+   "seq": 12,
+   "id": "dailiximengni",
+   "name": "戴莉·西蒙妮",
+   "mentions": 1575
+  },
+  {
+   "seq": 13,
+   "id": "qiunasikeerge",
+   "name": "丘纳斯·科尔格",
+   "mentions": 1574
+  },
+  {
+   "seq": 14,
+   "id": "duoluomushen",
+   "name": "堕落母神",
+   "mentions": 1565
+  },
+  {
+   "seq": 15,
+   "id": "kelinyiliyate",
+   "name": "科林·伊利亚特",
+   "mentions": 1537
+  },
+  {
+   "seq": 16,
+   "id": "nasitesuoluomen",
+   "name": "纳斯特·所罗门",
+   "mentions": 1525
+  },
+  {
+   "seq": 17,
+   "id": "yougesisidiyanuo",
+   "name": "尤格斯·斯蒂亚诺",
+   "mentions": 1518
+  },
+  {
+   "seq": 18,
+   "id": "yuanshiyueliang",
+   "name": "原始月亮",
+   "mentions": 1446
+  },
+  {
+   "seq": 19,
+   "id": "geleijiali",
+   "name": "格蕾嘉莉",
+   "mentions": 1432
+  },
+  {
+   "seq": 20,
+   "id": "xiaerfugusitafu",
+   "name": "夏尔夫·古斯塔夫",
+   "mentions": 1354
+  },
+  {
+   "seq": 21,
+   "id": "xiatasi",
+   "name": "夏塔丝",
+   "mentions": 1349
+  },
+  {
+   "seq": 22,
+   "id": "sainiaoer",
+   "name": "塞尼奥尔",
+   "mentions": 1339
+  },
+  {
+   "seq": 23,
+   "id": "angeerweide",
+   "name": "安格尔威德",
+   "mentions": 1257
+  },
+  {
+   "seq": 24,
+   "id": "fulankeli",
+   "name": "弗兰克·李",
+   "mentions": 1256
+  },
+  {
+   "seq": 25,
+   "id": "weierangsaiting",
+   "name": "威尔·昂赛汀",
+   "mentions": 1255
+  },
+  {
+   "seq": 26,
+   "id": "fabuti",
+   "name": "法布提",
+   "mentions": 1232
+  },
+  {
+   "seq": 27,
+   "id": "aidewennaaidehuazi",
+   "name": "艾德雯娜·爱德华兹",
+   "mentions": 1167
+  }
+ ],
+ "C2": [
+  {
+   "seq": 1,
+   "id": "patelikebuleien",
+   "name": "帕特里克·布雷恩",
+   "mentions": 1122
+  },
+  {
+   "seq": 2,
+   "id": "meidiqi",
+   "name": "梅迪奇",
+   "mentions": 1111
+  },
+  {
+   "seq": 3,
+   "id": "ludeweier",
+   "name": "路德维尔",
+   "mentions": 1111
+  },
+  {
+   "seq": 4,
+   "id": "aoermier",
+   "name": "奥尔米尔",
+   "mentions": 1079
+  },
+  {
+   "seq": 5,
+   "id": "wuluoliusi",
+   "name": "乌洛琉斯",
+   "mentions": 1053
+  },
+  {
+   "seq": 6,
+   "id": "salingeer",
+   "name": "萨林格尔",
+   "mentions": 1015
+  },
+  {
+   "seq": 7,
+   "id": "luosage",
+   "name": "罗萨戈",
+   "mentions": 972
+  },
+  {
+   "seq": 8,
+   "id": "yuanchushangdi",
+   "name": "原初上帝",
+   "mentions": 962
+  },
+  {
+   "seq": 9,
+   "id": "sitefudezijue",
+   "name": "斯特福德子爵",
+   "mentions": 960
+  },
+  {
+   "seq": 10,
+   "id": "weierqimaigewen",
+   "name": "韦尔奇·麦格文",
+   "mentions": 942
+  },
+  {
+   "seq": 11,
+   "id": "yilishabai",
+   "name": "伊丽莎白",
+   "mentions": 941
+  },
+  {
+   "seq": 12,
+   "id": "suniyasuoliemu",
+   "name": "苏尼亚索列姆",
+   "mentions": 941
+  },
+  {
+   "seq": 13,
+   "id": "ruierbibo",
+   "name": "瑞尔·比伯",
+   "mentions": 920
+  },
+  {
+   "seq": 14,
+   "id": "yuwangmushu",
+   "name": "欲望母树",
+   "mentions": 914
+  },
+  {
+   "seq": 15,
+   "id": "jiesenbeiliya",
+   "name": "杰森·贝利亚",
+   "mentions": 911
+  },
+  {
+   "seq": 16,
+   "id": "suoluomen",
+   "name": "所罗门",
+   "mentions": 910
+  },
+  {
+   "seq": 17,
+   "id": "sailinnawude",
+   "name": "赛琳娜·伍德",
+   "mentions": 896
+  },
+  {
+   "seq": 18,
+   "id": "aoerniya",
+   "name": "奥尔尼娅",
+   "mentions": 893
+  },
+  {
+   "seq": 19,
+   "id": "geluosaier",
+   "name": "格罗塞尔",
+   "mentions": 891
+  },
+  {
+   "seq": 20,
+   "id": "shalun",
+   "name": "莎伦",
+   "mentions": 879
+  },
+  {
+   "seq": 21,
+   "id": "xilisiaruipisi",
+   "name": "西里斯·阿瑞匹斯",
+   "mentions": 868
+  },
+  {
+   "seq": 22,
+   "id": "pannadiya",
+   "name": "潘娜蒂亚",
+   "mentions": 863
+  },
+  {
+   "seq": 23,
+   "id": "gelaxisi",
+   "name": "格拉西斯",
+   "mentions": 842
+  },
+  {
+   "seq": 24,
+   "id": "ajialitu",
+   "name": "阿加里图",
+   "mentions": 831
+  },
+  {
+   "seq": 25,
+   "id": "xijiateang",
+   "name": "西迦·特昂",
+   "mentions": 825
+  },
+  {
+   "seq": 26,
+   "id": "hainasifansente",
+   "name": "海纳斯·凡森特",
+   "mentions": 803
+  },
+  {
+   "seq": 27,
+   "id": "hundunzhizi",
+   "name": "混沌之子",
+   "mentions": 800
+  }
+ ],
+ "gate1_notes": "安提哥努斯档案已双名覆盖（ analysis/着装档案/安提哥努斯-着装档案.md ），形态分开归档：弗雷格拉仅称号零外形。伯特利·亚伯拉罕闸②挂起（0 条人形描写，4 处现身皆非人形；wiki\"吸血鬼公爵\"口径出自续作）",
+ "gate2_suspended": [
+  {
+   "id": "boteliyabolahan",
+   "name": "伯特利·亚伯拉罕",
+   "why": "0 条人形描写，4 处现身皆非人形（光球/门构）；wiki 口径出自续作"
+  },
+  {
+   "id": "telunsuosite",
+   "name": "特伦索斯特",
+   "why": "夜皇=纯名号+史事，全书 0 处可视描写；wiki 外貌系续作二设"
+  },
+  {
+   "id": "yougesisidiyanuo",
+   "name": "尤格斯·斯蒂亚诺",
+   "why": "正神无形（与已放弃的蒸汽与机械之神同体，档案双名目互链）；wiki 游客化身口径出自续作"
+  },
+  {
+   "id": "yuanshiyueliang",
+   "name": "原始月亮",
+   "why": "同体合并：原始月亮=堕落母神在此世界的化身名（#1314/#1351/#1368/#1424 多处互训），并入堕落母神档案（异象构图），本卡挂起"
+  },
+  {
+   "id": "weierangsaiting",
+   "name": "威尔·昂赛汀",
+   "why": "全书无成年形态：第一任=左小腿截肢男孩（档案标注弃尸禁作素材），第二任=两岁幼童；命运之蛇为神话形态。不适合标准立绘，转人工（备选画法：幼童+银丝襁褓梦境契约画面）"
+  },
+  {
+   "id": "fabuti",
+   "name": "法布提",
+   "why": "恶魔君王（第二纪八古神）全书从未登场，6 处提及全是名录式，0 条形体描写；偏人形古神仅三位不含祂"
+  },
+  {
+   "id": "kelinyiliyate",
+   "name": "科林·伊利亚特",
+   "why": "5 轮上限：灰白络腮胡 4 连败（老年先验，魏渊同款）+ 剑出鞘 4 连败（身上转墙面仍在）。r4 图其余全过，人工选项=看图收货（有须+墙裸剑版）/放弃"
+  },
+  {
+   "id": "nasitesuoluomen",
+   "name": "纳斯特·所罗门",
+   "why": "5 轮上限：黑胡茬 3 次回潮（r2/r4/r5）+ 甲板船员剪影破独处红线（r5）。甲板场景 r4 起成立。人工选项=看 r4 版（nasitesuoluomen r4 已被 r5 覆盖，实际候选=r5 现图：无须青年+远景船员剪影）看图收货 / 放弃"
+  },
+  {
+   "id": "maligaier",
+   "name": "玛丽·盖尔",
+   "why": "4 轮上限：优雅美人脸+年龄回潮+坐姿复发四项恶化（r4 站姿合同反致全面回潮）。最接近版本=r2（骨相/年龄/雾面玻璃过，仅双脚不可见+伪字），人工选项=看 r2 图（已被 r3/r4 覆盖，需按 r2 提示词重出一张）看图收货 / 放弃"
+  },
+  {
+   "id": "lanerwusi",
+   "name": "兰尔乌斯",
+   "why": "5 轮上限：额发垂落遮额 5 连败（散发先验），其余 11 项全 pass（领巾马甲遮挡/无血渍/无吊灯均修复成立）。人工选项=看 r5 图（只差露额一项）大概率可收 / 放弃"
+  },
+  {
+   "id": "geleijiali",
+   "name": "格蕾嘉莉",
+   "why": "5 轮上限：双目睁闭振荡（r4 闭眼对/r5 睁金球回潮）+展翼收拢两轮不成。历史版本各有取舍（r4=闭眼对但翼裁；r5=翼全但睁眼）。人工选项=看 r5 图（苍白火羽巨鸟形完整，眼与翼与清单有偏差）/放弃"
+  },
+  {
+   "id": "sainiaoer",
+   "name": "塞尼奥尔",
+   "why": "5 轮上限：下巴山羊须 r1-r3 三连败（中文正写+英文负面词均无效）+髋部武器 r4/r5 两轮+占幅 r3-r5 三轮超限，多先验叠加振荡。人工选项=看 r5 图（唇上髭须对/装束对/瞳色对，败点=下巴须+髋刀柄+占幅）/放弃"
+  },
+  {
+   "id": "ludeweier",
+   "name": "路德维尔",
+   "why": "5 轮上限：眼洞橙黄/舷窗暖黄/占幅裁脚三先验振荡（苍白火焰 r2 曾成但 r3 回潮；英文负面词与几何锚均未压制），r5 面具另露半脸。人工选项=看 r5 图（构图氛围佳、败点为眼色/舷窗/占幅）/放弃"
+  },
+  {
+   "id": "sitefudezijue",
+   "name": "斯特福德子爵",
+   "why": "4 轮上限：灯具火苗经夜街(r1)/晨景(r3)/删马车(r4)三种场景策略换载体复发——维多利亚街景建筑灯具先验不可对抗，附双脚入画 4 轮连败。人工选项=看 r4 图（白假发/礼姿/门廊氛围佳，败点=建筑壁灯+门窗吊灯火苗+单脚）/放弃"
+  },
+  {
+   "id": "aoerniya",
+   "name": "奥尔尼娅",
+   "why": "血月女王/美神：全书 0 条具象描写（仅「美的象征」声望词），与莉莉丝/萨林格尔不同连一个可视化工件都没有，建档即通篇自创"
+  },
+  {
+   "id": "suoluomen",
+   "name": "所罗门（黑皇帝真神）",
+   "why": "本体视觉孤证（#514 王座逆光剪影）+ #1100 明文\"形象模糊不敢直视\"；wiki 黑发黑眼系二创口径 0 原文引用。与纳斯特·所罗门（另一人）严格切分"
+  },
+  {
+   "id": "shalun",
+   "name": "莎伦",
+   "why": "5 轮上限：裙摆遮脚 5 连败（坐姿/站姿/踝上守卫全试）+炉火入画。r5 图（无窗客厅站立人偶淑女，氛围佳）人工选项=看图收货（接受裙遮脚）/放弃"
+  },
+  {
+   "id": "geluosaier",
+   "name": "格罗塞尔",
+   "why": "4 轮上限：门板宽巨剑 4 连败（等宽锚/门板比喻/纯重摇骰全试）+毛皮覆盖摇摆（独眼锚 r4 恢复）。人工选项=看 r4 图（独眼/体量/憨厚俱佳，败点=剑窄+毛皮仅腰胯）/放弃"
+  },
+  {
+   "id": "yilishabai",
+   "name": "伊丽莎白",
+   "why": "4 轮上限：双轮马车+街灯构件经夜街/晨景/删车三策略换载体复发（双脚/行人/雾面玻璃 r4 全过）。人工选项=看 r4 图（少女形象佳，败点=背景马车+街灯暖黄）/放弃"
+  },
+  {
+   "id": "meidiqi",
+   "name": "梅迪奇",
+   "why": "5 轮上限：红发披散 3 连败（r4 发髻终成立）→金饰转移渗漏（r4 眼红同根因）+余烬偏艳。人工选项=看 r5 图（红天使形象佳：发髻/血印/暗瞳全对，败点=甲面金饰+两侧垂发搭肩）/放弃"
+  }
+ ]
+}

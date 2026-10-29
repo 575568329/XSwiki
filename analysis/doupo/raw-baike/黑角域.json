@@ -1,0 +1,85 @@
+{
+ "id": 8414971,
+ "subLemmaId": 8347090,
+ "newLemmaId": 10434211,
+ "key": "黑角域",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的地域",
+ "title": "黑角域",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "黑角域"
+   ],
+   "format": [
+    "黑角域"
+   ]
+  },
+  {
+   "key": "m233_source",
+   "name": "出处",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m233_type",
+   "name": "类型",
+   "value": [
+    "地域"
+   ],
+   "format": [
+    "地域"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "解释",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E6%B0%94%E5%A4%A7%E9%99%86/23391176\" data-lemmaid=\"23391176\">斗气大陆</a>中最为混乱的地方"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E6%B0%94%E5%A4%A7%E9%99%86/23391176\" data-lemmaid=\"23391176\">斗气大陆</a>中最为混乱的地方"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/8601a18b87d6277f9e2f6cb1ba610830e924b99956ba?x-bce-process=image/format,f_auto",
+ "src": "8601a18b87d6277f9e2f6cb1ba610830e924b99956ba",
+ "imageHeight": 736,
+ "imageWidth": 1104,
+ "isSummaryPic": "y",
+ "abstract": "黑角域是天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的地域，位于西北大陆，因特殊地形成为该区域最混乱之地。此地聚集逃亡强者，以弱肉强食为唯一法则，无任何法律道德约束，女性生存者往往具备更强危险性。黑角域作为西北大陆情报交叉点，每日流通大量信息，同时汇聚高阶功法、斗技、丹药等稀缺资源，其拍卖场曾有地阶功法现世。该地域中心毗邻迦南学院，学院周边划定和平区域，违反者会被悬挂于死灵树示众，历史上曾有斗王、斗皇级强者尸体被悬挂于此。区域内包含黑印城、枫城、黑皇城等主要城市，其中枫城为药皇韩枫势力据点，和平镇为进入迦南学院前哨站，通过死灵树威慑维持秩序。",
+ "moduleIds": [
+  3261524714,
+  3261524715,
+  3261524716,
+  3261524718,
+  5528668186,
+  6571840676,
+  5650776110,
+  5650776111
+ ],
+ "url": "http://baike.baidu.com/view/8414971.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%BB%91%E8%A7%92%E5%9F%9F/10434211",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/8414971.htm#1'>背景设定</a>",
+  "<a href='http://baike.baidu.com/view/8414971.htm#2'>黑角域黑榜</a>",
+  "<a href='http://baike.baidu.com/view/8414971.htm#3'>黑角域城市</a>",
+  "<a href='http://baike.baidu.com/view/8414971.htm#4'>影响</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%91%E8%A7%92%E5%9F%9F/10434211#1'>背景设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%91%E8%A7%92%E5%9F%9F/10434211#2'>黑角域黑榜</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%91%E8%A7%92%E5%9F%9F/10434211#3'>黑角域城市</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%91%E8%A7%92%E5%9F%9F/10434211#4'>影响</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

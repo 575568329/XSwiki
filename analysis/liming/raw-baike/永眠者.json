@@ -1,0 +1,52 @@
+{
+ "id": 34025225,
+ "subLemmaId": 37757756,
+ "newLemmaId": 63788701,
+ "key": "永眠者",
+ "desc": "远瞳所著科幻小说《黎明之剑》作品中的名词",
+ "title": "永眠者",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "永眠者"
+   ],
+   "format": [
+    "永眠者"
+   ]
+  },
+  {
+   "key": "m233_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%91/22620866\" data-lemmaid=\"22620866\">黎明之剑</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%91/22620866\" data-lemmaid=\"22620866\">黎明之剑</a>"
+   ]
+  }
+ ],
+ "imageHeight": null,
+ "imageWidth": null,
+ "isSummaryPic": "n",
+ "abstract": "永眠者是远瞳所著科幻小说《黎明之剑》作品中的名词。在小说中，永眠者是一个能够侵入他人精神世界的存在，其成员存在“主教级”的等级划分。一位主教级的永眠者曾通过一名佣兵头目作为媒介，成功侵入了高文·塞西尔公爵的精神世界，并将其意识拉入一个黑暗的假想空间中进行对话。",
+ "moduleIds": [],
+ "url": "http://baike.baidu.com/item/%E6%B0%B8%E7%9C%A0%E8%80%85",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%B0%B8%E7%9C%A0%E8%80%85",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E6%B0%B8%E7%9C%A0%E8%80%85#1'>背景介绍</a>",
+  "<a href='http://baike.baidu.com/item/%E6%B0%B8%E7%9C%A0%E8%80%85#2'>介绍设定</a>",
+  "<a href='http://baike.baidu.com/item/%E6%B0%B8%E7%9C%A0%E8%80%85#3'>相关事件</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%B0%B8%E7%9C%A0%E8%80%85#1'>背景介绍</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%B0%B8%E7%9C%A0%E8%80%85#2'>介绍设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%B0%B8%E7%9C%A0%E8%80%85#3'>相关事件</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

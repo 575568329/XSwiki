@@ -1,0 +1,25 @@
+{
+  "pluginName": "小说Wiki",
+  "author": "fjyu9",
+  "description": "多小说人物百科平台：收录 7 部网络小说、1699 个人物档案，含世家族谱、势力版图、境界体系、关系网络、剧情时间线与 AI 立绘。数据支持热更新（不发版加书），断网完全可用。已收录：玄鉴仙族、诡秘之主、凡人修仙传、斗破苍穹、大奉打更人、黎明之剑、我加载了神秘学面板。",
+  "version": "0.3.0",
+  "main": "index.html",
+  "preload": "preload.js",
+  "logo": "logo.png",
+  "development": {
+    "main": "index.html",
+    "preload": "preload.js"
+  },
+  "features": [
+    {
+      "code": "novel-wiki",
+      "explain": "小说Wiki - 多小说人物百科：1699 人物档案、族谱/势力/境界/关系网/剧情线（玄鉴仙族·诡秘之主·凡人修仙传·斗破苍穹·大奉打更人·黎明之剑·我加载了神秘学面板）",
+      "cmds": [
+        "小说wiki",
+        "人物",
+        "角色",
+        "小说人物"
+      ]
+    }
+  ]
+}

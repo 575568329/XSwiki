@@ -1,0 +1,126 @@
+{
+ "id": 3464,
+ "subLemmaId": 4868528,
+ "newLemmaId": 65,
+ "key": "琥珀",
+ "desc": "松柏科植物树脂形成化石",
+ "title": "琥珀",
+ "card": [
+  {
+   "key": "m87_nameC",
+   "name": "中文名",
+   "value": [
+    "琥珀"
+   ],
+   "format": [
+    "琥珀"
+   ]
+  },
+  {
+   "key": "m87_nameE",
+   "name": "外文名",
+   "value": [
+    "Amber"
+   ],
+   "format": [
+    "Amber"
+   ]
+  },
+  {
+   "key": "m87_customDefault",
+   "name": "拉丁文",
+   "value": [
+    "Ambrum"
+   ],
+   "format": [
+    "Ambrum"
+   ]
+  },
+  {
+   "key": "m87_customDefault",
+   "name": "实质",
+   "value": [
+    "松脂化石"
+   ],
+   "format": [
+    "松脂化石"
+   ]
+  },
+  {
+   "key": "m87_customDefault",
+   "name": "光泽",
+   "value": [
+    "树脂光泽"
+   ],
+   "format": [
+    "树脂光泽"
+   ]
+  },
+  {
+   "key": "m87_customDefault",
+   "name": "光性",
+   "value": [
+    "正交偏光镜下全消光，常异常消光"
+   ],
+   "format": [
+    "正交偏光镜下全消光，常异常消光"
+   ]
+  },
+  {
+   "key": "m87_customDefault",
+   "name": "断口",
+   "value": [
+    "呈贝壳状"
+   ],
+   "format": [
+    "呈贝壳状"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/0dd7912397dda144ad3485b4c5e0c7a20cf431ad2827?x-bce-process=image/format,f_auto",
+ "src": "0dd7912397dda144ad3485b4c5e0c7a20cf431ad2827",
+ "imageHeight": 2356,
+ "imageWidth": 3534,
+ "isSummaryPic": "y",
+ "abstract": "琥珀，是一种透明的生物化石，是松柏科、云实科、南洋杉科等植物的树脂化石，树脂滴落，掩埋在地下千万年，在压力和热力的作用下石化形成，有的内部包有蜜蜂等小昆虫，奇丽异常。琥珀大多数由松科植物的树脂石化形成，故又被称为“松脂化石”。琥珀的形状多种多样，表面及内部常保留着当初树脂流动时产生的纹路，内部经常可见气泡及古老昆虫、动物或植物碎屑。常见琥珀种类：金珀，蓝珀，绿茶珀，红茶珀，血珀，翳珀、花珀、棕红珀，绿珀，虫珀，蜜蜡，药珀，珀根，缅甸根珀等。2016年3月6日，中国科学家发现了为止世界上最为古老的琥珀矿石，推测其矿龄可能为9900万年左右。当地时间2025年6月26日，俄罗斯发现距今逾3500万年琥珀，封存完整蟑螂，翅脉清晰可见。",
+ "moduleIds": [
+  2730617053,
+  2730617055,
+  6154471293,
+  5685189137,
+  5583829823,
+  5583829825,
+  5583829827,
+  5588596254,
+  5588958028,
+  5592561645,
+  5623859260,
+  5632378545,
+  5632378554,
+  5632378556,
+  5632378557,
+  5632378558,
+  5632378559,
+  5632378560
+ ],
+ "url": "http://baike.baidu.com/subview/3464/4868528.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%90%A5%E7%8F%80/65",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/3464.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/3464/4868528.htm#1'>形成原因</a>",
+  "<a href='http://baike.baidu.com/subview/3464/4868528.htm#2'>形态特征</a>",
+  "<a href='http://baike.baidu.com/subview/3464/4868528.htm#3'>产地分布</a>",
+  "<a href='http://baike.baidu.com/subview/3464/4868528.htm#4'>基本性质</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E7%90%A5%E7%8F%80/65#1'>形成原因</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%90%A5%E7%8F%80/65#2'>形态特征</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%90%A5%E7%8F%80/65#3'>产地分布</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%90%A5%E7%8F%80/65#4'>基本性质</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

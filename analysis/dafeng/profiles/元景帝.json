@@ -1,0 +1,39 @@
+{
+  "name": "元景帝",
+  "persona": {
+    "appearance": "高居龙椅、面无表情俯瞰百官的威严帝王，因修仙养气容颜不老，眼神深邃难测。",
+    "personality": ["帝王心术", "冷漠自私", "多疑", "贪恋长生", "伪善"],
+    "motivation": "假修仙之名一气化三清，窃据国运祭祀巫神，求长生久视。",
+    "arc": "以贞德帝之名假死，分身元景帝与镇北王窃国求长生，终被许七安弑杀，三身真相揭穿。"
+  },
+  "evidence": [
+    "【第279章】降下雷霆劈死了他。皇帝驾崩了。",
+    "【第288章】论帝王心术，元景帝已经登峰造极。",
+    "【第415章】大奉的皇帝被许银锣斩杀，朝廷的告示说元景受到了巫神教的操纵",
+    "【第461章】记载的是元景帝、镇北王和贞德帝同为一人的真相。"
+  ],
+  "timeline": [
+    {"chapter": 1, "event": "元景朝怠政修仙，税银案震动朝野"},
+    {"chapter": 279, "event": "贞德帝雷劈驾崩的官方旧事被重提"},
+    {"chapter": 345, "event": "分身镇北王身死，楚州案发"},
+    {"chapter": 385, "event": "与辞官的许七安君臣彻底决裂"},
+    {"chapter": 402, "event": "被许七安弑杀，官方嫁祸巫神教"},
+    {"chapter": 461, "event": "卷宗揭露三身同一人的真相"}
+  ],
+  "relationships": [
+    {"name": "怀庆", "relation": "父亲"},
+    {"name": "临安", "relation": "父亲"},
+    {"name": "魏渊", "relation": "君臣"},
+    {"name": "监正", "relation": "君臣"},
+    {"name": "洛玉衡", "relation": "君臣"},
+    {"name": "王首辅", "relation": "君臣"},
+    {"name": "巫神", "relation": "盟友"},
+    {"name": "许七安", "relation": "死敌"}
+  ],
+  "stages": [
+    {"chapterStart": 1, "chapterEnd": 278, "title": "怠政修仙", "cultivationAt": "道门 二品", "situation": "深居宫中炼丹怠政，以帝王心术遥控朝堂党争。"},
+    {"chapterStart": 279, "chapterEnd": 344, "title": "三身棋局", "cultivationAt": "道门 二品", "situation": "一气化三清分身镇北王，谋楚州气运以求长生。"},
+    {"chapterStart": 345, "chapterEnd": 399, "title": "决裂君臣", "cultivationAt": "道门 二品", "situation": "分身被斩，与许银锣敌对，龟缩宫中倚仗国运。"},
+    {"chapterStart": 400, "chapterEnd": 461, "title": "弑君落幕", "cultivationAt": "道门 二品（身死）", "situation": "被许七安入宫弑杀，朝廷嫁祸巫神教，真相随后败露。"}
+  ]
+}

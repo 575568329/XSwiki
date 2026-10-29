@@ -1,0 +1,60 @@
+{
+  "name": "李曦峻",
+  "oneLiner": "李渊云幼子、剑眉星目的曦字辈俊杰，长年替李家持家掌卫、巡查外务",
+  "toProtagonist": "陆江仙定其受符的李家主事人，曾灵识勾连仙鉴为家族巡查外务",
+  "visualLine": "青年男修，剑眉星目、面容俊秀，常一袭白衣持剑",
+  "role": "core",
+  "cultivation": "仙基『松上雪』",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "受符入道",
+      "chapterStart": 323,
+      "chapterEnd": 325,
+      "situation": "李渊云幼子测出灵窍上山，以白毫九寸受符种入道，得陆江仙另眼相看",
+      "cultivationAt": "-",
+      "visual": "稚嫩少年，已看出剑眉星目之相",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "青杜守山",
+      "chapterStart": 389,
+      "chapterEnd": 426,
+      "situation": "独守青杜山修《寒松露雪诀》，接待紫府孔婷云，防细作许霄并果断掷筑基符箓",
+      "cultivationAt": "练气二层→五层",
+      "visual": "一袭白衣，手中持剑",
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "执掌族务",
+      "chapterStart": 436,
+      "chapterEnd": 495,
+      "situation": "灵识勾连仙鉴巡查大厥庭，赴寒云费家交涉，出关理家识破袁氏之局",
+      "cultivationAt": "练气五层",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "凝基出关",
+      "chapterStart": 502,
+      "chapterEnd": 502,
+      "situation": "闭关数年出关，玉庭峰受其仙基『松上雪』，续为家族操持族务",
+      "cultivationAt": "仙基『松上雪』",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg5",
+      "title": "大世陨落",
+      "chapterStart": 1360,
+      "chapterEnd": 1448,
+      "situation": "曾携心魔缠身的李玄宣赴衡祝道种金丸；后陨于大世相争，族人引为遗憾",
+      "cultivationAt": "仙基『松上雪』",
+      "visual": null,
+      "spoiler": true
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+ "id": 4562510,
+ "subLemmaId": 23949326,
+ "newLemmaId": 23413533,
+ "key": "丹塔",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中势力",
+ "title": "丹塔",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "丹塔"
+   ],
+   "format": [
+    "丹塔"
+   ]
+  },
+  {
+   "key": "m25_alternateName",
+   "name": "别名",
+   "value": [
+    "一殿一塔<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "一殿一塔<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m25_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m25_address",
+   "name": "地理位置",
+   "value": [
+    "中州丹域<sup>2</sup><a name=\"ref_2\"></a>"
+   ],
+   "format": [
+    "中州丹域<sup>2</sup><a name=\"ref_2\"></a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "掌控者",
+   "value": [
+    "<a target=_blank href=\"/item/%E4%B8%B9%E5%A1%94%E8%80%81%E7%A5%96/53933785\" data-lemmaid=\"53933785\">丹塔老祖</a><sup>6</sup><a name=\"ref_6\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E4%B8%B9%E5%A1%94%E8%80%81%E7%A5%96/53933785\" data-lemmaid=\"53933785\">丹塔老祖</a><sup>6</sup><a name=\"ref_6\"></a>"
+   ]
+  },
+  {
+   "key": "m25_attribute",
+   "name": "属性",
+   "value": [
+    "炼药师组织<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "炼药师组织<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/d009b3de9c82d158ccbff62875510ed8bc3eb035e4ac?x-bce-process=image/format,f_auto",
+ "src": "d009b3de9c82d158ccbff62875510ed8bc3eb035e4ac",
+ "imageHeight": 804,
+ "imageWidth": 1920,
+ "isSummaryPic": "y",
+ "abstract": "丹塔，天蚕土豆所著玄幻小说《斗破苍穹》中的组织，是整个斗气大陆炼药师的圣地。丹塔被所有炼药师视为“圣地”，与魂殿齐名。其地位是任何势力都不敢小觑的，有着无与伦比的号召力。",
+ "moduleIds": [
+  7060000753
+ ],
+ "url": "http://baike.baidu.com/item/%E4%B8%B9%E5%A1%94/23413533",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E4%B8%B9%E5%A1%94/23413533",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/4562510.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E4%B8%B9%E5%A1%94/23413533#1'>组织经历</a>",
+  "<a href='http://baike.baidu.com/item/%E4%B8%B9%E5%A1%94/23413533#2'>组织结构</a>",
+  "<a href='http://baike.baidu.com/item/%E4%B8%B9%E5%A1%94/23413533#3'>组织成员</a>",
+  "<a href='http://baike.baidu.com/item/%E4%B8%B9%E5%A1%94/23413533#4'>组织文化</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E4%B8%B9%E5%A1%94/23413533#1'>组织经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%B8%B9%E5%A1%94/23413533#2'>组织结构</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%B8%B9%E5%A1%94/23413533#3'>组织成员</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%B8%B9%E5%A1%94/23413533#4'>组织文化</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

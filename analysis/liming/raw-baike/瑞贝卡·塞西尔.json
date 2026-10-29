@@ -1,0 +1,108 @@
+{
+ "id": 31675066,
+ "subLemmaId": 34531112,
+ "newLemmaId": 59266573,
+ "key": "瑞贝卡·塞西尔",
+ "desc": "远瞳所著科幻小说《黎明之剑》及其衍生作品中的女配角",
+ "title": "瑞贝卡·塞西尔",
+ "card": [
+  {
+   "key": "m47_customDefault",
+   "name": "中文名",
+   "value": [
+    "瑞贝卡·塞西尔"
+   ],
+   "format": [
+    "瑞贝卡·塞西尔"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "性别",
+   "value": [
+    "女"
+   ],
+   "format": [
+    "女"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "塞西尔帝国公主"
+   ],
+   "format": [
+    "塞西尔帝国公主"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属势力",
+   "value": [
+    "塞西尔帝国"
+   ],
+   "format": [
+    "塞西尔帝国"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "职务",
+   "value": [
+    "魔能技术部部长"
+   ],
+   "format": [
+    "魔能技术部部长"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "武器",
+   "value": [
+    "铁法杖"
+   ],
+   "format": [
+    "铁法杖"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "称号",
+   "value": [
+    "铁头娃"
+   ],
+   "format": [
+    "铁头娃"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/e7cd7b899e510fb30f2437358162df95d143ad4ba64a?x-bce-process=image/format,f_auto",
+ "src": "e7cd7b899e510fb30f2437358162df95d143ad4ba64a",
+ "imageHeight": 1528,
+ "imageWidth": 1080,
+ "isSummaryPic": "y",
+ "abstract": "瑞贝卡·塞西尔是科幻小说《黎明之剑》中塞西尔帝国的末代继承人及重建后公主，任魔能技术部部长，主导魔网技术研发并推动工业革命。作为高文·塞西尔的直系后裔，她以迷糊冒失性格与顶尖魔导天赋形成鲜明反差，发明符文扳机、瑞贝卡水晶等核心技术，参与魔导车辆与飞行器研发。其经典台词\"别打头\"与铁法杖武器成为角色标志性特征。",
+ "moduleIds": [
+  7053624864
+ ],
+ "url": "http://baike.baidu.com/item/%E7%91%9E%E8%B4%9D%E5%8D%A1%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%91%9E%E8%B4%9D%E5%8D%A1%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E7%91%9E%E8%B4%9D%E5%8D%A1%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/item/%E7%91%9E%E8%B4%9D%E5%8D%A1%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#2'>主要经历</a>",
+  "<a href='http://baike.baidu.com/item/%E7%91%9E%E8%B4%9D%E5%8D%A1%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#3'>技术贡献</a>",
+  "<a href='http://baike.baidu.com/item/%E7%91%9E%E8%B4%9D%E5%8D%A1%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#4'>相关评价</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E7%91%9E%E8%B4%9D%E5%8D%A1%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%91%9E%E8%B4%9D%E5%8D%A1%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#2'>主要经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%91%9E%E8%B4%9D%E5%8D%A1%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#3'>技术贡献</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%91%9E%E8%B4%9D%E5%8D%A1%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#4'>相关评价</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

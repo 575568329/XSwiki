@@ -1,0 +1,34 @@
+{
+  "name": "李妙真",
+  "persona": {
+    "appearance": "扎高马尾的飒爽女将，英姿勃勃，惯着轻甲戎装，单手按银枪，闺中换回天宗道装时清冷出尘。",
+    "personality": ["英气骄傲", "直率重义", "嫉恶如仇", "争强好胜", "外冷内热"],
+    "motivation": "以武证道行走江湖，剿匪安民，与许七安相互砥砺攀登道途高峰。",
+    "arc": "云州剿匪成名的飞燕女侠，天宗圣女游历人间，与许七安约战突破，终统领飞燕军跻身超凡。"
+  },
+  "evidence": [
+    "【第199章】她叫李妙真，是本官聘用的游骑将军，这一年多来，四处剿匪，屡立战功。",
+    "【第205章】包括李妙真二号的身份、天宗圣女的身份。",
+    "【第301章】我需要突破，需要青丹和死斗，李妙真恰好就来京城履行天人之约。",
+    "【第726章】一品二品三品都有，李妙真最差的情况也只是凝聚功德失败。"
+  ],
+  "timeline": [
+    {"chapter": 157, "event": "飞燕女侠名号先于本人登场"},
+    {"chapter": 199, "event": "以游骑将军剿匪，宴上初遇许七安"},
+    {"chapter": 205, "event": "地书二号与天宗圣女身份揭晓"},
+    {"chapter": 301, "event": "赴京履行天人之约，与许七安死斗"},
+    {"chapter": 310, "event": "约战突破，跻身道门四品"},
+    {"chapter": 726, "event": "护法闭关，凝聚功德冲击三品"}
+  ],
+  "relationships": [
+    {"name": "许七安", "relation": "挚友"},
+    {"name": "楚元缜", "relation": "盟友"},
+    {"name": "杨千幻", "relation": "盟友"}
+  ],
+  "stages": [
+    {"chapterStart": 157, "chapterEnd": 198, "title": "飞燕剿匪", "cultivationAt": "道门 五品", "situation": "受聘游骑将军，一年多四处剿匪，威名震云州。"},
+    {"chapterStart": 199, "chapterEnd": 300, "title": "云州结谊", "cultivationAt": "道门 五品", "situation": "结识许七安，地书二号与圣女身份公开，名动天下。"},
+    {"chapterStart": 301, "chapterEnd": 725, "title": "天人之约", "cultivationAt": "道门 五品→四品", "situation": "赴京与许七安生死斗，双双突破，跻身道门四品。"},
+    {"chapterStart": 726, "chapterEnd": 815, "title": "功德问三品", "cultivationAt": "道门 四品→三品", "situation": "众人护法闭关，凝聚功德冲击三品超凡之境。"}
+  ]
+}

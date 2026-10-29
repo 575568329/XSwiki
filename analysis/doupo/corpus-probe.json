@@ -1,0 +1,21 @@
+{
+ "repo": "fundgao/xiuxian",
+ "ok": true,
+ "meta": {
+  "stars": 103,
+  "size_mb": 29.7,
+  "branch": "main",
+  "pushed": "2026-03-07T05:49:21Z"
+ },
+ "candidates": [
+  {
+   "dir": "斗破苍穹",
+   "entries": 2,
+   "sample": [
+    "萧炎与异火.md",
+    "萧炎的一生（现实生活版）.md"
+   ],
+   "total_kb": 27
+  }
+ ]
+}

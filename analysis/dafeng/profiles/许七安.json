@@ -1,0 +1,43 @@
+{
+  "name": "许七安",
+  "persona": {
+    "appearance": "身材挺拔的青年，眉目俊朗非凡；常穿黑色打更人劲装，束长发，背挂黑金长刀，气度沉凝。",
+    "personality": ["机敏圆滑", "重情重义", "外痞内刚", "胆大心细", "幽默腹黑"],
+    "motivation": "为家人讨活路、为冤屈讨公道，查明身世与神魔棋局，守护大奉。",
+    "arc": "穿越成税银案死囚，翻案入打更人，从铜锣到银锣，辞官查遍天下大案，历经死劫封印，终成一品武夫。"
+  },
+  "evidence": [
+    "【第1章】许七安幽幽醒来，嗅到了空气中潮湿的腐臭味，令人轻微的不适，胃酸翻涌。",
+    "【第64章】魏公，这是新晋铜锣的资质测试结果，及户籍，请您评判。",
+    "【第215章】我是在死之前最后一刻，才晋升炼神境的。",
+    "【第389章】也许再过不久，许银锣就会成为历史。"
+  ],
+  "timeline": [
+    {"chapter": 1, "event": "税银失窃案发，满门下狱待斩"},
+    {"chapter": 64, "event": "翻案后被魏渊收为铜锣"},
+    {"chapter": 167, "event": "功勋累积，晋升银锣"},
+    {"chapter": 203, "event": "云州死劫，死境突破炼神"},
+    {"chapter": 218, "event": "死而复生，归京引轰动"},
+    {"chapter": 268, "event": "破佛门金刚阵，金刚不败扬名"},
+    {"chapter": 389, "event": "楚州案后辞官，脱离打更人"},
+    {"chapter": 642, "event": "拔尽封魔钉，晋升二品"}
+  ],
+  "relationships": [
+    {"name": "魏渊", "relation": "上司"},
+    {"name": "监正", "relation": "师父"},
+    {"name": "李妙真", "relation": "红颜"},
+    {"name": "怀庆", "relation": "红颜"},
+    {"name": "临安", "relation": "红颜"},
+    {"name": "许新年", "relation": "兄弟"},
+    {"name": "许平峰", "relation": "父亲"},
+    {"name": "元景帝", "relation": "死敌"}
+  ],
+  "stages": [
+    {"chapterStart": 1, "chapterEnd": 63, "title": "牢狱翻案", "cultivationAt": "凡人 未入品", "situation": "穿越即死囚，以桑泊案线索绝境自证，救下全族。"},
+    {"chapterStart": 64, "chapterEnd": 166, "title": "铜锣差役", "cultivationAt": "九品 炼精→八品 练气", "situation": "入打更人衙门，连破大案立功，武道术法双修起步。"},
+    {"chapterStart": 167, "chapterEnd": 202, "title": "银锣缉凶", "cultivationAt": "八品 练气", "situation": "晋银锣，卷入朝堂与佛门博弈，声名鹊起。"},
+    {"chapterStart": 203, "chapterEnd": 389, "title": "死劫斗佛", "cultivationAt": "七品 炼神", "situation": "云州死而复生，破金刚阵得金刚不败，楚州案后怒辞官。"},
+    {"chapterStart": 390, "chapterEnd": 641, "title": "白衣查案", "cultivationAt": "三品 武夫（遭封魔钉封印）", "situation": "以布衣之身查天下大案，修为被钉封印，节节拔钉自赎。"},
+    {"chapterStart": 642, "chapterEnd": 815, "title": "超凡终局", "cultivationAt": "二品→一品 武夫", "situation": "拔尽封魔钉晋升二品，终成一品武夫，投身对抗神魔终战。"}
+  ]
+}

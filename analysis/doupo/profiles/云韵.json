@@ -1,0 +1,38 @@
+{
+  "name": "云韵",
+  "persona": {
+    "appearance": "月白裙袍衬玲珑身姿，容颜清丽绝美，气质温婉端庄，眉目间常含一抹化不开的柔情与无奈。",
+    "personality": ["温婉端庄", "外柔内韧", "深情隐忍", "顾全大局"],
+    "motivation": "护云岚宗周全，守望与萧炎间难言之情，于乱世中求一方安宁。",
+    "arc": "云岚宗女宗主，与萧炎纠葛半生，宗散后远赴花宗，终随其并肩抗魂。"
+  },
+  "evidence": [
+    "【第5章】纳兰嫣然被云韵收为弟子之时，年仅十岁",
+    "【第132章】云芝。美眸微微闪烁了一下，神秘女人含笑道。",
+    "【第603章】宗主云韵的婚礼，这对于整个云岚宗来说，都是一件极其重要的事",
+    "【第625章】若非是云韵宗主与其有些关系与交情"
+  ],
+  "timeline": [
+    {"chapter": 5, "event": "执掌云岚宗，收十岁的纳兰嫣然为徒"},
+    {"chapter": 105, "event": "以宗主之身坐镇三年之约之战"},
+    {"chapter": 132, "event": "魔兽山脉化名云芝，与出逃的萧炎结识"},
+    {"chapter": 603, "event": "与丹王古河大婚之日，遭萧炎搅局"},
+    {"chapter": 626, "event": "云岚宗大战，云山败亡宗门倾颓"},
+    {"chapter": 912, "event": "远赴中州入花宗，萧炎始知其去向"},
+    {"chapter": 1205, "event": "花宗再遇萧炎，随联军共抗魂族"},
+    {"chapter": 1218, "event": "与薰儿彩鳞等并肩转战强敌"}
+  ],
+  "relationships": [
+    {"name": "萧炎", "relation": "红颜"},
+    {"name": "纳兰嫣然", "relation": "弟子"},
+    {"name": "云山", "relation": "上司"},
+    {"name": "小医仙", "relation": "盟友"},
+    {"name": "彩鳞", "relation": "盟友"}
+  ],
+  "stages": [
+    {"chapterStart": 1, "chapterEnd": 104, "title": "云岚宗主", "cultivationAt": "斗皇", "situation": "执掌加玛第一宗云岚宗，为纳兰嫣然之师，身居高位。"},
+    {"chapterStart": 105, "chapterEnd": 602, "title": "情丝暗结", "cultivationAt": "斗皇", "situation": "坐镇三年之约，魔兽山脉化名云芝与萧炎暗结情缘。"},
+    {"chapterStart": 603, "chapterEnd": 911, "title": "婚变宗衰", "cultivationAt": "斗皇", "situation": "大婚被萧炎搅局，云岚宗大战云山败亡，远走中州。"},
+    {"chapterStart": 912, "chapterEnd": 1448, "title": "花宗抗魂", "cultivationAt": "斗皇（花宗精修）", "situation": "入花宗修行，再遇萧炎后随联军并肩转战魂族战场。"}
+  ]
+}

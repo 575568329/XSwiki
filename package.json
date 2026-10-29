@@ -1,0 +1,9 @@
+{
+  "name": "novel-wiki-tests",
+  "version": "1.0.0",
+  "private": true,
+  "description": "小说Wiki 人物库测试（node:test，零依赖）：数据资产质量 / 纯函数 / 热更新包一致性 / services 桥接",
+  "scripts": {
+    "test": "node --test \"tests/*.test.mjs\""
+  }
+}

@@ -1,0 +1,108 @@
+{
+ "id": 34388960,
+ "subLemmaId": 38259282,
+ "newLemmaId": 64431472,
+ "key": "亚伯拉罕家族",
+ "desc": "爱潜水的乌贼所著《诡秘之主》中的超凡家族",
+ "title": "亚伯拉罕家族",
+ "card": [
+  {
+   "key": "m25_customDefault",
+   "name": "起源时期",
+   "value": [
+    "第四纪"
+   ],
+   "format": [
+    "第四纪"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "历史地位",
+   "value": [
+    "图铎王朝支持者"
+   ],
+   "format": [
+    "图铎王朝支持者"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "现存封印物",
+   "value": [
+    "两件"
+   ],
+   "format": [
+    "两件"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "血脉状态",
+   "value": [
+    "诅咒未解除"
+   ],
+   "format": [
+    "诅咒未解除"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "成员分布",
+   "value": [
+    "北大陆各地"
+   ],
+   "format": [
+    "北大陆各地"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "核心传承",
+   "value": [
+    "学徒途径"
+   ],
+   "format": [
+    "学徒途径"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "作品出处",
+   "value": [
+    "爱潜水的乌贼所著《诡秘之主》"
+   ],
+   "format": [
+    "爱潜水的乌贼所著《诡秘之主》"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/279759ee3d6d55fbb2fb21aad779584a20a4472377b1?x-bce-process=image/format,f_auto",
+ "src": "279759ee3d6d55fbb2fb21aad779584a20a4472377b1",
+ "imageHeight": 1080,
+ "imageWidth": 1920,
+ "isSummaryPic": "y",
+ "abstract": "亚伯拉罕家族是《诡秘之主》中第四纪最顶尖的大贵族之一，曾作为图铎王朝的核心支持者。因先祖“门先生”伯特利·亚伯拉罕遭受诅咒，家族血脉被污染，后代无法晋升半神且频繁失控，导致家族分崩离析，成员被迫分散隐居北大陆各地。家族保有“学徒”途径序列2“旅法师”的魔药配方及两件强大封印物。阿蒙通过取代伯特利的成神仪式成为双途径真神，并依约将非凡特性归还亚伯拉罕家族。",
+ "moduleIds": [
+  6377366264
+ ],
+ "url": "http://baike.baidu.com/item/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%B6%E6%97%8F",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%B6%E6%97%8F",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%B6%E6%97%8F#1'>历史背景</a>",
+  "<a href='http://baike.baidu.com/item/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%B6%E6%97%8F#2'>家族现状</a>",
+  "<a href='http://baike.baidu.com/item/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%B6%E6%97%8F#3'>重要成员</a>",
+  "<a href='http://baike.baidu.com/item/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%B6%E6%97%8F#4'>与阿蒙的关联</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%B6%E6%97%8F#1'>历史背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%B6%E6%97%8F#2'>家族现状</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%B6%E6%97%8F#3'>重要成员</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%B6%E6%97%8F#4'>与阿蒙的关联</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

@@ -1,0 +1,129 @@
+{
+ "id": 4445895,
+ "subLemmaId": 4445895,
+ "newLemmaId": 4047720,
+ "key": "紫妍",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的角色",
+ "title": "紫妍",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "紫妍"
+   ],
+   "format": [
+    "紫妍"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "蛮力王、龙皇"
+   ],
+   "format": [
+    "蛮力王、龙皇"
+   ]
+  },
+  {
+   "key": "m47_dub",
+   "name": "配音",
+   "value": [
+    "新月冰冰（动态漫画）<sup>125</sup><a name=\"ref_125\"></a>"
+   ],
+   "format": [
+    "新月冰冰（动态漫画）<sup>125</sup><a name=\"ref_125\"></a>"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "女"
+   ],
+   "format": [
+    "女"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "《斗破苍穹》及其衍生作品<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "《斗破苍穹》及其衍生作品<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m47_age",
+   "name": "年龄",
+   "value": [
+    "上千岁"
+   ],
+   "format": [
+    "上千岁"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "种族",
+   "value": [
+    "龙凰<sup>2</sup><a name=\"ref_2\"></a>"
+   ],
+   "format": [
+    "龙凰<sup>2</sup><a name=\"ref_2\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属",
+   "value": [
+    "太虚古龙<sup>2</sup><a name=\"ref_2\"></a>"
+   ],
+   "format": [
+    "太虚古龙<sup>2</sup><a name=\"ref_2\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "龙皇<sup>3</sup><a name=\"ref_3\"></a>"
+   ],
+   "format": [
+    "龙皇<sup>3</sup><a name=\"ref_3\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/d53f8794a4c27d1e664c1c9117d5ad6eddc43878?x-bce-process=image/format,f_auto",
+ "src": "d53f8794a4c27d1e664c1c9117d5ad6eddc43878",
+ "imageHeight": 855,
+ "imageWidth": 535,
+ "isSummaryPic": "y",
+ "abstract": "紫妍，天蚕土豆所著异世大陆类玄幻小说《斗破苍穹》及其衍生作品中的角色，太虚古龙龙皇烛坤之女，拥有最纯净的王族血脉。在斗圣遗迹中得到龙凰本源果，进化为魔兽界的至尊龙凰，诛杀了造反的三大龙王，一统分裂的太虚古龙族。",
+ "moduleIds": [
+  6861454664
+ ],
+ "url": "http://baike.baidu.com/subview/4445895/4445895.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%B4%AB%E5%A6%8D/4047720",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/4445895.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/4445895/4445895.htm#1'>角色形象</a>",
+  "<a href='http://baike.baidu.com/subview/4445895/4445895.htm#2'>角色能力</a>",
+  "<a href='http://baike.baidu.com/subview/4445895/4445895.htm#3'>人际关系</a>",
+  "<a href='http://baike.baidu.com/subview/4445895/4445895.htm#4'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E7%B4%AB%E5%A6%8D/4047720#1'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%B4%AB%E5%A6%8D/4047720#2'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%B4%AB%E5%A6%8D/4047720#3'>人际关系</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%B4%AB%E5%A6%8D/4047720#4'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

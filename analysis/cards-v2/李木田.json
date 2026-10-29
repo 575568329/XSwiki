@@ -1,0 +1,60 @@
+{
+  "name": "李木田",
+  "oneLiner": "从军半生的黎泾村李家开基族长，以凡人胆魄携四子踏入仙途",
+  "toProtagonist": "李家第一代家主、仙鉴入李家的当家人，李家主线由此起步",
+  "visualLine": "男，年迈农家老汉；摸着下巴的胡须，神情肃穆、眼神沧桑有力，手边一柄长刀与战法木简",
+  "role": "core",
+  "cultivation": "凡人",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "得鉴戒备",
+      "chapterStart": 2,
+      "chapterEnd": 5,
+      "situation": "黎泾村异象频传，接过儿子带回的鉴子警觉月晕，藏鉴于屋顶洞下，命诸子持刀戒备",
+      "cultivationAt": "凡人",
+      "visual": "农家汉子摸着下巴胡须打量鉴子，瓜田前手提长刀",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "提刀立威",
+      "chapterStart": 7,
+      "chapterEnd": 14,
+      "situation": "曾提刀血洗兼并田产的大户满门、分地定嫡庶名分；暗睹李项平杀人，反赞其果断",
+      "cultivationAt": "凡人",
+      "visual": "老兵提着滴血长刀立于村道，推车拖尸从村尾到村头",
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "归宗定策",
+      "chapterStart": 16,
+      "chapterEnd": 30,
+      "situation": "痛失长子后重理族务，以最年长嫡系主持归宗、赐《青元养轮法》，定韬光养晦之策",
+      "cultivationAt": "凡人",
+      "visual": "端着茶碗老神在在坐于院中的老汉",
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "油尽灯枯",
+      "chapterStart": 82,
+      "chapterEnd": 82,
+      "situation": "年逾七旬生机将尽，十几年来首次开口想吃一碗羊肉粉",
+      "cultivationAt": "凡人",
+      "visual": "倚坐门旁喘气的七旬老人，肃穆神色里带上几分笑意",
+      "spoiler": true
+    },
+    {
+      "id": "stg5",
+      "title": "身后香火",
+      "chapterStart": 1292,
+      "chapterEnd": 1292,
+      "situation": "身后香火不辍，李玄宣一如千百次先为其供香；走得早，牌匾留李通崖年轻笔迹",
+      "cultivationAt": "凡人",
+      "visual": null,
+      "spoiler": true
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+ "id": 29564971,
+ "subLemmaId": 32012697,
+ "newLemmaId": 56577336,
+ "key": "杨千幻",
+ "desc": "小说《大奉打更人》中的角色",
+ "title": "杨千幻",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "杨千幻"
+   ],
+   "format": [
+    "杨千幻"
+   ]
+  },
+  {
+   "key": "m233_alternateName",
+   "name": "别名",
+   "value": [
+    "逼王"
+   ],
+   "format": [
+    "逼王"
+   ]
+  },
+  {
+   "key": "m233_gender",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "登场作品",
+   "value": [
+    "大奉打更人"
+   ],
+   "format": [
+    "大奉打更人"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/7dd98d1001e93901213f559f0dbd43e736d12f2e384a?x-bce-process=image/format,f_auto",
+ "src": "7dd98d1001e93901213f559f0dbd43e736d12f2e384a",
+ "imageHeight": 1296,
+ "imageWidth": 1080,
+ "isSummaryPic": "y",
+ "abstract": "杨千幻是网络小说《大奉打更人》中的虚拟角色，司天监监正座下三弟子，四品阵师晋升为三品天机师。该角色性格逗趣，以背对众生模仿无始大帝为标志性动作，常以“手握日月摘星辰，世间无我这般人”作为口头禅，被戏称为“逼王”。杨千幻因模仿主角许七安“人前显圣”的行为多次被二代监正镇压于观星塔下，大劫后突破超凡境出关意图扬名，却因许七安成就武神而再度自闭。角色与李灵素结为兄弟，师门关系涉及许平峰、孙玄机等同门及监正师承体系。",
+ "moduleIds": [
+  5997204209
+ ],
+ "url": "http://baike.baidu.com/item/%E6%9D%A8%E5%8D%83%E5%B9%BB/56577336",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%9D%A8%E5%8D%83%E5%B9%BB/56577336",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/29564971.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E6%9D%A8%E5%8D%83%E5%B9%BB/56577336#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/item/%E6%9D%A8%E5%8D%83%E5%B9%BB/56577336#2'>角色形象</a>",
+  "<a href='http://baike.baidu.com/item/%E6%9D%A8%E5%8D%83%E5%B9%BB/56577336#3'>角色能力</a>",
+  "<a href='http://baike.baidu.com/item/%E6%9D%A8%E5%8D%83%E5%B9%BB/56577336#4'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%9D%A8%E5%8D%83%E5%B9%BB/56577336#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9D%A8%E5%8D%83%E5%B9%BB/56577336#2'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9D%A8%E5%8D%83%E5%B9%BB/56577336#3'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9D%A8%E5%8D%83%E5%B9%BB/56577336#4'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

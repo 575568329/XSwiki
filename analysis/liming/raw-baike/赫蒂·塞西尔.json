@@ -1,0 +1,98 @@
+{
+ "id": 31675067,
+ "subLemmaId": 34531114,
+ "newLemmaId": 59266575,
+ "key": "赫蒂·塞西尔",
+ "desc": "《黎明之剑》系列作品中的女配角",
+ "title": "赫蒂·塞西尔",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "赫蒂·塞西尔"
+   ],
+   "format": [
+    "赫蒂·塞西尔"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "性别",
+   "value": [
+    "女"
+   ],
+   "format": [
+    "女"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "女配角"
+   ],
+   "format": [
+    "女配角"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "法术等级",
+   "value": [
+    "掌握三级以下非攻击性法术"
+   ],
+   "format": [
+    "掌握三级以下非攻击性法术"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "能力特征",
+   "value": [
+    "魔法理论知识丰富"
+   ],
+   "format": [
+    "魔法理论知识丰富"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属作品",
+   "value": [
+    "《黎明之剑》"
+   ],
+   "format": [
+    "《黎明之剑》"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/f636afc379310a55b319b2763f1354a98226cefcbaa1?x-bce-process=image/format,f_auto",
+ "src": "f636afc379310a55b319b2763f1354a98226cefcbaa1",
+ "imageHeight": 2533,
+ "imageWidth": 1925,
+ "isSummaryPic": "y",
+ "abstract": "赫蒂·塞西尔是科幻小说《黎明之剑》及其衍生作品中的角色，塞西尔家族成员，以深厚的魔法理论造诣和非攻击性法术的全面掌握为特点。作为塞西尔家族中魔法领域的代表人物，赫蒂·塞西尔在担任公国大执政官期间，曾参与并推动了魔能列车项目的完成。她否定了先祖已定下的列车方案，最终重新为魔能列车装上了“轮子”。",
+ "moduleIds": [
+  6968366301
+ ],
+ "url": "http://baike.baidu.com/item/%E8%B5%AB%E8%92%82%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%B5%AB%E8%92%82%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E8%B5%AB%E8%92%82%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/item/%E8%B5%AB%E8%92%82%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#2'>形象设定</a>",
+  "<a href='http://baike.baidu.com/item/%E8%B5%AB%E8%92%82%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#3'>法术能力</a>",
+  "<a href='http://baike.baidu.com/item/%E8%B5%AB%E8%92%82%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#4'>主要经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%B5%AB%E8%92%82%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%B5%AB%E8%92%82%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#2'>形象设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%B5%AB%E8%92%82%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#3'>法术能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%B5%AB%E8%92%82%C2%B7%E5%A1%9E%E8%A5%BF%E5%B0%94#4'>主要经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

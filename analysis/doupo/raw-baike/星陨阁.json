@@ -1,0 +1,106 @@
+{
+ "id": 5245144,
+ "subLemmaId": 5274588,
+ "newLemmaId": 6112918,
+ "key": "星陨阁",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的势力",
+ "title": "星陨阁",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "星陨阁"
+   ],
+   "format": [
+    "星陨阁"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "阁主",
+   "value": [
+    "药尘<sup>4</sup><a name=\"ref_4\"></a>"
+   ],
+   "format": [
+    "药尘<sup>4</sup><a name=\"ref_4\"></a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "创建者",
+   "value": [
+    "药尘、风闲<sup>4</sup><a name=\"ref_4\"></a>"
+   ],
+   "format": [
+    "药尘、风闲<sup>4</sup><a name=\"ref_4\"></a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "少阁主",
+   "value": [
+    "萧炎<sup>7</sup><a name=\"ref_7\"></a>"
+   ],
+   "format": [
+    "萧炎<sup>7</sup><a name=\"ref_7\"></a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "地位",
+   "value": [
+    "中州四方阁之一<sup>12</sup><a name=\"ref_12\"></a>"
+   ],
+   "format": [
+    "中州四方阁之一<sup>12</sup><a name=\"ref_12\"></a>"
+   ]
+  },
+  {
+   "key": "m25_headquartersLocation",
+   "name": "总部地点",
+   "value": [
+    "中州南域天星山脉<sup>4</sup><a name=\"ref_4\"></a>"
+   ],
+   "format": [
+    "中州南域天星山脉<sup>4</sup><a name=\"ref_4\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/d50735fae6cd7b899e51d91afa7f55a7d933c995a0ac?x-bce-process=image/format,f_auto",
+ "src": "d50735fae6cd7b899e51d91afa7f55a7d933c995a0ac",
+ "imageHeight": 804,
+ "imageWidth": 1920,
+ "isSummaryPic": "y",
+ "abstract": "星陨阁，是天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的组织，斗气大陆四方阁之一。药尘和风闲共同创建的势力，经过数十年的发展，成为了中州一流实力，为中州 一殿一塔二宗三谷四方阁中的四方阁之一。",
+ "moduleIds": [
+  5637384486,
+  5637384487,
+  5637384490,
+  5709056668,
+  5724270154,
+  5725131386,
+  5726441718,
+  5727762274,
+  6359648107
+ ],
+ "url": "http://baike.baidu.com/view/5245144.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%98%9F%E9%99%A8%E9%98%81/6112918",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/5245144.htm#1'>组织经历</a>",
+  "<a href='http://baike.baidu.com/view/5245144.htm#2'>组织成员</a>",
+  "<a href='http://baike.baidu.com/view/5245144.htm#3'>组织文化</a>",
+  "<a href='http://baike.baidu.com/view/5245144.htm#4'>组织驻地</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%98%9F%E9%99%A8%E9%98%81/6112918#1'>组织经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%98%9F%E9%99%A8%E9%98%81/6112918#2'>组织成员</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%98%9F%E9%99%A8%E9%98%81/6112918#3'>组织文化</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%98%9F%E9%99%A8%E9%98%81/6112918#4'>组织驻地</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

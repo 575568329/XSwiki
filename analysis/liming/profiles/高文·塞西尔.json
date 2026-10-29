@@ -1,0 +1,42 @@
+{
+  "name": "高文·塞西尔",
+  "persona": {
+    "appearance": "灵魂来自地球的穿越者，附身于塞西尔开国先祖的年轻躯壳，身形挺拔健硕，眉目沉静，举手投足兼具老派大公的威严与现代人的松弛。",
+    "personality": ["务实冷静", "高瞻远瞩", "幽默毒舌", "意志坚韧", "护短重情"],
+    "motivation": "以超越时代的见识引领文明，为凡人在魔潮末日下搏出一条生路。",
+    "arc": "从棺中复生的穿越者到一领之主，再建帝国、推动魔能革命，终率文明直面魔潮与星海。"
+  },
+  "evidence": [
+    "【第3章】高文·塞西尔，我是高文·塞西尔，安苏王国的开拓者……现在是什么年代了？",
+    "【第36章】说起对抗险恶的大自然，你们却绝对比不上我",
+    "【第441章】除了一些基础的骑士技能之外，这位开国大公也几乎没有用出什么所谓的“传奇禁术”",
+    "【第708章】我好歹是个传奇，哪有那么脆弱"
+  ],
+  "timeline": [
+    {"chapter": 1, "event": "穿越意识悬于轨道俯瞰大地"},
+    {"chapter": 3, "event": "棺中苏醒认领先祖身份"},
+    {"chapter": 36, "event": "主动请封南境荒原拓荒"},
+    {"chapter": 441, "event": "阵前决斗显露传奇战力"},
+    {"chapter": 674, "event": "塞西尔开国典礼举行"},
+    {"chapter": 1142, "event": "参悟小魔潮与末日真相"},
+    {"chapter": 1593, "event": "魔潮临近执掌母星屏障"}
+  ],
+  "relationships": [
+    {"name": "琥珀", "relation": "侍卫"},
+    {"name": "赫蒂·塞西尔", "relation": "后裔"},
+    {"name": "瑞贝卡·塞西尔", "relation": "后裔"},
+    {"name": "拜伦", "relation": "侍卫"},
+    {"name": "卡迈尔", "relation": "下属"},
+    {"name": "贝尔提拉", "relation": "盟友"},
+    {"name": "梅丽塔", "relation": "盟友"},
+    {"name": "罗塞塔", "relation": "对手"}
+  ],
+  "stages": [
+    {"chapterStart": 1, "chapterEnd": 35, "title": "棺中苏醒", "cultivationAt": "复生之躯（凡人）", "situation": "穿越者魂附先祖遗体醒来，携家族残部逃出祖墓。"},
+    {"chapterStart": 36, "chapterEnd": 135, "title": "受封南境", "cultivationAt": "骑士（躯体复苏中）", "situation": "主动请封南方荒原，垦荒建领，启用古代刚铎装备。"},
+    {"chapterStart": 136, "chapterEnd": 500, "title": "遗产暗流", "cultivationAt": "传奇级战力", "situation": "万物终亡会浮出水面，阵前决斗惊人，夺霍斯曼扩地。"},
+    {"chapterStart": 501, "chapterEnd": 674, "title": "建国之战", "cultivationAt": "传奇骑士", "situation": "历经塞西尔保卫战洗礼，举行开国典礼，建立帝国。"},
+    {"chapterStart": 675, "chapterEnd": 1140, "title": "大国博弈", "cultivationAt": "传奇骑士", "situation": "周旋列强推进魔网技术，追查神明、魔潮与刚铎真相。"},
+    {"chapterStart": 1141, "chapterEnd": 1593, "title": "魔潮终局", "cultivationAt": "传奇巅峰", "situation": "参透魔潮本质，推行母星屏障与星际探测，迎战末日。"}
+  ]
+}

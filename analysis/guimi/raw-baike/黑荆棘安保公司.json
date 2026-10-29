@@ -1,0 +1,86 @@
+{
+ "id": 34288951,
+ "subLemmaId": 38112850,
+ "newLemmaId": 64239370,
+ "key": "黑荆棘安保公司",
+ "desc": "小说《诡秘之主》组织名",
+ "title": "黑荆棘安保公司",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "黑荆棘安保公司"
+   ],
+   "format": [
+    "黑荆棘安保公司"
+   ]
+  },
+  {
+   "key": "m25_source",
+   "name": "来源出处",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "员工数",
+   "value": [
+    "12人"
+   ],
+   "format": [
+    "12人"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "总部地点",
+   "value": [
+    "廷根市佐特兰街36号2层"
+   ],
+   "format": [
+    "廷根市佐特兰街36号2层"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "公司类型",
+   "value": [
+    "官方非凡者组织"
+   ],
+   "format": [
+    "官方非凡者组织"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/b58f8c5494eef01f3a29f0f37fa58e25bc315c60d7cb?x-bce-process=image/format,f_auto",
+ "src": "b58f8c5494eef01f3a29f0f37fa58e25bc315c60d7cb",
+ "imageHeight": 1080,
+ "imageWidth": 1920,
+ "isSummaryPic": "y",
+ "abstract": "黑荆棘安保公司，正式名称为“鲁恩王国阿霍瓦郡廷根市值夜者小队”，位于廷根市佐特兰街36号2层，是黑夜女神教会下辖的官方非凡者组织值夜者在廷根市的分队。",
+ "moduleIds": [
+  6329527133
+ ],
+ "url": "http://baike.baidu.com/item/%E9%BB%91%E8%8D%86%E6%A3%98%E5%AE%89%E4%BF%9D%E5%85%AC%E5%8F%B8",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%BB%91%E8%8D%86%E6%A3%98%E5%AE%89%E4%BF%9D%E5%85%AC%E5%8F%B8",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E9%BB%91%E8%8D%86%E6%A3%98%E5%AE%89%E4%BF%9D%E5%85%AC%E5%8F%B8#1'>组织设定</a>",
+  "<a href='http://baike.baidu.com/item/%E9%BB%91%E8%8D%86%E6%A3%98%E5%AE%89%E4%BF%9D%E5%85%AC%E5%8F%B8#2'>游戏设定</a>",
+  "<a href='http://baike.baidu.com/item/%E9%BB%91%E8%8D%86%E6%A3%98%E5%AE%89%E4%BF%9D%E5%85%AC%E5%8F%B8#3'>轶事趣闻</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%91%E8%8D%86%E6%A3%98%E5%AE%89%E4%BF%9D%E5%85%AC%E5%8F%B8#1'>组织设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%91%E8%8D%86%E6%A3%98%E5%AE%89%E4%BF%9D%E5%85%AC%E5%8F%B8#2'>游戏设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%BB%91%E8%8D%86%E6%A3%98%E5%AE%89%E4%BF%9D%E5%85%AC%E5%8F%B8#3'>轶事趣闻</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

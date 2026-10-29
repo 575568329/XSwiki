@@ -1,0 +1,29 @@
+[
+  {
+    "source": "https://www.shubaoge.org/",
+    "name": "玄鉴仙族",
+    "bookUrl": "https://www.shubaoge.org/files/article/html/246/246083/",
+    "chapters": 1610,
+    "menu": "#chapterlist li a",
+    "content": "#book_text",
+    "note": "主源（爱书包）。2026-10-26 实测：目录 1744 条，含章号标题 1610 条（范围 1..1641，缺 1460-1496 起点独有，6 个加更重号）；134 条纯拉丁标题条目为短页(约350汉字，通知/杂项)不取。正文节点 #book_text，utf8。"
+  },
+  {
+    "source": "http://www.uuwx.la/",
+    "name": "玄鉴仙族",
+    "bookUrl": "http://www.uuwx.la/ls/139_139290/",
+    "chapters": 1611,
+    "menu": "#list a",
+    "content": "#content",
+    "note": "修复源（UU）。2026-10-26 实测目录 1611 条数字章链接（相对 N.html）。content=#content 为 2026-10-23 项目文档实测结论（书源规则所写 .box_box 已失效）。https 不可达，走 http。"
+  },
+  {
+    "source": "http://www.deqixs.org/",
+    "name": "玄鉴仙族",
+    "bookUrl": "http://www.deqixs.org/",
+    "chapters": null,
+    "menu": "",
+    "content": "",
+    "note": "修复源（得奇）。2026-10-26 实测 https 掐断（curl 35），http 首页可达但站内搜索接口 404/302 未定位到本书目录页；仅作兜底登记，bookUrl 需现场探测。"
+  }
+]

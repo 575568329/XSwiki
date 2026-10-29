@@ -1,0 +1,74 @@
+{
+ "id": 33941265,
+ "subLemmaId": 37646723,
+ "newLemmaId": 63642680,
+ "key": "梅丽莎·莫雷蒂",
+ "desc": "小说《诡秘之主》及其衍生作品中的人物",
+ "title": "梅丽莎·莫雷蒂",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "梅丽莎·莫雷蒂"
+   ],
+   "format": [
+    "梅丽莎·莫雷蒂"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "女"
+   ],
+   "format": [
+    "女"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB/22466085\" data-lemmaid=\"22466085\">诡秘之主</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "兄妹",
+   "value": [
+    "克莱恩·莫雷蒂"
+   ],
+   "format": [
+    "克莱恩·莫雷蒂"
+   ]
+  }
+ ],
+ "imageHeight": null,
+ "imageWidth": null,
+ "isSummaryPic": "n",
+ "abstract": "梅丽莎·莫雷蒂，女，起点中文网连载的网络小说《诡秘之主》中的角色。梅丽莎·莫雷蒂是克莱恩·莫雷蒂的妹妹，在克莱恩因公殉职后，她与班森搬至贝克兰德。梅丽莎努力考入机械学院追求梦想，生活逐渐充满希望。战争的到来使生活再起波澜，战后她进入非凡世界成为序列九通识者，面临新挑战。目前是序列5天文学家，准备晋升序列4炼金术师。",
+ "moduleIds": [],
+ "url": "http://baike.baidu.com/item/%E6%A2%85%E4%B8%BD%E8%8E%8E%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%A2%85%E4%B8%BD%E8%8E%8E%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E6%A2%85%E4%B8%BD%E8%8E%8E%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82#1'>人物背景</a>",
+  "<a href='http://baike.baidu.com/item/%E6%A2%85%E4%B8%BD%E8%8E%8E%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82#2'>性格特点</a>",
+  "<a href='http://baike.baidu.com/item/%E6%A2%85%E4%B8%BD%E8%8E%8E%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82#3'>主要经历</a>",
+  "<a href='http://baike.baidu.com/item/%E6%A2%85%E4%B8%BD%E8%8E%8E%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82#4'>人物关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%A2%85%E4%B8%BD%E8%8E%8E%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82#1'>人物背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%A2%85%E4%B8%BD%E8%8E%8E%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82#2'>性格特点</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%A2%85%E4%B8%BD%E8%8E%8E%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82#3'>主要经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%A2%85%E4%B8%BD%E8%8E%8E%C2%B7%E8%8E%AB%E9%9B%B7%E8%92%82#4'>人物关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

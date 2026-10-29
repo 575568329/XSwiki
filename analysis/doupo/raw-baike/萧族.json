@@ -1,0 +1,98 @@
+{
+ "id": 5400254,
+ "subLemmaId": 5434957,
+ "newLemmaId": 8763656,
+ "key": "萧族",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中远古八族之一",
+ "title": "萧族",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "萧族"
+   ],
+   "format": [
+    "萧族"
+   ]
+  },
+  {
+   "key": "m233_source",
+   "name": "出处",
+   "value": [
+    "玄幻小说《<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>》及其衍生作品"
+   ],
+   "format": [
+    "玄幻小说《<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>》及其衍生作品"
+   ]
+  },
+  {
+   "key": "m233_alternateName",
+   "name": "别名",
+   "value": [
+    "萧家"
+   ],
+   "format": [
+    "萧家"
+   ]
+  },
+  {
+   "key": "m233_institutionType",
+   "name": "性质",
+   "value": [
+    "远古斗帝种族"
+   ],
+   "format": [
+    "远古斗帝种族"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "族长",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%90%A7%E6%88%98/16401275\" data-lemmaid=\"16401275\">萧战</a><sup>18</sup><a name=\"ref_18\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%90%A7%E6%88%98/16401275\" data-lemmaid=\"16401275\">萧战</a><sup>18</sup><a name=\"ref_18\"></a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "血脉",
+   "value": [
+    "斗帝血脉"
+   ],
+   "format": [
+    "斗帝血脉"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/0b55b319ebc4b74543a9b6b87faa09178a82b901bf5d?x-bce-process=image/format,f_auto",
+ "src": "0b55b319ebc4b74543a9b6b87faa09178a82b901bf5d",
+ "imageHeight": 360,
+ "imageWidth": 720,
+ "isSummaryPic": "y",
+ "abstract": "萧族，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的组织，远古八族之一，因血脉枯竭而衰败，是主角萧炎所在的家族。萧族是远古八族中最先出现血脉枯竭的种族，在族长萧玄集全族之力突破斗帝失败后被魂族所灭。残存的族人在大陆西北组建了萧家。在萧炎晋升斗帝后，萧家原本枯竭的斗帝血脉被重新激活，萧族再度崛起屹立于斗气大陆的巅峰。",
+ "moduleIds": [
+  4669380368
+ ],
+ "url": "http://baike.baidu.com/view/5400254.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%90%A7%E6%97%8F/8763656",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/5400254.htm#1'>组织背景</a>",
+  "<a href='http://baike.baidu.com/view/5400254.htm#2'>组织经历</a>",
+  "<a href='http://baike.baidu.com/view/5400254.htm#3'>组织成员</a>",
+  "<a href='http://baike.baidu.com/view/5400254.htm#4'>组织文化</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E6%97%8F/8763656#1'>组织背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E6%97%8F/8763656#2'>组织经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E6%97%8F/8763656#3'>组织成员</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E6%97%8F/8763656#4'>组织文化</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

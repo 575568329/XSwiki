@@ -1,0 +1,60 @@
+{
+  "name": "李清虹",
+  "oneLiner": "李家雷修、仙基玄雷泊的清字辈女修，爽朗好武、护幼念家，雷道折寿三成而不悔。",
+  "toProtagonist": "仙鉴（陆江仙）亲选的玄珠符种持有者之一，李家雷道支柱，见证李家百年兴衰。",
+  "visualLine": "约三十岁女性雷修，相貌端庄，明媚杏眼、红唇纤手，头顶生九寸白毫，持杜若枪、着棕色鹿皮靴，发梢衣角隐有雷光。",
+  "role": "core",
+  "cultivation": "筑基（仙基玄雷泊，气海化雷池）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "受箓得符",
+      "chapterStart": 157,
+      "chapterEnd": 159,
+      "situation": "身具灵窍、头顶白毫九寸；受箓日仙鉴舍李渊修而选她与李渊蛟，符种落眉心升阳府",
+      "cultivationAt": "-",
+      "visual": "束长发女童，头顶白毫九寸",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "玉庭练枪",
+      "chapterStart": 211,
+      "chapterEnd": 377,
+      "situation": "突破玉京轮生灵识，与费桐啸切磋练枪；修紫雷秘元功，玉庭山看护教导李曦峸",
+      "cultivationAt": "练气八层",
+      "visual": "棕色鹿皮靴，长枪一驻",
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "仙基雷成",
+      "chapterStart": 400,
+      "chapterEnd": 438,
+      "situation": "突破筑基成仙基玄雷泊，气海化雷池；筑坛试祈雷引电，自言雷道已折寿三成",
+      "cultivationAt": "筑基（仙基玄雷泊）",
+      "visual": "御紫电，发梢衣角雷光点点",
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "雷女行世",
+      "chapterStart": 482,
+      "chapterEnd": 822,
+      "situation": "赴东海收兄长遗物；识破张允身份而不揭穿、执晚辈礼；与李周巍论天武真君",
+      "cultivationAt": "筑基（仙基玄雷泊）",
+      "visual": "将将三十、少清秀多端庄，执杜若枪",
+      "spoiler": true
+    },
+    {
+      "id": "stg5",
+      "title": "百年重逢",
+      "chapterStart": 1632,
+      "chapterEnd": 1632,
+      "situation": "百年后与李周巍重逢，忆当年为尚是筑基的他指点真炁之局",
+      "cultivationAt": "筑基（仙基玄雷泊）",
+      "visual": null,
+      "spoiler": false
+    }
+  ]
+}

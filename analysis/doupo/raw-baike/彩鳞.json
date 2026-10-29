@@ -1,0 +1,149 @@
+{
+ "id": 38066,
+ "subLemmaId": 12482752,
+ "newLemmaId": 13006740,
+ "key": "彩鳞",
+ "desc": "玄幻小说《斗破苍穹》的女主角",
+ "title": "美杜莎",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "美杜莎"
+   ],
+   "format": [
+    "美杜莎"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "彩鳞、美杜莎女王"
+   ],
+   "format": [
+    "彩鳞、美杜莎女王"
+   ]
+  },
+  {
+   "key": "m47_playrole",
+   "name": "饰演",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%BE%9B%E8%8A%B7%E8%95%BE\">辛芷蕾</a>（《斗破苍穹》电视剧）"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%BE%9B%E8%8A%B7%E8%95%BE\">辛芷蕾</a>（《斗破苍穹》电视剧）"
+   ]
+  },
+  {
+   "key": "m47_dub",
+   "name": "配音",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%86%AF%E9%AA%8F%E9%AA%85/3587312\" data-lemmaid=\"3587312\">冯骏骅</a>（《<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/18824360\" data-lemmaid=\"18824360\">斗破苍穹</a>》动画）"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%86%AF%E9%AA%8F%E9%AA%85/3587312\" data-lemmaid=\"3587312\">冯骏骅</a>（《<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/18824360\" data-lemmaid=\"18824360\">斗破苍穹</a>》动画）"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "女"
+   ],
+   "format": [
+    "女"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "《斗破苍穹》及其衍生作品<sup>5</sup><a name=\"ref_5\"></a>",
+    "《武动乾坤》 及其衍生作品<sup>6</sup><a name=\"ref_6\"></a>",
+    "《大主宰》 及其衍生作品<sup>7</sup><a name=\"ref_7\"></a>"
+   ],
+   "format": [
+    "《斗破苍穹》及其衍生作品<sup>5</sup><a name=\"ref_5\"></a>",
+    "《武动乾坤》 及其衍生作品<sup>6</sup><a name=\"ref_6\"></a>",
+    "《大主宰》 及其衍生作品<sup>7</sup><a name=\"ref_7\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "本体",
+   "value": [
+    "七彩吞天蟒→九彩吞天蟒<sup>8</sup><a name=\"ref_8\"></a>"
+   ],
+   "format": [
+    "七彩吞天蟒→九彩吞天蟒<sup>8</sup><a name=\"ref_8\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "隶属",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%9B%87%E4%BA%BA%E9%83%A8%E8%90%BD/23413553\" data-lemmaid=\"23413553\">蛇人部落</a>、<a target=_blank href=\"/item/%E7%82%8E%E7%9B%9F/23413597\" data-lemmaid=\"23413597\">炎盟</a>、<a target=_blank href=\"/item/%E5%A4%A9%E5%BA%9C%E8%81%94%E7%9B%9F/5391144\" data-lemmaid=\"5391144\">天府联盟</a>、<a target=_blank href=\"/item/%E6%97%A0%E5%B0%BD%E7%81%AB%E5%9F%9F\">无尽火域</a><sup>5</sup><a name=\"ref_5\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%9B%87%E4%BA%BA%E9%83%A8%E8%90%BD/23413553\" data-lemmaid=\"23413553\">蛇人部落</a>、<a target=_blank href=\"/item/%E7%82%8E%E7%9B%9F/23413597\" data-lemmaid=\"23413597\">炎盟</a>、<a target=_blank href=\"/item/%E5%A4%A9%E5%BA%9C%E8%81%94%E7%9B%9F/5391144\" data-lemmaid=\"5391144\">天府联盟</a>、<a target=_blank href=\"/item/%E6%97%A0%E5%B0%BD%E7%81%AB%E5%9F%9F\">无尽火域</a><sup>5</sup><a name=\"ref_5\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "美杜莎女王、无尽火域主母<sup>7</sup><a name=\"ref_7\"></a>"
+   ],
+   "format": [
+    "美杜莎女王、无尽火域主母<sup>7</sup><a name=\"ref_7\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "境界",
+   "value": [
+    "圣品天至尊<sup>9</sup><a name=\"ref_9\"></a>"
+   ],
+   "format": [
+    "圣品天至尊<sup>9</sup><a name=\"ref_9\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/e61190ef76c6a7ef2cca01c4f3faaf51f2de6660?x-bce-process=image/format,f_auto",
+ "src": "e61190ef76c6a7ef2cca01c4f3faaf51f2de6660",
+ "imageHeight": 1751,
+ "imageWidth": 1079,
+ "isSummaryPic": "y",
+ "abstract": "美杜莎，又名彩鳞，天蚕土豆所著异世大陆类玄幻小说《斗破苍穹》及其衍生作品中的女主角之一，《武动乾坤》《大主宰》当中客串出场。原为加玛帝国塔戈尔大沙漠蛇人部落女王，在天焚练气塔底部时受到“陨落心炎”的煅烧而与七彩吞天蟒的灵魂融为一体，虚弱之际因萧炎吞噬“陨落心炎”的后遗症发作而失身于萧炎。事后虽然暴怒追杀萧炎，但却因七彩吞天蟒灵魂的影响而迟迟下不了杀手。后来萧炎与她达成交易让她留在自己身边，并给她改名彩鳞。最后两人日久生情，对萧炎确定心意后便死心塌地，在萧炎与其家人面前显露出女人的一面，后生有一女，名为萧潇。",
+ "moduleIds": [
+  5313856893,
+  5540048527,
+  5540048528,
+  4171533375
+ ],
+ "url": "http://baike.baidu.com/subview/38066/12482752.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%BE%8E%E6%9D%9C%E8%8E%8E/13006740",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/38066.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/38066/12482752.htm#1'>角色形象</a>",
+  "<a href='http://baike.baidu.com/subview/38066/12482752.htm#2'>九彩吞天蟒</a>",
+  "<a href='http://baike.baidu.com/subview/38066/12482752.htm#3'>人际关系</a>",
+  "<a href='http://baike.baidu.com/subview/38066/12482752.htm#4'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E7%BE%8E%E6%9D%9C%E8%8E%8E/13006740#1'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%BE%8E%E6%9D%9C%E8%8E%8E/13006740#2'>九彩吞天蟒</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%BE%8E%E6%9D%9C%E8%8E%8E/13006740#3'>人际关系</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%BE%8E%E6%9D%9C%E8%8E%8E/13006740#4'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": {
+  "from": "彩鳞",
+  "to": "美杜莎"
+ }
+}

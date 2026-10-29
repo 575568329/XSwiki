@@ -1,0 +1,108 @@
+{
+ "id": 5938635,
+ "subLemmaId": 6005380,
+ "newLemmaId": 7113642,
+ "key": "魂天帝",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的角色",
+ "title": "魂天帝",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "魂天帝"
+   ],
+   "format": [
+    "魂天帝"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "魂帝"
+   ],
+   "format": [
+    "魂帝"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "实力",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E5%B8%9D/14821964\" data-lemmaid=\"14821964\">斗帝</a><sup>4</sup><a name=\"ref_4\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E5%B8%9D/14821964\" data-lemmaid=\"14821964\">斗帝</a><sup>4</sup><a name=\"ref_4\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "魂族族长"
+   ],
+   "format": [
+    "魂族族长"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属势力",
+   "value": [
+    "远古八族之魂族"
+   ],
+   "format": [
+    "远古八族之魂族"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/8694a4c27d1ed21b0ef4672a9336cac451da80cb91fe?x-bce-process=image/format,f_auto",
+ "src": "8694a4c27d1ed21b0ef4672a9336cac451da80cb91fe",
+ "imageHeight": 903,
+ "imageWidth": 677,
+ "isSummaryPic": "y",
+ "abstract": "魂天帝，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的男角色，斗气大陆远古八族之魂族的族长。为人野心勃勃，心狠手辣，小心谨慎，做事不择手段。天赋与血脉极佳且实力强横。原为九星斗圣后期实力，后成功吞服帝品雏丹，并借助中州无数生灵血肉催熟雏丹，成功晋升斗帝，成为自陀舍古帝后斗气大陆首位成帝者。最终被萧炎以牺牲肉身的代价将其封印。",
+ "moduleIds": [
+  5177632027
+ ],
+ "url": "http://baike.baidu.com/view/5938635.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%AD%82%E5%A4%A9%E5%B8%9D/7113642",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/5938635.htm#1'>角色形象</a>",
+  "<a href='http://baike.baidu.com/view/5938635.htm#2'>角色能力</a>",
+  "<a href='http://baike.baidu.com/view/5938635.htm#3'>角色经历</a>",
+  "<a href='http://baike.baidu.com/view/5938635.htm#4'>人际关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%82%E5%A4%A9%E5%B8%9D/7113642#1'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%82%E5%A4%A9%E5%B8%9D/7113642#2'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%82%E5%A4%A9%E5%B8%9D/7113642#3'>角色经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%82%E5%A4%A9%E5%B8%9D/7113642#4'>人际关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

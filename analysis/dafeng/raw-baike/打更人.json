@@ -1,0 +1,103 @@
+{
+ "id": 2169285,
+ "subLemmaId": 2169285,
+ "newLemmaId": 1076386,
+ "key": "打更人",
+ "desc": "职业",
+ "title": "更夫",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "更夫"
+   ],
+   "format": [
+    "更夫"
+   ]
+  },
+  {
+   "key": "m25_region",
+   "name": "地区",
+   "value": [
+    "中国"
+   ],
+   "format": [
+    "中国"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "作用",
+   "value": [
+    "报时"
+   ],
+   "format": [
+    "报时"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "解释",
+   "value": [
+    "每天夜里敲竹梆子或锣的人"
+   ],
+   "format": [
+    "每天夜里敲竹梆子或锣的人"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "工作人数",
+   "value": [
+    "两人一搭一档"
+   ],
+   "format": [
+    "两人一搭一档"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "著名人物",
+   "value": [
+    "孙中山父亲孙达成"
+   ],
+   "format": [
+    "孙中山父亲孙达成"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/908fa0ec08fa513d90262c283b6d55fbb3fbd9bc?x-bce-process=image/format,f_auto",
+ "src": "908fa0ec08fa513d90262c283b6d55fbb3fbd9bc",
+ "imageHeight": 800,
+ "imageWidth": 600,
+ "isSummaryPic": "y",
+ "abstract": "更夫，又称打更人或守夜人，是中国古代从事夜间报时与巡防的职业。其职责为通过城镇高楼、寺庙设置的漏壶计时系统，采用鸣锣击梆方式将一夜划分为五更（每更两小时），自城门关闭后的戌时（19点）至寅时（5点）定时巡报，并承担火情预警、治安示警及政令传讯（部分政府文告经其口述传播）等功能，通常两人一组执行任务。该职业起源于原始巫术中的驱鬼仪式，汉代至宋元时期由地方里正雇佣管理。明代改由丐帮成员充任，清代则选拔体格健壮者强化治安职能，民国后因钟表普及逐渐衰落，至解放后基本消失。职业组织形态随朝代更迭变化，工作内容涵盖时间提示与公共安全维护，成为传统城镇夜间管理的重要构成。",
+ "moduleIds": [
+  4457766439,
+  5643595659
+ ],
+ "url": "http://baike.baidu.com/subview/2169285/2169285.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%9B%B4%E5%A4%AB/1076386",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/2169285.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/2169285/2169285.htm#1'>工作内容</a>",
+  "<a href='http://baike.baidu.com/subview/2169285/2169285.htm#2'>历史沿革</a>",
+  "<a href='http://baike.baidu.com/subview/2169285/2169285.htm#3'>引申</a>",
+  "<a href='http://baike.baidu.com/subview/2169285/2169285.htm#4'>古人打更</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%9B%B4%E5%A4%AB/1076386#1'>工作内容</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9B%B4%E5%A4%AB/1076386#2'>历史沿革</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9B%B4%E5%A4%AB/1076386#3'>引申</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%9B%B4%E5%A4%AB/1076386#4'>古人打更</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": {
+  "from": "打更人",
+  "to": "更夫"
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "id": 34418883,
+ "subLemmaId": 38302882,
+ "newLemmaId": 64491119,
+ "key": "灵教团",
+ "desc": "小说《诡秘之主》隐秘组织",
+ "title": "灵教团",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "灵教团"
+   ],
+   "format": [
+    "灵教团"
+   ]
+  },
+  {
+   "key": "m25_source",
+   "name": "来源出处",
+   "value": [
+    "诡秘之主"
+   ],
+   "format": [
+    "诡秘之主"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "属性",
+   "value": [
+    "隐秘组织"
+   ],
+   "format": [
+    "隐秘组织"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/72f082025aafa40f4bfbea346c3f144f78f0f636b39d?x-bce-process=image/format,f_auto",
+ "src": "72f082025aafa40f4bfbea346c3f144f78f0f636b39d",
+ "imageHeight": 1080,
+ "imageWidth": 1920,
+ "isSummaryPic": "y",
+ "abstract": "灵教团，网络小说《诡秘之主》中的隐秘组织，信奉死亡，于第五纪初期创立。",
+ "moduleIds": [
+  6385251377
+ ],
+ "url": "http://baike.baidu.com/item/%E7%81%B5%E6%95%99%E5%9B%A2",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%81%B5%E6%95%99%E5%9B%A2",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E7%81%B5%E6%95%99%E5%9B%A2#1'>组织背景</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E7%81%B5%E6%95%99%E5%9B%A2#1'>组织背景</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

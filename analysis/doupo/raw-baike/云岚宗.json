@@ -1,0 +1,99 @@
+{
+ "id": 4570857,
+ "subLemmaId": 4570857,
+ "newLemmaId": 6131592,
+ "key": "云岚宗",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的宗门",
+ "title": "云岚宗",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "云岚宗"
+   ],
+   "format": [
+    "云岚宗"
+   ]
+  },
+  {
+   "key": "m233_source",
+   "name": "出处",
+   "value": [
+    "《<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>》"
+   ],
+   "format": [
+    "《<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>》"
+   ]
+  },
+  {
+   "key": "m233_type",
+   "name": "类型",
+   "value": [
+    "宗门<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "宗门<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "开山始祖",
+   "value": [
+    "<a target=_blank href=\"/item/%E4%BA%91%E7%A0%B4%E5%A4%A9/56221362\" data-lemmaid=\"56221362\">云破天</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E4%BA%91%E7%A0%B4%E5%A4%A9/56221362\" data-lemmaid=\"56221362\">云破天</a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "前任宗主",
+   "value": [
+    "<a target=_blank href=\"/item/%E4%BA%91%E5%B1%B1/14209184\" data-lemmaid=\"14209184\">云山</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E4%BA%91%E5%B1%B1/14209184\" data-lemmaid=\"14209184\">云山</a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "现任宗主",
+   "value": [
+    "<a target=_blank href=\"/item/%E4%BA%91%E9%9F%B5/3281285\" data-lemmaid=\"3281285\">云韵</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E4%BA%91%E9%9F%B5/3281285\" data-lemmaid=\"3281285\">云韵</a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/6609c93d70cf3bc79f3df6004859ada1cd11738bfc9c?x-bce-process=image/format,f_auto",
+ "src": "6609c93d70cf3bc79f3df6004859ada1cd11738bfc9c",
+ "imageHeight": 663,
+ "imageWidth": 495,
+ "isSummaryPic": "y",
+ "abstract": "云岚宗，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的宗门，由云破天所创，是加玛帝国最强的势力。但在西北地域地位不高，一直是西北大陆的二流势力，云山突破斗宗后，勉强跻身西北地域一流势力。云岚宗在加玛帝国拥有无与伦比的威望，是帝国内无数年轻修行者梦寐以求想要加入的地方。历任宗主包括云山、云韵，核心成员有纳兰嫣然、云棱等。最初因纳兰嫣然退婚的缘故和萧炎略有矛盾，后由于云岚宗外门执事墨承被萧炎斩杀，大长老云棱发现后想要将萧炎留下进行调查，双方矛盾开始激化。前任宗主云山出关了解情况后本决定放弃追究萧炎责任而任其离去，但云棱事后瞒着云山、云韵，擅自做主偷袭萧家，致使萧战被魂殿掳走，从而遭到萧炎疯狂报复，使得两者彻底敌对，最终被萧炎强制解散。",
+ "moduleIds": [
+  5699903014,
+  7040197334
+ ],
+ "url": "http://baike.baidu.com/view/4570857.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E4%BA%91%E5%B2%9A%E5%AE%97/6131592",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/4570857.htm#1'>组织背景</a>",
+  "<a href='http://baike.baidu.com/view/4570857.htm#2'>组织成员</a>",
+  "<a href='http://baike.baidu.com/view/4570857.htm#3'>组织经历</a>",
+  "<a href='http://baike.baidu.com/view/4570857.htm#4'>组织配置</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E4%BA%91%E5%B2%9A%E5%AE%97/6131592#1'>组织背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%BA%91%E5%B2%9A%E5%AE%97/6131592#2'>组织成员</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%BA%91%E5%B2%9A%E5%AE%97/6131592#3'>组织经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%BA%91%E5%B2%9A%E5%AE%97/6131592#4'>组织配置</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

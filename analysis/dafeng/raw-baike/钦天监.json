@@ -1,0 +1,101 @@
+{
+ "id": 59569,
+ "subLemmaId": 59569,
+ "newLemmaId": 1080265,
+ "key": "钦天监",
+ "desc": "中国古代官署名",
+ "title": "钦天监",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "钦天监"
+   ],
+   "format": [
+    "钦天监"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "职位要求",
+   "value": [
+    "掌管天文观测、历法制定"
+   ],
+   "format": [
+    "掌管天文观测、历法制定"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "使用时代",
+   "value": [
+    "明代、清代"
+   ],
+   "format": [
+    "明代、清代"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "职官品秩",
+   "value": [
+    "监正、监副"
+   ],
+   "format": [
+    "监正、监副"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "名称由来",
+   "value": [
+    "官署名"
+   ],
+   "format": [
+    "官署名"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "名称起源",
+   "value": [
+    "渊源可追溯至周代"
+   ],
+   "format": [
+    "渊源可追溯至周代"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/7dd98d1001e939017852a39c73ec54e736d1963b?x-bce-process=image/format,f_auto",
+ "src": "7dd98d1001e939017852a39c73ec54e736d1963b",
+ "imageHeight": 422,
+ "imageWidth": 640,
+ "isSummaryPic": "y",
+ "abstract": "钦天监是中国古代掌管天文观测、历法制定的官署，其渊源可追溯至周代太史，秦汉由太史令执掌。隋设太史监，唐初改太史监为太史局，后数度改称秘书阁、浑天监察院、浑仪监，属秘书省，开元十四年（726年）复为太史局，乾元元年（758年）改司天台。五代称司天监，宋初称司天台，宋太宗太平兴国八年（983）后司天监成为主要称呼，期间司天监曾吸纳盲人天文学家卫朴等民间术士参与历法工作。辽设南面官司天监，金改称司天台，属秘书监，元设太史院，明初沿用司天监，后改钦天监，清代沿袭明制。该机构设监正、监副等职，分天文、漏刻、历法四科，明代形成固定官制。明代钦天监实行“世籍世业”制度，洪武六年（1373年）规定其人员永远不许迁动，子孙只许习学天文历算。清增设管理监事王大臣，监正等职务包括西洋传教士，如汤若望、南怀仁。清康熙以后，钦天监下设时宪、漏刻、天文三科。清初推行西洋传教士修订的《时宪历》，期间经历历法争议，经实测...",
+ "moduleIds": [
+  4697252873,
+  5629500343,
+  5657328912
+ ],
+ "url": "http://baike.baidu.com/subview/59569/59569.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%92%A6%E5%A4%A9%E7%9B%91/1080265",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/59569.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/59569/59569.htm#1'>历史沿革</a>",
+  "<a href='http://baike.baidu.com/subview/59569/59569.htm#2'>简介</a>",
+  "<a href='http://baike.baidu.com/subview/59569/59569.htm#3'>历代监正</a>",
+  "<a href='http://baike.baidu.com/subview/59569/59569.htm#4'>汤若望</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%92%A6%E5%A4%A9%E7%9B%91/1080265#1'>历史沿革</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%92%A6%E5%A4%A9%E7%9B%91/1080265#2'>简介</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%92%A6%E5%A4%A9%E7%9B%91/1080265#3'>历代监正</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%92%A6%E5%A4%A9%E7%9B%91/1080265#4'>汤若望</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

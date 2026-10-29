@@ -1,0 +1,119 @@
+{
+ "id": 5949762,
+ "subLemmaId": 6017534,
+ "newLemmaId": 7329130,
+ "key": "石族",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的远古八族之一",
+ "title": "石族",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "石族"
+   ],
+   "format": [
+    "石族"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "所属作品",
+   "value": [
+    "斗破苍穹"
+   ],
+   "format": [
+    "斗破苍穹"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "类别",
+   "value": [
+    "远古种族"
+   ],
+   "format": [
+    "远古种族"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "地位",
+   "value": [
+    "远古八族之一"
+   ],
+   "format": [
+    "远古八族之一"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "核心实力",
+   "value": [
+    "六星斗圣坐镇"
+   ],
+   "format": [
+    "六星斗圣坐镇"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "特性",
+   "value": [
+    "血脉传承低调"
+   ],
+   "format": [
+    "血脉传承低调"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "灭亡节点",
+   "value": [
+    "古族成人礼后"
+   ],
+   "format": [
+    "古族成人礼后"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "定义",
+   "value": [
+    "石族是小说《斗破苍穹》中远古八族之一"
+   ],
+   "format": [
+    "石族是小说《斗破苍穹》中远古八族之一"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/80cb39dbb6fd5266d0161b8a1a41802bd40734fa98ae?x-bce-process=image/format,f_auto",
+ "src": "80cb39dbb6fd5266d0161b8a1a41802bd40734fa98ae",
+ "imageHeight": 1157,
+ "imageWidth": 1821,
+ "isSummaryPic": "y",
+ "abstract": "石族是小说《斗破苍穹》中远古八族之一，拥有斗帝血脉传承，整体实力至少与丹塔相当。该种族素来低调，在中州鲜有传闻，但在古族成人礼和净莲妖火降世等重要事件中均有登场。魂族为夺取其斗帝血脉和陀舍古帝玉，将其悄无声息灭族，这一事件为魂族后续行动创造了条件。",
+ "moduleIds": [
+  5545756690
+ ],
+ "url": "http://baike.baidu.com/subview/5949762/6017534.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%9F%B3%E6%97%8F/7329130",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/5949762.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/5949762/6017534.htm#1'>种族起源与背景</a>",
+  "<a href='http://baike.baidu.com/subview/5949762/6017534.htm#2'>种族特征</a>",
+  "<a href='http://baike.baidu.com/subview/5949762/6017534.htm#3'>灭亡事件</a>",
+  "<a href='http://baike.baidu.com/subview/5949762/6017534.htm#4'>游戏设定</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E7%9F%B3%E6%97%8F/7329130#1'>种族起源与背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%9F%B3%E6%97%8F/7329130#2'>种族特征</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%9F%B3%E6%97%8F/7329130#3'>灭亡事件</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%9F%B3%E6%97%8F/7329130#4'>游戏设定</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

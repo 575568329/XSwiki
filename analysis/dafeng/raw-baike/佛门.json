@@ -1,0 +1,109 @@
+{
+ "id": 910589,
+ "subLemmaId": 910589,
+ "newLemmaId": 3563158,
+ "key": "佛门",
+ "desc": "汉语词语",
+ "title": "佛门",
+ "card": [
+  {
+   "key": "m231_name",
+   "name": "中文名",
+   "value": [
+    "佛门"
+   ],
+   "format": [
+    "佛门"
+   ]
+  },
+  {
+   "key": "m231_homonym",
+   "name": "近义词",
+   "value": [
+    "释门、法门、空门"
+   ],
+   "format": [
+    "释门、法门、空门"
+   ]
+  },
+  {
+   "key": "m231_customDefault",
+   "name": "拼音",
+   "value": [
+    "fó mén"
+   ],
+   "format": [
+    "fó mén"
+   ]
+  },
+  {
+   "key": "m231_customDefault",
+   "name": "注音",
+   "value": [
+    "ㄈㄛˊ ㄇㄣˊ"
+   ],
+   "format": [
+    "ㄈㄛˊ ㄇㄣˊ"
+   ]
+  },
+  {
+   "key": "m231_customDefault",
+   "name": "词性",
+   "value": [
+    "名词"
+   ],
+   "format": [
+    "名词"
+   ]
+  },
+  {
+   "key": "m231_customDefault",
+   "name": "出处",
+   "value": [
+    "《三论玄义》"
+   ],
+   "format": [
+    "《三论玄义》"
+   ]
+  },
+  {
+   "key": "m231_customDefault",
+   "name": "属性",
+   "value": [
+    "文化术语"
+   ],
+   "format": [
+    "文化术语"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/f3d3572c11dfa9ec8a13c16b0c8be003918fa0ec6b01?x-bce-process=image/format,f_auto",
+ "src": "f3d3572c11dfa9ec8a13c16b0c8be003918fa0ec6b01",
+ "imageHeight": 620,
+ "imageWidth": 1098,
+ "isSummaryPic": "y",
+ "abstract": "佛门是汉语词汇，起源于《三论玄义》中“开显诸佛教门”的表述，原指佛教教法体系，后代主要为佛教对于儒、道二教之自称。佛门指佛教之门，是佛教的自称，亦为佛教教法体系的总称，又作释门、法门等。在佛教内部，其教法有“宗门”与“教下”之分。佛门一词的起源可追溯至南北朝时期《三论玄义》。佛教自汉代传入中国后，逐步与本土的儒家、道家思想互动融合，形成儒、道、佛三教并称的格局。在此过程中，“佛门”成为佛教在中华文化语境中区别于儒、道二家的自称。",
+ "moduleIds": [
+  6923008017
+ ],
+ "url": "http://baike.baidu.com/subview/910589/910589.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E4%BD%9B%E9%97%A8/3563158",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/910589.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/910589/910589.htm#1'>释义</a>",
+  "<a href='http://baike.baidu.com/subview/910589/910589.htm#2'>词语来源</a>",
+  "<a href='http://baike.baidu.com/subview/910589/910589.htm#3'>历史沿革</a>",
+  "<a href='http://baike.baidu.com/subview/910589/910589.htm#4'>在文学中的应用与影响</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E4%BD%9B%E9%97%A8/3563158#1'>释义</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%BD%9B%E9%97%A8/3563158#2'>词语来源</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%BD%9B%E9%97%A8/3563158#3'>历史沿革</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%BD%9B%E9%97%A8/3563158#4'>在文学中的应用与影响</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

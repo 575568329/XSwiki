@@ -1,0 +1,101 @@
+{
+ "id": 5177948,
+ "subLemmaId": 5205079,
+ "newLemmaId": 4955583,
+ "key": "苏千",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的角色",
+ "title": "苏千",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "苏千"
+   ],
+   "format": [
+    "苏千"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m47_occupation",
+   "name": "职业",
+   "value": [
+    "迦南学院大长老"
+   ],
+   "format": [
+    "迦南学院大长老"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "境界",
+   "value": [
+    "二星斗宗"
+   ],
+   "format": [
+    "二星斗宗"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "势    力",
+   "value": [
+    "迦南学院"
+   ],
+   "format": [
+    "迦南学院"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/9213b07eca8065380cd78c7da584b644ad345982241e?x-bce-process=image/format,f_auto",
+ "src": "9213b07eca8065380cd78c7da584b644ad345982241e",
+ "imageHeight": 378,
+ "imageWidth": 462,
+ "isSummaryPic": "y",
+ "abstract": "苏千是天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的角色，迦南学院大长老，二星斗宗境界。其身着黑袍，白须白发，眸含冷锋，以严肃负责的性情管理迦南学院事务，对天赋学员尤为关照。苏千曾收养误食化形草的紫妍，并在陨落心炎暴动时率众长老镇压，后邀请萧炎协助学院镇压暴动的陨落心炎。迦南学院强榜大赛中主持判定萧炎与柳擎平手，于韩枫入侵时力抗强敌。萧炎前往中州前，委托其带紫妍探寻身世之谜。苏千实力由二星斗宗晋升至五星斗尊，被萧炎评价为气势强于云山。其与千木、百烈等长老交好，直属上级为院长邙天尺，抚养紫妍长大并助其寻根。",
+ "moduleIds": [
+  5462824233,
+  5559581442,
+  5651447496
+ ],
+ "url": "http://baike.baidu.com/subview/5177948/5205079.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%8B%8F%E5%8D%83/4955583",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/5177948.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/5177948/5205079.htm#1'>角色形象</a>",
+  "<a href='http://baike.baidu.com/subview/5177948/5205079.htm#2'>角色能力</a>",
+  "<a href='http://baike.baidu.com/subview/5177948/5205079.htm#3'>角色经历</a>",
+  "<a href='http://baike.baidu.com/subview/5177948/5205079.htm#4'>角色评价</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%8B%8F%E5%8D%83/4955583#1'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%8B%8F%E5%8D%83/4955583#2'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%8B%8F%E5%8D%83/4955583#3'>角色经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%8B%8F%E5%8D%83/4955583#4'>角色评价</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

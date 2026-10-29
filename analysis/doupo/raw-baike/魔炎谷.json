@@ -1,0 +1,108 @@
+{
+ "id": 5781798,
+ "subLemmaId": 5835934,
+ "newLemmaId": 4091997,
+ "key": "魔炎谷",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的势力",
+ "title": "魔炎谷",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "魔炎谷"
+   ],
+   "format": [
+    "魔炎谷"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "所属作品",
+   "value": [
+    "斗破苍穹"
+   ],
+   "format": [
+    "斗破苍穹"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "势力性质",
+   "value": [
+    "黑角域反派势力"
+   ],
+   "format": [
+    "黑角域反派势力"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "地理位置",
+   "value": [
+    "黑角域西北部"
+   ],
+   "format": [
+    "黑角域西北部"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "覆灭时间",
+   "value": [
+    "地魔老鬼死亡后"
+   ],
+   "format": [
+    "地魔老鬼死亡后"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "首领",
+   "value": [
+    "地魔老鬼（七星斗宗）"
+   ],
+   "format": [
+    "地魔老鬼（七星斗宗）"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "关键物品",
+   "value": [
+    "弄焰诀、天妖傀秘法"
+   ],
+   "format": [
+    "弄焰诀、天妖傀秘法"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/f31fbe096b63f6246b601b349018fcf81a4c510f05ca?x-bce-process=image/format,f_auto",
+ "src": "f31fbe096b63f6246b601b349018fcf81a4c510f05ca",
+ "imageHeight": 2314,
+ "imageWidth": 3642,
+ "isSummaryPic": "y",
+ "abstract": "魔炎谷是小说《斗破苍穹》中位于黑角域的老牌势力，长期与迦南学院对立。其首领地魔老鬼曾多次组织针对迦南学院内院学生历练队伍的袭击行动。在\"菩提化体涎\"争夺事件后，地魔老鬼联合韩枫进攻迦南学院，被萧炎以毁灭火莲重创后遭千百二老击杀。地魔老鬼死后，萧炎联合多方势力彻底剿灭魔炎谷，并获取该势力宝库中保存的\"弄焰诀\"功法真本与天妖傀炼制秘法。",
+ "moduleIds": [
+  7112330103
+ ],
+ "url": "http://baike.baidu.com/view/5781798.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%AD%94%E7%82%8E%E8%B0%B7/4091997",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/5781798.htm#1'>势力背景与构成</a>",
+  "<a href='http://baike.baidu.com/view/5781798.htm#2'>作品设定</a>",
+  "<a href='http://baike.baidu.com/view/5781798.htm#3'>与迦南学院的冲突</a>",
+  "<a href='http://baike.baidu.com/view/5781798.htm#4'>覆灭过程</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%94%E7%82%8E%E8%B0%B7/4091997#1'>势力背景与构成</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%94%E7%82%8E%E8%B0%B7/4091997#2'>作品设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%94%E7%82%8E%E8%B0%B7/4091997#3'>与迦南学院的冲突</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E9%AD%94%E7%82%8E%E8%B0%B7/4091997#4'>覆灭过程</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

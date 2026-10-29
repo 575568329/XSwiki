@@ -1,0 +1,26 @@
+[
+ {
+  "source": "http://www.yetianlian.net/",
+  "name": "黎明之剑",
+  "bookUrl": "http://www.yetianlian.net/yt362/",
+  "chapters": 1599,
+  "menu": ".listmain dl dd:gt(11) a",
+  "content": "#content"
+ },
+ {
+  "source": "http://www.yunxs.la/",
+  "name": "黎明之剑",
+  "bookUrl": "http://www.yunxs.la/limingzhijian/",
+  "chapters": 1599,
+  "menu": ".list_box ul li a",
+  "content": ".box_box"
+ },
+ {
+  "source": "https://s.sfacg.com/",
+  "name": "黎明之剑",
+  "bookUrl": "https://book.sfacg.com/Novel/37369",
+  "chapters": 0,
+  "menu": ".story-catalog .catalog-list ul li a",
+  "content": "#ChapterBody"
+ }
+]

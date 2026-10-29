@@ -1,0 +1,118 @@
+{
+ "id": 33883006,
+ "subLemmaId": 37567578,
+ "newLemmaId": 63539953,
+ "key": "愚者教会",
+ "desc": "网络小说《诡秘之主》及其衍生作品登场的隐秘组织之一",
+ "title": "愚者教会",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "愚者教会、海神教会"
+   ],
+   "format": [
+    "愚者教会、海神教会"
+   ]
+  },
+  {
+   "key": "m233_attribute",
+   "name": "属性",
+   "value": [
+    "隐秘组织"
+   ],
+   "format": [
+    "隐秘组织"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "创建者",
+   "value": [
+    "克莱恩.莫雷蒂"
+   ],
+   "format": [
+    "克莱恩.莫雷蒂"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "信仰",
+   "value": [
+    "愚者"
+   ],
+   "format": [
+    "愚者"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "下属教会",
+   "value": [
+    "愚者教会、海神教会"
+   ],
+   "format": [
+    "愚者教会、海神教会"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "大主教",
+   "value": [
+    "<b>戴里克·伯格</b>"
+   ],
+   "format": [
+    "<b>戴里克·伯格</b>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "神使",
+   "value": [
+    "达尼兹·迪布瓦"
+   ],
+   "format": [
+    "达尼兹·迪布瓦"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "总部",
+   "value": [
+    "新白银城"
+   ],
+   "format": [
+    "新白银城"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/fd039245d688d43f8794a6e8c949c51b0ef41bd58d28?x-bce-process=image/format,f_auto",
+ "src": "fd039245d688d43f8794a6e8c949c51b0ef41bd58d28",
+ "imageHeight": 1202,
+ "imageWidth": 850,
+ "isSummaryPic": "y",
+ "abstract": "愚者教会是爱潜水的乌贼所著网络小说《诡秘之主》《宿命之环》及其衍生作品中的隐秘组织，由克莱恩·莫雷蒂创建，信仰“不属于这个时代的愚者”，总部位于新白银城。该组织整合海神教会、白银城、月城及原玫瑰学派节制派等多方势力，掌握黄昏巨人、暴君、愚者等非凡途径，传教范围覆盖罗斯德群岛、南北大陆沿海及海上冒险者群体，第五纪末期被五神承认为第八个正神教会。其通过在殖民地推动独立运动，形成以愚者信仰为主的独立国家同盟。该教会起源于罗思德群岛土著信仰海神卡维图瓦的宗教，克莱恩通过封印物“海神权杖”改革习俗后逐步吸纳外部势力。核心成员包括大主教戴里克·伯格（太阳途径序列2）、神使达尼兹·迪布瓦（红祭司途径序列4）及新加入的威尔·昂赛汀（水银天使）、阿兹克·艾格斯（死亡天使）、帕列斯·索罗亚斯德（时之天使）。下属派系涵盖塔罗会、生命学派、亚伯拉罕家族及灵教团部分教派，传教活动扩展至异世界和南大陆地区。其与黑夜教...",
+ "moduleIds": [
+  5770856476
+ ],
+ "url": "http://baike.baidu.com/item/%E6%84%9A%E8%80%85%E6%95%99%E4%BC%9A",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E6%84%9A%E8%80%85%E6%95%99%E4%BC%9A",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E6%84%9A%E8%80%85%E6%95%99%E4%BC%9A#1'>愚者教会简介</a>",
+  "<a href='http://baike.baidu.com/item/%E6%84%9A%E8%80%85%E6%95%99%E4%BC%9A#2'>愚者教会成员</a>",
+  "<a href='http://baike.baidu.com/item/%E6%84%9A%E8%80%85%E6%95%99%E4%BC%9A#3'>海神教会</a>",
+  "<a href='http://baike.baidu.com/item/%E6%84%9A%E8%80%85%E6%95%99%E4%BC%9A#4'>愚者座下天使</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E6%84%9A%E8%80%85%E6%95%99%E4%BC%9A#1'>愚者教会简介</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%84%9A%E8%80%85%E6%95%99%E4%BC%9A#2'>愚者教会成员</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%84%9A%E8%80%85%E6%95%99%E4%BC%9A#3'>海神教会</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E6%84%9A%E8%80%85%E6%95%99%E4%BC%9A#4'>愚者座下天使</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

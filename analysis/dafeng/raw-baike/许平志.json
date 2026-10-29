@@ -1,0 +1,115 @@
+{
+ "id": 29564952,
+ "subLemmaId": 32012661,
+ "newLemmaId": 56577295,
+ "key": "许平志",
+ "desc": "许七安的叔父，御刀卫官员",
+ "title": "许平志",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "许平志"
+   ],
+   "format": [
+    "许平志"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "许二叔"
+   ],
+   "format": [
+    "许二叔"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "御刀卫百户"
+   ],
+   "format": [
+    "御刀卫百户"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "境界",
+   "value": [
+    "七品炼神境<sup>3</sup><a name=\"ref_3\"></a><sup>4</sup><a name=\"ref_4\"></a>"
+   ],
+   "format": [
+    "七品炼神境<sup>3</sup><a name=\"ref_3\"></a><sup>4</sup><a name=\"ref_4\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "亲属",
+   "value": [
+    "<a target=_blank href=\"/item/%E8%AE%B8%E5%B9%B3%E5%B3%B0/56577347\" data-lemmaid=\"56577347\">许平峰</a>（兄）、许七安（侄）<sup>4</sup><a name=\"ref_4\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E8%AE%B8%E5%B9%B3%E5%B3%B0/56577347\" data-lemmaid=\"56577347\">许平峰</a>（兄）、许七安（侄）<sup>4</sup><a name=\"ref_4\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "称号",
+   "value": [
+    "许百户<sup>4</sup><a name=\"ref_4\"></a>"
+   ],
+   "format": [
+    "许百户<sup>4</sup><a name=\"ref_4\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "结局",
+   "value": [
+    "存在不同说法（截至2025年）<sup>3</sup><a name=\"ref_3\"></a><sup>5</sup><a name=\"ref_5\"></a>"
+   ],
+   "format": [
+    "存在不同说法（截至2025年）<sup>3</sup><a name=\"ref_3\"></a><sup>5</sup><a name=\"ref_5\"></a>"
+   ]
+  }
+ ],
+ "imageHeight": null,
+ "imageWidth": null,
+ "isSummaryPic": "n",
+ "abstract": "许平志是小说《大奉打更人》中许七安的二叔，担任御刀卫七品绿袍官员。因护送税银途中发生意外导致税银丢失，被判斩首并牵连家族，其侄许七安因此入狱，儿子许新年被革除功名。修为达到七品炼神境，曾参与山海关战役，对家人展现出深厚情感。关于其结局存在战死沙场与平安度过余生两种说法。",
+ "moduleIds": [],
+ "url": "http://baike.baidu.com/item/%E8%AE%B8%E5%B9%B3%E5%BF%97/56577295",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%AE%B8%E5%B9%B3%E5%BF%97/56577295",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/29564952.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E8%AE%B8%E5%B9%B3%E5%BF%97/56577295#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/item/%E8%AE%B8%E5%B9%B3%E5%BF%97/56577295#2'>形象设定</a>",
+  "<a href='http://baike.baidu.com/item/%E8%AE%B8%E5%B9%B3%E5%BF%97/56577295#3'>主要情节</a>",
+  "<a href='http://baike.baidu.com/item/%E8%AE%B8%E5%B9%B3%E5%BF%97/56577295#4'>人物关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%AE%B8%E5%B9%B3%E5%BF%97/56577295#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%AE%B8%E5%B9%B3%E5%BF%97/56577295#2'>形象设定</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%AE%B8%E5%B9%B3%E5%BF%97/56577295#3'>主要情节</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%AE%B8%E5%B9%B3%E5%BF%97/56577295#4'>人物关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

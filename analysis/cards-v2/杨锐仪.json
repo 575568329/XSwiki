@@ -1,0 +1,60 @@
+{
+  "name": "杨锐仪",
+  "oneLiner": "阴司杨氏出身的大宋大将军，深有谋略好用奇兵，为宋廷经略南北大局",
+  "toProtagonist": "北线宋军主帅，李周巍南北博弈的老对手，李家北伐路上绕不开的敌将",
+  "visualLine": "男，相貌普通平平常常的中年修士；常年一身黑衣，腰佩暗色沉沉之剑",
+  "role": "core",
+  "cultivation": "参紫大真人",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "初会湖上",
+      "chapterStart": 1005,
+      "chapterEnd": 1009,
+      "situation": "以四闵杨氏之名邀湖上真人共议大事，自称『麓韬』，表明杨氏维护阴司利益",
+      "cultivationAt": "-",
+      "visual": "恭立老祖杨天衙身侧的黑衣男子，抬眉而笑",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "北伐布局",
+      "chapterStart": 1066,
+      "chapterEnd": 1074,
+      "situation": "以北伐复仇为名布局牵制庭州方向敌军主力，奇谋受挫，请天炔守山",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "谋略用间",
+      "chapterStart": 1091,
+      "chapterEnd": 1114,
+      "situation": "被李周巍评『深有谋略，喜好奇兵』，急用李曦明，深宫授漆黑令牌起用林沉胜",
+      "cultivationAt": "-",
+      "visual": "立于深宫的大将军，扶起出关的林沉胜，递出漆黑令牌",
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "奔袭江淮",
+      "chapterStart": 1160,
+      "chapterEnd": 1175,
+      "situation": "遭戚览堰发难自比蹴鞠被撞鼻梁；千里奔袭江淮，拔剑喝令天琅骘『滚出江淮』",
+      "cultivationAt": "-",
+      "visual": "黑衣在狂风中飞扬，腰间暗色之剑出鞘",
+      "spoiler": false
+    },
+    {
+      "id": "stg5",
+      "title": "迈过参紫",
+      "chapterStart": 1266,
+      "chapterEnd": 1289,
+      "situation": "迈过参紫成人世间最尊贵的大真人之一，仍规矩入宫觐见，与李周巍再会论诸洛战果",
+      "cultivationAt": "参紫大真人",
+      "visual": null,
+      "spoiler": false
+    }
+  ]
+}

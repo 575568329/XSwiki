@@ -1,0 +1,60 @@
+{
+  "name": "刘长迭",
+  "oneLiner": "黎夏阵法大师，借『前世』记忆攀附李家布阵起家，终成随岛修行的紫府客卿",
+  "toProtagonist": "陆江仙早识破其『前世』记忆乃大衍天玄箓所编而未点破，他为李家布阵护持数百年",
+  "visualLine": "男修，初登场披狐裘的青年、举杯读书气度不凡；中年相貌平平似三十余岁，发达后着羽衣银袍、御风带银光",
+  "role": "core",
+  "cultivation": "紫府神通真人（仙基『天齐满』，神通【齐库抱锁】·『库金』）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "自荐布阵",
+      "chapterStart": 125,
+      "chapterEnd": 129,
+      "situation": "以黎夏阵法大师之名结识李玄锋，主持日仪玄光大阵年底完工",
+      "cultivationAt": "-",
+      "visual": "披狐裘的青年，院中举杯读书气度不凡",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "客卿布阵",
+      "chapterStart": 260,
+      "chapterEnd": 497,
+      "situation": "获赠《灵目清童》，练气巅峰携讯重访，布成青杜山五水御乾阵",
+      "cultivationAt": "练气巅峰",
+      "visual": "相貌平平看似三十余岁，身披羽衣",
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "南海证神通",
+      "chapterStart": 930,
+      "chapterEnd": 1055,
+      "situation": "离江南赴南海成就神通，向李曦明展示齐库抱锁，接应复勋",
+      "cultivationAt": "紫府神通",
+      "visual": null,
+      "spoiler": true
+    },
+    {
+      "id": "stg4",
+      "title": "大漠请金",
+      "chapterStart": 1234,
+      "chapterEnd": 1234,
+      "situation": "焚香沐浴三日，主持大漠七阵台大阵，恭行『立帑请金』",
+      "cultivationAt": "紫府神通",
+      "visual": "银袍真人乘风而归，脚下银光闪闪",
+      "spoiler": true
+    },
+    {
+      "id": "stg5",
+      "title": "玄库驰援",
+      "chapterStart": 1502,
+      "chapterEnd": 1524,
+      "situation": "出关后对玄库掌控大进，持宝钵赴南方驰援",
+      "cultivationAt": "紫府神通",
+      "visual": null,
+      "spoiler": true
+    }
+  ]
+}

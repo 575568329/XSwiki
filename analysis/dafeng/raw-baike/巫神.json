@@ -1,0 +1,113 @@
+{
+ "id": 698231,
+ "subLemmaId": 33466839,
+ "newLemmaId": 58125472,
+ "key": "巫神",
+ "desc": "小说《大奉打更人》中的超品存在，巫师体系开创者",
+ "title": "巫神",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "巫神"
+   ],
+   "format": [
+    "巫神"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "巫师体系开创者，人族第二个成就超品的存在<sup>2</sup><a name=\"ref_2\"></a>"
+   ],
+   "format": [
+    "巫师体系开创者，人族第二个成就超品的存在<sup>2</sup><a name=\"ref_2\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属势力",
+   "value": [
+    "巫神教<sup>3</sup><a name=\"ref_3\"></a>"
+   ],
+   "format": [
+    "巫神教<sup>3</sup><a name=\"ref_3\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "活跃时期",
+   "value": [
+    "远古神魔时代至人妖争霸时期<sup>3</sup><a name=\"ref_3\"></a>"
+   ],
+   "format": [
+    "远古神魔时代至人妖争霸时期<sup>3</sup><a name=\"ref_3\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "封印状态",
+   "value": [
+    "曾被儒圣封印<sup>3</sup><a name=\"ref_3\"></a>"
+   ],
+   "format": [
+    "曾被儒圣封印<sup>3</sup><a name=\"ref_3\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "相关人物",
+   "value": [
+    "魏渊（封印者）<sup>2</sup><a name=\"ref_2\"></a>"
+   ],
+   "format": [
+    "魏渊（封印者）<sup>2</sup><a name=\"ref_2\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "最终结局",
+   "value": [
+    "自我了断保全传承<sup>1</sup><a name=\"ref_1\"></a><sup>2</sup><a name=\"ref_2\"></a>"
+   ],
+   "format": [
+    "自我了断保全传承<sup>1</sup><a name=\"ref_1\"></a><sup>2</sup><a name=\"ref_2\"></a>"
+   ]
+  }
+ ],
+ "imageHeight": null,
+ "imageWidth": null,
+ "isSummaryPic": "n",
+ "abstract": "巫神是网络小说《大奉打更人》中巫师修行体系的开创者，身世从放羊娃崛起为远古神魔时代的超品强者。在故事中，巫神选择自我了断，以保巫师体系传承不灭，其志可昭日月，其行悲壮而伟大。其创立的巫神教成为东北三国的国教，三个国家都信仰巫神。他曾被儒圣亲手封印，后因魏渊召唤儒圣法相阻止其出世而延迟脱困。面对晋升武神的许七安，巫神最终选择自我牺牲以保全巫师体系传承。其角色兼具开创者的悲壮与反派的复杂性，贯穿小说主线剧情。",
+ "moduleIds": [],
+ "url": "http://baike.baidu.com/item/%E5%B7%AB%E7%A5%9E/58125472",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%B7%AB%E7%A5%9E/58125472",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/698231.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E5%B7%AB%E7%A5%9E/58125472#1'>主要经历</a>",
+  "<a href='http://baike.baidu.com/item/%E5%B7%AB%E7%A5%9E/58125472#2'>人物关系</a>",
+  "<a href='http://baike.baidu.com/item/%E5%B7%AB%E7%A5%9E/58125472#3'>体系影响</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%B7%AB%E7%A5%9E/58125472#1'>主要经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%B7%AB%E7%A5%9E/58125472#2'>人物关系</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%B7%AB%E7%A5%9E/58125472#3'>体系影响</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

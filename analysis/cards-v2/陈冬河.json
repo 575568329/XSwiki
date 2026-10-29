@@ -1,0 +1,70 @@
+{
+  "name": "陈冬河",
+  "oneLiner": "李家外姓元老、陈氏老祖宗，随李项平入道，苦守大漠半生，暮年意外筑基",
+  "toProtagonist": "自幼随李项平入道，一生为李家镇守华芊山、谷烟坊，是李家崛起全程的见证者",
+  "visualLine": "男修，年少俊朗，中年面容温和、四十岁不显老态；常着白衣素衣佩法剑，暮年白须苍苍",
+  "role": "core",
+  "cultivation": "筑基（暮年仙基沉入气海意外突破）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "灵窍入道",
+      "chapterStart": 57,
+      "chapterEnd": 105,
+      "situation": "灵窍幼童随李项平入道，奉陈家遗命亲送宝珠至李通崖",
+      "cultivationAt": "-",
+      "visual": "俊朗少年，军中披甲负伤持图进言",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "镇守华芊",
+      "chapterStart": 169,
+      "chapterEnd": 217,
+      "situation": "长年镇守华芊山难得归家，代李家赴萧家报李通崖筑基喜讯",
+      "cultivationAt": "练气三层",
+      "visual": "面容温和无老态，檐下持玉简细读",
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "大漠护坊",
+      "chapterStart": 362,
+      "chapterEnd": 400,
+      "situation": "驻谷烟坊与北上魔修力战护阵负伤，妻病逝，背妻尸还乡",
+      "cultivationAt": "练气六层",
+      "visual": "一袭白衣，抽剑亮澹灰剑芒",
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "陈氏老祖",
+      "chapterStart": 501,
+      "chapterEnd": 630,
+      "situation": "贺晚辈陈鸯天赋入李家青杜之眼，望月归一统时已为族中元老",
+      "cultivationAt": "-",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg5",
+      "title": "暮年筑基",
+      "chapterStart": 1262,
+      "chapterEnd": 1262,
+      "situation": "仙基沉入气海意外突破筑基，自叹『怎么会是我』",
+      "cultivationAt": "筑基",
+      "visual": "白须苍苍的老者",
+      "spoiler": true
+    },
+    {
+      "id": "stg6",
+      "title": "探女垂泪",
+      "chapterStart": 1423,
+      "chapterEnd": 1423,
+      "situation": "暮年探访女儿李清晓，白须颤动，闭目流泪",
+      "cultivationAt": "筑基",
+      "visual": null,
+      "spoiler": true
+    }
+  ]
+}

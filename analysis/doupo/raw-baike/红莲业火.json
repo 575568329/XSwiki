@@ -1,0 +1,77 @@
+{
+ "id": 787214,
+ "subLemmaId": 32200085,
+ "newLemmaId": 56771557,
+ "key": "红莲业火",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的异火",
+ "title": "红莲业火",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "红莲业火"
+   ],
+   "format": [
+    "红莲业火"
+   ]
+  },
+  {
+   "key": "m233_source",
+   "name": "出处",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m233_type",
+   "name": "类型",
+   "value": [
+    "异火"
+   ],
+   "format": [
+    "异火"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "所属势力",
+   "value": [
+    "炎族"
+   ],
+   "format": [
+    "炎族"
+   ]
+  },
+  {
+   "key": "m233_owner",
+   "name": "拥有者",
+   "value": [
+    "火稚、萧炎"
+   ],
+   "format": [
+    "火稚、萧炎"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/d058ccbf6c81800a19d84117246c24fa828ba61ee92a?x-bce-process=image/format,f_auto",
+ "src": "d058ccbf6c81800a19d84117246c24fa828ba61ee92a",
+ "imageHeight": 855,
+ "imageWidth": 609,
+ "isSummaryPic": "y",
+ "abstract": "红莲业火，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的异火，在异火榜排名第八。火焰呈深红色，火苗升腾时会形成红莲形态。该异火最早由陀舍古帝持有，后被火稚持有，最终被萧炎收服。",
+ "moduleIds": [
+  6951275143
+ ],
+ "url": "http://baike.baidu.com/item/%E7%BA%A2%E8%8E%B2%E4%B8%9A%E7%81%AB/56771557",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%BA%A2%E8%8E%B2%E4%B8%9A%E7%81%AB/56771557",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/787214.htm",
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

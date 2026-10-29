@@ -1,0 +1,60 @@
+{
+  "name": "李曦明",
+  "oneLiner": "道号昭景的紫府真人，李家首脉嫡长，长年替家族周旋诸道统、谋取机缘",
+  "toProtagonist": "李家实际顶梁柱，陆江仙最重要的'合作者'，其突破反哺滋养仙鉴",
+  "visualLine": "男修，面相憨厚，眸子透亮；施法时眉心天光涌动、身后天门轰隆显形",
+  "role": "core",
+  "cultivation": "紫府（自陈无求金之志）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "首脉嫡长",
+      "chapterStart": 307,
+      "chapterEnd": 323,
+      "situation": "李渊平之子降生，身体康健、眸子透亮，受父期许数年后拜见仙鉴起修",
+      "cultivationAt": "-",
+      "visual": "幼童，眸子透亮，乖乖趴桌推移玉盒",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "突破反哺",
+      "chapterStart": 696,
+      "chapterEnd": 734,
+      "situation": "历时十余年突破成功，反哺滋养仙鉴甚大；与都仙道邺桧周旋，天门对峙",
+      "cultivationAt": "紫府",
+      "visual": "眉心天光涌动，身后谒天门轰隆作响",
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "周旋诸统",
+      "chapterStart": 740,
+      "chapterEnd": 884,
+      "situation": "理清灵藏分润规矩，道藏之争婉拒元道真人灵火、只求荫庇避孔雀淫威",
+      "cultivationAt": "紫府",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "北上保庭",
+      "chapterStart": 1066,
+      "chapterEnd": 1078,
+      "situation": "入魏廷会连襟杨锐仪，不使其打扰李周巍，应北伐保庭州之请",
+      "cultivationAt": "紫府",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg5",
+      "title": "栽培后辈",
+      "chapterStart": 1303,
+      "chapterEnd": 1577,
+      "situation": "按验族中炼丹青年眉心、赠玉简考较，自陈并无求金的志向",
+      "cultivationAt": "紫府",
+      "visual": null,
+      "spoiler": false
+    }
+  ]
+}

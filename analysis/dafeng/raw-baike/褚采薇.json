@@ -1,0 +1,119 @@
+{
+ "id": 29564954,
+ "subLemmaId": 32012665,
+ "newLemmaId": 56577300,
+ "key": "褚采薇",
+ "desc": "小说《大奉打更人》中的人物",
+ "title": "褚采薇",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "褚采薇"
+   ],
+   "format": [
+    "褚采薇"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "饭桶姑娘、三代监正"
+   ],
+   "format": [
+    "饭桶姑娘、三代监正"
+   ]
+  },
+  {
+   "key": "m47_playrole",
+   "name": "饰演",
+   "value": [
+    "刘美含"
+   ],
+   "format": [
+    "刘美含"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "女"
+   ],
+   "format": [
+    "女"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA/24672309\" data-lemmaid=\"24672309\">大奉打更人</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA/24672309\" data-lemmaid=\"24672309\">大奉打更人</a>"
+   ]
+  },
+  {
+   "key": "m47_age",
+   "name": "年龄",
+   "value": [
+    "18"
+   ],
+   "format": [
+    "18"
+   ]
+  },
+  {
+   "key": "m47_bodyHeight",
+   "name": "身高",
+   "value": [
+    "166 cm"
+   ],
+   "format": [
+    "166 cm"
+   ]
+  },
+  {
+   "key": "m47_weight",
+   "name": "体重",
+   "value": [
+    "49 kg"
+   ],
+   "format": [
+    "49 kg"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/a044ad345982b2b7d0a2b8dc93fddcef76094b362dd0?x-bce-process=image/format,f_auto",
+ "src": "a044ad345982b2b7d0a2b8dc93fddcef76094b362dd0",
+ "imageHeight": 1440,
+ "imageWidth": 1080,
+ "isSummaryPic": "y",
+ "abstract": "褚采薇是卖报小郎君所著网络小说《大奉打更人》中的女性角色，司天监二代监正六弟子，由刘美含饰演。拥有‘饭桶姑娘’‘三代监正’等别名，性格单纯贪吃，外貌呈现鹅蛋脸、大眼睛的‘对A少女’形象，具备七品风水师至六品炼金术师修为，持有八卦风水盘道具。她在税银案中与许七安结识并晋升炼金术师，后因联合师兄杨千幻捐库银赈灾遭监正放逐。经历民间疾苦后心智成熟，于京城防卫战后回归司天监，最终在监正选举中以最高票数继任监正之位。该角色与许铃音同具贪吃属性，被许七安视为成人版许铃音，主要人际关系包括师祖初代监正、师兄杨千幻及闺蜜怀庆。",
+ "moduleIds": [
+  5783128368
+ ],
+ "url": "http://baike.baidu.com/item/%E8%A4%9A%E9%87%87%E8%96%87/56577300",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%A4%9A%E9%87%87%E8%96%87/56577300",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/29564954.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E8%A4%9A%E9%87%87%E8%96%87/56577300#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/item/%E8%A4%9A%E9%87%87%E8%96%87/56577300#2'>角色形象</a>",
+  "<a href='http://baike.baidu.com/item/%E8%A4%9A%E9%87%87%E8%96%87/56577300#3'>角色经历</a>",
+  "<a href='http://baike.baidu.com/item/%E8%A4%9A%E9%87%87%E8%96%87/56577300#4'>角色关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%A4%9A%E9%87%87%E8%96%87/56577300#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%A4%9A%E9%87%87%E8%96%87/56577300#2'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%A4%9A%E9%87%87%E8%96%87/56577300#3'>角色经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%A4%9A%E9%87%87%E8%96%87/56577300#4'>角色关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

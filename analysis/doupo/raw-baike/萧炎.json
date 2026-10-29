@@ -1,0 +1,170 @@
+{
+ "id": 3113702,
+ "subLemmaId": 19126301,
+ "newLemmaId": 5808896,
+ "key": "萧炎",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》的男主角",
+ "title": "萧炎",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "萧炎"
+   ],
+   "format": [
+    "萧炎"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "药岩、岩枭、炎盟之主、大主宰"
+   ],
+   "format": [
+    "药岩、岩枭、炎盟之主、大主宰"
+   ]
+  },
+  {
+   "key": "m47_playrole",
+   "name": "饰演",
+   "value": [
+    "电视剧：<a target=_blank href=\"/item/%E5%90%B4%E7%A3%8A/6581\" data-lemmaid=\"6581\">吴磊</a><sup>11</sup><a name=\"ref_11\"></a>",
+    "电视剧：释小松（9岁）<sup>740</sup><a name=\"ref_740\"></a>",
+    "电视剧：皮皮（5岁）<sup>740</sup><a name=\"ref_740\"></a>"
+   ],
+   "format": [
+    "电视剧：<a target=_blank href=\"/item/%E5%90%B4%E7%A3%8A/6581\" data-lemmaid=\"6581\">吴磊</a><sup>11</sup><a name=\"ref_11\"></a>",
+    "电视剧：释小松（9岁）<sup>740</sup><a name=\"ref_740\"></a>",
+    "电视剧：皮皮（5岁）<sup>740</sup><a name=\"ref_740\"></a>"
+   ]
+  },
+  {
+   "key": "m47_dub",
+   "name": "配音",
+   "value": [
+    "刘三木（动画第一、第二季、特别篇1）<sup>12</sup><a name=\"ref_12\"></a><sup>745</sup><a name=\"ref_745\"></a><sup>746</sup><a name=\"ref_746\"></a>、张沛（动画第三季、第四季、三年之约、缘起）<sup>13</sup><a name=\"ref_13\"></a><sup>743</sup><a name=\"ref_743\"></a><sup>744</sup><a name=\"ref_744\"></a><sup>747</sup><a name=\"ref_747\"></a>、不一（动画年番）<sup>748</sup><a name=\"ref_748\"></a>、锦鲤（动态漫画）<sup>741</sup><a name=\"ref_741\"></a>、苏尚卿（电视剧）<sup>742</sup><a name=\"ref_742\"></a>"
+   ],
+   "format": [
+    "刘三木（动画第一、第二季、特别篇1）<sup>12</sup><a name=\"ref_12\"></a><sup>745</sup><a name=\"ref_745\"></a><sup>746</sup><a name=\"ref_746\"></a>、张沛（动画第三季、第四季、三年之约、缘起）<sup>13</sup><a name=\"ref_13\"></a><sup>743</sup><a name=\"ref_743\"></a><sup>744</sup><a name=\"ref_744\"></a><sup>747</sup><a name=\"ref_747\"></a>、不一（动画年番）<sup>748</sup><a name=\"ref_748\"></a>、锦鲤（动态漫画）<sup>741</sup><a name=\"ref_741\"></a>、苏尚卿（电视剧）<sup>742</sup><a name=\"ref_742\"></a>"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "《斗破苍穹》及其衍生作品<sup>14</sup><a name=\"ref_14\"></a>",
+    "《武动乾坤》及其衍生作品<sup>15</sup><a name=\"ref_15\"></a>",
+    "《斗破苍穹前传之药老传奇》及其衍生作品<sup>16</sup><a name=\"ref_16\"></a>",
+    "《大主宰》及其衍生作品<sup>17</sup><a name=\"ref_17\"></a>",
+    "《苍穹榜之万兽归源》<sup>749</sup><a name=\"ref_749\"></a>",
+    "《万相之王》<sup>753</sup><a name=\"ref_753\"></a>"
+   ],
+   "format": [
+    "《斗破苍穹》及其衍生作品<sup>14</sup><a name=\"ref_14\"></a>",
+    "《武动乾坤》及其衍生作品<sup>15</sup><a name=\"ref_15\"></a>",
+    "《斗破苍穹前传之药老传奇》及其衍生作品<sup>16</sup><a name=\"ref_16\"></a>",
+    "《大主宰》及其衍生作品<sup>17</sup><a name=\"ref_17\"></a>",
+    "《苍穹榜之万兽归源》<sup>749</sup><a name=\"ref_749\"></a>",
+    "《万相之王》<sup>753</sup><a name=\"ref_753\"></a>"
+   ]
+  },
+  {
+   "key": "m47_age",
+   "name": "年龄",
+   "value": [
+    "数百岁<sup>18</sup><a name=\"ref_18\"></a>"
+   ],
+   "format": [
+    "数百岁<sup>18</sup><a name=\"ref_18\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "称号",
+   "value": [
+    "<a target=_blank href=\"/item/%E7%82%8E%E5%B8%9D/14681892\" data-lemmaid=\"14681892\">炎帝</a><sup>6</sup><a name=\"ref_6\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E7%82%8E%E5%B8%9D/14681892\" data-lemmaid=\"14681892\">炎帝</a><sup>6</sup><a name=\"ref_6\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "势力",
+   "value": [
+    "<a target=_blank href=\"/item/%E7%A3%90%E9%97%A8/23414395\" data-lemmaid=\"23414395\">磐门</a>、<a target=_blank href=\"/item/%E7%82%8E%E7%9B%9F/23413597\" data-lemmaid=\"23413597\">炎盟</a>、<a target=_blank href=\"/item/%E5%A4%A9%E5%BA%9C%E8%81%94%E7%9B%9F\">天府联盟</a>、<a target=_blank href=\"/item/%E6%97%A0%E5%B0%BD%E7%81%AB%E5%9F%9F\">无尽火域</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E7%A3%90%E9%97%A8/23414395\" data-lemmaid=\"23414395\">磐门</a>、<a target=_blank href=\"/item/%E7%82%8E%E7%9B%9F/23413597\" data-lemmaid=\"23413597\">炎盟</a>、<a target=_blank href=\"/item/%E5%A4%A9%E5%BA%9C%E8%81%94%E7%9B%9F\">天府联盟</a>、<a target=_blank href=\"/item/%E6%97%A0%E5%B0%BD%E7%81%AB%E5%9F%9F\">无尽火域</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "灵力境界",
+   "value": [
+    "<a target=_blank href=\"/item/%E4%B8%BB%E5%AE%B0%E5%A2%83/22497894\" data-lemmaid=\"22497894\">主宰境</a><sup>10</sup><a name=\"ref_10\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E4%B8%BB%E5%AE%B0%E5%A2%83/22497894\" data-lemmaid=\"22497894\">主宰境</a><sup>10</sup><a name=\"ref_10\"></a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "灵魂境界",
+   "value": [
+    "帝境（斗破时期）<sup>19</sup><a name=\"ref_19\"></a>"
+   ],
+   "format": [
+    "帝境（斗破时期）<sup>19</sup><a name=\"ref_19\"></a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/3bf33a87e950352ac65cec851916ecf2b21192131dba?x-bce-process=image/format,f_auto",
+ "src": "3bf33a87e950352ac65cec851916ecf2b21192131dba",
+ "imageHeight": 1467,
+ "imageWidth": 989,
+ "isSummaryPic": "y",
+ "abstract": "萧炎，天蚕土豆所著异世大陆类玄幻小说《斗破苍穹》及其衍生作品中的男主角，在《武动乾坤》《斗破苍穹前传之药老传奇》《大主宰》《苍穹榜之圣灵纪》《苍穹榜之万兽归源》《万相之王》中客串出场。资质卓绝，四岁练气，十岁拥有九段斗之气，十一岁成功凝聚斗之气旋，一跃成为家族百年之内最年轻的斗者。却又连续三年功力倒退保持在斗之气三段，从此逐渐沦为遭人白眼的废柴。十五岁被指腹为婚的纳兰嫣然当众退婚，立下了三年之约。在吸收他斗气的灵魂药尘的教导下，萧炎凭借执着与信念闯荡大陆，不断取得辉煌的战绩。近不惑之年晋升斗帝，自号“炎帝”，双帝之战中击败魂天帝，封印他千载万世，拯救天下苍生。炎帝之名响彻斗气大陆。后为寻找斗帝失踪之谜前往大千世界，在大千世界创立“无尽火域”，短短数百年就成为与武境、剑域、万墓之地齐名的大千世界超级巨擘。天邪神陨落二十八年后在苍穹榜上留下完整真名，晋入主宰境，与武祖林动、牧尊牧尘一起成为大千...",
+ "moduleIds": [
+  2975672753,
+  4044404083,
+  6412831939,
+  6412831940,
+  6412831941,
+  6412831943,
+  6412831944,
+  4336643729
+ ],
+ "url": "http://baike.baidu.com/subview/3113702/19126301.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%90%A7%E7%82%8E/5808896",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/3113702.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/3113702/19126301.htm#1'>角色形象</a>",
+  "<a href='http://baike.baidu.com/subview/3113702/19126301.htm#2'>角色能力</a>",
+  "<a href='http://baike.baidu.com/subview/3113702/19126301.htm#3'>人际关系</a>",
+  "<a href='http://baike.baidu.com/subview/3113702/19126301.htm#4'>角色经历</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E7%82%8E/5808896#1'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E7%82%8E/5808896#2'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E7%82%8E/5808896#3'>人际关系</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E7%82%8E/5808896#4'>角色经历</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

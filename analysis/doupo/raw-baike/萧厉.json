@@ -1,0 +1,101 @@
+{
+ "id": 4194650,
+ "subLemmaId": 4194650,
+ "newLemmaId": 10555076,
+ "key": "萧厉",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的人物",
+ "title": "萧厉",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "萧厉"
+   ],
+   "format": [
+    "萧厉"
+   ]
+  },
+  {
+   "key": "m47_alternateName",
+   "name": "别名",
+   "value": [
+    "二哥、门主"
+   ],
+   "format": [
+    "二哥、门主"
+   ]
+  },
+  {
+   "key": "m47_dub",
+   "name": "配音",
+   "value": [
+    "柯暮卿（《斗破苍穹》动画）"
+   ],
+   "format": [
+    "柯暮卿（《斗破苍穹》动画）"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "所属势力",
+   "value": [
+    "萧家、漠铁佣兵团、萧门、炎盟"
+   ],
+   "format": [
+    "萧家、漠铁佣兵团、萧门、炎盟"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/b03533fa828ba61ea8d391c46d6d800a304e241ff39d?x-bce-process=image/format,f_auto",
+ "src": "b03533fa828ba61ea8d391c46d6d800a304e241ff39d",
+ "imageHeight": 1069,
+ "imageWidth": 876,
+ "isSummaryPic": "y",
+ "abstract": "萧厉，男，天蚕土豆作品《斗破苍穹》中的人物之一，萧炎的二哥，前漠铁佣兵团二团长。与萧炎感情深厚，小说开始的一、两年前离开萧家开创了漠铁佣兵团。大结局时萧炎晋升斗帝，萧厉斗帝血脉激活，修为大涨。",
+ "moduleIds": [
+  5637582502,
+  5637582503,
+  6584698240
+ ],
+ "url": "http://baike.baidu.com/subview/4194650/4194650.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%90%A7%E5%8E%89/10555076",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/4194650.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/4194650/4194650.htm#1'>角色背景</a>",
+  "<a href='http://baike.baidu.com/subview/4194650/4194650.htm#2'>角色能力</a>",
+  "<a href='http://baike.baidu.com/subview/4194650/4194650.htm#3'>角色经历</a>",
+  "<a href='http://baike.baidu.com/subview/4194650/4194650.htm#4'>角色关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E5%8E%89/10555076#1'>角色背景</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E5%8E%89/10555076#2'>角色能力</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E5%8E%89/10555076#3'>角色经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%90%A7%E5%8E%89/10555076#4'>角色关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

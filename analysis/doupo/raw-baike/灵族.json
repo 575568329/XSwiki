@@ -1,0 +1,91 @@
+{
+ "id": 2563859,
+ "subLemmaId": 16862947,
+ "newLemmaId": 7108778,
+ "key": "灵族",
+ "desc": "战锤40K中的一个种族",
+ "title": "灵族",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "灵族"
+   ],
+   "format": [
+    "灵族"
+   ]
+  },
+  {
+   "key": "m25_nameE",
+   "name": "外文名",
+   "value": [
+    "eldar"
+   ],
+   "format": [
+    "eldar"
+   ]
+  },
+  {
+   "key": "m25_alternateName",
+   "name": "别名",
+   "value": [
+    "艾达灵族，精灵"
+   ],
+   "format": [
+    "艾达灵族，精灵"
+   ]
+  },
+  {
+   "key": "m25_source",
+   "name": "出处",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%88%98%E9%94%A440K/1289881\" data-lemmaid=\"1289881\">战锤40K</a>中的一个种族<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%88%98%E9%94%A440K/1289881\" data-lemmaid=\"1289881\">战锤40K</a>中的一个种族<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "地处",
+   "value": [
+    "<a target=_blank href=\"/item/%E9%93%B6%E6%B2%B3%E7%B3%BB/189795\" data-lemmaid=\"189795\">银河系</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E9%93%B6%E6%B2%B3%E7%B3%BB/189795\" data-lemmaid=\"189795\">银河系</a>"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/c9bdddcee0cd6f3d92457ecb?x-bce-process=image/format,f_auto",
+ "src": "c9bdddcee0cd6f3d92457ecb",
+ "imageHeight": 800,
+ "imageWidth": 549,
+ "isSummaryPic": "y",
+ "abstract": "灵族是桌面战棋游戏战锤40K中的主要种族之一，又称艾达灵族，在堕落之后的一部分被称为黑暗灵族，同时还有丑角，灵族海盗，蛮荒灵族等分支。有久远的历史，以及他的神秘色彩。",
+ "moduleIds": [
+  5320841708,
+  3069845116,
+  5320841709
+ ],
+ "url": "http://baike.baidu.com/subview/2563859/16862947.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%81%B5%E6%97%8F/7108778",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/2563859.htm",
+ "catalog": [
+  "<a href='http://baike.baidu.com/subview/2563859/16862947.htm#1'>在《全面战争：战锤40K》中的表现</a>",
+  "<a href='http://baike.baidu.com/subview/2563859/16862947.htm#2'>族群道路</a>",
+  "<a href='http://baike.baidu.com/subview/2563859/16862947.htm#3'>基本信息</a>",
+  "<a href='http://baike.baidu.com/subview/2563859/16862947.htm#4'>灵族堕落</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E7%81%B5%E6%97%8F/7108778#1'>在《全面战争：战锤40K》中的表现</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%81%B5%E6%97%8F/7108778#2'>族群道路</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%81%B5%E6%97%8F/7108778#3'>基本信息</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%81%B5%E6%97%8F/7108778#4'>灵族堕落</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

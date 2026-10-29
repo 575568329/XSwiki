@@ -1,0 +1,96 @@
+{
+ "id": 6537810,
+ "subLemmaId": 6655888,
+ "newLemmaId": 5454902,
+ "key": "烛坤",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的人物",
+ "title": "烛坤",
+ "card": [
+  {
+   "key": "m47_nameC",
+   "name": "中文名",
+   "value": [
+    "烛坤"
+   ],
+   "format": [
+    "烛坤"
+   ]
+  },
+  {
+   "key": "m47_sex",
+   "name": "性别",
+   "value": [
+    "男"
+   ],
+   "format": [
+    "男"
+   ]
+  },
+  {
+   "key": "m47_debutWorks",
+   "name": "登场作品",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m47_age",
+   "name": "年龄",
+   "value": [
+    "数千岁"
+   ],
+   "format": [
+    "数千岁"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "种族",
+   "value": [
+    "<a target=_blank href=\"/item/%E5%A4%AA%E8%99%9A%E5%8F%A4%E9%BE%99%E6%97%8F/5565693\" data-lemmaid=\"5565693\">太虚古龙族</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E5%A4%AA%E8%99%9A%E5%8F%A4%E9%BE%99%E6%97%8F/5565693\" data-lemmaid=\"5565693\">太虚古龙族</a>"
+   ]
+  },
+  {
+   "key": "m47_customDefault",
+   "name": "身份",
+   "value": [
+    "太虚古龙族老龙皇"
+   ],
+   "format": [
+    "太虚古龙族老龙皇"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/63d9f2d3572c11dfa9ec0e90e87e75d0f703918f6474?x-bce-process=image/format,f_auto",
+ "src": "63d9f2d3572c11dfa9ec0e90e87e75d0f703918f6474",
+ "imageHeight": 873,
+ "imageWidth": 1311,
+ "isSummaryPic": "y",
+ "abstract": "烛坤，男，天蚕土豆所著玄幻小说《斗破苍穹》及其衍生作品中的角色，太虚古龙一族的老龙皇，是龙皇紫妍的父亲，斗气大陆的巅峰强者之一。数千年前因贪图古帝洞府，被困在迦南学院地底下的空间内，直至后来魂天帝开启洞府才得以突破封印。双帝之战几十年后，烛坤成功晋入斗帝，并与萧炎，古元，萧薰儿和彩鳞一同前往大千世界。",
+ "moduleIds": [
+  6936621983
+ ],
+ "url": "http://baike.baidu.com/view/6537810.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E7%83%9B%E5%9D%A4/5454902",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/6537810.htm#1'>角色形象</a>",
+  "<a href='http://baike.baidu.com/view/6537810.htm#2'>角色经历</a>",
+  "<a href='http://baike.baidu.com/view/6537810.htm#3'>角色关系</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E7%83%9B%E5%9D%A4/5454902#1'>角色形象</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%83%9B%E5%9D%A4/5454902#2'>角色经历</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E7%83%9B%E5%9D%A4/5454902#3'>角色关系</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

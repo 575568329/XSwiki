@@ -1,0 +1,58 @@
+[
+  {
+    "source": "http://www.biqusk.la/",
+    "bookUrl": "http://www.biqusk.info/8_8964/",
+    "n": 1590,
+    "menuSel": "#list dl dd a",
+    "content": "#content",
+    "filter": [
+      "NzAxN2s=",
+      "5LiA56eS6KiY5L2PLivjgII=",
+      "5omL5py655So5oi36K+35rWP6KeILivjgII="
+    ],
+    "charsetNote": ""
+  },
+  {
+    "source": "http://www.yunxs.la/",
+    "bookUrl": "http://www.yunxs.la/guimizhizhu/",
+    "n": 1454,
+    "menuSel": ".list_box ul li a",
+    "content": ".box_box",
+    "filter": [
+      "NzAxN2s=",
+      "5omr5o+P5LiL6Z2i5LqM57u056CB5oiW6ICF5omT5byA5b6u5L+h5re75Yqg5YWs5YWx5Y+35ZCN77ya",
+      "eXVueXVlZHU1",
+      "77yI5LqR6ZiF6K+7572R77yJ5YWz5rOo5ZCO77yM5oiR5Lus5Lya56ys5LiA5pe26Ze05pu05paw"
+    ],
+    "charsetNote": ""
+  },
+  {
+    "source": "http://www.77shuku.org/",
+    "bookUrl": "http://www.77shuku.info/novel/12124/",
+    "n": 1445,
+    "menuSel": ".zjbox .zjlist dd a",
+    "content": "#ChapterContents",
+    "filter": [
+      "NzAxN2s=",
+      "5pyA5paw572R5Z2A77yaLituZXQ=",
+      "5pyA5paw572R5Z2A77yaLitsYQ==",
+      "dHh05LiL6L295Zyw5Z2A77ya",
+      "5omL5py66ZiF6K+777ya"
+    ],
+    "charsetNote": ""
+  },
+  {
+    "source": "http://www.cxzz958.com/",
+    "bookUrl": "http://www.cxzz958.com/guimizhizhu/",
+    "n": 1454,
+    "menuSel": ".listmain dl dd:gt(11) a",
+    "content": "#content",
+    "filter": [
+      "NzAxN2s=",
+      "aHR0cC4raHRtbA==",
+      "6K+36K6w5L2P5pys5Lmm6aaW5Y+R5Z+f5ZCNLitvcmc=",
+      "5Zac5qyiLnsxLDEwfeivt+Wkp+WutuaUtuiXjy57MSwxMH3mm7TmlrDpgJ/luqbmnIDlv6vjgII="
+    ],
+    "charsetNote": ""
+  }
+]

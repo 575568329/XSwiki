@@ -1,0 +1,98 @@
+{
+ "id": 9691835,
+ "subLemmaId": 9811956,
+ "newLemmaId": 8351300,
+ "key": "九幽金祖火",
+ "desc": "《斗破苍穹》异火榜排名第七的炎族传承异火",
+ "title": "九幽金祖火",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "九幽金祖火"
+   ],
+   "format": [
+    "九幽金祖火"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "异火排名",
+   "value": [
+    "第七位<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "第七位<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "火焰颜色",
+   "value": [
+    "金色"
+   ],
+   "format": [
+    "金色"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "主要持有者",
+   "value": [
+    "炎烬、萧炎"
+   ],
+   "format": [
+    "炎烬、萧炎"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "火焰特性",
+   "value": [
+    "蕴含九幽之力"
+   ],
+   "format": [
+    "蕴含九幽之力"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "所属势力",
+   "value": [
+    "炎族"
+   ],
+   "format": [
+    "炎族"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/d788d43f8794a4c243e35bc704f41bd5ac6e391d?x-bce-process=image/format,f_auto",
+ "src": "d788d43f8794a4c243e35bc704f41bd5ac6e391d",
+ "imageHeight": 500,
+ "imageWidth": 500,
+ "isSummaryPic": "y",
+ "abstract": "九幽金祖火，天蚕土豆所著玄幻小说《斗破苍穹》中异火榜排名第七的异火，呈现金色火焰形态。该异火最初诞生于九幽地冥蟒族的黄泉深渊，曾先后被陀舍古帝、炎族族长炎烬及萧炎收服。通过炎族独创的火焰融合技术，与火山石焰结合后可形成新型异火，威力可匹敌排名第四的金帝焚天炎。作为炎族核心传承之火，在双帝之战中成为对抗魂天帝的重要力量。",
+ "moduleIds": [
+  3815162635
+ ],
+ "url": "http://baike.baidu.com/view/9691835.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E4%B9%9D%E5%B9%BD%E9%87%91%E7%A5%96%E7%81%AB/8351300",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/9691835.htm#1'>异火特性</a>",
+  "<a href='http://baike.baidu.com/view/9691835.htm#2'>传承历程</a>",
+  "<a href='http://baike.baidu.com/view/9691835.htm#3'>融合与进阶</a>",
+  "<a href='http://baike.baidu.com/view/9691835.htm#4'>重大战役表现</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E4%B9%9D%E5%B9%BD%E9%87%91%E7%A5%96%E7%81%AB/8351300#1'>异火特性</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%B9%9D%E5%B9%BD%E9%87%91%E7%A5%96%E7%81%AB/8351300#2'>传承历程</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%B9%9D%E5%B9%BD%E9%87%91%E7%A5%96%E7%81%AB/8351300#3'>融合与进阶</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E4%B9%9D%E5%B9%BD%E9%87%91%E7%A5%96%E7%81%AB/8351300#4'>重大战役表现</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

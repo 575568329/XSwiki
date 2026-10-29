@@ -1,0 +1,87 @@
+{
+ "id": 5813566,
+ "subLemmaId": 5870181,
+ "newLemmaId": 4701741,
+ "key": "三千焱炎火",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的异火",
+ "title": "三千焱炎火",
+ "card": [
+  {
+   "key": "m233_name",
+   "name": "中文名",
+   "value": [
+    "三千焱炎火"
+   ],
+   "format": [
+    "三千焱炎火"
+   ]
+  },
+  {
+   "key": "m233_source",
+   "name": "出处",
+   "value": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>"
+   ]
+  },
+  {
+   "key": "m233_type",
+   "name": "类型",
+   "value": [
+    "异火"
+   ],
+   "format": [
+    "异火"
+   ]
+  },
+  {
+   "key": "m233_alternateName",
+   "name": "别名",
+   "value": [
+    "三千星空焱炎、不死之火"
+   ],
+   "format": [
+    "三千星空焱炎、不死之火"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "收服者",
+   "value": [
+    "<a target=_blank href=\"/item/%E9%99%80%E8%88%8D%E5%8F%A4%E5%B8%9D/10277241\" data-lemmaid=\"10277241\">陀舍古帝</a>、<a target=_blank href=\"/item/%E5%A4%AA%E8%99%9A%E5%8F%A4%E9%BE%99%E6%97%8F/5565693\" data-lemmaid=\"5565693\">太虚古龙族</a>、<a target=_blank href=\"/item/%E8%90%A7%E7%82%8E/5808896\" data-lemmaid=\"5808896\">萧炎</a>"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E9%99%80%E8%88%8D%E5%8F%A4%E5%B8%9D/10277241\" data-lemmaid=\"10277241\">陀舍古帝</a>、<a target=_blank href=\"/item/%E5%A4%AA%E8%99%9A%E5%8F%A4%E9%BE%99%E6%97%8F/5565693\" data-lemmaid=\"5565693\">太虚古龙族</a>、<a target=_blank href=\"/item/%E8%90%A7%E7%82%8E/5808896\" data-lemmaid=\"5808896\">萧炎</a>"
+   ]
+  },
+  {
+   "key": "m233_customDefault",
+   "name": "功能",
+   "value": [
+    "吸收星辰之力（等同不死体）"
+   ],
+   "format": [
+    "吸收星辰之力（等同不死体）"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/79f0f736afc379310a55f8297e9da04543a98226bb20?x-bce-process=image/format,f_auto",
+ "src": "79f0f736afc379310a55f8297e9da04543a98226bb20",
+ "imageHeight": 855,
+ "imageWidth": 640,
+ "isSummaryPic": "y",
+ "abstract": "三千焱炎火，又称三千星空焱炎火，是天蚕土豆所著玄幻小说《斗破苍穹》中的异火，在异火榜位列第九。其形态为紫黑色火焰，在星空成形，可吸收星辰之力。成形时会引发天降银火、昼夜不分的天地异象。此种异火因诞生环境特殊，往往具有极高灵智难以捕捉。收服者可获得“三千星辰体质”。该异火曾被陀舍古帝、太虚古龙族先后掌控，因体内龙印影响呈现古龙形态。萧炎通过灵魂交战成功将其炼化，使焚决功法进化至地阶高级。",
+ "moduleIds": [
+  7109843357
+ ],
+ "url": "http://baike.baidu.com/subview/5813566/5870181.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E4%B8%89%E5%8D%83%E7%84%B1%E7%82%8E%E7%81%AB/4701741",
+ "hasOther": 1,
+ "totalUrl": "http://baike.baidu.com/view/5813566.htm",
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

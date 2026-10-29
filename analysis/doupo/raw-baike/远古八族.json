@@ -1,0 +1,62 @@
+{
+ "id": 5305815,
+ "subLemmaId": 5336380,
+ "newLemmaId": 7141527,
+ "key": "远古八族",
+ "desc": "天蚕土豆所著玄幻小说《斗破苍穹》中的远古种族",
+ "title": "远古八族",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "远古八族"
+   ],
+   "format": [
+    "远古八族"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "出自",
+   "value": [
+    "《<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>》"
+   ],
+   "format": [
+    "《<a target=_blank href=\"/item/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/54134\" data-lemmaid=\"54134\">斗破苍穹</a>》"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/94cad1c8a786c9179d12a8dcc33d70cf3ac757c6?x-bce-process=image/format,f_auto",
+ "src": "94cad1c8a786c9179d12a8dcc33d70cf3ac757c6",
+ "imageHeight": 609,
+ "imageWidth": 963,
+ "isSummaryPic": "y",
+ "abstract": "远古八族是天蚕土豆所著小说《斗破苍穹》中八个拥有斗帝血脉的远古种族，分别是萧族、古族、魂族、炎族、雷族、药族、石族与灵族。因先祖诞生过斗帝，各族通过血脉传承获得超凡修炼天赋，并依靠族纹秘法强化实力。各族隐居于独立空间，以血脉为尊。魂族凭借虚无吞炎掠夺血脉，暗中覆灭萧族、灵族、石族与药族，助魂天帝晋升斗帝；古族与魂族实力相当，长期制衡；萧族因萧玄冲击斗帝失败衰落后，随萧炎崛起复兴；炎族与雷族血脉稳定得以存续；药族以炼药闻名却遭灭族。远古八族的命运围绕血脉兴衰展开：萧族因血脉枯竭没落，又借萧炎成帝重现辉煌；魂族通过吞噬血脉实现野心，最终被萧炎封印；古族联合萧炎对抗魂族，其余各族或覆灭或幸存，最终形成新的势力格局。",
+ "moduleIds": [
+  3081174301,
+  5637371592,
+  5637371593,
+  5637371594,
+  5637371595,
+  5670019766,
+  5680207193,
+  5684635766,
+  5686984453
+ ],
+ "url": "http://baike.baidu.com/view/5305815.htm",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E8%BF%9C%E5%8F%A4%E5%85%AB%E6%97%8F/7141527",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/view/5305815.htm#1'>简介</a>",
+  "<a href='http://baike.baidu.com/view/5305815.htm#2'>详细介绍</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E8%BF%9C%E5%8F%A4%E5%85%AB%E6%97%8F/7141527#1'>简介</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E8%BF%9C%E5%8F%A4%E5%85%AB%E6%97%8F/7141527#2'>详细介绍</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

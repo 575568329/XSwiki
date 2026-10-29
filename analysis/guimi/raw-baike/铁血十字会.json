@@ -1,0 +1,46 @@
+{
+ "id": 34418898,
+ "subLemmaId": 38302908,
+ "newLemmaId": 64491152,
+ "key": "铁血十字会",
+ "desc": "小说《诡秘之主》隐秘组织",
+ "title": "铁血十字会",
+ "card": [
+  {
+   "key": "m25_nameC",
+   "name": "中文名",
+   "value": [
+    "铁血十字会"
+   ],
+   "format": [
+    "铁血十字会"
+   ]
+  },
+  {
+   "key": "m25_source",
+   "name": "来源出处",
+   "value": [
+    "诡秘之主"
+   ],
+   "format": [
+    "诡秘之主"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/b812c8fcc3cec3fdfc030de6c5d4c33f8794a4c28956?x-bce-process=image/format,f_auto",
+ "src": "b812c8fcc3cec3fdfc030de6c5d4c33f8794a4c28956",
+ "imageHeight": 1157,
+ "imageWidth": 1821,
+ "isSummaryPic": "y",
+ "abstract": "铁血十字会是小说《诡秘之主》与《宿命之环》中实力精锐但信息封闭‌的的隐秘组织。其权力结构高度集中，结构极简，却足以对国家层面造成威胁。相较于密修会或极光会，它更像一支“军事部队”，而非宗教团体。",
+ "moduleIds": [
+  6999414354
+ ],
+ "url": "http://baike.baidu.com/item/%E9%93%81%E8%A1%80%E5%8D%81%E5%AD%97%E4%BC%9A",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E9%93%81%E8%A1%80%E5%8D%81%E5%AD%97%E4%BC%9A",
+ "hasOther": 0,
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

@@ -1,0 +1,98 @@
+{
+ "id": 34418993,
+ "subLemmaId": 38303096,
+ "newLemmaId": 64491398,
+ "key": "心理炼金会",
+ "desc": "《诡秘之主》中的隐秘非凡组织",
+ "title": "心理炼金会",
+ "card": [
+  {
+   "key": "m25_customDefault",
+   "name": "成立时间",
+   "value": [
+    "黑暗纪元末期"
+   ],
+   "format": [
+    "黑暗纪元末期"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "总部位置",
+   "value": [
+    "贝克兰德（推测）"
+   ],
+   "format": [
+    "贝克兰德（推测）"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "势力范围",
+   "value": [
+    "<a target=_blank href=\"/item/%E9%B2%81%E6%81%A9%E7%8E%8B%E5%9B%BD/64232339\" data-lemmaid=\"64232339\">鲁恩王国</a>贵族阶层"
+   ],
+   "format": [
+    "<a target=_blank href=\"/item/%E9%B2%81%E6%81%A9%E7%8E%8B%E5%9B%BD/64232339\" data-lemmaid=\"64232339\">鲁恩王国</a>贵族阶层"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "现任会长",
+   "value": [
+    "鲍利·德尔劳（曾用名埃里克·德雷克、巴洛斯·霍普金斯）<sup>1</sup><a name=\"ref_1\"></a>"
+   ],
+   "format": [
+    "鲍利·德尔劳（曾用名埃里克·德雷克、巴洛斯·霍普金斯）<sup>1</sup><a name=\"ref_1\"></a>"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "核心途径",
+   "value": [
+    "观众途径"
+   ],
+   "format": [
+    "观众途径"
+   ]
+  },
+  {
+   "key": "m25_customDefault",
+   "name": "成员规模",
+   "value": [
+    "含评议团委员及普通成员共七人"
+   ],
+   "format": [
+    "含评议团委员及普通成员共七人"
+   ]
+  }
+ ],
+ "image": "https://bkimg.cdn.bcebos.com/pic/bf096b63f6246b600c33d9c13aa30d4c510fd9f90448?x-bce-process=image/format,f_auto",
+ "src": "bf096b63f6246b600c33d9c13aa30d4c510fd9f90448",
+ "imageHeight": 1080,
+ "imageWidth": 1920,
+ "isSummaryPic": "y",
+ "abstract": "心理炼金会是小说《诡秘之主》中掌控\"观众\"途径非凡配方的隐秘组织，由神秘学大师赫密斯在一两百年前引导创立。该组织主要活跃于贝克兰德贵族阶层，通过隐秘聚会吸纳成员，成员行为动机呈现复杂性特征。其核心理论认为现实世界的巧合源于心灵对集体潜意识海洋的掌控，最高权力机构为评议团，现任高层包括持有\"傲慢\"代号的奥黛丽·霍尔等重要角色。",
+ "moduleIds": [
+  6362774151
+ ],
+ "url": "http://baike.baidu.com/item/%E5%BF%83%E7%90%86%E7%82%BC%E9%87%91%E4%BC%9A",
+ "wapUrl": "http://wapbaike.baidu.com/item/%E5%BF%83%E7%90%86%E7%82%BC%E9%87%91%E4%BC%9A",
+ "hasOther": 0,
+ "catalog": [
+  "<a href='http://baike.baidu.com/item/%E5%BF%83%E7%90%86%E7%82%BC%E9%87%91%E4%BC%9A#1'>组织起源</a>",
+  "<a href='http://baike.baidu.com/item/%E5%BF%83%E7%90%86%E7%82%BC%E9%87%91%E4%BC%9A#2'>成员构成</a>",
+  "<a href='http://baike.baidu.com/item/%E5%BF%83%E7%90%86%E7%82%BC%E9%87%91%E4%BC%9A#3'>非凡特性</a>",
+  "<a href='http://baike.baidu.com/item/%E5%BF%83%E7%90%86%E7%82%BC%E9%87%91%E4%BC%9A#4'>活动特征</a>"
+ ],
+ "wapCatalog": [
+  "<a href='http://wapbaike.baidu.com/item/%E5%BF%83%E7%90%86%E7%82%BC%E9%87%91%E4%BC%9A#1'>组织起源</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%BF%83%E7%90%86%E7%82%BC%E9%87%91%E4%BC%9A#2'>成员构成</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%BF%83%E7%90%86%E7%82%BC%E9%87%91%E4%BC%9A#3'>非凡特性</a>",
+  "<a href='http://wapbaike.baidu.com/item/%E5%BF%83%E7%90%86%E7%82%BC%E9%87%91%E4%BC%9A#4'>活动特征</a>"
+ ],
+ "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+ "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+ "customImg": "",
+ "redirect": []
+}

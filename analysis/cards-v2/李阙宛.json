@@ -1,0 +1,60 @@
+{
+  "name": "李阙宛",
+  "oneLiner": "李家绛阙辈天赋最高的女修，炼就仙基『候神殊』，以巫箓术算坐镇大漠为家族分忧",
+  "toProtagonist": "魏王李绛迁之妹、李家后期主力女修，以巫箓术算为家族镇守大漠一端、襄助黜阴求灵资诸大局",
+  "visualLine": "青年女修，衣着明艳，发上钗一朵小桃花，眼睛明亮、美目流转，纤手螓首，捧巴掌大小的翡翠玄鼎",
+  "role": "support",
+  "cultivation": "筑基（仙基『候神殊』，已成就神通）",
+  "stages": [
+    {
+      "id": "stg1",
+      "title": "复名归宗",
+      "chapterStart": 673,
+      "chapterEnd": 692,
+      "situation": "由『李殊宛』复名归宗入湖，随李绛迁共读论道；以练气修为施巫箓验血助李曦明查小室山",
+      "cultivationAt": "练气六层",
+      "visual": "衣着明艳，发上钗小桃花，眼睛明亮，捂嘴轻笑",
+      "spoiler": false
+    },
+    {
+      "id": "stg2",
+      "title": "炼就仙基",
+      "chapterStart": 854,
+      "chapterEnd": 1192,
+      "situation": "显露为绛阙辈天赋最高的女子，修行候殊金书，炼就仙基『候神殊』",
+      "cultivationAt": "筑基（仙基候神殊）",
+      "visual": null,
+      "spoiler": false
+    },
+    {
+      "id": "stg3",
+      "title": "得授咒法",
+      "chapterStart": 1193,
+      "chapterEnd": 1225,
+      "situation": "归乡拜李曦明得授咒语、点三候戍玄火；以自铸玄鼎行黜阴求灵资，神通暴耗几近危殆",
+      "cultivationAt": "筑基（成就神通）",
+      "visual": "掌中巴掌大小的精巧玄鼎，鼎中封着柔和月光",
+      "spoiler": false
+    },
+    {
+      "id": "stg4",
+      "title": "坐镇大漠",
+      "chapterStart": 1226,
+      "chapterEnd": 1312,
+      "situation": "受箓道弦、测算阵基，坐镇大漠一端暗备巫箓防西蜀来犯，亲携玄名道煞补给真人钟谦",
+      "cultivationAt": "筑基（成就神通）",
+      "visual": "端坐高山，捧翡翠小鼎散发银光，驾驭太阴灵宝",
+      "spoiler": false
+    },
+    {
+      "id": "stg5",
+      "title": "洞天寻丹",
+      "chapterStart": 1313,
+      "chapterEnd": 1598,
+      "situation": "携李周巍疾驰入洞天，见玉匣敕丹与自身玄珩敕丹极似；研金书、指点谯岳修行",
+      "cultivationAt": "筑基（成就神通）",
+      "visual": "掐算时银光从眼眸中一闪而过，符光明暗不定",
+      "spoiler": false
+    }
+  ]
+}
